@@ -1,0 +1,102 @@
+[
+      {
+        "agency_id": "CCC",
+        "agency_title": "Commodity Credit Corporation"
+      },
+      {
+        "agency_id": "CDFI",
+        "agency_title": "Community Development Financial Institutions Fund"
+      },
+      {
+        "agency_id": "CDFIF",
+        "agency_title": "Community Development Financial Institutions Fund Np"
+      },
+      {
+        "agency_id": "CFPB",
+        "agency_title": "Consumer Financial Protection Bureau"
+      },
+      {
+        "agency_id": "CFTC",
+        "agency_title": "Commodity Futures Trading Commission"
+      },
+      {
+        "agency_id": "EIB",
+        "agency_title": "Export-Import Bank of the United States"
+      },
+      {
+        "agency_id": "FDIC",
+        "agency_title": "Federal Deposit Insurance Corporation"
+      },
+      {
+        "agency_id": "FFIEC",
+        "agency_title": "Federal Financial Institutions Examination Council"
+      },
+      {
+        "agency_id": "FHFA",
+        "agency_title": "Federal Housing Finance Agency"
+      },
+      {
+        "agency_id": "FHFB",
+        "agency_title": "Federal Housing Finance Board"
+      },
+      {
+        "agency_id": "FINCEN",
+        "agency_title": "Financial Crimes Enforcement Network"
+      },
+      {
+        "agency_id": "FINCIC",
+        "agency_title": "Financial Industry Regulatory Authority"
+      },
+      {
+        "agency_id": "FLRA",
+        "agency_title": "Federal Labor Relations Authority"
+      },
+      {
+        "agency_id": "FRS",
+        "agency_title": "Federal Reserve System"
+      },
+      {
+        "agency_id": "FSOC",
+        "agency_title": "Financial Stability Oversight Council"
+      },
+      {
+        "agency_id": "ISOO",
+        "agency_title": "Information Security Oversight Office"
+      },
+      {
+        "agency_id": "ITC",
+        "agency_title": "International Trade Commission"
+      },
+      {
+        "agency_id": "NCUA",
+        "agency_title": "National Credit Union Administration"
+      },
+      {
+        "agency_id": "NLRB",
+        "agency_title": "National Labor Relations Board"
+      },
+      {
+        "agency_id": "OCC",
+        "agency_title": "Office of the Comptroller of the Currency"
+      },
+      {
+        "agency_id": "OFAC",
+        "agency_title": "Office of Foreign Assets Control"
+      },
+      {
+        "agency_id": "OFHEO",
+        "agency_title": "Federal Housing Enterprise Oversight Office"
+      },
+      {
+        "agency_id": "RMA",
+        "agency_title": "Risk Management Agency"
+      },
+      {
+        "agency_id": "SEC",
+        "agency_title": "Securities and Exchange Commission"
+      },
+      {
+        "agency_id": "TREAS",
+        "agency_title": "Department of the Treasury"
+      }
+       ]
