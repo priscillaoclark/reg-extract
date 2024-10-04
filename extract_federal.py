@@ -78,7 +78,7 @@ def load_json_to_mongodb(json_data, collection):
     except Exception as e:
         print(f"Error inserting document: {e}")
 
-if __name__ == "__main__":
+def extract_federal():
     # Get yesterday's date
     startDate = (datetime.now() - timedelta(1)).strftime("%Y-%m-%d")
     endDate = startDate
