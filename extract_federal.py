@@ -92,8 +92,8 @@ def extract_federal():
         print("Failed to connect to MongoDB. Exiting.")
         exit(1)
     
-    DB_NAME = "mern"
-    COLLECTION_NAME = "documents"
+    DB_NAME = "reg_data"
+    COLLECTION_NAME = "federal_documents"
     
     db = client[DB_NAME]
     collection = db[COLLECTION_NAME]
