@@ -78,7 +78,7 @@ def load_json_to_mongodb(json_data, collection):
     except Exception as e:
         print(f"Error inserting document: {e}")
 
-def extract_federal():
+def extract_federal_history():
     # Get yesterday's date
     startDate = '2024-01-01'
     endDate = '2024-02-01'
@@ -145,3 +145,5 @@ def extract_federal():
 
     # Close the MongoDB connection
     client.close()
+    
+extract_federal_history()
