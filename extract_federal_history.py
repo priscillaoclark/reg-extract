@@ -80,8 +80,8 @@ def load_json_to_mongodb(json_data, collection):
 
 def extract_federal_history():
     # Get yesterday's date
-    startDate = '2024-01-01'
-    endDate = '2024-02-01'
+    startDate = '2024-02-01'
+    endDate = '2024-03-01'
     search_term = None
     document_id = None
     docket_id = None
