@@ -226,7 +226,7 @@
                     "value": "DOT"
                 },
                 {
-                    "docCount": 12,
+                    "docCount": 13,
                     "value": "FAA"
                 },
                 {
@@ -287,6 +287,10 @@
                 },
                 {
                     "docCount": 2,
+                    "value": "NHTSA"
+                },
+                {
+                    "docCount": 2,
                     "value": "USCG"
                 },
                 {
@@ -335,10 +339,6 @@
                 },
                 {
                     "docCount": 1,
-                    "value": "NHTSA"
-                },
-                {
-                    "docCount": 1,
                     "value": "OSHA"
                 },
                 {
@@ -366,46 +366,40 @@
                 {
                     "docCount": 5,
                     "label": "Next 90 Days",
-                    "fromDate": "2024-10-03 00:00:00",
-                    "toDate": "2024-12-31 23:59:59"
+                    "fromDate": "2024-10-04 00:00:00",
+                    "toDate": "2025-01-01 23:59:59"
                 }
             ],
             "postedDate": [
                 {
-                    "docCount": 1,
-                    "label": "Today",
-                    "fromDate": "2024-10-03 00:00:00",
-                    "toDate": "2024-10-03 23:59:59"
-                },
-                {
-                    "docCount": 11,
+                    "docCount": 9,
                     "label": "Last 3 Days",
-                    "fromDate": "2024-10-01 00:00:00",
-                    "toDate": "2024-10-03 23:59:59"
+                    "fromDate": "2024-10-02 00:00:00",
+                    "toDate": "2024-10-04 23:59:59"
                 },
                 {
-                    "docCount": 18,
+                    "docCount": 16,
                     "label": "Last 7 Days",
-                    "fromDate": "2024-09-27 00:00:00",
-                    "toDate": "2024-10-03 23:59:59"
+                    "fromDate": "2024-09-28 00:00:00",
+                    "toDate": "2024-10-04 23:59:59"
                 },
                 {
                     "docCount": 25,
                     "label": "Last 15 Days",
-                    "fromDate": "2024-09-19 00:00:00",
-                    "toDate": "2024-10-03 23:59:59"
+                    "fromDate": "2024-09-20 00:00:00",
+                    "toDate": "2024-10-04 23:59:59"
                 },
                 {
-                    "docCount": 35,
+                    "docCount": 34,
                     "label": "Last 30 Days",
-                    "fromDate": "2024-09-04 00:00:00",
-                    "toDate": "2024-10-03 23:59:59"
+                    "fromDate": "2024-09-05 00:00:00",
+                    "toDate": "2024-10-04 23:59:59"
                 },
                 {
                     "docCount": 86,
                     "label": "Last 90 Days",
-                    "fromDate": "2024-07-06 00:00:00",
-                    "toDate": "2024-10-03 23:59:59"
+                    "fromDate": "2024-07-07 00:00:00",
+                    "toDate": "2024-10-04 23:59:59"
                 }
             ]
         },

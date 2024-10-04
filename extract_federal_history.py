@@ -80,8 +80,8 @@ def load_json_to_mongodb(json_data, collection):
 
 def extract_federal_history():
     # Get yesterday's date
-    startDate = '2024-02-01'
-    endDate = '2024-03-01'
+    startDate = '2024-03-01'
+    endDate = '2024-04-01'
     search_term = None
     document_id = None
     docket_id = None
@@ -129,14 +129,18 @@ def extract_federal_history():
                         load_json_to_mongodb(details, collection)
                         
                 # Download the htm file listed in the link in fileFormats
-                for doc_id in document_ids:
-                    details = get_document_details(doc_id)
-                    if details:
-                        for attachment in details['data']['attributes']['fileFormats']:
-                            if attachment['fileUrl'].endswith('.htm'):
-                                response = requests.get(attachment['fileUrl'])
-                                with open(f"data/federal/attachments/history/{doc_id}.htm", 'wb') as f:
-                                    f.write(response.content)
+                try:
+                    for doc_id in document_ids:
+                        details = get_document_details(doc_id)
+                        if details:
+                            if details['data']['attributes'] and 'fileFormats' in details['data']['attributes']:
+                                for attachment in details['data']['attributes']['fileFormats']:
+                                    if attachment['fileUrl'].endswith('.htm'):
+                                        response = requests.get(attachment['fileUrl'])
+                                        with open(f"data/federal/attachments/history/{doc_id}.htm", 'wb') as f:
+                                            f.write(response.content)
+                except Exception as e:
+                    print(f"Error downloading attachments for {agency_id}: {e}")
                 
             # List the number of documents returned for each agency to a log file
             with open(f"data/federal/logs/history/{startDate}_log.txt", "a") as f:

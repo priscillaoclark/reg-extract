@@ -81,6 +81,7 @@ def load_json_to_mongodb(json_data, collection):
 def extract_federal():
     # Get yesterday's date
     startDate = (datetime.now() - timedelta(1)).strftime("%Y-%m-%d")
+    #startDate = '2024-10-01'
     endDate = startDate
     search_term = None
     document_id = None
@@ -127,16 +128,20 @@ def extract_federal():
                     if details:
                         # save_json(details, f"data/federal/document_details/{startDate}_{doc_id}.json")
                         load_json_to_mongodb(details, collection)
-                        
+                       
                 # Download the htm file listed in the link in fileFormats
-                for doc_id in document_ids:
-                    details = get_document_details(doc_id)
-                    if details:
-                        for attachment in details['data']['attributes']['fileFormats']:
-                            if attachment['fileUrl'].endswith('.htm'):
-                                response = requests.get(attachment['fileUrl'])
-                                with open(f"data/federal/attachments/{doc_id}.htm", 'wb') as f:
-                                    f.write(response.content)
+                try:
+                    for doc_id in document_ids:
+                        details = get_document_details(doc_id)
+                        if details:
+                            if details['data']['attributes'] and 'fileFormats' in details['data']['attributes']:
+                                for attachment in details['data']['attributes']['fileFormats']:
+                                    if attachment['fileUrl'].endswith('.htm'):
+                                        response = requests.get(attachment['fileUrl'])
+                                        with open(f"data/federal/attachments/{doc_id}.htm", 'wb') as f:
+                                            f.write(response.content)
+                except Exception as e:
+                    print(f"Error downloading attachments for {agency_id}: {e}")
                 
             # List the number of documents returned for each agency to a log file
             with open(f"data/federal/logs/{startDate}_log.txt", "a") as f:
