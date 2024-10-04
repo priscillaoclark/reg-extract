@@ -5,11 +5,12 @@ from datetime import datetime, timedelta
 from pymongo import MongoClient
 from pymongo.server_api import ServerApi
 
+# Get the API key from the .env file
+from dotenv import load_dotenv
+load_dotenv()
+
 # MongoDB connection string
 MONGO_URI = os.getenv("ATLAS_URI")
-DB_NAME = "mern"
-COLLECTION_NAME_1 = "documents"
-COLLECTION_NAME_2 = "document_details"
 
 # Get API key from environment variable
 API_KEY = os.getenv("REGULATIONS_GOV_API_KEY")
@@ -72,23 +73,10 @@ def get_document_details(document_id):
         return None
 
 def load_json_to_mongodb(json_data, collection):
-    # Extract documents from the JSON data
-    documents = json_data.get('data', [])
-
-    # Process and insert documents
-    for doc in documents:
-        # Convert date strings to datetime objects
-        for date_field in ['lastModifiedDate', 'postedDate', 'commentStartDate', 'commentEndDate']:
-            if doc['attributes'].get(date_field):
-                doc['attributes'][date_field] = datetime.strptime(doc['attributes'][date_field], "%Y-%m-%dT%H:%M:%SZ")
-
-        # Insert document into MongoDB
-        try:
-            collection.insert_one(doc)
-        except Exception as e:
-            print(f"Error inserting document: {e}")
-
-    print(f"Inserted {len(documents)} documents into the collection.")
+    try:
+        collection.insert_one(json_data)
+    except Exception as e:
+        print(f"Error inserting document: {e}")
 
 if __name__ == "__main__":
     # Get yesterday's date
@@ -103,14 +91,16 @@ if __name__ == "__main__":
     if not client:
         print("Failed to connect to MongoDB. Exiting.")
         exit(1)
-        
+    
+    DB_NAME = "mern"
+    COLLECTION_NAME = "documents"
+    
     db = client[DB_NAME]
-    collection_1 = db[COLLECTION_NAME_1]
-    collection_2 = db[COLLECTION_NAME_2]
+    collection = db[COLLECTION_NAME]
 
     # Import agency IDs from agencies.json
     try:
-        with open("data/resources/agencies.json") as f:
+        with open("data/federal/agencies.json") as f:
             agencies = json.load(f)
     except FileNotFoundError:
         print("agencies.json file not found. Please ensure it exists in the data/ directory.")
@@ -128,15 +118,15 @@ if __name__ == "__main__":
                 print(f"No documents found for {agency_id}")
             else:
                 print(f"{len(document_ids)} documents found for {agency_id}")
-                save_json(response, f"data/output/documents/{startDate}_{agency_id}.json")
+                save_json(response, f"data/federal/documents/{startDate}_{agency_id}.json")
                 #load_json_to_mongodb(response, collection_1)
 
                 # Save the details for each document to a separate JSON file and load into MongoDB
                 for doc_id in document_ids:
                     details = get_document_details(doc_id)
                     if details:
-                        save_json(details, f"data/output/document_details/{startDate}_{doc_id}.json")
-                        #load_json_to_mongodb(details, collection_2)
+                        # save_json(details, f"data/federal/document_details/{startDate}_{doc_id}.json")
+                        load_json_to_mongodb(details, collection)
                         
                 # Download the htm file listed in the link in fileFormats
                 for doc_id in document_ids:
@@ -145,11 +135,11 @@ if __name__ == "__main__":
                         for attachment in details['data']['attributes']['fileFormats']:
                             if attachment['fileUrl'].endswith('.htm'):
                                 response = requests.get(attachment['fileUrl'])
-                                with open(f"data/output/attachments/{doc_id}.htm", 'wb') as f:
+                                with open(f"data/federal/attachments/{doc_id}.htm", 'wb') as f:
                                     f.write(response.content)
                 
             # List the number of documents returned for each agency to a log file
-            with open(f"data/output/logs/{startDate}_log.txt", "a") as f:
+            with open(f"data/federal/logs/{startDate}_log.txt", "a") as f:
                 f.write(f"{agency_id}: {len(document_ids)}\n")
                 f.write("---\n")
 

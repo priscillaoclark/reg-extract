@@ -1,0 +1,312 @@
+CCC: 0
+---
+CDFI: 0
+---
+CDFIF: 0
+---
+CFPB: 3
+---
+CFTC: 0
+---
+EIB: 0
+---
+FDIC: 1
+---
+FFIEC: 0
+---
+FHFA: 0
+---
+FHFB: 0
+---
+FINCEN: 0
+---
+FINCIC: 0
+---
+FLRA: 0
+---
+FRS: 8
+---
+FSOC: 0
+---
+ISOO: 0
+---
+ITC: 1
+---
+NCUA: 0
+---
+NLRB: 0
+---
+OCC: 0
+---
+OFAC: 0
+---
+OFHEO: 0
+---
+RMA: 0
+---
+SEC: 5
+---
+TREAS: 0
+---
+CCC: 0
+---
+CDFI: 0
+---
+CDFIF: 0
+---
+CCC: 0
+---
+CDFI: 0
+---
+CDFIF: 0
+---
+CFPB: 3
+---
+CFTC: 0
+---
+EIB: 0
+---
+FDIC: 1
+---
+FFIEC: 0
+---
+FHFA: 0
+---
+FHFB: 0
+---
+FINCEN: 0
+---
+FINCIC: 0
+---
+FLRA: 0
+---
+FRS: 8
+---
+FSOC: 0
+---
+ISOO: 0
+---
+ITC: 1
+---
+NCUA: 0
+---
+NLRB: 0
+---
+OCC: 0
+---
+OFAC: 0
+---
+OFHEO: 0
+---
+RMA: 0
+---
+SEC: 5
+---
+TREAS: 0
+---
+CCC: 0
+---
+CDFI: 0
+---
+CDFIF: 0
+---
+CCC: 0
+---
+CDFI: 0
+---
+CDFIF: 0
+---
+CFPB: 3
+---
+CFTC: 0
+---
+EIB: 0
+---
+FDIC: 1
+---
+FFIEC: 0
+---
+FHFA: 0
+---
+FHFB: 0
+---
+FINCEN: 0
+---
+FINCIC: 0
+---
+FLRA: 0
+---
+FRS: 8
+---
+FSOC: 0
+---
+ISOO: 0
+---
+ITC: 1
+---
+NCUA: 0
+---
+NLRB: 0
+---
+OCC: 0
+---
+OFAC: 0
+---
+OFHEO: 0
+---
+RMA: 0
+---
+SEC: 5
+---
+TREAS: 0
+---
+CCC: 0
+---
+CDFI: 0
+---
+CDFIF: 0
+---
+CFPB: 3
+---
+CFTC: 0
+---
+EIB: 0
+---
+FDIC: 1
+---
+FFIEC: 0
+---
+FHFA: 0
+---
+FHFB: 0
+---
+FINCEN: 0
+---
+FINCIC: 0
+---
+FLRA: 0
+---
+FRS: 8
+---
+FSOC: 0
+---
+ISOO: 0
+---
+ITC: 1
+---
+NCUA: 0
+---
+NLRB: 0
+---
+OCC: 0
+---
+OFAC: 0
+---
+OFHEO: 0
+---
+RMA: 0
+---
+SEC: 5
+---
+TREAS: 0
+---
+CCC: 0
+---
+CDFI: 0
+---
+CDFIF: 0
+---
+CFPB: 3
+---
+CFTC: 0
+---
+EIB: 0
+---
+FDIC: 1
+---
+FFIEC: 0
+---
+FHFA: 0
+---
+FHFB: 0
+---
+FINCEN: 0
+---
+FINCIC: 0
+---
+FLRA: 0
+---
+FRS: 8
+---
+FSOC: 0
+---
+ISOO: 0
+---
+ITC: 1
+---
+NCUA: 0
+---
+NLRB: 0
+---
+OCC: 0
+---
+OFAC: 0
+---
+OFHEO: 0
+---
+RMA: 0
+---
+SEC: 5
+---
+TREAS: 0
+---
+CCC: 0
+---
+CDFI: 0
+---
+CDFIF: 0
+---
+CFPB: 3
+---
+CFTC: 0
+---
+EIB: 0
+---
+FDIC: 1
+---
+FFIEC: 0
+---
+FHFA: 0
+---
+FHFB: 0
+---
+FINCEN: 0
+---
+FINCIC: 0
+---
+FLRA: 0
+---
+FRS: 8
+---
+FSOC: 0
+---
+ISOO: 0
+---
+ITC: 1
+---
+NCUA: 0
+---
+NLRB: 0
+---
+OCC: 0
+---
+OFAC: 0
+---
+OFHEO: 0
+---
+RMA: 0
+---
+SEC: 5
+---
+TREAS: 0
+---
