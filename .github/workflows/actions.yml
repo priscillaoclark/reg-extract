@@ -2,7 +2,7 @@ name: run main.py
 
 on:
   schedule:
-    - cron: "0 3 * * *" # Every day at 3 am
+    - cron: "0 22 * * *" # Every day at 10 PM
 
 jobs:
   build:
@@ -22,6 +22,9 @@ jobs:
           pip install -r requirements.txt
 
       - name: execute py script # run main.py
+        env:
+          ATLAS_URI: ${{ secrets.ATLAS_URI }}
+          REGULATIONS_GOV_API_KEY: ${{ secrets.REGULATIONS_GOV_API_KEY }}
         run: python main.py
 
       - name: commit files
