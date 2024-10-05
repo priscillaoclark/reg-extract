@@ -4,6 +4,7 @@ import json
 from datetime import datetime, timedelta
 from pymongo import MongoClient
 from pymongo.server_api import ServerApi
+from parse_doc import summarize_attachments
 
 # Get the API key from the .env file
 from dotenv import load_dotenv
@@ -138,8 +139,24 @@ def extract_federal():
                                 for attachment in details['data']['attributes']['fileFormats']:
                                     if attachment['fileUrl'].endswith('.htm'):
                                         response = requests.get(attachment['fileUrl'])
-                                        with open(f"data/federal/attachments/{doc_id}.htm", 'wb') as f:
+                                        output_file_html = f"data/federal/attachments/{doc_id}.htm"
+                                        with open(output_file_html, 'wb') as f:
                                             f.write(response.content)
+                                        try:
+                                            summarize_attachments(output_file_html)
+                                        except Exception as e:
+                                            print(f"Error summarizing attachments for {doc_id}: {e}")
+                                            continue
+                                    """if attachment['fileUrl'].endswith('.pdf'):
+                                        response = requests.get(attachment['fileUrl'])
+                                        output_file_pdf = f"data/federal/attachments/{doc_id}.pdf"
+                                        with open(output_file_pdf, 'wb') as f:
+                                            f.write(response.content)
+                                        try:
+                                            summarize_attachments(output_file_pdf)
+                                        except Exception as e:
+                                            print(f"Error summarizing attachments for {doc_id}: {e}")
+                                            continue"""
                 except Exception as e:
                     print(f"Error downloading attachments for {agency_id}: {e}")
                 

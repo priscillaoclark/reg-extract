@@ -3,7 +3,7 @@ import pandas as pd
 from bs4 import BeautifulSoup
 from openai import OpenAI
 import re
-from llm_summary import get_ai_summaries
+from analysis.llm_summary import get_ai_summaries
 import json
 from pymongo import MongoClient
 from pymongo.server_api import ServerApi
@@ -26,38 +26,32 @@ def extract_fields(text):
 
     return results
 
-# Connect to MongoDB
-# MongoDB connection string
-MONGO_URI = os.getenv("ATLAS_URI")
+def summarize_attachments(filename):
+    # Connect to MongoDB
+    # MongoDB connection string
+    MONGO_URI = os.getenv("ATLAS_URI")
 
-try:
-    # Create a new client and connect to the server
-    client = MongoClient(MONGO_URI, server_api=ServerApi('1'))
-    # Send a ping to confirm a successful connection
-    client.admin.command('ping')
-    print("Successfully connected to MongoDB!")
-except Exception as e:
-    print(f"Error connecting to MongoDB: {e}")
-    
-DB_NAME = "reg_data"
-COLLECTION_NAME = "federal_documents_attachments"
+    try:
+        # Create a new client and connect to the server
+        client = MongoClient(MONGO_URI, server_api=ServerApi('1'))
+        # Send a ping to confirm a successful connection
+        client.admin.command('ping')
+        print("Successfully connected to MongoDB!")
+    except Exception as e:
+        print(f"Error connecting to MongoDB: {e}")
+        
+    DB_NAME = "reg_data"
+    COLLECTION_NAME = "federal_documents_attachments"
 
-db = client[DB_NAME]
-collection = db[COLLECTION_NAME]
-
-documents = []
-
-# Loop through all attachments in the directory
-directory = "data/federal/attachments/testing"
-
-for filename in os.listdir(directory):
-    
+    db = client[DB_NAME]
+    collection = db[COLLECTION_NAME]
+        
     # Message console describing which file is being processed
     print(f"Processing file: {filename}")
     
     # Handle HTML files
     if filename.endswith(".htm"):
-        with open(os.path.join(directory, filename), 'r') as file:
+        with open(filename, 'r') as file:
             contents = file.read()
         
         # Parse the HTML content
@@ -95,7 +89,7 @@ for filename in os.listdir(directory):
             
     # Handle PDF files  
     if filename.endswith(".pdf"):
-        with open(os.path.join(directory, filename), 'rb') as file:
+        with open(filename, 'rb') as file:
             pdf_contents = PyPDF2.PdfReader(file)
             # Convert the PDF to text
             contents = ""
@@ -111,6 +105,8 @@ for filename in os.listdir(directory):
     
     # Strip the doc ID from the filename
     doc_id = filename.split('.')[0]
+    doc_id = doc_id.split('/')[-1]
+    
     # Get the total number of words in the document
     num_words = len(contents.split())
     # Get the total number of unique words in the document
@@ -131,7 +127,7 @@ for filename in os.listdir(directory):
     output = {
         "filename": filename,
         "doc_id": doc_id,
-        "doc_size": os.path.getsize(os.path.join(directory, filename)),
+        "doc_size": os.path.getsize(filename),
         "extension": extension,
         "num_words": num_words,
         "num_unique_words": num_unique_words,
@@ -147,9 +143,6 @@ for filename in os.listdir(directory):
 
     }
     
-    # Append the document to the list
-    documents.append(output)
-    
     # Insert the document into the MongoDB collection
     try:
         collection.insert_one(output)
@@ -157,13 +150,5 @@ for filename in os.listdir(directory):
     except Exception as e:
         print(f"Error inserting document: {e}")
 
-# Extract the short_summaries from the documents list
-short_summaries = [doc['ai_summary_short'] for doc in documents]
-# Export to a text file
-with open("short_summaries.txt", "w") as file:
-    for summary in short_summaries:
-        file.write("Document 1: " + summary + "\n")
-# Send an email with the short summaries (TO DO)
-
-# Close the MongoDB connection
-client.close()
+    # Close the MongoDB connection
+    client.close()
