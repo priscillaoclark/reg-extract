@@ -44,3 +44,51 @@ RMA: 0
 ---
 SEC: 207
 ---
+CCC: 0
+---
+CDFI: 0
+---
+CDFIF: 0
+---
+CFPB: 11
+---
+CFTC: 7
+---
+EIB: 1
+---
+FDIC: 11
+---
+FFIEC: 0
+---
+FHFA: 1
+---
+FHFB: 0
+---
+FINCEN: 2
+---
+FINCIC: 0
+---
+FLRA: 1
+---
+FRS: 36
+---
+FSOC: 0
+---
+ISOO: 0
+---
+NCUA: 22
+---
+NLRB: 0
+---
+OCC: 3
+---
+OFAC: 28
+---
+OFHEO: 0
+---
+RMA: 0
+---
+SEC: 207
+---
+TREAS: 5
+---
