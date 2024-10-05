@@ -118,7 +118,7 @@ def extract_federal_history():
                 print(f"No documents found for {agency_id}")
             else:
                 print(f"{len(document_ids)} documents found for {agency_id}")
-                save_json(response, f"data/federal/documents/history/{startDate}_{agency_id}.json")
+                save_json(response, f"data/federal/documents/{startDate}_{agency_id}.json")
                 #load_json_to_mongodb(response, collection_1)
 
                 # Save the details for each document to a separate JSON file and load into MongoDB
@@ -137,13 +137,13 @@ def extract_federal_history():
                                 for attachment in details['data']['attributes']['fileFormats']:
                                     if attachment['fileUrl'].endswith('.htm'):
                                         response = requests.get(attachment['fileUrl'])
-                                        with open(f"data/federal/attachments/history/{doc_id}.htm", 'wb') as f:
+                                        with open(f"data/federal/attachments/{doc_id}.htm", 'wb') as f:
                                             f.write(response.content)
                 except Exception as e:
                     print(f"Error downloading attachments for {agency_id}: {e}")
                 
             # List the number of documents returned for each agency to a log file
-            with open(f"data/federal/logs/history/{startDate}_log.txt", "a") as f:
+            with open(f"data/federal/logs/{startDate}_log.txt", "a") as f:
                 f.write(f"{agency_id}: {len(document_ids)}\n")
                 f.write("---\n")
 
