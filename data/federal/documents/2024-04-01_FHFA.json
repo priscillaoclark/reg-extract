@@ -1,0 +1,702 @@
+{
+    "data": [
+        {
+            "id": "FHFA-2024-0008-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-04-22T12:38:59Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-08479",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": "2024-05-23T03:59:59Z",
+                "title": "Freddie Mac Proposed Purchase of Single-Family Closed-End Second Mortgages",
+                "postedDate": "2024-04-22T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-04-22T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864e3f09"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2024-0008-0001"
+            }
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "documentType": [
+                {
+                    "docCount": 1,
+                    "label": "Notice"
+                }
+            ],
+            "subtype": [],
+            "withinCommentPeriod": [
+                {
+                    "docCount": 0,
+                    "label": "true"
+                },
+                {
+                    "docCount": 1,
+                    "label": "false"
+                }
+            ],
+            "agencyId": [
+                {
+                    "docCount": 4438,
+                    "value": "EPA"
+                },
+                {
+                    "docCount": 1122,
+                    "value": "FDA"
+                },
+                {
+                    "docCount": 897,
+                    "value": "FAA"
+                },
+                {
+                    "docCount": 160,
+                    "value": "FERC"
+                },
+                {
+                    "docCount": 153,
+                    "value": "DOT"
+                },
+                {
+                    "docCount": 152,
+                    "value": "FMCSA"
+                },
+                {
+                    "docCount": 138,
+                    "value": "SEC"
+                },
+                {
+                    "docCount": 126,
+                    "value": "MSHA"
+                },
+                {
+                    "docCount": 107,
+                    "value": "NRC"
+                },
+                {
+                    "docCount": 104,
+                    "value": "ITA"
+                },
+                {
+                    "docCount": 102,
+                    "value": "FRA"
+                },
+                {
+                    "docCount": 90,
+                    "value": "CPSC"
+                },
+                {
+                    "docCount": 83,
+                    "value": "FWS"
+                },
+                {
+                    "docCount": 80,
+                    "value": "USCG"
+                },
+                {
+                    "docCount": 79,
+                    "value": "EERE"
+                },
+                {
+                    "docCount": 58,
+                    "value": "VA"
+                },
+                {
+                    "docCount": 57,
+                    "value": "CMS"
+                },
+                {
+                    "docCount": 55,
+                    "value": "NOAA"
+                },
+                {
+                    "docCount": 52,
+                    "value": "PHMSA"
+                },
+                {
+                    "docCount": 51,
+                    "value": "FCC"
+                },
+                {
+                    "docCount": 48,
+                    "value": "MARAD"
+                },
+                {
+                    "docCount": 46,
+                    "value": "USCIS"
+                },
+                {
+                    "docCount": 43,
+                    "value": "ITC"
+                },
+                {
+                    "docCount": 39,
+                    "value": "NCUA"
+                },
+                {
+                    "docCount": 38,
+                    "value": "USPS"
+                },
+                {
+                    "docCount": 36,
+                    "value": "NARA"
+                },
+                {
+                    "docCount": 34,
+                    "value": "OSHA"
+                },
+                {
+                    "docCount": 32,
+                    "value": "APHIS"
+                },
+                {
+                    "docCount": 32,
+                    "value": "FRS"
+                },
+                {
+                    "docCount": 30,
+                    "value": "ED"
+                },
+                {
+                    "docCount": 28,
+                    "value": "BOEM"
+                },
+                {
+                    "docCount": 28,
+                    "value": "HUD"
+                },
+                {
+                    "docCount": 27,
+                    "value": "FEMA"
+                },
+                {
+                    "docCount": 26,
+                    "value": "DOS"
+                },
+                {
+                    "docCount": 24,
+                    "value": "OFAC"
+                },
+                {
+                    "docCount": 22,
+                    "value": "DOE"
+                },
+                {
+                    "docCount": 21,
+                    "value": "FHWA"
+                },
+                {
+                    "docCount": 21,
+                    "value": "GSA"
+                },
+                {
+                    "docCount": 19,
+                    "value": "CRC"
+                },
+                {
+                    "docCount": 19,
+                    "value": "DOD"
+                },
+                {
+                    "docCount": 18,
+                    "value": "AMS"
+                },
+                {
+                    "docCount": 18,
+                    "value": "FS"
+                },
+                {
+                    "docCount": 17,
+                    "value": "IRS"
+                },
+                {
+                    "docCount": 17,
+                    "value": "OCC"
+                },
+                {
+                    "docCount": 17,
+                    "value": "PTO"
+                },
+                {
+                    "docCount": 16,
+                    "value": "NHTSA"
+                },
+                {
+                    "docCount": 15,
+                    "value": "FAR"
+                },
+                {
+                    "docCount": 15,
+                    "value": "FTA"
+                },
+                {
+                    "docCount": 15,
+                    "value": "NSF"
+                },
+                {
+                    "docCount": 14,
+                    "value": "USDA"
+                },
+                {
+                    "docCount": 13,
+                    "value": "FDIC"
+                },
+                {
+                    "docCount": 12,
+                    "value": "DEA"
+                },
+                {
+                    "docCount": 12,
+                    "value": "FTC"
+                },
+                {
+                    "docCount": 12,
+                    "value": "STB"
+                },
+                {
+                    "docCount": 11,
+                    "value": "DOL"
+                },
+                {
+                    "docCount": 11,
+                    "value": "EBSA"
+                },
+                {
+                    "docCount": 11,
+                    "value": "OPM"
+                },
+                {
+                    "docCount": 11,
+                    "value": "USCBP"
+                },
+                {
+                    "docCount": 10,
+                    "value": "BLM"
+                },
+                {
+                    "docCount": 10,
+                    "value": "CDC"
+                },
+                {
+                    "docCount": 10,
+                    "value": "CPPBSD"
+                },
+                {
+                    "docCount": 10,
+                    "value": "FMC"
+                },
+                {
+                    "docCount": 10,
+                    "value": "NASA"
+                },
+                {
+                    "docCount": 9,
+                    "value": "FNS"
+                },
+                {
+                    "docCount": 9,
+                    "value": "SSA"
+                },
+                {
+                    "docCount": 8,
+                    "value": "DARS"
+                },
+                {
+                    "docCount": 8,
+                    "value": "FEC"
+                },
+                {
+                    "docCount": 8,
+                    "value": "FSIS"
+                },
+                {
+                    "docCount": 7,
+                    "value": "BIS"
+                },
+                {
+                    "docCount": 7,
+                    "value": "CFTC"
+                },
+                {
+                    "docCount": 7,
+                    "value": "RHS"
+                },
+                {
+                    "docCount": 7,
+                    "value": "WCPO"
+                },
+                {
+                    "docCount": 6,
+                    "value": "AID"
+                },
+                {
+                    "docCount": 6,
+                    "value": "ARTS"
+                },
+                {
+                    "docCount": 6,
+                    "value": "CFPB"
+                },
+                {
+                    "docCount": 6,
+                    "value": "CISA"
+                },
+                {
+                    "docCount": 6,
+                    "value": "RBS"
+                },
+                {
+                    "docCount": 5,
+                    "value": "DHS"
+                },
+                {
+                    "docCount": 5,
+                    "value": "FASAB"
+                },
+                {
+                    "docCount": 5,
+                    "value": "RUS"
+                },
+                {
+                    "docCount": 4,
+                    "value": "CEQ"
+                },
+                {
+                    "docCount": 4,
+                    "value": "HHS"
+                },
+                {
+                    "docCount": 4,
+                    "value": "LSC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "TREAS"
+                },
+                {
+                    "docCount": 4,
+                    "value": "USA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "ACF"
+                },
+                {
+                    "docCount": 3,
+                    "value": "ASC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "DOI"
+                },
+                {
+                    "docCount": 3,
+                    "value": "FCA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "ICEB"
+                },
+                {
+                    "docCount": 3,
+                    "value": "IHS"
+                },
+                {
+                    "docCount": 3,
+                    "value": "NASS"
+                },
+                {
+                    "docCount": 3,
+                    "value": "NLRB"
+                },
+                {
+                    "docCount": 3,
+                    "value": "NRCS"
+                },
+                {
+                    "docCount": 3,
+                    "value": "PBGC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "SRBC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "TSA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "TVA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "USTR"
+                },
+                {
+                    "docCount": 3,
+                    "value": "WAPA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ATF"
+                },
+                {
+                    "docCount": 2,
+                    "value": "CCC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "CITA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "CNCS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "DOC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "DOJ"
+                },
+                {
+                    "docCount": 2,
+                    "value": "EIB"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ETA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FINCEN"
+                },
+                {
+                    "docCount": 2,
+                    "value": "MSPB"
+                },
+                {
+                    "docCount": 2,
+                    "value": "OMB"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ONRR"
+                },
+                {
+                    "docCount": 2,
+                    "value": "OSM"
+                },
+                {
+                    "docCount": 2,
+                    "value": "PC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "PRC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "RRB"
+                },
+                {
+                    "docCount": 2,
+                    "value": "SBA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "TTB"
+                },
+                {
+                    "docCount": 2,
+                    "value": "USAGM"
+                },
+                {
+                    "docCount": 2,
+                    "value": "USN"
+                },
+                {
+                    "docCount": 2,
+                    "value": "WHD"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ABMC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ADF"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ATBCB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "COFA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DFC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DRBC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "EEOC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "EIA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "EOIR"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FAS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FCSIC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FHFA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FPAC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FPPO"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FRTIB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FSA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "GAO"
+                },
+                {
+                    "docCount": 1,
+                    "value": "GPO"
+                },
+                {
+                    "docCount": 1,
+                    "value": "HRSA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NCD"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NEIGHBOR"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NNSA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NWTRB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "OSTP"
+                },
+                {
+                    "docCount": 1,
+                    "value": "PT"
+                },
+                {
+                    "docCount": 1,
+                    "value": "SSS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USBC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USCC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USIP"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USJC"
+                }
+            ],
+            "commentEndDate": [],
+            "postedDate": [
+                {
+                    "docCount": 2,
+                    "label": "Last 7 Days",
+                    "fromDate": "2024-09-30 00:00:00",
+                    "toDate": "2024-10-06 23:59:59"
+                },
+                {
+                    "docCount": 2,
+                    "label": "Last 15 Days",
+                    "fromDate": "2024-09-22 00:00:00",
+                    "toDate": "2024-10-06 23:59:59"
+                },
+                {
+                    "docCount": 2,
+                    "label": "Last 30 Days",
+                    "fromDate": "2024-09-07 00:00:00",
+                    "toDate": "2024-10-06 23:59:59"
+                },
+                {
+                    "docCount": 10,
+                    "label": "Last 90 Days",
+                    "fromDate": "2024-07-09 00:00:00",
+                    "toDate": "2024-10-06 23:59:59"
+                }
+            ]
+        },
+        "filters": {
+            "postedDate": {
+                "fromDate": "2024-04-01",
+                "toDate": "2024-05-01"
+            },
+            "agencyId": [
+                {
+                    "label": "FHFA",
+                    "value": "FHFA"
+                }
+            ]
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "numberOfElements": 1,
+        "pageNumber": 1,
+        "pageSize": 250,
+        "totalElements": 1,
+        "totalPages": 1,
+        "firstPage": true,
+        "lastPage": true
+    }
+}

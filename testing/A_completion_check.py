@@ -40,7 +40,7 @@ missing = merged[merged['_merge'] == 'left_only']
 print(missing.head())
 
 # Fix missing documents
-from fix_missing import upload_single_document
+from _02_fix_missing import upload_single_document
 
 # For doc_id in missing, loop through and upload the document
 for doc in missing['doc_id']:

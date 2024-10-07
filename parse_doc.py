@@ -3,7 +3,7 @@ import pandas as pd
 from bs4 import BeautifulSoup
 from openai import OpenAI
 import re
-from analysis.llm_summary import get_ai_summaries
+from testing.llm_summary import get_ai_summaries
 import json
 from pymongo import MongoClient
 from pymongo.server_api import ServerApi
