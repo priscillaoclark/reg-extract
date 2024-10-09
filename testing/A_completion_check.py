@@ -8,9 +8,9 @@ documents = get_documents()
 summaries = get_summaries()
 
 # Print the first 5 rows of each DataFrame
-# print(log.head())
-# print(documents.head())
-# print(summaries.head())
+print(log.head())
+print(documents.head())
+print(summaries.head())
 
 """
 # Aggregate the data in the documents dataframe by agencyId and compare to the log data

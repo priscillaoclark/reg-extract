@@ -9,6 +9,10 @@ mongodb = get_mongodb_attachments()
 documents = get_documents()
 downloads = get_downloads()
 
+#print(mongodb.head())  # attachments loaded into mongodb
+#print(documents.head())
+#print(downloads.head())
+
 # Check 1
 # Merge the two DataFrames and show which documents are not in the mongodb DataFrame
 merged = pd.merge(downloads, mongodb, on='doc_id', how='left', indicator=True)
@@ -19,12 +23,12 @@ missing = pd.merge(missing, documents, on='doc_id', how='inner')
 missing = missing.sort_values(by='postedDate', ascending=False)
 
 # Filter by htm files
-missing = missing[missing['fileType'] == 'htm']
+missing = missing[missing['extension_x'] == '.htm']
 
 # Show just the document ID and posted date
 print(missing[['doc_id', 'postedDate','filename_x']])
 print(missing.shape[0])
-#print(missing.columns)
+##print(missing.columns)
 # 1326
 
 # Problem documents to review later
@@ -37,7 +41,7 @@ def process(data):
     directory = "data/federal/attachments"
     # Pick 20 htm files and process them through the summarization function
     #htm_files = files[files['fileType'] == 'htm']
-    to_process = data.head(30)
+    to_process = data.head(100)
     for index, row in to_process.iterrows():
         print(f"Processing document {row['doc_id']}")
         # Join the directory and filename to get the full path

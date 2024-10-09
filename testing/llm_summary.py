@@ -44,7 +44,7 @@ def get_ai_summaries(data):
         # Get the API key from the .env file
         load_dotenv()
         #OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-        
+
         # Remove any HTML tags
         data = re.sub(r'<[^>]*>', '', data)
         # Clean up the text by removing extra spaces and newlines

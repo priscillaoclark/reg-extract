@@ -1,0 +1,1454 @@
+{
+    "data": [
+        {
+            "id": "NCUA_FRDOC_0001-0398",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-07-31T12:39:31Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-16790",
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": "2024-10-01T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2024-07-31T04:00:00Z",
+                "docketId": "NCUA_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-07-31T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648660fbd2"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA_FRDOC_0001-0398"
+            }
+        },
+        {
+            "id": "NCUA-2024-0089-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-27T01:00:58Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": "2024-09-27T03:59:59Z",
+                "title": "Proposed Merger of SMART Federal Credit Union located in Columbus, OH with and into Pathways Financial Credit Union located in Columbus, OH.",
+                "postedDate": "2024-07-29T04:00:00Z",
+                "docketId": "NCUA-2024-0089",
+                "subtype": null,
+                "commentStartDate": "2024-07-29T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648660b01c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0089-0002"
+            }
+        },
+        {
+            "id": "NCUA-2024-0089-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-07-29T15:49:34Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": null,
+                "title": "SMART Federal Credit Union - Member Notice",
+                "postedDate": "2024-07-29T04:00:00Z",
+                "docketId": "NCUA-2024-0089",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "090000648660b01d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0089-0001"
+            }
+        },
+        {
+            "id": "NCUA-2023-0061-0012",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-07-26T13:34:23Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-16200",
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": null,
+                "title": "Interagency Guidance: Reconsiderations of Value of Residential Real Estate Valuations",
+                "postedDate": "2024-07-26T04:00:00Z",
+                "docketId": "NCUA-2023-0061",
+                "subtype": null,
+                "commentStartDate": "2024-07-26T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486606e7f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2023-0061-0012"
+            }
+        },
+        {
+            "id": "NCUA-2024-0088-0004",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-26T01:01:00Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-16460",
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": "2024-09-25T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2024-07-26T04:00:00Z",
+                "docketId": "NCUA-2024-0088",
+                "subtype": null,
+                "commentStartDate": "2024-07-26T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486606e43"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0088-0004"
+            }
+        },
+        {
+            "id": "NCUA-2024-0088-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-07-26T18:20:11Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": null,
+                "title": "NCUA 4501A Changes 2024-Q4",
+                "postedDate": "2024-07-26T04:00:00Z",
+                "docketId": "NCUA-2024-0088",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006486607ca8"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0088-0001"
+            }
+        },
+        {
+            "id": "NCUA-2024-0088-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-07-26T18:20:15Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": null,
+                "title": "NCUA 4501A Profile Instructions 2024 Q4",
+                "postedDate": "2024-07-26T04:00:00Z",
+                "docketId": "NCUA-2024-0088",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006486607ca9"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0088-0002"
+            }
+        },
+        {
+            "id": "NCUA-2024-0088-0003",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-07-26T18:20:45Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": null,
+                "title": "NCUA 4501A Profile - 2024-Q4",
+                "postedDate": "2024-07-26T04:00:00Z",
+                "docketId": "NCUA-2024-0088",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006486607caa"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0088-0003"
+            }
+        },
+        {
+            "id": "NCUA-2024-0037-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2024-09-26T01:01:07Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-16227",
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": "2024-09-24T03:59:59Z",
+                "title": "Succession Planning",
+                "postedDate": "2024-07-25T04:00:00Z",
+                "docketId": "NCUA-2024-0037",
+                "subtype": null,
+                "commentStartDate": "2024-07-25T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486605624"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0037-0001"
+            }
+        },
+        {
+            "id": "NCUA-2024-0085-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-07-24T14:19:35Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": "2024-09-20T03:59:59Z",
+                "title": "Proposed Merger of WYO Central Federal Credit Union located in Casper, WY with and into StagePoint Federal Credit Union located in Laramie, WY.",
+                "postedDate": "2024-07-24T04:00:00Z",
+                "docketId": "NCUA-2024-0085",
+                "subtype": null,
+                "commentStartDate": "2024-07-24T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486604410"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0085-0002"
+            }
+        },
+        {
+            "id": "NCUA-2024-0086-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-07-24T14:26:49Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": "2024-09-18T03:59:59Z",
+                "title": "Proposed Merger of Tazewell County School Employees Credit Union located in Pekin, IL with and into Cooperative Choice Network Credit Union located in Peoria, IL.",
+                "postedDate": "2024-07-24T04:00:00Z",
+                "docketId": "NCUA-2024-0086",
+                "subtype": null,
+                "commentStartDate": "2024-07-24T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486604445"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0086-0002"
+            }
+        },
+        {
+            "id": "NCUA-2024-0086-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-07-24T14:25:14Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": null,
+                "title": "Tazewell County School Employees Credit Union - Member Notice",
+                "postedDate": "2024-07-24T04:00:00Z",
+                "docketId": "NCUA-2024-0086",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006486604446"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0086-0001"
+            }
+        },
+        {
+            "id": "NCUA-2024-0087-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-07-24T14:32:39Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": "2024-09-24T03:59:59Z",
+                "title": "Proposed Merger of Advantis Credit Union located in Oregon City, OR with and into Rivermark Community Credit Union located in Beaverton, OR.",
+                "postedDate": "2024-07-24T04:00:00Z",
+                "docketId": "NCUA-2024-0087",
+                "subtype": null,
+                "commentStartDate": "2024-07-24T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648660444e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0087-0002"
+            }
+        },
+        {
+            "id": "NCUA-2024-0087-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-07-24T14:31:22Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": null,
+                "title": "Advantis Credit Union - Member Notice",
+                "postedDate": "2024-07-24T04:00:00Z",
+                "docketId": "NCUA-2024-0087",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006486604451"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0087-0001"
+            }
+        },
+        {
+            "id": "NCUA-2024-0085-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-07-24T14:18:27Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": null,
+                "title": "WYO Central Federal Credit Union - Member Notice",
+                "postedDate": "2024-07-24T04:00:00Z",
+                "docketId": "NCUA-2024-0085",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006486604411"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0085-0001"
+            }
+        },
+        {
+            "id": "NCUA-2024-0083-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-07-23T20:36:07Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": null,
+                "title": "School District 218 Employees Federal Credit Union - Member Notice",
+                "postedDate": "2024-07-23T04:00:00Z",
+                "docketId": "NCUA-2024-0083",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006486603726"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0083-0001"
+            }
+        },
+        {
+            "id": "NCUA-2024-0084-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-07-23T21:03:52Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": "2024-09-20T03:59:59Z",
+                "title": "Proposed Merger of Jay Bee Employees Federal Credit Union located in Bethlehem, PA with and into First Commonwealth Federal Credit Union located in Allentown, PA.",
+                "postedDate": "2024-07-23T04:00:00Z",
+                "docketId": "NCUA-2024-0084",
+                "subtype": null,
+                "commentStartDate": "2024-07-23T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648660379b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0084-0001"
+            }
+        },
+        {
+            "id": "NCUA-2024-0082-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-07-23T20:11:21Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": null,
+                "title": "Mason County School Employees Credit Union - Member Notice",
+                "postedDate": "2024-07-23T04:00:00Z",
+                "docketId": "NCUA-2024-0082",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006486603722"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0082-0001"
+            }
+        },
+        {
+            "id": "NCUA-2024-0083-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-07-23T20:37:26Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": "2024-09-21T03:59:59Z",
+                "title": "Proposed Merger of School District 218 Employees Federal Credit Union located in Oak Lawn, IL with and into Credit Union 1 Credit Union located in Lombard, IL.",
+                "postedDate": "2024-07-23T04:00:00Z",
+                "docketId": "NCUA-2024-0083",
+                "subtype": null,
+                "commentStartDate": "2024-07-23T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486603725"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0083-0002"
+            }
+        },
+        {
+            "id": "NCUA-2024-0082-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-07-23T20:12:20Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": "2024-09-15T03:59:59Z",
+                "title": "Proposed Merger of Mason County School Employees Credit Union located in Ludington, MI with and into Safe Harbor Credit Union located in Ludington, MI.",
+                "postedDate": "2024-07-23T04:00:00Z",
+                "docketId": "NCUA-2024-0082",
+                "subtype": null,
+                "commentStartDate": "2024-07-23T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486603721"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0082-0002"
+            }
+        },
+        {
+            "id": "NCUA-2024-0084-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-07-23T21:08:39Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": null,
+                "title": "Jay Bee Employees Federal Credit Union - Member Notice",
+                "postedDate": "2024-07-23T04:00:00Z",
+                "docketId": "NCUA-2024-0084",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "090000648660379a"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0084-0002"
+            }
+        },
+        {
+            "id": "NCUA-2024-0038-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2024-10-08T01:00:27Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": "2025-01-01T04:59:59Z",
+                "title": "Incentive-Based Compensation Arrangements",
+                "postedDate": "2024-07-18T04:00:00Z",
+                "docketId": "NCUA-2024-0038",
+                "subtype": null,
+                "commentStartDate": "2024-07-18T04:00:00Z",
+                "openForComment": true,
+                "objectId": "09000064865f98b8"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0038-0001"
+            }
+        },
+        {
+            "id": "NCUA_FRDOC_0001-0394",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-07-17T12:18:31Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-15708",
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": "2024-09-17T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2024-07-17T04:00:00Z",
+                "docketId": "NCUA_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-07-17T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865f4153"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA_FRDOC_0001-0394"
+            }
+        },
+        {
+            "id": "NCUA_FRDOC_0001-0393",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-07-16T12:03:31Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-15664",
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2024-07-16T04:00:00Z",
+                "docketId": "NCUA_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-07-16T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865f1672"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA_FRDOC_0001-0393"
+            }
+        },
+        {
+            "id": "NCUA-2024-0080-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-07-15T12:10:45Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": null,
+                "title": "Civic Federal Credit Union - Member Notice",
+                "postedDate": "2024-07-15T04:00:00Z",
+                "docketId": "NCUA-2024-0080",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064865eebce"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0080-0001"
+            }
+        },
+        {
+            "id": "NCUA-2024-0079-0003",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-07-15T12:25:32Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": null,
+                "title": "Purity Dairies Employees Federal Credit Union - Member Notice",
+                "postedDate": "2024-07-15T04:00:00Z",
+                "docketId": "NCUA-2024-0079",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064865eebdd"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0079-0003"
+            }
+        },
+        {
+            "id": "NCUA-2024-0080-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-07-15T12:11:34Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": "2024-09-28T03:59:59Z",
+                "title": "Proposed Merger of Civic Federal Credit Union located in Raleigh, NC with and into Local Government Federal Credit Union located in Raleigh, NC.",
+                "postedDate": "2024-07-15T04:00:00Z",
+                "docketId": "NCUA-2024-0080",
+                "subtype": null,
+                "commentStartDate": "2024-07-15T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865eebcd"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0080-0002"
+            }
+        },
+        {
+            "id": "NCUA-2024-0079-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-07-15T11:56:58Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": "2024-09-19T03:59:59Z",
+                "title": "Proposed Merger of Purity Dairies Employees Federal Credit Union located in Nashville, TN with and into Outreach Federal Credit Union located in Hermitage, TN.",
+                "postedDate": "2024-07-15T04:00:00Z",
+                "docketId": "NCUA-2024-0079",
+                "subtype": null,
+                "commentStartDate": "2024-07-31T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865eeba9"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0079-0002"
+            }
+        },
+        {
+            "id": "NCUA-2024-0079-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-07-15T12:21:46Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "NCUA",
+                "commentEndDate": null,
+                "title": "Purity Dairies Employees Federal Credit Union - Disclaimer",
+                "postedDate": "2024-07-15T00:00:00Z",
+                "docketId": "NCUA-2024-0079",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064865eebaa"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0079-0001"
+            }
+        },
+        {
+            "id": "NCUA-2024-0078-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-07-11T14:09:47Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": null,
+                "title": "UMICO Federal Credit Union - Member Notice",
+                "postedDate": "2024-07-11T04:00:00Z",
+                "docketId": "NCUA-2024-0078",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064865e838a"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0078-0001"
+            }
+        },
+        {
+            "id": "NCUA-2024-0078-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-07-11T14:11:01Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": "2024-09-19T03:59:59Z",
+                "title": "Proposed Merger of UMICO Federal Credit Union located in New Hartford, NY with and into Special Metals Federal Credit Union located in New Hartford, NY.",
+                "postedDate": "2024-07-11T04:00:00Z",
+                "docketId": "NCUA-2024-0078",
+                "subtype": null,
+                "commentStartDate": "2024-07-11T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865e8387"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0078-0002"
+            }
+        },
+        {
+            "id": "NCUA_FRDOC_0001-0392",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-07-01T12:35:19Z",
+                "highlightedContent": "",
+                "frDocNum": "C1-2024-13",
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": null,
+                "title": "Renewal of Agency Information Collection of a Previously Approved Collection; Request for Comments",
+                "postedDate": "2024-07-01T04:00:00Z",
+                "docketId": "NCUA_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-07-01T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865d5201"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA_FRDOC_0001-0392"
+            }
+        },
+        {
+            "id": "NCUA-2024-0077-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-07-30T01:01:13Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": "2024-08-16T03:59:59Z",
+                "title": "Proposed Merger of Pinnacle Credit Union located in Atlanta, GA with and into Peach State Federal Credit Union located in Lawrenceville, GA.",
+                "postedDate": "2024-07-01T04:00:00Z",
+                "docketId": "NCUA-2024-0077",
+                "subtype": null,
+                "commentStartDate": "2024-07-01T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865d5dd9"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0077-0002"
+            }
+        },
+        {
+            "id": "NCUA-2024-0077-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-07-01T20:39:59Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": null,
+                "title": "Pinnacle Credit Union - Member Notice",
+                "postedDate": "2024-07-01T04:00:00Z",
+                "docketId": "NCUA-2024-0077",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064865d5dda"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0077-0001"
+            }
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "documentType": [
+                {
+                    "docCount": 16,
+                    "label": "Notice"
+                },
+                {
+                    "docCount": 15,
+                    "label": "Supporting & Related Material"
+                },
+                {
+                    "docCount": 2,
+                    "label": "Proposed Rule"
+                },
+                {
+                    "docCount": 1,
+                    "label": "Rule"
+                }
+            ],
+            "subtype": [],
+            "withinCommentPeriod": [
+                {
+                    "docCount": 1,
+                    "label": "true"
+                },
+                {
+                    "docCount": 33,
+                    "label": "false"
+                }
+            ],
+            "agencyId": [
+                {
+                    "docCount": 2375,
+                    "value": "EPA"
+                },
+                {
+                    "docCount": 994,
+                    "value": "FDA"
+                },
+                {
+                    "docCount": 691,
+                    "value": "FAA"
+                },
+                {
+                    "docCount": 271,
+                    "value": "DOT"
+                },
+                {
+                    "docCount": 190,
+                    "value": "SEC"
+                },
+                {
+                    "docCount": 144,
+                    "value": "FERC"
+                },
+                {
+                    "docCount": 113,
+                    "value": "CPSC"
+                },
+                {
+                    "docCount": 100,
+                    "value": "FMCSA"
+                },
+                {
+                    "docCount": 99,
+                    "value": "ITA"
+                },
+                {
+                    "docCount": 97,
+                    "value": "FRA"
+                },
+                {
+                    "docCount": 96,
+                    "value": "CMS"
+                },
+                {
+                    "docCount": 88,
+                    "value": "USCG"
+                },
+                {
+                    "docCount": 88,
+                    "value": "USPS"
+                },
+                {
+                    "docCount": 83,
+                    "value": "FWS"
+                },
+                {
+                    "docCount": 79,
+                    "value": "BSC"
+                },
+                {
+                    "docCount": 60,
+                    "value": "NRC"
+                },
+                {
+                    "docCount": 56,
+                    "value": "PHMSA"
+                },
+                {
+                    "docCount": 54,
+                    "value": "NHTSA"
+                },
+                {
+                    "docCount": 50,
+                    "value": "MARAD"
+                },
+                {
+                    "docCount": 45,
+                    "value": "NOAA"
+                },
+                {
+                    "docCount": 45,
+                    "value": "USCIS"
+                },
+                {
+                    "docCount": 44,
+                    "value": "FEMA"
+                },
+                {
+                    "docCount": 43,
+                    "value": "ITC"
+                },
+                {
+                    "docCount": 42,
+                    "value": "VA"
+                },
+                {
+                    "docCount": 40,
+                    "value": "DOS"
+                },
+                {
+                    "docCount": 39,
+                    "value": "FCC"
+                },
+                {
+                    "docCount": 37,
+                    "value": "FRS"
+                },
+                {
+                    "docCount": 36,
+                    "value": "HUD"
+                },
+                {
+                    "docCount": 35,
+                    "value": "ED"
+                },
+                {
+                    "docCount": 34,
+                    "value": "NCUA"
+                },
+                {
+                    "docCount": 23,
+                    "value": "DOD"
+                },
+                {
+                    "docCount": 23,
+                    "value": "OSHA"
+                },
+                {
+                    "docCount": 22,
+                    "value": "DOE"
+                },
+                {
+                    "docCount": 21,
+                    "value": "NARA"
+                },
+                {
+                    "docCount": 21,
+                    "value": "USDA"
+                },
+                {
+                    "docCount": 19,
+                    "value": "FHWA"
+                },
+                {
+                    "docCount": 19,
+                    "value": "OCC"
+                },
+                {
+                    "docCount": 18,
+                    "value": "FS"
+                },
+                {
+                    "docCount": 17,
+                    "value": "GSA"
+                },
+                {
+                    "docCount": 16,
+                    "value": "CFPB"
+                },
+                {
+                    "docCount": 16,
+                    "value": "CRC"
+                },
+                {
+                    "docCount": 16,
+                    "value": "FNS"
+                },
+                {
+                    "docCount": 16,
+                    "value": "PTO"
+                },
+                {
+                    "docCount": 15,
+                    "value": "DOL"
+                },
+                {
+                    "docCount": 15,
+                    "value": "USCBP"
+                },
+                {
+                    "docCount": 14,
+                    "value": "AMS"
+                },
+                {
+                    "docCount": 14,
+                    "value": "IRS"
+                },
+                {
+                    "docCount": 14,
+                    "value": "OFAC"
+                },
+                {
+                    "docCount": 13,
+                    "value": "APHIS"
+                },
+                {
+                    "docCount": 13,
+                    "value": "STB"
+                },
+                {
+                    "docCount": 12,
+                    "value": "FSIS"
+                },
+                {
+                    "docCount": 12,
+                    "value": "HHS"
+                },
+                {
+                    "docCount": 12,
+                    "value": "NRCS"
+                },
+                {
+                    "docCount": 11,
+                    "value": "FMC"
+                },
+                {
+                    "docCount": 10,
+                    "value": "BIS"
+                },
+                {
+                    "docCount": 10,
+                    "value": "NSF"
+                },
+                {
+                    "docCount": 9,
+                    "value": "DHS"
+                },
+                {
+                    "docCount": 8,
+                    "value": "BSEE"
+                },
+                {
+                    "docCount": 8,
+                    "value": "CFTC"
+                },
+                {
+                    "docCount": 8,
+                    "value": "CPPBSD"
+                },
+                {
+                    "docCount": 8,
+                    "value": "DEA"
+                },
+                {
+                    "docCount": 8,
+                    "value": "FAR"
+                },
+                {
+                    "docCount": 8,
+                    "value": "FEC"
+                },
+                {
+                    "docCount": 8,
+                    "value": "FTC"
+                },
+                {
+                    "docCount": 8,
+                    "value": "OPM"
+                },
+                {
+                    "docCount": 8,
+                    "value": "RHS"
+                },
+                {
+                    "docCount": 7,
+                    "value": "CDC"
+                },
+                {
+                    "docCount": 7,
+                    "value": "FTA"
+                },
+                {
+                    "docCount": 7,
+                    "value": "OSM"
+                },
+                {
+                    "docCount": 6,
+                    "value": "EERE"
+                },
+                {
+                    "docCount": 6,
+                    "value": "FDIC"
+                },
+                {
+                    "docCount": 5,
+                    "value": "ARTS"
+                },
+                {
+                    "docCount": 5,
+                    "value": "DARS"
+                },
+                {
+                    "docCount": 5,
+                    "value": "ICEB"
+                },
+                {
+                    "docCount": 5,
+                    "value": "MSHA"
+                },
+                {
+                    "docCount": 5,
+                    "value": "NASA"
+                },
+                {
+                    "docCount": 5,
+                    "value": "PBGC"
+                },
+                {
+                    "docCount": 5,
+                    "value": "USBC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "BOEM"
+                },
+                {
+                    "docCount": 4,
+                    "value": "EBSA"
+                },
+                {
+                    "docCount": 4,
+                    "value": "SBA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "ACF"
+                },
+                {
+                    "docCount": 3,
+                    "value": "CNCS"
+                },
+                {
+                    "docCount": 3,
+                    "value": "COE"
+                },
+                {
+                    "docCount": 3,
+                    "value": "COLC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "EEOC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "EIB"
+                },
+                {
+                    "docCount": 3,
+                    "value": "FAS"
+                },
+                {
+                    "docCount": 3,
+                    "value": "IHS"
+                },
+                {
+                    "docCount": 3,
+                    "value": "SRBC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "SSA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "TREAS"
+                },
+                {
+                    "docCount": 3,
+                    "value": "USC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ACUS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "AID"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ATBCB"
+                },
+                {
+                    "docCount": 2,
+                    "value": "BIA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FASAB"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FCA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FINCEN"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FISCAL"
+                },
+                {
+                    "docCount": 2,
+                    "value": "GEO"
+                },
+                {
+                    "docCount": 2,
+                    "value": "LSC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NASS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NNSA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NPS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "TVA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "USA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "USN"
+                },
+                {
+                    "docCount": 2,
+                    "value": "USTR"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BLM"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CCC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CDFI"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CISA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "COFA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DNFSB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DOC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DOJ"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DRBC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "EIA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ERS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FBI"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FCSIC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FHFA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FLRA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FRTIB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FSA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "GAO"
+                },
+                {
+                    "docCount": 1,
+                    "value": "JBEA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "MKU"
+                },
+                {
+                    "docCount": 1,
+                    "value": "MMC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NLRB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NTSB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "OMB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ONDCP"
+                },
+                {
+                    "docCount": 1,
+                    "value": "OSHRC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "PRC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "RBS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "RRB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "RUS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USAF"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USAGM"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USIP"
+                },
+                {
+                    "docCount": 1,
+                    "value": "WAPA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "WCPO"
+                }
+            ],
+            "commentEndDate": [
+                {
+                    "docCount": 1,
+                    "label": "Next 90 Days",
+                    "fromDate": "2024-10-09 00:00:00",
+                    "toDate": "2025-01-06 23:59:59"
+                }
+            ],
+            "postedDate": [
+                {
+                    "docCount": 14,
+                    "label": "Last 15 Days",
+                    "fromDate": "2024-09-25 00:00:00",
+                    "toDate": "2024-10-09 23:59:59"
+                },
+                {
+                    "docCount": 30,
+                    "label": "Last 30 Days",
+                    "fromDate": "2024-09-10 00:00:00",
+                    "toDate": "2024-10-09 23:59:59"
+                },
+                {
+                    "docCount": 112,
+                    "label": "Last 90 Days",
+                    "fromDate": "2024-07-12 00:00:00",
+                    "toDate": "2024-10-09 23:59:59"
+                }
+            ]
+        },
+        "filters": {
+            "postedDate": {
+                "fromDate": "2024-07-01",
+                "toDate": "2024-08-01"
+            },
+            "agencyId": [
+                {
+                    "label": "NCUA",
+                    "value": "NCUA"
+                }
+            ]
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "numberOfElements": 34,
+        "pageNumber": 1,
+        "pageSize": 250,
+        "totalElements": 34,
+        "totalPages": 1,
+        "firstPage": true,
+        "lastPage": true
+    }
+}
