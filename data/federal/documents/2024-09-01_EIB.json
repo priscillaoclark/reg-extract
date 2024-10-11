@@ -1,0 +1,836 @@
+{
+    "data": [
+        {
+            "id": "EIB-2024-0027-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-19T15:05:36Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-21223",
+                "withdrawn": false,
+                "agencyId": "EIB",
+                "commentEndDate": "2024-11-19T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Application for Short-Term Multi-Buyer Export Credit Insurance Policy",
+                "postedDate": "2024-09-18T04:00:00Z",
+                "docketId": "EIB-2024-0027",
+                "subtype": null,
+                "commentStartDate": "2024-09-18T04:00:00Z",
+                "openForComment": true,
+                "objectId": "090000648673fff6"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/EIB-2024-0027-0001"
+            }
+        },
+        {
+            "id": "EIB-2024-0026-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-19T14:58:00Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-21222",
+                "withdrawn": false,
+                "agencyId": "EIB",
+                "commentEndDate": "2024-11-19T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Application for Issuing Bank Credit Limit under Lender or Exporter-Held Policies",
+                "postedDate": "2024-09-18T04:00:00Z",
+                "docketId": "EIB-2024-0026",
+                "subtype": null,
+                "commentStartDate": "2024-09-18T04:00:00Z",
+                "openForComment": true,
+                "objectId": "090000648673fe5f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/EIB-2024-0026-0001"
+            }
+        },
+        {
+            "id": "EIB_FRDOC_0001-0779",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-13T12:25:43Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-20858",
+                "withdrawn": false,
+                "agencyId": "EIB",
+                "commentEndDate": "2024-10-09T03:59:59Z",
+                "title": "Request to Increase the Amount of the Long-Term General Guarantee on the Interest of Secured Notes Issued by the Private Export Funding Corp.",
+                "postedDate": "2024-09-13T04:00:00Z",
+                "docketId": "EIB_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-09-13T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064866fa8d2"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/EIB_FRDOC_0001-0779"
+            }
+        },
+        {
+            "id": "EIB-2024-0024-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-12T16:01:37Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-20379",
+                "withdrawn": false,
+                "agencyId": "EIB",
+                "commentEndDate": "2024-11-13T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Export-Import Bank Letter of Interest Application",
+                "postedDate": "2024-09-10T04:00:00Z",
+                "docketId": "EIB-2024-0024",
+                "subtype": null,
+                "commentStartDate": "2024-09-10T04:00:00Z",
+                "openForComment": true,
+                "objectId": "09000064866e0aa2"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/EIB-2024-0024-0001"
+            }
+        },
+        {
+            "id": "EIB-2024-0021-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-12T15:50:16Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-20182",
+                "withdrawn": false,
+                "agencyId": "EIB",
+                "commentEndDate": "2024-11-09T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Beneficiary Certificate and Agreement for Use With Bank Letter of Credit Short Term Export Credit Insurance Policy, or Financial Institution Buyer Credit Insurance Policy",
+                "postedDate": "2024-09-09T04:00:00Z",
+                "docketId": "EIB-2024-0021",
+                "subtype": null,
+                "commentStartDate": "2024-09-09T04:00:00Z",
+                "openForComment": true,
+                "objectId": "09000064866cf817"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/EIB-2024-0021-0001"
+            }
+        },
+        {
+            "id": "EIB-2024-0022-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-12T15:55:46Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-20181",
+                "withdrawn": false,
+                "agencyId": "EIB",
+                "commentEndDate": "2024-11-09T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Report of Overdue Accounts Under Short-Term Policies",
+                "postedDate": "2024-09-09T04:00:00Z",
+                "docketId": "EIB-2024-0022",
+                "subtype": null,
+                "commentStartDate": "2024-09-09T04:00:00Z",
+                "openForComment": true,
+                "objectId": "09000064866cf85a"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/EIB-2024-0022-0001"
+            }
+        },
+        {
+            "id": "EIB-2024-0020-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-12T15:48:23Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-20180",
+                "withdrawn": false,
+                "agencyId": "EIB",
+                "commentEndDate": "2024-11-09T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Application for Financial Institution Short-Term, Single-Buyer Insurance",
+                "postedDate": "2024-09-09T04:00:00Z",
+                "docketId": "EIB-2024-0020",
+                "subtype": null,
+                "commentStartDate": "2024-09-09T04:00:00Z",
+                "openForComment": true,
+                "objectId": "09000064866cf717"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/EIB-2024-0020-0001"
+            }
+        },
+        {
+            "id": "EIB-2024-0023-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-12T15:59:12Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-20179",
+                "withdrawn": false,
+                "agencyId": "EIB",
+                "commentEndDate": "2024-11-09T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Commissioned Broker Application Form",
+                "postedDate": "2024-09-09T04:00:00Z",
+                "docketId": "EIB-2024-0023",
+                "subtype": null,
+                "commentStartDate": "2024-09-09T04:00:00Z",
+                "openForComment": true,
+                "objectId": "09000064866cf8e8"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/EIB-2024-0023-0001"
+            }
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "documentType": [
+                {
+                    "docCount": 8,
+                    "label": "Notice"
+                }
+            ],
+            "subtype": [],
+            "withinCommentPeriod": [
+                {
+                    "docCount": 7,
+                    "label": "true"
+                },
+                {
+                    "docCount": 1,
+                    "label": "false"
+                }
+            ],
+            "agencyId": [
+                {
+                    "docCount": 1246,
+                    "value": "EPA"
+                },
+                {
+                    "docCount": 829,
+                    "value": "FDA"
+                },
+                {
+                    "docCount": 734,
+                    "value": "FAA"
+                },
+                {
+                    "docCount": 257,
+                    "value": "SEC"
+                },
+                {
+                    "docCount": 176,
+                    "value": "DOT"
+                },
+                {
+                    "docCount": 158,
+                    "value": "USPS"
+                },
+                {
+                    "docCount": 144,
+                    "value": "FERC"
+                },
+                {
+                    "docCount": 144,
+                    "value": "FMCSA"
+                },
+                {
+                    "docCount": 107,
+                    "value": "ITA"
+                },
+                {
+                    "docCount": 96,
+                    "value": "FEMA"
+                },
+                {
+                    "docCount": 91,
+                    "value": "FWS"
+                },
+                {
+                    "docCount": 87,
+                    "value": "FRA"
+                },
+                {
+                    "docCount": 85,
+                    "value": "USCG"
+                },
+                {
+                    "docCount": 54,
+                    "value": "PHMSA"
+                },
+                {
+                    "docCount": 51,
+                    "value": "NRC"
+                },
+                {
+                    "docCount": 49,
+                    "value": "FCC"
+                },
+                {
+                    "docCount": 49,
+                    "value": "NOAA"
+                },
+                {
+                    "docCount": 44,
+                    "value": "NCUA"
+                },
+                {
+                    "docCount": 43,
+                    "value": "DOS"
+                },
+                {
+                    "docCount": 43,
+                    "value": "USCIS"
+                },
+                {
+                    "docCount": 39,
+                    "value": "ITC"
+                },
+                {
+                    "docCount": 38,
+                    "value": "CMS"
+                },
+                {
+                    "docCount": 38,
+                    "value": "OSHA"
+                },
+                {
+                    "docCount": 37,
+                    "value": "NHTSA"
+                },
+                {
+                    "docCount": 35,
+                    "value": "ED"
+                },
+                {
+                    "docCount": 30,
+                    "value": "VA"
+                },
+                {
+                    "docCount": 29,
+                    "value": "MARAD"
+                },
+                {
+                    "docCount": 28,
+                    "value": "DEA"
+                },
+                {
+                    "docCount": 26,
+                    "value": "FRS"
+                },
+                {
+                    "docCount": 26,
+                    "value": "NARA"
+                },
+                {
+                    "docCount": 24,
+                    "value": "DOE"
+                },
+                {
+                    "docCount": 24,
+                    "value": "IRS"
+                },
+                {
+                    "docCount": 23,
+                    "value": "CPSC"
+                },
+                {
+                    "docCount": 22,
+                    "value": "DOD"
+                },
+                {
+                    "docCount": 22,
+                    "value": "HUD"
+                },
+                {
+                    "docCount": 22,
+                    "value": "NSF"
+                },
+                {
+                    "docCount": 20,
+                    "value": "OFAC"
+                },
+                {
+                    "docCount": 20,
+                    "value": "STB"
+                },
+                {
+                    "docCount": 18,
+                    "value": "CRC"
+                },
+                {
+                    "docCount": 17,
+                    "value": "FS"
+                },
+                {
+                    "docCount": 16,
+                    "value": "CDC"
+                },
+                {
+                    "docCount": 16,
+                    "value": "DOL"
+                },
+                {
+                    "docCount": 16,
+                    "value": "USCBP"
+                },
+                {
+                    "docCount": 15,
+                    "value": "BOEM"
+                },
+                {
+                    "docCount": 15,
+                    "value": "FHWA"
+                },
+                {
+                    "docCount": 14,
+                    "value": "HHS"
+                },
+                {
+                    "docCount": 14,
+                    "value": "TSA"
+                },
+                {
+                    "docCount": 13,
+                    "value": "APHIS"
+                },
+                {
+                    "docCount": 13,
+                    "value": "DARS"
+                },
+                {
+                    "docCount": 13,
+                    "value": "GSA"
+                },
+                {
+                    "docCount": 13,
+                    "value": "PTO"
+                },
+                {
+                    "docCount": 11,
+                    "value": "FTA"
+                },
+                {
+                    "docCount": 10,
+                    "value": "BIS"
+                },
+                {
+                    "docCount": 10,
+                    "value": "CPPBSD"
+                },
+                {
+                    "docCount": 9,
+                    "value": "CFPB"
+                },
+                {
+                    "docCount": 9,
+                    "value": "FDIC"
+                },
+                {
+                    "docCount": 9,
+                    "value": "NASA"
+                },
+                {
+                    "docCount": 9,
+                    "value": "TTB"
+                },
+                {
+                    "docCount": 9,
+                    "value": "USDA"
+                },
+                {
+                    "docCount": 9,
+                    "value": "USTR"
+                },
+                {
+                    "docCount": 8,
+                    "value": "AMS"
+                },
+                {
+                    "docCount": 8,
+                    "value": "CFTC"
+                },
+                {
+                    "docCount": 8,
+                    "value": "EIB"
+                },
+                {
+                    "docCount": 8,
+                    "value": "FEC"
+                },
+                {
+                    "docCount": 7,
+                    "value": "ARTS"
+                },
+                {
+                    "docCount": 6,
+                    "value": "AID"
+                },
+                {
+                    "docCount": 6,
+                    "value": "NRCS"
+                },
+                {
+                    "docCount": 6,
+                    "value": "OMB"
+                },
+                {
+                    "docCount": 6,
+                    "value": "OPM"
+                },
+                {
+                    "docCount": 6,
+                    "value": "RHS"
+                },
+                {
+                    "docCount": 6,
+                    "value": "SRBC"
+                },
+                {
+                    "docCount": 5,
+                    "value": "ATBCB"
+                },
+                {
+                    "docCount": 5,
+                    "value": "DHS"
+                },
+                {
+                    "docCount": 5,
+                    "value": "EERE"
+                },
+                {
+                    "docCount": 5,
+                    "value": "MCC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "ASC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "CNCS"
+                },
+                {
+                    "docCount": 4,
+                    "value": "FSIS"
+                },
+                {
+                    "docCount": 4,
+                    "value": "FTC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "PBGC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "RUS"
+                },
+                {
+                    "docCount": 4,
+                    "value": "SBA"
+                },
+                {
+                    "docCount": 4,
+                    "value": "TREAS"
+                },
+                {
+                    "docCount": 3,
+                    "value": "CISA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "EEOC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "FCA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "FINCEN"
+                },
+                {
+                    "docCount": 3,
+                    "value": "FMC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "MSHFRC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "NASS"
+                },
+                {
+                    "docCount": 3,
+                    "value": "OCC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "RBS"
+                },
+                {
+                    "docCount": 3,
+                    "value": "RRB"
+                },
+                {
+                    "docCount": 3,
+                    "value": "WCPO"
+                },
+                {
+                    "docCount": 2,
+                    "value": "CCC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "CITA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "DOI"
+                },
+                {
+                    "docCount": 2,
+                    "value": "EAC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "EIA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FMCS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FNS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FRTIB"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FSA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "GEO"
+                },
+                {
+                    "docCount": 2,
+                    "value": "HRSA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "IAF"
+                },
+                {
+                    "docCount": 2,
+                    "value": "LSC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NEIGHBOR"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NTIA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "PC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "SSA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "SWPA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "TVA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "USAF"
+                },
+                {
+                    "docCount": 2,
+                    "value": "USBC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "USC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ACUS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ARS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BLM"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CDFI"
+                },
+                {
+                    "docCount": 1,
+                    "value": "COE"
+                },
+                {
+                    "docCount": 1,
+                    "value": "COFA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CSOSA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DNFSB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "EBSA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FCSIC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FHFA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "GCERC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "HHSIG"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ICEB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "JBEA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "MBDA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "MSHA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "MSPB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NLRB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NPS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ONRR"
+                },
+                {
+                    "docCount": 1,
+                    "value": "OSM"
+                },
+                {
+                    "docCount": 1,
+                    "value": "PRC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "SSS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USDAIG"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USMINT"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USN"
+                }
+            ],
+            "commentEndDate": [
+                {
+                    "docCount": 4,
+                    "label": "Next 30 Days",
+                    "fromDate": "2024-10-11 00:00:00",
+                    "toDate": "2024-11-09 23:59:59"
+                },
+                {
+                    "docCount": 7,
+                    "label": "Next 90 Days",
+                    "fromDate": "2024-10-11 00:00:00",
+                    "toDate": "2025-01-08 23:59:59"
+                }
+            ],
+            "postedDate": [
+                {
+                    "docCount": 3,
+                    "label": "Last 30 Days",
+                    "fromDate": "2024-09-12 00:00:00",
+                    "toDate": "2024-10-11 23:59:59"
+                },
+                {
+                    "docCount": 21,
+                    "label": "Last 90 Days",
+                    "fromDate": "2024-07-14 00:00:00",
+                    "toDate": "2024-10-11 23:59:59"
+                }
+            ]
+        },
+        "filters": {
+            "postedDate": {
+                "fromDate": "2024-09-01",
+                "toDate": "2024-10-01"
+            },
+            "agencyId": [
+                {
+                    "label": "EIB",
+                    "value": "EIB"
+                }
+            ]
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "numberOfElements": 8,
+        "pageNumber": 1,
+        "pageSize": 250,
+        "totalElements": 8,
+        "totalPages": 1,
+        "firstPage": true,
+        "lastPage": true
+    }
+}

@@ -41,7 +41,7 @@ def process(data):
     directory = "data/federal/attachments"
     # Pick 20 htm files and process them through the summarization function
     #htm_files = files[files['fileType'] == 'htm']
-    to_process = data.head(100)
+    to_process = data.head(150)
     for index, row in to_process.iterrows():
         print(f"Processing document {row['doc_id']}")
         # Join the directory and filename to get the full path

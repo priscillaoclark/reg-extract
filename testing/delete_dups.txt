@@ -1,3 +1,0 @@
-db.federal_documents.remove( { _id : { $in: [
-
-] } } );

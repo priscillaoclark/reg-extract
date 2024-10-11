@@ -1,0 +1,94 @@
+CCC: 2
+---
+CDFI: 1
+---
+CDFIF: 0
+---
+CFPB: 9
+---
+CFTC: 8
+---
+EIB: 8
+---
+FDIC: 9
+---
+FFIEC: 0
+---
+FHFA: 1
+---
+FHFB: 0
+---
+FINCEN: 3
+---
+FINCIC: 0
+---
+FLRA: 0
+---
+FRS: 26
+---
+FSOC: 0
+---
+ISOO: 0
+---
+NCUA: 44
+---
+NLRB: 1
+---
+OCC: 3
+---
+OFAC: 20
+---
+OFHEO: 0
+---
+RMA: 0
+---
+SEC: 250
+---
+CCC: 2
+---
+CDFI: 1
+---
+CDFIF: 0
+---
+CFPB: 9
+---
+CFTC: 8
+---
+EIB: 8
+---
+FDIC: 9
+---
+FFIEC: 0
+---
+FHFA: 1
+---
+FHFB: 0
+---
+FINCEN: 3
+---
+FINCIC: 0
+---
+FLRA: 0
+---
+FRS: 26
+---
+FSOC: 0
+---
+ISOO: 0
+---
+NCUA: 44
+---
+NLRB: 1
+---
+OCC: 3
+---
+OFAC: 20
+---
+OFHEO: 0
+---
+RMA: 0
+---
+SEC: 250
+---
+TREAS: 4
+---

@@ -1,0 +1,48 @@
+CCC: 0
+---
+CDFI: 0
+---
+CDFIF: 0
+---
+CFPB: 2
+---
+CFTC: 7
+---
+EIB: 1
+---
+FDIC: 12
+---
+FFIEC: 0
+---
+FHFA: 0
+---
+FHFB: 0
+---
+FINCEN: 2
+---
+FINCIC: 0
+---
+FLRA: 2
+---
+FRS: 35
+---
+FSOC: 1
+---
+ISOO: 0
+---
+NCUA: 28
+---
+NLRB: 0
+---
+OCC: 8
+---
+OFAC: 25
+---
+OFHEO: 0
+---
+RMA: 0
+---
+SEC: 168
+---
+TREAS: 2
+---

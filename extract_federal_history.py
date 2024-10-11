@@ -4,6 +4,7 @@ import json
 from datetime import datetime, timedelta
 from pymongo import MongoClient
 from pymongo.server_api import ServerApi
+from testing._03_mongodb import get_documents
 
 # Get the API key from the .env file
 from dotenv import load_dotenv
@@ -79,9 +80,9 @@ def load_json_to_mongodb(json_data, collection):
         print(f"Error inserting document: {e}")
 
 def extract_federal_history():
-    # Get yesterday's date
-    startDate = '2024-07-01'
-    endDate = '2024-08-01'
+    # Date range for search
+    startDate = '2023-11-01'
+    endDate = '2023-12-01'
     search_term = None
     document_id = None
     docket_id = None
@@ -108,6 +109,10 @@ def extract_federal_history():
 
     # Convert the list of agencies to a list of agency IDs
     agency_ids = [agency['agency_id'] for agency in agencies]
+    
+    # Get documents already in the database and convert IDs to a list
+    loaded = get_documents()
+    loaded_ids = loaded['doc_id'].tolist()
 
     for agency_id in agency_ids:
         response = search_documents(startDate=startDate, endDate=endDate, document_type=document_id, docket_id=docket_id, search_term=search_term, agency_id=agency_id)
@@ -123,24 +128,36 @@ def extract_federal_history():
 
                 # Save the details for each document to a separate JSON file and load into MongoDB
                 for doc_id in document_ids:
-                    details = get_document_details(doc_id)
-                    if details:
-                        # save_json(details, f"data/federal/document_details/{startDate}_{doc_id}.json")
-                        load_json_to_mongodb(details, collection)
-                        
-                # Download the htm file listed in the link in fileFormats
-                try:
-                    for doc_id in document_ids:
+                    # Check to see if document already exists in mongodb
+                    if doc_id in loaded_ids:
+                        print(f"Document {doc_id} already exists - skipping Mongodb upload.")
+                    else:
                         details = get_document_details(doc_id)
                         if details:
-                            if details['data']['attributes'] and 'fileFormats' in details['data']['attributes']:
-                                for attachment in details['data']['attributes']['fileFormats']:
-                                    if attachment['fileUrl'].endswith('.htm'):
-                                        response = requests.get(attachment['fileUrl'])
-                                        with open(f"data/federal/attachments/{doc_id}.htm", 'wb') as f:
-                                            f.write(response.content)
-                except Exception as e:
-                    print(f"Error downloading attachments for {agency_id}: {e}")
+                            print(f"Loading document {doc_id}...")
+                            # save_json(details, f"data/federal/document_details/{startDate}_{doc_id}.json")
+                            try: 
+                                load_json_to_mongodb(details, collection)
+                            except Exception as e:
+                                print(f"Error loading document {doc_id}: {e}")
+                        
+                # Download the htm file listed in the link in fileFormats
+                if doc_id in loaded_ids:
+                    print(f"Document {doc_id} already exists - skipping attachment download.")
+                else:
+                    try:
+                        for doc_id in document_ids:
+                            details = get_document_details(doc_id)
+                            if details:
+                                if details['data']['attributes'] and 'fileFormats' in details['data']['attributes']:
+                                    for attachment in details['data']['attributes']['fileFormats']:
+                                        if attachment['fileUrl'].endswith('.htm'):
+                                            print(f"Downloading attachment for {doc_id}...")
+                                            response = requests.get(attachment['fileUrl'])
+                                            with open(f"data/federal/attachments/{doc_id}.htm", 'wb') as f:
+                                                f.write(response.content)
+                    except Exception as e:
+                        print(f"Error downloading attachments for {agency_id}: {e}")
                 
             # List the number of documents returned for each agency to a log file
             with open(f"data/federal/logs/{startDate}_log.txt", "a") as f:

@@ -31,7 +31,6 @@ def get_documents():
 
     reg_data = client["reg_data"]
     federal_documents = reg_data["federal_documents"]
-    federal_documents_history = reg_data["federal_documents_history"]
 
     """
     search_id = 'FHFA-2024-0022-0001'
@@ -49,32 +48,6 @@ def get_documents():
     #print(response)
 
     for doc in response:
-
-        document = {
-            "doc_id": doc.get('data').get('id'),
-            "title": doc.get('data').get('attributes').get('title'),
-            "agencyId": doc.get('data').get('attributes').get('agencyId'),
-            "documentType": doc.get('data').get('attributes').get('documentType'),
-            "postedDate": doc.get('data').get('attributes').get('postedDate'),
-            "modifyDate": doc.get('data').get('attributes').get('modifyDate'),
-            "receiveDate": doc.get('data').get('attributes').get('receiveDate'),
-            "withdrawn": doc.get('data').get('attributes').get('withdrawn'),
-            "docketId": doc.get('data').get('attributes').get('docketId'),
-            "openForComment": doc.get('data').get('attributes').get('openForComment'),
-            "commentStartDate": doc.get('data').get('attributes').get('commentStartDate'),
-            "commentEndDate": doc.get('data').get('attributes').get('commentEndDate'),
-            "frDocNum": doc.get('data').get('attributes').get('frDocNum'),
-            "objectId": doc.get('data').get('attributes').get('objectId'),
-        }
-        
-        # Check if the document already exists in the list
-        if document not in documents:
-            documents.append(document)
-
-    response_history = federal_documents_history.find()
-    #print(response)
-
-    for doc in response_history:
 
         document = {
             "doc_id": doc.get('data').get('id'),

@@ -1,0 +1,1272 @@
+{
+    "data": [
+        {
+            "id": "FRS-2024-0251-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-01T11:46:16Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-22513",
+                "withdrawn": false,
+                "agencyId": "FRS",
+                "commentEndDate": null,
+                "title": "Formations of, Acquisitions by, and Mergers of Bank Holding Companies",
+                "postedDate": "2024-10-01T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-10-01T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867a42e6"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FRS-2024-0251-0001"
+            }
+        },
+        {
+            "id": "FRS-2024-0250-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-01T11:46:09Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-22512",
+                "withdrawn": false,
+                "agencyId": "FRS",
+                "commentEndDate": null,
+                "title": "Change in Bank Control: Acquisitions of Shares of a Bank or Bank Holding Company",
+                "postedDate": "2024-10-01T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-10-01T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867a42e3"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FRS-2024-0250-0001"
+            }
+        },
+        {
+            "id": "FRS-2024-0246-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-30T12:30:31Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-22387",
+                "withdrawn": false,
+                "agencyId": "FRS",
+                "commentEndDate": null,
+                "title": "Change in Bank Control: Acquisitions of Shares of a Bank or Bank Holding Company",
+                "postedDate": "2024-09-30T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-09-30T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867a0256"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FRS-2024-0246-0001"
+            }
+        },
+        {
+            "id": "FRS-2024-0247-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-30T12:31:42Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-22324",
+                "withdrawn": false,
+                "agencyId": "FRS",
+                "commentEndDate": "2024-11-30T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2024-09-30T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-09-30T04:00:00Z",
+                "openForComment": true,
+                "objectId": "09000064867a0398"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FRS-2024-0247-0001"
+            }
+        },
+        {
+            "id": "FRS-2024-0248-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-30T12:31:47Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-22323",
+                "withdrawn": false,
+                "agencyId": "FRS",
+                "commentEndDate": "2024-11-30T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2024-09-30T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-09-30T04:00:00Z",
+                "openForComment": true,
+                "objectId": "09000064867a03e9"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FRS-2024-0248-0001"
+            }
+        },
+        {
+            "id": "FRS-2024-0249-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-30T12:32:04Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-22322",
+                "withdrawn": false,
+                "agencyId": "FRS",
+                "commentEndDate": "2024-11-30T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2024-09-30T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-09-30T04:00:00Z",
+                "openForComment": true,
+                "objectId": "09000064867a0443"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FRS-2024-0249-0001"
+            }
+        },
+        {
+            "id": "FRS-2024-0245-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-30T12:30:23Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-22325",
+                "withdrawn": false,
+                "agencyId": "FRS",
+                "commentEndDate": null,
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2024-09-30T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-09-30T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867a01f7"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FRS-2024-0245-0001"
+            }
+        },
+        {
+            "id": "FRS-2024-0243-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-27T12:47:20Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-22215",
+                "withdrawn": false,
+                "agencyId": "FRS",
+                "commentEndDate": null,
+                "title": "Change in Bank Control: Acquisitions of Shares of a Bank or Bank Holding Company",
+                "postedDate": "2024-09-27T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-09-27T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867958bb"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FRS-2024-0243-0001"
+            }
+        },
+        {
+            "id": "FRS-2024-0244-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-27T12:48:44Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-22214",
+                "withdrawn": false,
+                "agencyId": "FRS",
+                "commentEndDate": null,
+                "title": "Formations of, Acquisitions by, and Mergers of Bank Holding Companies",
+                "postedDate": "2024-09-27T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-09-27T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867995d6"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FRS-2024-0244-0001"
+            }
+        },
+        {
+            "id": "FRS-2024-0242-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-26T12:26:44Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-22107",
+                "withdrawn": false,
+                "agencyId": "FRS",
+                "commentEndDate": null,
+                "title": "Change in Bank Control: Acquisitions of Shares of a Bank or Bank Holding Company",
+                "postedDate": "2024-09-26T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-09-26T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648678e33b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FRS-2024-0242-0001"
+            }
+        },
+        {
+            "id": "FRS-2024-0240-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-25T12:27:27Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-21910",
+                "withdrawn": false,
+                "agencyId": "FRS",
+                "commentEndDate": null,
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2024-09-25T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-09-25T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486782d89"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FRS-2024-0240-0001"
+            }
+        },
+        {
+            "id": "FRS-2024-0241-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-09-25T12:27:30Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-21909",
+                "withdrawn": false,
+                "agencyId": "FRS",
+                "commentEndDate": null,
+                "title": "Reserve Requirements of Depository Institutions: Regulation D",
+                "postedDate": "2024-09-25T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-09-25T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486782d8b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FRS-2024-0241-0001"
+            }
+        },
+        {
+            "id": "FRS-2024-0239-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-09-25T12:27:15Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-21908",
+                "withdrawn": false,
+                "agencyId": "FRS",
+                "commentEndDate": null,
+                "title": "Extensions of Credit by Federal Reserve Banks: Regulation A",
+                "postedDate": "2024-09-25T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-09-25T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486782d2b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FRS-2024-0239-0001"
+            }
+        },
+        {
+            "id": "FRS-2024-0238-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-24T12:22:10Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-21815",
+                "withdrawn": false,
+                "agencyId": "FRS",
+                "commentEndDate": null,
+                "title": "Change in Bank Control:Acquisitions of Shares of a Bank or Bank Holding Company",
+                "postedDate": "2024-09-24T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-09-24T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486777a84"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FRS-2024-0238-0001"
+            }
+        },
+        {
+            "id": "FRS-2024-0237-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-23T12:55:32Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-21683",
+                "withdrawn": false,
+                "agencyId": "FRS",
+                "commentEndDate": null,
+                "title": "Formations of, Acquisitions by, and Mergers of Bank Holding Companies",
+                "postedDate": "2024-09-23T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-09-23T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486769ff3"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FRS-2024-0237-0001"
+            }
+        },
+        {
+            "id": "FRS-2024-0236-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-20T12:03:44Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-21576",
+                "withdrawn": false,
+                "agencyId": "FRS",
+                "commentEndDate": null,
+                "title": "Proposals to Engage in or to Acquire Companies Engaged in Permissible Nonbanking Activities",
+                "postedDate": "2024-09-20T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-09-20T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648675eb37"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FRS-2024-0236-0001"
+            }
+        },
+        {
+            "id": "FRS-2024-0235-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-18T12:23:40Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-21236",
+                "withdrawn": false,
+                "agencyId": "FRS",
+                "commentEndDate": null,
+                "title": "Change in Bank Control: Acquisitions of Shares of a Bank or Bank Holding Company",
+                "postedDate": "2024-09-18T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-09-18T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648673fff5"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FRS-2024-0235-0001"
+            }
+        },
+        {
+            "id": "FRS-2024-0234-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-16T12:08:24Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-21012",
+                "withdrawn": false,
+                "agencyId": "FRS",
+                "commentEndDate": null,
+                "title": "Change in Bank Control: Acquisitions of Shares of a Bank or Bank Holding Company",
+                "postedDate": "2024-09-16T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-09-16T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486722d50"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FRS-2024-0234-0001"
+            }
+        },
+        {
+            "id": "FRS-2024-0232-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-13T12:21:16Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-20863",
+                "withdrawn": false,
+                "agencyId": "FRS",
+                "commentEndDate": null,
+                "title": "Change in Bank Control: Acquisitions of Shares of a Bank or Bank Holding Company",
+                "postedDate": "2024-09-13T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-09-13T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064866f4b66"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FRS-2024-0232-0001"
+            }
+        },
+        {
+            "id": "FRS-2024-0233-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-13T12:23:56Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-20892",
+                "withdrawn": false,
+                "agencyId": "FRS",
+                "commentEndDate": null,
+                "title": "Formations of, Acquisitions by, and Mergers of Savings and Loan Holding Companies",
+                "postedDate": "2024-09-13T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-09-13T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064866fa707"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FRS-2024-0233-0001"
+            }
+        },
+        {
+            "id": "FRS-2024-0231-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-12T12:31:20Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-20716",
+                "withdrawn": false,
+                "agencyId": "FRS",
+                "commentEndDate": null,
+                "title": "Formations of, Acquisitions by, and Mergers of Bank Holding Companies",
+                "postedDate": "2024-09-12T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-09-12T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064866eeb6b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FRS-2024-0231-0001"
+            }
+        },
+        {
+            "id": "FRS-2024-0229-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-10T12:17:31Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-20395",
+                "withdrawn": false,
+                "agencyId": "FRS",
+                "commentEndDate": null,
+                "title": "Change in Bank Control: Acquisitions of Shares of a Bank or Bank Holding Company",
+                "postedDate": "2024-09-10T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-09-10T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064866e0a9f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FRS-2024-0229-0001"
+            }
+        },
+        {
+            "id": "FRS-2024-0230-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-10T12:18:44Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-20418",
+                "withdrawn": false,
+                "agencyId": "FRS",
+                "commentEndDate": "2024-12-10T04:59:59Z",
+                "title": "Request for Information: Operational Aspects of Federal Reserve Bank Extensions of Discount Window and Intraday Credit",
+                "postedDate": "2024-09-10T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-09-10T04:00:00Z",
+                "openForComment": true,
+                "objectId": "09000064866e0bef"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FRS-2024-0230-0001"
+            }
+        },
+        {
+            "id": "FRS-2024-0228-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-09T12:35:58Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-20255",
+                "withdrawn": false,
+                "agencyId": "FRS",
+                "commentEndDate": null,
+                "title": "Proposals To Engage in or To Acquire Companies Engaged in Permissible Nonbanking Activities",
+                "postedDate": "2024-09-09T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-09-09T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064866cef15"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FRS-2024-0228-0001"
+            }
+        },
+        {
+            "id": "FRS-2024-0227-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-06T12:09:21Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-20136",
+                "withdrawn": false,
+                "agencyId": "FRS",
+                "commentEndDate": null,
+                "title": "Change in Bank Control: Acquisitions of Shares of a Bank or Bank Holding Company",
+                "postedDate": "2024-09-06T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-09-06T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064866caf85"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FRS-2024-0227-0001"
+            }
+        },
+        {
+            "id": "FRS-2024-0226-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-04T12:17:33Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-19820",
+                "withdrawn": false,
+                "agencyId": "FRS",
+                "commentEndDate": null,
+                "title": "Change in Bank Control: Acquisitions of Shares of a Bank or Bank Holding Company",
+                "postedDate": "2024-09-04T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-09-04T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064866bfa2f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FRS-2024-0226-0001"
+            }
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "documentType": [
+                {
+                    "docCount": 24,
+                    "label": "Notice"
+                },
+                {
+                    "docCount": 2,
+                    "label": "Rule"
+                }
+            ],
+            "subtype": [],
+            "withinCommentPeriod": [
+                {
+                    "docCount": 4,
+                    "label": "true"
+                },
+                {
+                    "docCount": 22,
+                    "label": "false"
+                }
+            ],
+            "agencyId": [
+                {
+                    "docCount": 1246,
+                    "value": "EPA"
+                },
+                {
+                    "docCount": 829,
+                    "value": "FDA"
+                },
+                {
+                    "docCount": 734,
+                    "value": "FAA"
+                },
+                {
+                    "docCount": 257,
+                    "value": "SEC"
+                },
+                {
+                    "docCount": 176,
+                    "value": "DOT"
+                },
+                {
+                    "docCount": 158,
+                    "value": "USPS"
+                },
+                {
+                    "docCount": 144,
+                    "value": "FERC"
+                },
+                {
+                    "docCount": 144,
+                    "value": "FMCSA"
+                },
+                {
+                    "docCount": 107,
+                    "value": "ITA"
+                },
+                {
+                    "docCount": 96,
+                    "value": "FEMA"
+                },
+                {
+                    "docCount": 91,
+                    "value": "FWS"
+                },
+                {
+                    "docCount": 87,
+                    "value": "FRA"
+                },
+                {
+                    "docCount": 85,
+                    "value": "USCG"
+                },
+                {
+                    "docCount": 54,
+                    "value": "PHMSA"
+                },
+                {
+                    "docCount": 51,
+                    "value": "NRC"
+                },
+                {
+                    "docCount": 49,
+                    "value": "FCC"
+                },
+                {
+                    "docCount": 49,
+                    "value": "NOAA"
+                },
+                {
+                    "docCount": 44,
+                    "value": "NCUA"
+                },
+                {
+                    "docCount": 43,
+                    "value": "DOS"
+                },
+                {
+                    "docCount": 43,
+                    "value": "USCIS"
+                },
+                {
+                    "docCount": 39,
+                    "value": "ITC"
+                },
+                {
+                    "docCount": 38,
+                    "value": "CMS"
+                },
+                {
+                    "docCount": 38,
+                    "value": "OSHA"
+                },
+                {
+                    "docCount": 37,
+                    "value": "NHTSA"
+                },
+                {
+                    "docCount": 35,
+                    "value": "ED"
+                },
+                {
+                    "docCount": 30,
+                    "value": "VA"
+                },
+                {
+                    "docCount": 29,
+                    "value": "MARAD"
+                },
+                {
+                    "docCount": 28,
+                    "value": "DEA"
+                },
+                {
+                    "docCount": 26,
+                    "value": "FRS"
+                },
+                {
+                    "docCount": 26,
+                    "value": "NARA"
+                },
+                {
+                    "docCount": 24,
+                    "value": "DOE"
+                },
+                {
+                    "docCount": 24,
+                    "value": "IRS"
+                },
+                {
+                    "docCount": 23,
+                    "value": "CPSC"
+                },
+                {
+                    "docCount": 22,
+                    "value": "DOD"
+                },
+                {
+                    "docCount": 22,
+                    "value": "HUD"
+                },
+                {
+                    "docCount": 22,
+                    "value": "NSF"
+                },
+                {
+                    "docCount": 20,
+                    "value": "OFAC"
+                },
+                {
+                    "docCount": 20,
+                    "value": "STB"
+                },
+                {
+                    "docCount": 18,
+                    "value": "CRC"
+                },
+                {
+                    "docCount": 17,
+                    "value": "FS"
+                },
+                {
+                    "docCount": 16,
+                    "value": "CDC"
+                },
+                {
+                    "docCount": 16,
+                    "value": "DOL"
+                },
+                {
+                    "docCount": 16,
+                    "value": "USCBP"
+                },
+                {
+                    "docCount": 15,
+                    "value": "BOEM"
+                },
+                {
+                    "docCount": 15,
+                    "value": "FHWA"
+                },
+                {
+                    "docCount": 14,
+                    "value": "HHS"
+                },
+                {
+                    "docCount": 14,
+                    "value": "TSA"
+                },
+                {
+                    "docCount": 13,
+                    "value": "APHIS"
+                },
+                {
+                    "docCount": 13,
+                    "value": "DARS"
+                },
+                {
+                    "docCount": 13,
+                    "value": "GSA"
+                },
+                {
+                    "docCount": 13,
+                    "value": "PTO"
+                },
+                {
+                    "docCount": 11,
+                    "value": "FTA"
+                },
+                {
+                    "docCount": 10,
+                    "value": "BIS"
+                },
+                {
+                    "docCount": 10,
+                    "value": "CPPBSD"
+                },
+                {
+                    "docCount": 9,
+                    "value": "CFPB"
+                },
+                {
+                    "docCount": 9,
+                    "value": "FDIC"
+                },
+                {
+                    "docCount": 9,
+                    "value": "NASA"
+                },
+                {
+                    "docCount": 9,
+                    "value": "TTB"
+                },
+                {
+                    "docCount": 9,
+                    "value": "USDA"
+                },
+                {
+                    "docCount": 9,
+                    "value": "USTR"
+                },
+                {
+                    "docCount": 8,
+                    "value": "AMS"
+                },
+                {
+                    "docCount": 8,
+                    "value": "CFTC"
+                },
+                {
+                    "docCount": 8,
+                    "value": "EIB"
+                },
+                {
+                    "docCount": 8,
+                    "value": "FEC"
+                },
+                {
+                    "docCount": 7,
+                    "value": "ARTS"
+                },
+                {
+                    "docCount": 6,
+                    "value": "AID"
+                },
+                {
+                    "docCount": 6,
+                    "value": "NRCS"
+                },
+                {
+                    "docCount": 6,
+                    "value": "OMB"
+                },
+                {
+                    "docCount": 6,
+                    "value": "OPM"
+                },
+                {
+                    "docCount": 6,
+                    "value": "RHS"
+                },
+                {
+                    "docCount": 6,
+                    "value": "SRBC"
+                },
+                {
+                    "docCount": 5,
+                    "value": "ATBCB"
+                },
+                {
+                    "docCount": 5,
+                    "value": "DHS"
+                },
+                {
+                    "docCount": 5,
+                    "value": "EERE"
+                },
+                {
+                    "docCount": 5,
+                    "value": "MCC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "ASC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "CNCS"
+                },
+                {
+                    "docCount": 4,
+                    "value": "FSIS"
+                },
+                {
+                    "docCount": 4,
+                    "value": "FTC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "PBGC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "RUS"
+                },
+                {
+                    "docCount": 4,
+                    "value": "SBA"
+                },
+                {
+                    "docCount": 4,
+                    "value": "TREAS"
+                },
+                {
+                    "docCount": 3,
+                    "value": "CISA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "EEOC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "FCA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "FINCEN"
+                },
+                {
+                    "docCount": 3,
+                    "value": "FMC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "MSHFRC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "NASS"
+                },
+                {
+                    "docCount": 3,
+                    "value": "OCC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "RBS"
+                },
+                {
+                    "docCount": 3,
+                    "value": "RRB"
+                },
+                {
+                    "docCount": 3,
+                    "value": "WCPO"
+                },
+                {
+                    "docCount": 2,
+                    "value": "CCC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "CITA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "DOI"
+                },
+                {
+                    "docCount": 2,
+                    "value": "EAC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "EIA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FMCS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FNS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FRTIB"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FSA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "GEO"
+                },
+                {
+                    "docCount": 2,
+                    "value": "HRSA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "IAF"
+                },
+                {
+                    "docCount": 2,
+                    "value": "LSC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NEIGHBOR"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NTIA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "PC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "SSA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "SWPA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "TVA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "USAF"
+                },
+                {
+                    "docCount": 2,
+                    "value": "USBC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "USC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ACUS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ARS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BLM"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CDFI"
+                },
+                {
+                    "docCount": 1,
+                    "value": "COE"
+                },
+                {
+                    "docCount": 1,
+                    "value": "COFA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CSOSA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DNFSB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "EBSA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FCSIC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FHFA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "GCERC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "HHSIG"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ICEB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "JBEA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "MBDA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "MSHA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "MSPB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NLRB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NPS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ONRR"
+                },
+                {
+                    "docCount": 1,
+                    "value": "OSM"
+                },
+                {
+                    "docCount": 1,
+                    "value": "PRC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "SSS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USDAIG"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USMINT"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USN"
+                }
+            ],
+            "commentEndDate": [
+                {
+                    "docCount": 4,
+                    "label": "Next 90 Days",
+                    "fromDate": "2024-10-11 00:00:00",
+                    "toDate": "2025-01-08 23:59:59"
+                }
+            ],
+            "postedDate": [
+                {
+                    "docCount": 3,
+                    "label": "Today",
+                    "fromDate": "2024-10-11 00:00:00",
+                    "toDate": "2024-10-11 23:59:59"
+                },
+                {
+                    "docCount": 6,
+                    "label": "Last 3 Days",
+                    "fromDate": "2024-10-09 00:00:00",
+                    "toDate": "2024-10-11 23:59:59"
+                },
+                {
+                    "docCount": 9,
+                    "label": "Last 7 Days",
+                    "fromDate": "2024-10-05 00:00:00",
+                    "toDate": "2024-10-11 23:59:59"
+                },
+                {
+                    "docCount": 27,
+                    "label": "Last 15 Days",
+                    "fromDate": "2024-09-27 00:00:00",
+                    "toDate": "2024-10-11 23:59:59"
+                },
+                {
+                    "docCount": 39,
+                    "label": "Last 30 Days",
+                    "fromDate": "2024-09-12 00:00:00",
+                    "toDate": "2024-10-11 23:59:59"
+                },
+                {
+                    "docCount": 90,
+                    "label": "Last 90 Days",
+                    "fromDate": "2024-07-14 00:00:00",
+                    "toDate": "2024-10-11 23:59:59"
+                }
+            ]
+        },
+        "filters": {
+            "postedDate": {
+                "fromDate": "2024-09-01",
+                "toDate": "2024-10-01"
+            },
+            "agencyId": [
+                {
+                    "label": "FRS",
+                    "value": "FRS"
+                }
+            ]
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "numberOfElements": 26,
+        "pageNumber": 1,
+        "pageSize": 250,
+        "totalElements": 26,
+        "totalPages": 1,
+        "firstPage": true,
+        "lastPage": true
+    }
+}
