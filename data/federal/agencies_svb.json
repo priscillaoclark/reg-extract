@@ -1,0 +1,18 @@
+[
+  {
+    "agency_id": "CFPB",
+    "agency_title": "Consumer Financial Protection Bureau"
+  },
+  {
+    "agency_id": "FDIC",
+    "agency_title": "Federal Deposit Insurance Corporation"
+  },
+  {
+    "agency_id": "FRS",
+    "agency_title": "Federal Reserve System"
+  },
+  {
+    "agency_id": "OCC",
+    "agency_title": "Office of the Comptroller of the Currency"
+  }
+]

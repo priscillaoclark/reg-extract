@@ -25,8 +25,8 @@ def summarize_with_assistant(assistant_id, text_to_summarize, api_key):
         if time.time() - start_time > timeout:
             print(f"Run timed out after {timeout} seconds")
             return None
-        print("Waiting 60 seconds to prevent rate limiting...")  # tokens per min (TPM): Limit 30000
-        time.sleep(60)  # Increase sleep time to reduce API calls
+        print("Waiting 45 seconds to prevent rate limiting...")  # tokens per min (TPM): Limit 30000
+        time.sleep(45)  # Increase sleep time to reduce API calls
         run = client.beta.threads.runs.retrieve(thread_id=thread.id, run_id=run.id)
         print(f"Current run status: {run.status}")  # Debug print
 
@@ -44,7 +44,7 @@ def get_ai_summaries(data):
         # Get the API key from the .env file
         load_dotenv()
         #OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-
+        
         # Remove any HTML tags
         data = re.sub(r'<[^>]*>', '', data)
         # Clean up the text by removing extra spaces and newlines

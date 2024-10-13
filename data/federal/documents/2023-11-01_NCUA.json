@@ -1282,22 +1282,22 @@
             "commentEndDate": [],
             "postedDate": [
                 {
-                    "docCount": 11,
+                    "docCount": 7,
                     "label": "Last 15 Days",
-                    "fromDate": "2024-09-27 00:00:00",
-                    "toDate": "2024-10-11 23:59:59"
+                    "fromDate": "2024-09-29 00:00:00",
+                    "toDate": "2024-10-13 23:59:59"
                 },
                 {
-                    "docCount": 26,
+                    "docCount": 25,
                     "label": "Last 30 Days",
-                    "fromDate": "2024-09-12 00:00:00",
-                    "toDate": "2024-10-11 23:59:59"
+                    "fromDate": "2024-09-14 00:00:00",
+                    "toDate": "2024-10-13 23:59:59"
                 },
                 {
-                    "docCount": 112,
+                    "docCount": 107,
                     "label": "Last 90 Days",
-                    "fromDate": "2024-07-14 00:00:00",
-                    "toDate": "2024-10-11 23:59:59"
+                    "fromDate": "2024-07-16 00:00:00",
+                    "toDate": "2024-10-13 23:59:59"
                 }
             ]
         },

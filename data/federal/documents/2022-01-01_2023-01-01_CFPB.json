@@ -1,0 +1,4351 @@
+{
+    "data": [
+        {
+            "id": "CFPB-2022-0001-0044",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-12-30T14:19:35Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-28439",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Truth in Lending Act (Regulation Z) Adjustment to Asset-Size Exemption Threshold",
+                "postedDate": "2022-12-30T05:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-12-30T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064855670d1"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0044"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0043",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-12-30T14:18:10Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-28441",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Home Mortgage Disclosure (Regulation C) Adjustment to Asset-Size Exemption Threshold",
+                "postedDate": "2022-12-30T05:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-12-30T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485564abe"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0043"
+            }
+        },
+        {
+            "id": "CFPB-2022-0086-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-12-27T15:06:23Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-28044",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2023-01-27T04:59:59Z",
+                "title": "PRA_ Truth in Savings (Regulation DD)",
+                "postedDate": "2022-12-27T05:00:00Z",
+                "docketId": "CFPB-2022-0086",
+                "subtype": null,
+                "commentStartDate": "2022-12-27T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485556b4c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0086-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0042",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-12-23T14:30:58Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-28023",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Truth in Lending (Regulation Z) Annual Threshold Adjustments (Credit Cards, HOEPA, and Qualified Mortgages)",
+                "postedDate": "2022-12-23T05:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-12-23T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485550cf2"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0042"
+            }
+        },
+        {
+            "id": "CFPB-2019-0021-0723",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-12-21T16:35:13Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-27204",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Home Mortgage Disclosure: Judicial Vacatur of Coverage Threshold for Closed-End Mortgage Loans",
+                "postedDate": "2022-12-21T05:00:00Z",
+                "docketId": "CFPB-2019-0021",
+                "subtype": null,
+                "commentStartDate": "2022-12-21T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648554850c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2019-0021-0723"
+            }
+        },
+        {
+            "id": "CFPB-2022-0085-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-12-21T16:43:25Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-27740",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2023-02-22T04:59:59Z",
+                "title": "Evaluation of Financial Empowerment Training Program",
+                "postedDate": "2022-12-21T05:00:00Z",
+                "docketId": "CFPB-2022-0085",
+                "subtype": null,
+                "commentStartDate": "2022-12-21T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485548790"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0085-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0083-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-12-16T19:59:46Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-27321",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2023-01-18T04:59:59Z",
+                "title": "Terms of Credit Card Plans Survey",
+                "postedDate": "2022-12-16T05:00:00Z",
+                "docketId": "CFPB-2022-0083",
+                "subtype": null,
+                "commentStartDate": "2022-12-16T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648553c95f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0083-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0081-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-12-16T13:17:21Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-27274",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2023-01-18T04:59:59Z",
+                "title": "Generic Information Collection Plan for the Development and Testing of Disclosures and Related Materials",
+                "postedDate": "2022-12-16T05:00:00Z",
+                "docketId": "CFPB-2022-0081",
+                "subtype": null,
+                "commentStartDate": "2022-12-16T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648553cb6b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0081-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0041",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-12-16T13:35:46Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-27324",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Revised Consumer Information Publication",
+                "postedDate": "2022-12-16T05:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-12-16T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648553c9f8"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0041"
+            }
+        },
+        {
+            "id": "CFPB-2022-0082-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-12-16T13:25:14Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-27320",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2023-01-18T04:59:59Z",
+                "title": "Generic Information Collection Plan to Conduct Cognitive and Pilot Testing of Research Methods, Instruments, and Forms",
+                "postedDate": "2022-12-16T05:00:00Z",
+                "docketId": "CFPB-2022-0082",
+                "subtype": null,
+                "commentStartDate": "2022-12-16T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648553cb15"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0082-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0070-0004",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2023-01-24T02:00:39Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-27059",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2023-01-21T04:59:59Z",
+                "title": "Intent to Make Preemption Determination under the Truth in Lending Act (Regulation Z)",
+                "postedDate": "2022-12-15T05:00:00Z",
+                "docketId": "CFPB-2022-0070",
+                "subtype": null,
+                "commentStartDate": "2022-12-15T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064855384f0"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0070-0004"
+            }
+        },
+        {
+            "id": "CFPB-2022-0079-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-12-12T14:36:57Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-26908",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2023-01-12T04:59:59Z",
+                "title": "Feedback Effects",
+                "postedDate": "2022-12-12T05:00:00Z",
+                "docketId": "CFPB-2022-0079",
+                "subtype": null,
+                "commentStartDate": "2022-12-12T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648552ee3a"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0079-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0070-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-12-08T18:16:26Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Letter from Small Business Finance Association Requesting Preemption Determination under Truth in Lending Act",
+                "postedDate": "2022-12-08T05:00:00Z",
+                "docketId": "CFPB-2022-0070",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006485525e4c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0070-0002"
+            }
+        },
+        {
+            "id": "CFPB-2022-0070-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2022-12-18T11:41:06Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Intent to Make Preemption Determination under the Truth in Lending Act (Regulation Z)",
+                "postedDate": "2022-12-08T00:00:00Z",
+                "docketId": "CFPB-2022-0070",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006485525e4b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0070-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0075-0028",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-12-07T15:51:05Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Data Gaps Presentation_clean",
+                "postedDate": "2022-12-07T05:00:00Z",
+                "docketId": "CFPB-2022-0075",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064855221ba"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0075-0028"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0039",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-11-25T14:22:11Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-25733",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Supervisory Highlights, Issue 28, Fall 2022",
+                "postedDate": "2022-11-25T05:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-11-25T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648550059c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0039"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0040",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-11-25T14:22:43Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-25751",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Fair Credit Reporting Act Disclosures",
+                "postedDate": "2022-11-25T05:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-11-25T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648550059d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0040"
+            }
+        },
+        {
+            "id": "CFPB-2022-0078-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-11-23T15:18:35Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-25547",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2023-01-24T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-11-23T05:00:00Z",
+                "docketId": "CFPB-2022-0078",
+                "subtype": null,
+                "commentStartDate": "2022-11-23T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064854fe9aa"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0078-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0038",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-11-23T15:19:36Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-25138",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Consumer Financial Protection Circular 2022-07: Reasonable Investigation of Consumer Reporting Disputes",
+                "postedDate": "2022-11-23T05:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-11-23T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064854fea90"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0038"
+            }
+        },
+        {
+            "id": "CFPB-2022-0076-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-11-22T18:43:47Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-25373",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-12-23T04:59:59Z",
+                "title": "Disclosure Requirements for Depository Institutions Lacking Federal Deposit Insurance (Regulation I)",
+                "postedDate": "2022-11-22T05:00:00Z",
+                "docketId": "CFPB-2022-0076",
+                "subtype": null,
+                "commentStartDate": "2022-11-22T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064854fb993"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0076-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0077-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-11-22T18:44:12Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-25411",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-12-23T04:59:59Z",
+                "title": "Home Mortgage Disclosure Act (Regulation C)",
+                "postedDate": "2022-11-22T05:00:00Z",
+                "docketId": "CFPB-2022-0077",
+                "subtype": null,
+                "commentStartDate": "2022-11-22T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064854fba48"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0077-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0024-0023",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-11-21T15:05:15Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-25139",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Supervisory Authority over Certain Nonbank Covered Persons Based on Risk Determination: Public Release of Decisions and Orders",
+                "postedDate": "2022-11-21T05:00:00Z",
+                "docketId": "CFPB-2022-0024",
+                "subtype": null,
+                "commentStartDate": "2022-11-21T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064854f8209"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0024-0023"
+            }
+        },
+        {
+            "id": "CFPB-2022-0075-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2023-01-24T02:00:25Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-12-20T04:59:59Z",
+                "title": "Enhancing Public Data on Auto Lending",
+                "postedDate": "2022-11-17T05:00:00Z",
+                "docketId": "CFPB-2022-0075",
+                "subtype": null,
+                "commentStartDate": "2022-11-17T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064854c2cc8"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0075-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0074-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-11-15T16:41:31Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-24804",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-12-16T04:59:59Z",
+                "title": "Equal Access to Justice Act",
+                "postedDate": "2022-11-15T05:00:00Z",
+                "docketId": "CFPB-2022-0074",
+                "subtype": null,
+                "commentStartDate": "2022-11-15T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064854b0d13"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0074-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0036",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-11-07T14:17:33Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-23933",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Bulletin 2022-06: Unfair Returned Deposited Item Fee Assessment Practices",
+                "postedDate": "2022-11-07T05:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-11-07T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485492d4c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0036"
+            }
+        },
+        {
+            "id": "CFPB-2021-0017-0097",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-12-09T02:00:33Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-24214",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-12-08T04:59:59Z",
+                "title": "Request for Comments: Big Tech Payment Platforms",
+                "postedDate": "2022-11-07T05:00:00Z",
+                "docketId": "CFPB-2021-0017",
+                "subtype": null,
+                "commentStartDate": "2022-11-07T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485492c7b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2021-0017-0097"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0037",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-11-07T14:18:43Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-23982",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Circular 2022-06: Unanticipated Overdraft Fee Assessment Practices",
+                "postedDate": "2022-11-07T05:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-11-07T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485492e45"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0037"
+            }
+        },
+        {
+            "id": "CFPB-2019-0022-14372",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-11-01T14:01:07Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-23559",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Debt Collection Practices (Regulation F): Corrections",
+                "postedDate": "2022-11-01T04:00:00Z",
+                "docketId": "CFPB-2019-0022",
+                "subtype": null,
+                "commentStartDate": "2022-11-01T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485477983"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2019-0022-14372"
+            }
+        },
+        {
+            "id": "CFPB-2022-0073-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-10-27T13:55:51Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-23350",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-11-29T04:59:59Z",
+                "title": "Survey Screening Question List",
+                "postedDate": "2022-10-27T04:00:00Z",
+                "docketId": "CFPB-2022-0073",
+                "subtype": null,
+                "commentStartDate": "2022-10-27T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648546266e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0073-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0035",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-10-26T13:54:47Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-23264",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Fair Credit Reporting: Facially False Data",
+                "postedDate": "2022-10-26T04:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-10-26T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648545cb7a"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0035"
+            }
+        },
+        {
+            "id": "CFPB-2022-0071-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-10-26T13:56:25Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-23330",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-12-28T04:59:59Z",
+                "title": "Generic Information Collection Plan for Information on Compliance Costs and Other Effects of Regulations",
+                "postedDate": "2022-10-26T04:00:00Z",
+                "docketId": "CFPB-2022-0071",
+                "subtype": null,
+                "commentStartDate": "2022-10-26T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648545cbe0"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0071-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0072-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-10-27T01:00:44Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-23331",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-12-28T04:59:59Z",
+                "title": "Application for the Bureau\u2019s Advisory Committees",
+                "postedDate": "2022-10-26T04:00:00Z",
+                "docketId": "CFPB-2022-0072",
+                "subtype": null,
+                "commentStartDate": "2022-10-26T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648545cbdf"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0072-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0032",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-10-20T14:27:50Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-22818",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Consumer Leasing (Regulation M)",
+                "postedDate": "2022-10-20T04:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-10-20T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648543b113"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0032"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0033",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-10-20T14:28:23Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-22819",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Truth in Lending (Regulation Z)",
+                "postedDate": "2022-10-20T04:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-10-20T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648543b1a5"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0033"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0034",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-10-20T14:28:54Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-22820",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Appraisals for Higher-Priced Mortgage Loans Exemption Threshold",
+                "postedDate": "2022-10-20T04:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-10-20T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648543b202"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0034"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0030",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-10-19T14:58:18Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-22459",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Meetings: Credit Union Advisory Council",
+                "postedDate": "2022-10-19T04:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-10-19T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485425c3f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0030"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0029",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-10-19T14:57:47Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-22460",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Meetings: Consumer Advisory Board",
+                "postedDate": "2022-10-19T04:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-10-19T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064854219eb"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0029"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0031",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-10-19T14:59:34Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-22463",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Meetings: Community Bank Advisory Council",
+                "postedDate": "2022-10-19T04:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-10-19T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485425dcc"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0031"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0028",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-10-11T14:12:15Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-22056",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Supervisory Highlights, Issue 27, Fall 2022",
+                "postedDate": "2022-10-11T04:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-10-11T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064853eb74e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0028"
+            }
+        },
+        {
+            "id": "CFPB-2022-0068-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-10-26T01:00:47Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-21639",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-12-06T04:59:59Z",
+                "title": "Generic Information Collection Plan for the Development and Testing of Disclosures and Related Materials",
+                "postedDate": "2022-10-05T04:00:00Z",
+                "docketId": "CFPB-2022-0068",
+                "subtype": null,
+                "commentStartDate": "2022-10-05T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064853b8ab0"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0068-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0069-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-10-05T13:35:24Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-21640",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-11-05T03:59:59Z",
+                "title": "Consumer Response Intake Form",
+                "postedDate": "2022-10-05T04:00:00Z",
+                "docketId": "CFPB-2022-0069",
+                "subtype": null,
+                "commentStartDate": "2022-10-05T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064853b88b6"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0069-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0023-0066",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-10-05T13:37:14Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-21535",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Prohibition on Inclusion of Adverse Information in Consumer Reporting in Cases of Human Trafficking (Regulation V); Correction",
+                "postedDate": "2022-10-05T04:00:00Z",
+                "docketId": "CFPB-2022-0023",
+                "subtype": null,
+                "commentStartDate": "2022-10-05T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064853b8931"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0023-0066"
+            }
+        },
+        {
+            "id": "CFPB-2022-0065-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-10-04T14:41:06Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-21523",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-12-06T04:59:59Z",
+                "title": "Truth in Savings (Regulation DD)",
+                "postedDate": "2022-10-04T04:00:00Z",
+                "docketId": "CFPB-2022-0065",
+                "subtype": null,
+                "commentStartDate": "2022-10-04T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064853a6ef2"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0065-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0066-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-10-04T14:41:44Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-21521",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-11-04T03:59:59Z",
+                "title": "Generic Information Collection Plan for Qualitative Consumer Education, Engagement, and Experience Information Collections",
+                "postedDate": "2022-10-04T04:00:00Z",
+                "docketId": "CFPB-2022-0066",
+                "subtype": null,
+                "commentStartDate": "2022-10-04T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064853aa445"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0066-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0067-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2022-11-24T02:00:44Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-12-01T04:59:59Z",
+                "title": "Petition for Rulemaking - NCLC, et al. - Ban Medical Debts from Credit Reports",
+                "postedDate": "2022-09-30T04:00:00Z",
+                "docketId": "CFPB-2022-0067",
+                "subtype": "Petition for Rulemaking",
+                "commentStartDate": "2022-09-30T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648538d142"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0067-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0027",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-09-27T13:58:33Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-20896",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Statement on Competition and Innovation",
+                "postedDate": "2022-09-27T04:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-09-27T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648537381b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0027"
+            }
+        },
+        {
+            "id": "CFPB-2022-0059-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-11-30T02:01:04Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-20898",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-11-29T04:59:59Z",
+                "title": "Request for Information: Mortgage Refinances and Forbearances",
+                "postedDate": "2022-09-27T04:00:00Z",
+                "docketId": "CFPB-2022-0059",
+                "subtype": null,
+                "commentStartDate": "2022-09-27T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064853738ac"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0059-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0026",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-09-20T14:30:48Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-20324",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Circular 2022-05: Debt Collection and Consumer Reporting Practices Involving Invalid Nursing Home Debts",
+                "postedDate": "2022-09-20T04:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-09-20T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485336171"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0026"
+            }
+        },
+        {
+            "id": "CFPB-2022-0063-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-11-06T01:00:45Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-20205",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-11-19T04:59:59Z",
+                "title": "Home Mortgage Disclosure Act (Regulation C)",
+                "postedDate": "2022-09-19T04:00:00Z",
+                "docketId": "CFPB-2022-0063",
+                "subtype": null,
+                "commentStartDate": "2022-09-19T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485327e9c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0063-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0062-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-11-12T02:00:57Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-20204",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-11-19T04:59:59Z",
+                "title": "Generic Information Collection Plan for Studies of Consumers Using Controlled Trials in Field and Economic Laboratory Settings",
+                "postedDate": "2022-09-19T04:00:00Z",
+                "docketId": "CFPB-2022-0062",
+                "subtype": null,
+                "commentStartDate": "2022-09-19T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485328023"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0062-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0064-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2022-09-15T17:12:09Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-11-16T04:59:59Z",
+                "title": "Petition for Rulemaking - CRL/CBA - Larger Participant Rulemaking",
+                "postedDate": "2022-09-15T04:00:00Z",
+                "docketId": "CFPB-2022-0064",
+                "subtype": "Petition for Rulemaking",
+                "commentStartDate": "2022-09-15T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648530f2a9"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0064-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0060-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-09-09T14:34:05Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-19460",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-11-09T04:59:59Z",
+                "title": "Disclosure Requirements for Depository Institutions Lacking Federal Deposit Insurance (Regulation I)",
+                "postedDate": "2022-09-09T04:00:00Z",
+                "docketId": "CFPB-2022-0060",
+                "subtype": null,
+                "commentStartDate": "2022-09-09T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064852d86f5"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0060-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0058-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-09-08T17:31:36Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-19332",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-11-08T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-09-08T04:00:00Z",
+                "docketId": "CFPB-2022-0058",
+                "subtype": null,
+                "commentStartDate": "2022-09-08T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064852ca5a3"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0058-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0061-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2022-09-07T18:28:25Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-11-08T04:59:59Z",
+                "title": "Petition for Rulemaking - Elaine Roberts Musser - Notice Requirement for Investment Advisors in FDIC Covered Bank Branches",
+                "postedDate": "2022-09-07T04:00:00Z",
+                "docketId": "CFPB-2022-0061",
+                "subtype": "Petition for Rulemaking",
+                "commentStartDate": "2022-09-07T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064852c3d09"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0061-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0025",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-09-06T15:09:39Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-19075",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Consumer Financial Protection Circular 2022-04: Insufficient Data Protection or Security for Sensitive Consumer Information",
+                "postedDate": "2022-09-06T04:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-09-06T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064852b4098"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0025"
+            }
+        },
+        {
+            "id": "CFPB-2022-0038-0020",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-09-02T13:57:49Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-19016",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Request for Information: Employer-Driven Debt",
+                "postedDate": "2022-09-02T04:00:00Z",
+                "docketId": "CFPB-2022-0038",
+                "subtype": null,
+                "commentStartDate": "2022-09-02T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064852aab81"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0038-0020"
+            }
+        },
+        {
+            "id": "CFPB-2022-0048-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-10-18T01:00:33Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-17807",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-10-18T03:59:59Z",
+                "title": "Report of Terms of Credit Card Plans (Form FR 2572) and Consumer and College Credit Card Agreements",
+                "postedDate": "2022-08-18T04:00:00Z",
+                "docketId": "CFPB-2022-0048",
+                "subtype": null,
+                "commentStartDate": "2022-08-18T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648524c2ff"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0048-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0024",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-08-17T13:57:35Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-17699",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Limited Applicability of Consumer Financial Protection Act's Time or Space Exception with Respect to Digital Marketing Providers",
+                "postedDate": "2022-08-17T04:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-08-17T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064852454da"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0024"
+            }
+        },
+        {
+            "id": "CFPB-2022-0056-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-08-12T13:36:36Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-17362",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-09-13T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-08-12T04:00:00Z",
+                "docketId": "CFPB-2022-0056",
+                "subtype": null,
+                "commentStartDate": "2022-08-12T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485233042"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0056-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0057-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-08-12T13:38:47Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-17381",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-09-13T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-08-12T04:00:00Z",
+                "docketId": "CFPB-2022-0057",
+                "subtype": null,
+                "commentStartDate": "2022-08-12T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648523395e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0057-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0054-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-08-11T14:27:34Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-17261",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-09-13T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-08-11T04:00:00Z",
+                "docketId": "CFPB-2022-0054",
+                "subtype": null,
+                "commentStartDate": "2022-08-11T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648522fd2e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0054-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0055-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-08-11T14:35:31Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-17262",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-10-12T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-08-11T04:00:00Z",
+                "docketId": "CFPB-2022-0055",
+                "subtype": null,
+                "commentStartDate": "2022-08-11T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648522f395"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0055-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0053-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2022-10-05T01:01:45Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-10-04T03:59:59Z",
+                "title": "Petition for Rulemaking - American Bankers Association, et al. -  Larger Participant Rule (Section 1033 of Dodd-Frank Act)",
+                "postedDate": "2022-08-03T04:00:00Z",
+                "docketId": "CFPB-2022-0053",
+                "subtype": "Petition for Rulemaking",
+                "commentStartDate": "2022-08-03T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485209f8f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0053-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0052-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2022-08-02T17:59:25Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-10-04T03:59:59Z",
+                "title": "Petition for Rulemaking - Michael Fontanetta - Validation of Credit Scores",
+                "postedDate": "2022-08-02T04:00:00Z",
+                "docketId": "CFPB-2022-0052",
+                "subtype": "Petition for Rulemaking",
+                "commentStartDate": "2022-08-02T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064852056f6"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0052-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0051-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-08-01T01:00:42Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-16111",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-09-27T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-07-27T04:00:00Z",
+                "docketId": "CFPB-2022-0051",
+                "subtype": null,
+                "commentStartDate": "2022-07-27T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064851ecec7"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0051-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0023",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-07-27T13:24:40Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-15962",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Fiscal Year 2019 Service Contract Inventory",
+                "postedDate": "2022-07-26T04:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-07-26T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064851e92b4"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0023"
+            }
+        },
+        {
+            "id": "CFPB-2022-0040-0007",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-07-20T13:49:21Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-15243",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Request for Information: Relationship Banking and Customer Service",
+                "postedDate": "2022-07-20T04:00:00Z",
+                "docketId": "CFPB-2022-0040",
+                "subtype": null,
+                "commentStartDate": "2022-07-20T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064851d426e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0040-0007"
+            }
+        },
+        {
+            "id": "CFPB-2022-0039-0012",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2022-07-18T14:00:51Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-15245",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Credit Card Late Fees and Late Payments",
+                "postedDate": "2022-07-18T04:00:00Z",
+                "docketId": "CFPB-2022-0039",
+                "subtype": null,
+                "commentStartDate": "2022-07-18T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064851cfb17"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0039-0012"
+            }
+        },
+        {
+            "id": "CFPB-2022-0050-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2022-07-13T16:25:13Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-09-14T03:59:59Z",
+                "title": "Petition for Rulemaking - Brian Samples - 12 CFR 1026.33 Requirements and Remainderman Interests",
+                "postedDate": "2022-07-13T04:00:00Z",
+                "docketId": "CFPB-2022-0050",
+                "subtype": "Petition for Rulemaking",
+                "commentStartDate": "2022-07-13T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064851c7fab"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0050-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0049-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-07-13T16:07:09Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "ncrc.org-Statement on Request for Guidance on Implementation of Disparate Impact Rules under ECOA",
+                "postedDate": "2022-07-13T04:00:00Z",
+                "docketId": "CFPB-2022-0049",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064851c7ee6"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0049-0002"
+            }
+        },
+        {
+            "id": "CFPB-2022-0045-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-07-13T13:44:13Z",
+                "highlightedContent": "",
+                "frDocNum": "C1-2022-14474",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-08-09T03:59:59Z",
+                "title": "Agency Information Collection Activities: Comment Request",
+                "postedDate": "2022-07-13T04:00:00Z",
+                "docketId": "CFPB-2022-0045",
+                "subtype": null,
+                "commentStartDate": "2022-07-13T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064851c6fe5"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0045-0002"
+            }
+        },
+        {
+            "id": "CFPB-2022-0049-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2022-07-13T17:58:47Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-09-14T03:59:59Z",
+                "title": "Petition for Rulemaking - NCRC - Requesting Guidance on Collecting Demographic Data",
+                "postedDate": "2022-07-13T04:00:00Z",
+                "docketId": "CFPB-2022-0049",
+                "subtype": "Petition for Rulemaking",
+                "commentStartDate": "2022-07-13T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064851c7e1e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0049-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0022",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-07-12T13:44:13Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-14823",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Fair Credit Reporting: Permissible Purposes for Furnishing, Using, and Obtaining Consumer Reports",
+                "postedDate": "2022-07-12T04:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-07-12T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064851c252c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0022"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0021",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-07-11T13:36:25Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-14150",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "The Fair Credit Reporting Act's Limited Preemption of State Laws",
+                "postedDate": "2022-07-11T04:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-07-11T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064851b8faf"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0021"
+            }
+        },
+        {
+            "id": "CFPB-2022-0046-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-07-07T14:18:56Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-14473",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-08-09T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-07-07T04:00:00Z",
+                "docketId": "CFPB-2022-0046",
+                "subtype": null,
+                "commentStartDate": "2022-07-07T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064851b43b8"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0046-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0044-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-07-07T15:01:48Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-14472",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-08-09T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-07-07T04:00:00Z",
+                "docketId": "CFPB-2022-0044",
+                "subtype": null,
+                "commentStartDate": "2022-07-07T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064851b43f9"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0044-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0045-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-07-13T13:44:50Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-14474",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-07-07T04:00:00Z",
+                "docketId": "CFPB-2022-0045",
+                "subtype": null,
+                "commentStartDate": "2022-07-07T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064851b43f4"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0045-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0043-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-07-07T14:16:25Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-14471",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-08-09T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-07-07T04:00:00Z",
+                "docketId": "CFPB-2022-0043",
+                "subtype": null,
+                "commentStartDate": "2022-07-07T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064851b4379"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0043-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0047-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2022-07-05T21:01:01Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-09-07T03:59:59Z",
+                "title": "Petition for Rulemaking - David Addington - NFIB Petition for Issuance of Rule Prohibiting Discrimination Against Medical Debt",
+                "postedDate": "2022-07-05T04:00:00Z",
+                "docketId": "CFPB-2022-0047",
+                "subtype": "Petition for Rulemaking",
+                "commentStartDate": "2022-07-05T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064851b1f34"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0047-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0020",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-07-05T13:55:46Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-14230",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Debt Collection Practices (Regulation F): Pay-to-Pay Fees",
+                "postedDate": "2022-07-05T04:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-07-05T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064851b0be1"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0020"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0019",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-06-30T13:17:38Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-13737",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Request for Membership Applications: Advisory Committees",
+                "postedDate": "2022-06-30T04:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-06-30T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064851ab7ff"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0019"
+            }
+        },
+        {
+            "id": "CFPB-2022-0039-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2022-08-06T01:00:54Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-13864",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-08-02T03:59:59Z",
+                "title": "Credit Card Late Fees and Late Payments",
+                "postedDate": "2022-06-29T04:00:00Z",
+                "docketId": "CFPB-2022-0039",
+                "subtype": null,
+                "commentStartDate": "2022-06-29T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064851a8ee5"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0039-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0042-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2022-06-27T15:28:16Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-08-28T03:59:59Z",
+                "title": "Petition for Rulemaking - John Burnett_Amendment to Paragraph 1026.2(a)(6) of Regulation Z",
+                "postedDate": "2022-06-27T04:00:00Z",
+                "docketId": "CFPB-2022-0042",
+                "subtype": "Petition for Rulemaking",
+                "commentStartDate": "2022-06-27T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064851a499c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0042-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0023-0065",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-06-24T13:43:29Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-13671",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Prohibition on Inclusion of Adverse Information in Consumer Reporting in Cases of Human Trafficking (Regulation V)",
+                "postedDate": "2022-06-24T04:00:00Z",
+                "docketId": "CFPB-2022-0023",
+                "subtype": null,
+                "commentStartDate": "2022-06-24T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648518c1bf"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0023-0065"
+            }
+        },
+        {
+            "id": "CFPB-2022-0041-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-07-28T01:00:56Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-13424",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-07-26T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-06-23T04:00:00Z",
+                "docketId": "CFPB-2022-0041",
+                "subtype": null,
+                "commentStartDate": "2022-06-23T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485188810"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0041-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0040-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-08-26T01:00:57Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-13207",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-08-23T03:59:59Z",
+                "title": "Request for Information: Relationship Banking and Customer Service",
+                "postedDate": "2022-06-21T04:00:00Z",
+                "docketId": "CFPB-2022-0040",
+                "subtype": null,
+                "commentStartDate": "2022-06-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648517e293"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0040-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0038-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-09-25T00:58:04Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-13030",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-09-24T03:59:59Z",
+                "title": "Request for Information: Employer-Driven Debt",
+                "postedDate": "2022-06-17T04:00:00Z",
+                "docketId": "CFPB-2022-0038",
+                "subtype": null,
+                "commentStartDate": "2022-06-17T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485178b97"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0038-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0016",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-06-14T13:51:26Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-12727",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Circular 2022-01: System of Consumer Financial Protection Circulars to Agencies Enforcing Federal Consumer Financial Law",
+                "postedDate": "2022-06-14T04:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-06-14T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064851620dc"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0016"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0018",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-06-14T13:53:06Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-12729",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Circular 2022-03: Adverse Action Notification Requirements in Connection with Credit Decisions Based on Complex Algorithms",
+                "postedDate": "2022-06-14T04:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-06-14T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485162058"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0018"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0017",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-06-14T13:52:30Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-12728",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Circular 2022-02: Deceptive Representations Involving the Federal Deposit Insurance Corporation's Name or Logo or Deposit Insurance",
+                "postedDate": "2022-06-14T04:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-06-14T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485162208"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0017"
+            }
+        },
+        {
+            "id": "CFPB-2022-0035-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-06-06T13:25:58Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-12080",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-07-07T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-06-06T04:00:00Z",
+                "docketId": "CFPB-2022-0035",
+                "subtype": null,
+                "commentStartDate": "2022-06-06T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064851404d1"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0035-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0037-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2022-06-02T20:49:55Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-08-03T03:59:59Z",
+                "title": "Petition for Rulemaking - Dmitry Shkipin_Real Estate Broker Referral Fee Networks",
+                "postedDate": "2022-06-02T04:00:00Z",
+                "docketId": "CFPB-2022-0037",
+                "subtype": "Petition for Rulemaking",
+                "commentStartDate": "2022-06-02T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485126bf1"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0037-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0036-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2022-06-02T20:46:41Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-08-03T03:59:59Z",
+                "title": "Petition for Rulemaking - J. Patrick Altes_Automobile Repossession Assignments",
+                "postedDate": "2022-06-02T04:00:00Z",
+                "docketId": "CFPB-2022-0036",
+                "subtype": "Petition for Rulemaking",
+                "commentStartDate": "2022-06-02T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485126bef"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0036-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0034-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-06-02T13:30:06Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-11853",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-08-02T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-06-02T04:00:00Z",
+                "docketId": "CFPB-2022-0034",
+                "subtype": null,
+                "commentStartDate": "2022-06-02T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485124b45"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0034-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0027-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2022-08-03T01:00:24Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-08-03T03:59:59Z",
+                "title": "Petition for Rulemaking - William Kidwell_Amend Existing Mortgage Regulation",
+                "postedDate": "2022-06-02T04:00:00Z",
+                "docketId": "CFPB-2022-0027",
+                "subtype": null,
+                "commentStartDate": "2022-06-02T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485126bec"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0027-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0027-0057",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2024-05-03T14:36:43Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-08-03T03:59:59Z",
+                "title": "Petition for Rulemaking - William Kidwell_Amend Existing Mortgage Regulation",
+                "postedDate": "2022-06-02T04:00:00Z",
+                "docketId": "CFPB-2022-0027",
+                "subtype": "Petition for Rulemaking",
+                "commentStartDate": "2024-05-03T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486531c71"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0027-0057"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0015",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-05-26T13:52:13Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-11356",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Authority of States to Enforce the Consumer Financial Protection Act",
+                "postedDate": "2022-05-26T04:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-05-26T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064850f5c5e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0015"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0014",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-05-24T14:50:19Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-11115",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Meetings: Consumer Advisory Board",
+                "postedDate": "2022-05-24T04:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-05-24T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064850dbe3c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0014"
+            }
+        },
+        {
+            "id": "CFPB-2022-0031-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-05-24T14:21:06Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-11145",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-06-24T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-05-24T04:00:00Z",
+                "docketId": "CFPB-2022-0031",
+                "subtype": null,
+                "commentStartDate": "2022-05-24T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064850dc018"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0031-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0032-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-05-24T14:45:56Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-11142",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-07-26T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-05-24T04:00:00Z",
+                "docketId": "CFPB-2022-0032",
+                "subtype": null,
+                "commentStartDate": "2022-05-24T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064850dbd61"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0032-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0028-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-05-24T14:01:10Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-11141",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-07-26T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-05-24T04:00:00Z",
+                "docketId": "CFPB-2022-0028",
+                "subtype": null,
+                "commentStartDate": "2022-05-24T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064850dbdad"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0028-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0029-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-05-24T14:05:29Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-11148",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-06-24T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-05-24T04:00:00Z",
+                "docketId": "CFPB-2022-0029",
+                "subtype": null,
+                "commentStartDate": "2022-05-24T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064850dbdb3"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0029-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0030-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-05-24T14:13:50Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-11147",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-06-24T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-05-24T04:00:00Z",
+                "docketId": "CFPB-2022-0030",
+                "subtype": null,
+                "commentStartDate": "2022-05-24T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064850dbee9"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0030-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0033-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-05-24T14:38:46Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-11146",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-07-26T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-05-24T04:00:00Z",
+                "docketId": "CFPB-2022-0033",
+                "subtype": null,
+                "commentStartDate": "2022-05-24T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064850dbf7a"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0033-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0013",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-05-18T14:08:35Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-10453",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Equal Credit Opportunity: Revocations or Unfavorable Changes to the Terms of Existing Credit Arrangements",
+                "postedDate": "2022-05-18T04:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-05-18T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064850882fe"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0013"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0012",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-05-12T16:53:21Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-10133",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Fair Lending Report, May 2022",
+                "postedDate": "2022-05-12T04:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-05-12T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485072db8"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0012"
+            }
+        },
+        {
+            "id": "CFPB-2022-0026-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-05-06T13:41:51Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-09712",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-07-06T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-05-06T04:00:00Z",
+                "docketId": "CFPB-2022-0026",
+                "subtype": null,
+                "commentStartDate": "2022-05-06T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064850565af"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0026-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0011",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-05-05T13:33:37Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-09690",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Supervisory Highlights, Issue 26, Spring 2022",
+                "postedDate": "2022-05-05T04:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-05-05T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485051d18"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0011"
+            }
+        },
+        {
+            "id": "CFPB-2022-0014-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2023-12-07T02:04:34Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-07-07T03:59:59Z",
+                "title": "Petition for Rulemaking - Pablo Alvarez_Proof of Debt",
+                "postedDate": "2022-05-03T04:00:00Z",
+                "docketId": "CFPB-2022-0014",
+                "subtype": "Petition for Rulemaking",
+                "commentStartDate": "2022-05-03T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648504b1fa"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0014-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0024-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-06-02T01:00:44Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-09107",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-06-01T03:59:59Z",
+                "title": "Supervisory Authority over Certain Nonbank Covered Persons Based on Risk Determination",
+                "postedDate": "2022-04-29T04:00:00Z",
+                "docketId": "CFPB-2022-0024",
+                "subtype": null,
+                "commentStartDate": "2022-04-29T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485042daa"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0024-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0025-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-04-20T14:01:43Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-08436",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-05-21T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-04-20T04:00:00Z",
+                "docketId": "CFPB-2022-0025",
+                "subtype": null,
+                "commentStartDate": "2022-04-20T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064850263d9"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0025-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0023-0008",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-04-18T14:00:15Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-08252",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-06-18T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-04-18T04:00:00Z",
+                "docketId": "CFPB-2022-0023",
+                "subtype": null,
+                "commentStartDate": "2022-04-18T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648501fddc"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0023-0008"
+            }
+        },
+        {
+            "id": "CFPB-2022-0023-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2022-06-25T01:00:46Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-07528",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-05-10T03:59:59Z",
+                "title": "Prohibition on Inclusion of Adverse Information in Consumer Reporting in Cases of Human Trafficking (Regulation V)",
+                "postedDate": "2022-04-08T04:00:00Z",
+                "docketId": "CFPB-2022-0023",
+                "subtype": null,
+                "commentStartDate": "2022-04-08T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064850042b9"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0023-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0021-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-04-07T14:02:58Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-07324",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-06-07T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-04-07T04:00:00Z",
+                "docketId": "CFPB-2022-0021",
+                "subtype": null,
+                "commentStartDate": "2022-04-07T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484fff24c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0021-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0022-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-04-07T14:05:31Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-07325",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-06-07T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-04-07T04:00:00Z",
+                "docketId": "CFPB-2022-0022",
+                "subtype": null,
+                "commentStartDate": "2022-04-07T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484fff437"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0022-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0020-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-04-07T13:54:55Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-07323",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-06-07T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-04-07T04:00:00Z",
+                "docketId": "CFPB-2022-0020",
+                "subtype": null,
+                "commentStartDate": "2022-04-07T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484fff2c5"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0020-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0003-2256",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-03-29T13:27:39Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-06581",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Fees Imposed by Providers of Consumer Financial Products or Services",
+                "postedDate": "2022-03-29T04:00:00Z",
+                "docketId": "CFPB-2022-0003",
+                "subtype": null,
+                "commentStartDate": "2022-03-29T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484feb0f3"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0003-2256"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0010",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-03-28T13:21:34Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-06446",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Compliance Bulletin: Unfair and Deceptive Acts or Practices That Impede Consumer Reviews",
+                "postedDate": "2022-03-28T04:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-03-28T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484fe7bf5"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0010"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0008",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-03-23T20:10:28Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-06078",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Meetings: Academic Research Council",
+                "postedDate": "2022-03-23T04:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-03-23T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484fdb1aa"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0008"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0006",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-03-23T20:09:41Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-06081",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Meetings: Consumer Advisory Board",
+                "postedDate": "2022-03-23T04:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-03-23T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484fdb170"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0006"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0009",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-03-23T20:10:50Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-06083",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Meetings: Credit Union Advisory Council",
+                "postedDate": "2022-03-23T04:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-03-23T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484fdb24e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0009"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0007",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-03-23T20:10:05Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-06082",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Meetings: Community Bank Advisory Council",
+                "postedDate": "2022-03-23T04:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-03-23T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484fdb1a5"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0007"
+            }
+        },
+        {
+            "id": "CFPB-2022-0016-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2023-12-07T02:04:11Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-05-24T03:59:59Z",
+                "title": "Petition for Rulemaking - Judy Young-Bird_Debt Collection",
+                "postedDate": "2022-03-21T04:00:00Z",
+                "docketId": "CFPB-2022-0016",
+                "subtype": "Petition for Rulemaking",
+                "commentStartDate": "2022-03-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484fd6d53"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0016-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0019-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2024-01-12T02:00:40Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-05-24T03:59:59Z",
+                "title": "Petition for Rulemaking - Todd Ewing_Abuse of RESPA Section 8(c)(4)(A)(B)(C)",
+                "postedDate": "2022-03-21T04:00:00Z",
+                "docketId": "CFPB-2022-0019",
+                "subtype": null,
+                "commentStartDate": "2022-03-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484fd6d96"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0019-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0015-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2024-02-13T02:00:19Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-05-24T03:59:59Z",
+                "title": "Petition for Rulemaking - Nell McClung_QWR Enforcement",
+                "postedDate": "2022-03-21T04:00:00Z",
+                "docketId": "CFPB-2022-0015",
+                "subtype": "Petition for Rulemaking",
+                "commentStartDate": "2022-03-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484fd6d4b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0015-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0018-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-03-10T14:58:46Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-05014",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-04-12T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-03-10T05:00:00Z",
+                "docketId": "CFPB-2022-0018",
+                "subtype": null,
+                "commentStartDate": "2022-03-10T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484fc2603"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0018-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0017-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-03-09T14:50:59Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-04953",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-04-09T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-03-09T05:00:00Z",
+                "docketId": "CFPB-2022-0017",
+                "subtype": null,
+                "commentStartDate": "2022-03-09T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484fc14c6"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0017-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0005",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-03-03T14:38:07Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-04508",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Compliance Bulletin: Mitigating Harm from Repossession of Automobiles",
+                "postedDate": "2022-03-03T05:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-03-03T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484fb7fdc"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0005"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0004",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-03-01T13:54:17Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-04266",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Bulletin 2022-03:  Servicer Responsibilities in Public Service Loan Forgiveness Communications",
+                "postedDate": "2022-03-01T05:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-03-01T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484fb067f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0004"
+            }
+        },
+        {
+            "id": "CFPB-2022-0013-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2022-02-25T16:00:08Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-04-30T03:59:59Z",
+                "title": "Petition for Rulemaking from Peter Krall: Dealer Sold GAP Refunds",
+                "postedDate": "2022-02-25T05:00:00Z",
+                "docketId": "CFPB-2022-0013",
+                "subtype": "Petition for Rulemaking",
+                "commentStartDate": "2022-02-25T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484fa1d09"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0013-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0012-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-02-25T16:56:04Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-03977",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-04-27T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-02-25T05:00:00Z",
+                "docketId": "CFPB-2022-0012",
+                "subtype": null,
+                "commentStartDate": "2022-02-25T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484fa3f8c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0012-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0011-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-02-24T15:18:50Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-03874",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-04-26T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-02-24T05:00:00Z",
+                "docketId": "CFPB-2022-0011",
+                "subtype": null,
+                "commentStartDate": "2022-02-24T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484f9f612"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0011-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0003",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-02-24T15:21:46Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-03587",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Compliance Bulletin: Electronic Fund Transfer Act's Compulsory Use Prohibition and Government Benefit Accounts",
+                "postedDate": "2022-02-24T05:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-02-24T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484f9f0e7"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0003"
+            }
+        },
+        {
+            "id": "CFPB-2022-0009-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-02-22T16:33:52Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Unofficial Redline of February 2022 Amendments to Rules of Practice for Adjudication Proceedings",
+                "postedDate": "2022-02-22T05:00:00Z",
+                "docketId": "CFPB-2022-0009",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006484f81a9a"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0009-0002"
+            }
+        },
+        {
+            "id": "CFPB-2022-0009-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-04-09T22:59:30Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-02863",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-04-09T03:59:59Z",
+                "title": "Rules of Practice for Adjudication Proceedings",
+                "postedDate": "2022-02-22T05:00:00Z",
+                "docketId": "CFPB-2022-0009",
+                "subtype": null,
+                "commentStartDate": "2022-02-22T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484f9a556"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0009-0001"
+            }
+        },
+        {
+            "id": "CFPB-2020-0014-0035",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-02-16T14:32:53Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-03344",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Facilitating the LIBOR Transition; Correction",
+                "postedDate": "2022-02-16T05:00:00Z",
+                "docketId": "CFPB-2020-0014",
+                "subtype": null,
+                "commentStartDate": "2022-02-16T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484f7ef88"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2020-0014-0035"
+            }
+        },
+        {
+            "id": "CFPB-2022-0010-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-03-26T01:00:57Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-02526",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-04-12T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-02-08T05:00:00Z",
+                "docketId": "CFPB-2022-0010",
+                "subtype": null,
+                "commentStartDate": "2022-02-08T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484f5e0e8"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0010-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0008-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-02-27T02:00:35Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-02440",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-03-10T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-02-07T05:00:00Z",
+                "docketId": "CFPB-2022-0008",
+                "subtype": null,
+                "commentStartDate": "2022-02-07T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484f58d32"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0008-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0003-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-05-27T01:00:29Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-02071",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-04-12T03:59:59Z",
+                "title": "Request for Information: Fees Imposed by Providers of Consumer Financial Products or Services",
+                "postedDate": "2022-02-02T05:00:00Z",
+                "docketId": "CFPB-2022-0003",
+                "subtype": null,
+                "commentStartDate": "2022-02-02T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484f4c7af"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0003-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0007-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-02-02T14:47:45Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-02090",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-03-05T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-02-02T05:00:00Z",
+                "docketId": "CFPB-2022-0007",
+                "subtype": null,
+                "commentStartDate": "2022-02-02T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484f4c7fe"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0007-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0005-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-01-28T13:50:00Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-01758",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-03-30T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-01-28T05:00:00Z",
+                "docketId": "CFPB-2022-0005",
+                "subtype": null,
+                "commentStartDate": "2022-01-28T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484f41763"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0005-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0006-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-01-28T13:50:45Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-01803",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-03-30T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-01-28T05:00:00Z",
+                "docketId": "CFPB-2022-0006",
+                "subtype": null,
+                "commentStartDate": "2022-01-28T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484f4158a"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0006-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0004-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-02-18T02:00:34Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-01484",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-02-26T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-01-26T05:00:00Z",
+                "docketId": "CFPB-2022-0004",
+                "subtype": null,
+                "commentStartDate": "2022-01-26T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484f39de0"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0004-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0002-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-03-29T01:00:44Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-01278",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": "2022-03-26T03:59:59Z",
+                "title": "Inquiry into Buy-Now-Pay-Later Providers",
+                "postedDate": "2022-01-24T05:00:00Z",
+                "docketId": "CFPB-2022-0002",
+                "subtype": null,
+                "commentStartDate": "2022-01-24T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484f321d2"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0002-0001"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-01-20T14:01:22Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-01012",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Medical Debt Collection and Consumer Reporting Requirements: No Surprises Act",
+                "postedDate": "2022-01-20T05:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-01-20T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484f2a0c0"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0002"
+            }
+        },
+        {
+            "id": "CFPB-2022-0001-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-01-14T14:38:01Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-00672",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Civil Monetary Penalty Inflation Adjustment",
+                "postedDate": "2022-01-14T05:00:00Z",
+                "docketId": "CFPB-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-01-14T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484f20519"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0001"
+            }
+        },
+        {
+            "id": "CFPB-2021-0023-0003",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-01-13T15:24:08Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-00583",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "commentEndDate": null,
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-01-13T05:00:00Z",
+                "docketId": "CFPB-2021-0023",
+                "subtype": null,
+                "commentStartDate": "2022-01-13T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484f1e95e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2021-0023-0003"
+            }
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "documentType": [
+                {
+                    "docCount": 82,
+                    "label": "Notice"
+                },
+                {
+                    "docCount": 37,
+                    "label": "Rule"
+                },
+                {
+                    "docCount": 20,
+                    "label": "Other"
+                },
+                {
+                    "docCount": 4,
+                    "label": "Proposed Rule"
+                },
+                {
+                    "docCount": 4,
+                    "label": "Supporting & Related Material"
+                }
+            ],
+            "subtype": [
+                {
+                    "docCount": 16,
+                    "label": "Petition for Rulemaking"
+                }
+            ],
+            "withinCommentPeriod": [
+                {
+                    "docCount": 0,
+                    "label": "true"
+                },
+                {
+                    "docCount": 147,
+                    "label": "false"
+                }
+            ],
+            "agencyId": [
+                {
+                    "docCount": 29044,
+                    "value": "EPA"
+                },
+                {
+                    "docCount": 11276,
+                    "value": "FDA"
+                },
+                {
+                    "docCount": 5827,
+                    "value": "FAA"
+                },
+                {
+                    "docCount": 2722,
+                    "value": "DOT"
+                },
+                {
+                    "docCount": 1905,
+                    "value": "SEC"
+                },
+                {
+                    "docCount": 1667,
+                    "value": "FERC"
+                },
+                {
+                    "docCount": 1446,
+                    "value": "FMCSA"
+                },
+                {
+                    "docCount": 1098,
+                    "value": "USCG"
+                },
+                {
+                    "docCount": 1016,
+                    "value": "FWS"
+                },
+                {
+                    "docCount": 1011,
+                    "value": "OSHA"
+                },
+                {
+                    "docCount": 939,
+                    "value": "FRA"
+                },
+                {
+                    "docCount": 873,
+                    "value": "PHMSA"
+                },
+                {
+                    "docCount": 861,
+                    "value": "MARAD"
+                },
+                {
+                    "docCount": 833,
+                    "value": "ITA"
+                },
+                {
+                    "docCount": 659,
+                    "value": "NRC"
+                },
+                {
+                    "docCount": 617,
+                    "value": "EERE"
+                },
+                {
+                    "docCount": 556,
+                    "value": "NOAA"
+                },
+                {
+                    "docCount": 498,
+                    "value": "FEMA"
+                },
+                {
+                    "docCount": 489,
+                    "value": "ITC"
+                },
+                {
+                    "docCount": 457,
+                    "value": "ED"
+                },
+                {
+                    "docCount": 442,
+                    "value": "NHTSA"
+                },
+                {
+                    "docCount": 437,
+                    "value": "HHS"
+                },
+                {
+                    "docCount": 433,
+                    "value": "FCC"
+                },
+                {
+                    "docCount": 409,
+                    "value": "VA"
+                },
+                {
+                    "docCount": 401,
+                    "value": "NCUA"
+                },
+                {
+                    "docCount": 397,
+                    "value": "USCIS"
+                },
+                {
+                    "docCount": 356,
+                    "value": "FRS"
+                },
+                {
+                    "docCount": 339,
+                    "value": "DOS"
+                },
+                {
+                    "docCount": 335,
+                    "value": "CMS"
+                },
+                {
+                    "docCount": 334,
+                    "value": "CRC"
+                },
+                {
+                    "docCount": 295,
+                    "value": "DOD"
+                },
+                {
+                    "docCount": 285,
+                    "value": "USPS"
+                },
+                {
+                    "docCount": 268,
+                    "value": "HUD"
+                },
+                {
+                    "docCount": 239,
+                    "value": "NSF"
+                },
+                {
+                    "docCount": 227,
+                    "value": "NARA"
+                },
+                {
+                    "docCount": 214,
+                    "value": "DOE"
+                },
+                {
+                    "docCount": 202,
+                    "value": "CDC"
+                },
+                {
+                    "docCount": 202,
+                    "value": "USDA"
+                },
+                {
+                    "docCount": 201,
+                    "value": "OFAC"
+                },
+                {
+                    "docCount": 197,
+                    "value": "CPSC"
+                },
+                {
+                    "docCount": 194,
+                    "value": "DOL"
+                },
+                {
+                    "docCount": 183,
+                    "value": "FS"
+                },
+                {
+                    "docCount": 182,
+                    "value": "DEA"
+                },
+                {
+                    "docCount": 154,
+                    "value": "APHIS"
+                },
+                {
+                    "docCount": 147,
+                    "value": "CFPB"
+                },
+                {
+                    "docCount": 145,
+                    "value": "STB"
+                },
+                {
+                    "docCount": 133,
+                    "value": "FHWA"
+                },
+                {
+                    "docCount": 131,
+                    "value": "USCBP"
+                },
+                {
+                    "docCount": 120,
+                    "value": "AMS"
+                },
+                {
+                    "docCount": 116,
+                    "value": "FTC"
+                },
+                {
+                    "docCount": 111,
+                    "value": "NLRB"
+                },
+                {
+                    "docCount": 107,
+                    "value": "FDIC"
+                },
+                {
+                    "docCount": 104,
+                    "value": "BOEM"
+                },
+                {
+                    "docCount": 103,
+                    "value": "FMC"
+                },
+                {
+                    "docCount": 101,
+                    "value": "GSA"
+                },
+                {
+                    "docCount": 96,
+                    "value": "FAR"
+                },
+                {
+                    "docCount": 93,
+                    "value": "CFTC"
+                },
+                {
+                    "docCount": 92,
+                    "value": "OPM"
+                },
+                {
+                    "docCount": 86,
+                    "value": "IRS"
+                },
+                {
+                    "docCount": 82,
+                    "value": "FEC"
+                },
+                {
+                    "docCount": 81,
+                    "value": "CPPBSD"
+                },
+                {
+                    "docCount": 79,
+                    "value": "PTO"
+                },
+                {
+                    "docCount": 78,
+                    "value": "MSHA"
+                },
+                {
+                    "docCount": 77,
+                    "value": "COE"
+                },
+                {
+                    "docCount": 77,
+                    "value": "FTA"
+                },
+                {
+                    "docCount": 75,
+                    "value": "DHS"
+                },
+                {
+                    "docCount": 73,
+                    "value": "ARTS"
+                },
+                {
+                    "docCount": 70,
+                    "value": "SSA"
+                },
+                {
+                    "docCount": 68,
+                    "value": "DARS"
+                },
+                {
+                    "docCount": 66,
+                    "value": "AHRQ"
+                },
+                {
+                    "docCount": 62,
+                    "value": "USN"
+                },
+                {
+                    "docCount": 62,
+                    "value": "USTR"
+                },
+                {
+                    "docCount": 61,
+                    "value": "OCC"
+                },
+                {
+                    "docCount": 60,
+                    "value": "CNCS"
+                },
+                {
+                    "docCount": 60,
+                    "value": "FNS"
+                },
+                {
+                    "docCount": 53,
+                    "value": "TTB"
+                },
+                {
+                    "docCount": 52,
+                    "value": "WHD"
+                },
+                {
+                    "docCount": 51,
+                    "value": "RUS"
+                },
+                {
+                    "docCount": 49,
+                    "value": "EIB"
+                },
+                {
+                    "docCount": 47,
+                    "value": "TREAS"
+                },
+                {
+                    "docCount": 44,
+                    "value": "BIS"
+                },
+                {
+                    "docCount": 43,
+                    "value": "FSIS"
+                },
+                {
+                    "docCount": 42,
+                    "value": "EBSA"
+                },
+                {
+                    "docCount": 42,
+                    "value": "ETA"
+                },
+                {
+                    "docCount": 40,
+                    "value": "USA"
+                },
+                {
+                    "docCount": 39,
+                    "value": "RHS"
+                },
+                {
+                    "docCount": 37,
+                    "value": "PBGC"
+                },
+                {
+                    "docCount": 37,
+                    "value": "RBS"
+                },
+                {
+                    "docCount": 37,
+                    "value": "SRBC"
+                },
+                {
+                    "docCount": 36,
+                    "value": "NIGC"
+                },
+                {
+                    "docCount": 36,
+                    "value": "SBA"
+                },
+                {
+                    "docCount": 35,
+                    "value": "FISCAL"
+                },
+                {
+                    "docCount": 35,
+                    "value": "ICEB"
+                },
+                {
+                    "docCount": 34,
+                    "value": "AID"
+                },
+                {
+                    "docCount": 34,
+                    "value": "DOI"
+                },
+                {
+                    "docCount": 31,
+                    "value": "LSC"
+                },
+                {
+                    "docCount": 31,
+                    "value": "TSA"
+                },
+                {
+                    "docCount": 31,
+                    "value": "USC"
+                },
+                {
+                    "docCount": 30,
+                    "value": "OSTP"
+                },
+                {
+                    "docCount": 29,
+                    "value": "FHFA"
+                },
+                {
+                    "docCount": 29,
+                    "value": "OSM"
+                },
+                {
+                    "docCount": 28,
+                    "value": "BSC"
+                },
+                {
+                    "docCount": 27,
+                    "value": "FMCS"
+                },
+                {
+                    "docCount": 27,
+                    "value": "USBC"
+                },
+                {
+                    "docCount": 26,
+                    "value": "EAC"
+                },
+                {
+                    "docCount": 25,
+                    "value": "NRCS"
+                },
+                {
+                    "docCount": 24,
+                    "value": "FAS"
+                },
+                {
+                    "docCount": 24,
+                    "value": "IHS"
+                },
+                {
+                    "docCount": 23,
+                    "value": "BSEE"
+                },
+                {
+                    "docCount": 23,
+                    "value": "CISA"
+                },
+                {
+                    "docCount": 22,
+                    "value": "RRB"
+                },
+                {
+                    "docCount": 22,
+                    "value": "USAF"
+                },
+                {
+                    "docCount": 21,
+                    "value": "WCPO"
+                },
+                {
+                    "docCount": 20,
+                    "value": "COLC"
+                },
+                {
+                    "docCount": 20,
+                    "value": "FCA"
+                },
+                {
+                    "docCount": 20,
+                    "value": "FRTIB"
+                },
+                {
+                    "docCount": 20,
+                    "value": "FSA"
+                },
+                {
+                    "docCount": 20,
+                    "value": "OMB"
+                },
+                {
+                    "docCount": 19,
+                    "value": "MCC"
+                },
+                {
+                    "docCount": 19,
+                    "value": "TVA"
+                },
+                {
+                    "docCount": 18,
+                    "value": "CEQ"
+                },
+                {
+                    "docCount": 17,
+                    "value": "PRC"
+                },
+                {
+                    "docCount": 16,
+                    "value": "BLM"
+                },
+                {
+                    "docCount": 16,
+                    "value": "NPS"
+                },
+                {
+                    "docCount": 15,
+                    "value": "ATSDR"
+                },
+                {
+                    "docCount": 15,
+                    "value": "FINCEN"
+                },
+                {
+                    "docCount": 15,
+                    "value": "NTSB"
+                },
+                {
+                    "docCount": 15,
+                    "value": "OFCCP"
+                },
+                {
+                    "docCount": 15,
+                    "value": "WAPA"
+                },
+                {
+                    "docCount": 14,
+                    "value": "DFC"
+                },
+                {
+                    "docCount": 14,
+                    "value": "EEOC"
+                },
+                {
+                    "docCount": 14,
+                    "value": "MSHFRC"
+                },
+                {
+                    "docCount": 14,
+                    "value": "NASA"
+                },
+                {
+                    "docCount": 13,
+                    "value": "CCC"
+                },
+                {
+                    "docCount": 13,
+                    "value": "CRB"
+                },
+                {
+                    "docCount": 13,
+                    "value": "DOJ"
+                },
+                {
+                    "docCount": 13,
+                    "value": "FCIC"
+                },
+                {
+                    "docCount": 13,
+                    "value": "NEIGHBOR"
+                },
+                {
+                    "docCount": 11,
+                    "value": "BIA"
+                },
+                {
+                    "docCount": 11,
+                    "value": "EIA"
+                },
+                {
+                    "docCount": 11,
+                    "value": "NASS"
+                },
+                {
+                    "docCount": 11,
+                    "value": "NIFA"
+                },
+                {
+                    "docCount": 10,
+                    "value": "ATBCB"
+                },
+                {
+                    "docCount": 10,
+                    "value": "GEO"
+                },
+                {
+                    "docCount": 9,
+                    "value": "ONRR"
+                },
+                {
+                    "docCount": 9,
+                    "value": "USCC"
+                },
+                {
+                    "docCount": 8,
+                    "value": "ASC"
+                },
+                {
+                    "docCount": 8,
+                    "value": "EAB"
+                },
+                {
+                    "docCount": 8,
+                    "value": "IAF"
+                },
+                {
+                    "docCount": 8,
+                    "value": "NNSA"
+                },
+                {
+                    "docCount": 7,
+                    "value": "ACUS"
+                },
+                {
+                    "docCount": 7,
+                    "value": "DNFSB"
+                },
+                {
+                    "docCount": 7,
+                    "value": "FASAB"
+                },
+                {
+                    "docCount": 7,
+                    "value": "GAO"
+                },
+                {
+                    "docCount": 6,
+                    "value": "CSB"
+                },
+                {
+                    "docCount": 6,
+                    "value": "FCSIC"
+                },
+                {
+                    "docCount": 6,
+                    "value": "JBEA"
+                },
+                {
+                    "docCount": 6,
+                    "value": "PC"
+                },
+                {
+                    "docCount": 5,
+                    "value": "ACF"
+                },
+                {
+                    "docCount": 5,
+                    "value": "ARS"
+                },
+                {
+                    "docCount": 5,
+                    "value": "CIGIE"
+                },
+                {
+                    "docCount": 5,
+                    "value": "CSOSA"
+                },
+                {
+                    "docCount": 5,
+                    "value": "DOC"
+                },
+                {
+                    "docCount": 5,
+                    "value": "DRBC"
+                },
+                {
+                    "docCount": 5,
+                    "value": "HHSIG"
+                },
+                {
+                    "docCount": 5,
+                    "value": "SAMHSA"
+                },
+                {
+                    "docCount": 5,
+                    "value": "SJI"
+                },
+                {
+                    "docCount": 5,
+                    "value": "SLSDC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "ATF"
+                },
+                {
+                    "docCount": 4,
+                    "value": "BOP"
+                },
+                {
+                    "docCount": 4,
+                    "value": "FIRSTNET"
+                },
+                {
+                    "docCount": 4,
+                    "value": "HPAC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "NCD"
+                },
+                {
+                    "docCount": 4,
+                    "value": "NTIA"
+                },
+                {
+                    "docCount": 4,
+                    "value": "ODNI"
+                },
+                {
+                    "docCount": 4,
+                    "value": "ONDCP"
+                },
+                {
+                    "docCount": 4,
+                    "value": "OSC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "USIP"
+                },
+                {
+                    "docCount": 4,
+                    "value": "USJC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "ACL"
+                },
+                {
+                    "docCount": 3,
+                    "value": "BPA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "CIA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "COFA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "DC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "EOIR"
+                },
+                {
+                    "docCount": 3,
+                    "value": "NSPC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "RITA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "SSS"
+                },
+                {
+                    "docCount": 3,
+                    "value": "USSC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ABMC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ACFR"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ADF"
+                },
+                {
+                    "docCount": 2,
+                    "value": "CDFI"
+                },
+                {
+                    "docCount": 2,
+                    "value": "EOP"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FLRA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "GAPFAC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "GPO"
+                },
+                {
+                    "docCount": 2,
+                    "value": "HRSA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "MKU"
+                },
+                {
+                    "docCount": 2,
+                    "value": "MSPB"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NIH"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NIST"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NWTRB"
+                },
+                {
+                    "docCount": 2,
+                    "value": "OSHRC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "PCLOB"
+                },
+                {
+                    "docCount": 2,
+                    "value": "PHS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "USAGM"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BLS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CITA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ERS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ERULE"
+                },
+                {
+                    "docCount": 1,
+                    "value": "GCERC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "IAIA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "IPEC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "LMSO"
+                },
+                {
+                    "docCount": 1,
+                    "value": "MMC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "PACIFIC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "RMA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USDAIG"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USPC"
+                }
+            ],
+            "commentEndDate": [],
+            "postedDate": [
+                {
+                    "docCount": 6,
+                    "label": "Last 15 Days",
+                    "fromDate": "2024-09-29 00:00:00",
+                    "toDate": "2024-10-13 23:59:59"
+                },
+                {
+                    "docCount": 10,
+                    "label": "Last 30 Days",
+                    "fromDate": "2024-09-14 00:00:00",
+                    "toDate": "2024-10-13 23:59:59"
+                },
+                {
+                    "docCount": 33,
+                    "label": "Last 90 Days",
+                    "fromDate": "2024-07-16 00:00:00",
+                    "toDate": "2024-10-13 23:59:59"
+                }
+            ]
+        },
+        "filters": {
+            "postedDate": {
+                "fromDate": "2022-01-01",
+                "toDate": "2023-01-01"
+            },
+            "agencyId": [
+                {
+                    "label": "CFPB",
+                    "value": "CFPB"
+                }
+            ]
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "numberOfElements": 147,
+        "pageNumber": 1,
+        "pageSize": 250,
+        "totalElements": 147,
+        "totalPages": 1,
+        "firstPage": true,
+        "lastPage": true
+    }
+}

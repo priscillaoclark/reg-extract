@@ -719,39 +719,33 @@
             "postedDate": [
                 {
                     "docCount": 1,
-                    "label": "Today",
-                    "fromDate": "2024-10-11 00:00:00",
-                    "toDate": "2024-10-11 23:59:59"
-                },
-                {
-                    "docCount": 1,
                     "label": "Last 3 Days",
-                    "fromDate": "2024-10-09 00:00:00",
-                    "toDate": "2024-10-11 23:59:59"
+                    "fromDate": "2024-10-11 00:00:00",
+                    "toDate": "2024-10-13 23:59:59"
                 },
                 {
                     "docCount": 1,
                     "label": "Last 7 Days",
-                    "fromDate": "2024-10-05 00:00:00",
-                    "toDate": "2024-10-11 23:59:59"
+                    "fromDate": "2024-10-07 00:00:00",
+                    "toDate": "2024-10-13 23:59:59"
                 },
                 {
-                    "docCount": 2,
+                    "docCount": 1,
                     "label": "Last 15 Days",
-                    "fromDate": "2024-09-27 00:00:00",
-                    "toDate": "2024-10-11 23:59:59"
+                    "fromDate": "2024-09-29 00:00:00",
+                    "toDate": "2024-10-13 23:59:59"
                 },
                 {
                     "docCount": 3,
                     "label": "Last 30 Days",
-                    "fromDate": "2024-09-12 00:00:00",
-                    "toDate": "2024-10-11 23:59:59"
+                    "fromDate": "2024-09-14 00:00:00",
+                    "toDate": "2024-10-13 23:59:59"
                 },
                 {
                     "docCount": 9,
                     "label": "Last 90 Days",
-                    "fromDate": "2024-07-14 00:00:00",
-                    "toDate": "2024-10-11 23:59:59"
+                    "fromDate": "2024-07-16 00:00:00",
+                    "toDate": "2024-10-13 23:59:59"
                 }
             ]
         },

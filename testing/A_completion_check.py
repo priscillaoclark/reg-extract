@@ -44,7 +44,7 @@ from _02_fix_missing import upload_single_document
 
 # For doc_id in missing, loop through and upload the document
 for doc in missing['doc_id']:
-    #upload_single_document(doc, 'federal_documents')
+    upload_single_document(doc, 'federal_documents')
     print(doc)
 
 # Merge the two DataFrames on the doc_id column and show which doc_ids are not in the summaries DataFrame

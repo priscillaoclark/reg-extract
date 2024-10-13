@@ -81,8 +81,8 @@ def load_json_to_mongodb(json_data, collection):
 
 def extract_federal_history():
     # Date range for search
-    startDate = '2023-11-01'
-    endDate = '2023-12-01'
+    startDate = '2022-01-01'
+    endDate = '2023-01-01'
     search_term = None
     document_id = None
     docket_id = None
@@ -101,7 +101,7 @@ def extract_federal_history():
 
     # Import agency IDs from agencies.json
     try:
-        with open("data/federal/agencies.json") as f:
+        with open("data/federal/agencies_svb.json") as f:
             agencies = json.load(f)
     except FileNotFoundError:
         print("agencies.json file not found. Please ensure it exists in the data/ directory.")
@@ -123,7 +123,7 @@ def extract_federal_history():
                 print(f"No documents found for {agency_id}")
             else:
                 print(f"{len(document_ids)} documents found for {agency_id}")
-                save_json(response, f"data/federal/documents/{startDate}_{agency_id}.json")
+                save_json(response, f"data/federal/documents/{startDate}_{endDate}_{agency_id}.json")
                 #load_json_to_mongodb(response, collection_1)
 
                 # Save the details for each document to a separate JSON file and load into MongoDB
@@ -134,9 +134,9 @@ def extract_federal_history():
                     else:
                         details = get_document_details(doc_id)
                         if details:
-                            print(f"Loading document {doc_id}...")
                             # save_json(details, f"data/federal/document_details/{startDate}_{doc_id}.json")
                             try: 
+                                print(f"Loading document {doc_id}...")
                                 load_json_to_mongodb(details, collection)
                             except Exception as e:
                                 print(f"Error loading document {doc_id}: {e}")
@@ -147,7 +147,7 @@ def extract_federal_history():
                 else:
                     try:
                         for doc_id in document_ids:
-                            details = get_document_details(doc_id)
+                            #details = get_document_details(doc_id)
                             if details:
                                 if details['data']['attributes'] and 'fileFormats' in details['data']['attributes']:
                                     for attachment in details['data']['attributes']['fileFormats']:
@@ -156,11 +156,13 @@ def extract_federal_history():
                                             response = requests.get(attachment['fileUrl'])
                                             with open(f"data/federal/attachments/{doc_id}.htm", 'wb') as f:
                                                 f.write(response.content)
+                            else:
+                                print(f"No fileFormats found for {doc_id}")
                     except Exception as e:
                         print(f"Error downloading attachments for {agency_id}: {e}")
                 
             # List the number of documents returned for each agency to a log file
-            with open(f"data/federal/logs/{startDate}_log.txt", "a") as f:
+            with open(f"data/federal/logs/{startDate}_{endDate}_log.txt", "a") as f:
                 f.write(f"{agency_id}: {len(document_ids)}\n")
                 f.write("---\n")
 

@@ -31,7 +31,7 @@ print(fileUrls_htm)
 for fileUrl in fileUrls_htm:
     #Strip out doc_id from fileUrl and remove the extension
     doc_id = fileUrl.split('/')[-2]
-    
+    print("Downloading file for doc_id: ", doc_id)
     response = requests.get(fileUrl)
     with open(f"data/federal/attachments/{doc_id}.htm", 'wb') as f:
         f.write(response.content)
@@ -54,7 +54,7 @@ fileUrls_pdf = list(set(fileUrls_pdf))
 for fileUrl in fileUrls_pdf:
     #Strip out doc_id from fileUrl and remove the extension
     doc_id = fileUrl.split('/')[-2]
-    
+    print("Downloading file for doc_id: ", doc_id)
     response = requests.get(fileUrl)
     with open(f"data/federal/attachments/{doc_id}.pdf", 'wb') as f:
         f.write(response.content)
@@ -77,7 +77,7 @@ fileUrls_docx = list(set(fileUrls_docx))
 for fileUrl in fileUrls_docx:
     #Strip out doc_id from fileUrl and remove the extension
     doc_id = fileUrl.split('/')[-2]
-    
+    print("Downloading file for doc_id: ", doc_id)
     response = requests.get(fileUrl)
     with open(f"data/federal/attachments/{doc_id}.docx", 'wb') as f:
         f.write(response.content)
