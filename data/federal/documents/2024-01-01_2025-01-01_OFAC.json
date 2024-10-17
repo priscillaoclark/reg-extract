@@ -1,0 +1,5214 @@
+{
+    "data": [
+        {
+            "id": "OFAC-2024-0005-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-16T18:42:19Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-23729",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": "2024-12-17T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Rough Diamonds Control Regulations",
+                "postedDate": "2024-10-16T04:00:00Z",
+                "docketId": "OFAC-2024-0005",
+                "subtype": null,
+                "commentStartDate": "2024-10-16T04:00:00Z",
+                "openForComment": true,
+                "objectId": "09000064867d07ed"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC-2024-0005-0001"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1975",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-11T11:36:53Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-23592",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-10-11T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-10-11T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867c973e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1975"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1974",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-10T11:36:32Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-23445",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-10-10T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-10-10T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867c40a8"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1974"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1973",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-10-08T11:50:34Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-23217",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Reporting, Procedures and Penalties Regulations",
+                "postedDate": "2024-10-08T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-10-08T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867b91a5"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1973"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1972",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-07T12:07:33Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-23082",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-10-07T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-10-07T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867b68bf"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1972"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1971",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-07T12:07:30Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-23154",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-10-07T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-10-07T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867b6883"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1971"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1967",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-07T12:05:39Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-23083",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-10-07T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-10-07T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867b5258"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1967"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1969",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-07T12:06:32Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-23040",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-10-07T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-10-07T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867b67ad"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1969"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1968",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-07T12:06:03Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-23084",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-10-07T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-10-07T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867b6705"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1968"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1970",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-07T12:07:10Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-23043",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-10-07T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-10-07T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867b683b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1970"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1965",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-04T11:54:08Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-22954",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-10-04T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-10-04T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867abc0f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1965"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1966",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-10-04T11:54:44Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-22934",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 79 and 80",
+                "postedDate": "2024-10-04T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-10-04T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867abca8"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1966"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1964",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-10-04T11:53:53Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-22936",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Russian Harmful Foreign Activities Sanctions Regulations Web General License 76A",
+                "postedDate": "2024-10-04T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-10-04T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867abbbb"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1964"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1963",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-10-04T11:53:03Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-22935",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Russian Harmful Foreign Activities Sanctions Regulations Web General License 8H",
+                "postedDate": "2024-10-04T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-10-04T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867aa1ef"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1963"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1962",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-26T12:28:05Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-22111",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-09-26T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-09-26T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648678e4ba"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1962"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1960",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-26T12:26:10Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-21975",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-09-26T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-09-26T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648678e2ec"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1960"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1961",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-09-26T12:26:15Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-21925",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Global Magnitsky Sanctions Regulations Web General License 8",
+                "postedDate": "2024-09-26T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-09-26T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648678e2ef"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1961"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1959",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-09-25T12:28:37Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-21796",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 25E, 25F, 108, and 109",
+                "postedDate": "2024-09-25T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-09-25T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486782e9f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1959"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1958",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-09-25T12:26:41Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-21798",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Russian Harmful Foreign Activities Sanctions Regulations Determinations",
+                "postedDate": "2024-09-25T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-09-25T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486782cd5"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1958"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1957",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-20T12:04:48Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-21490",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-09-20T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-09-20T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648675ebeb"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1957"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1956",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-19T12:17:44Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-21331",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-09-19T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-09-19T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648674ca42"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1956"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1955",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-09-17T12:01:41Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-20857",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Provisions Related to Blocking and Other Actions Related to Specific Property or Interests in Property",
+                "postedDate": "2024-09-17T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-09-17T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648672f854"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1955"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1953",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-16T12:07:36Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-20934",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-09-16T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-09-16T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486722c96"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1953"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1954",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-16T12:08:20Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-20992",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-09-16T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-09-16T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486722d0f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1954"
+            }
+        },
+        {
+            "id": "OFAC-2024-0004-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-10-15T01:00:57Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-20674",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": "2024-10-16T03:59:59Z",
+                "title": "Reporting, Procedures and Penalties Regulations",
+                "postedDate": "2024-09-13T04:00:00Z",
+                "docketId": "OFAC-2024-0004",
+                "subtype": null,
+                "commentStartDate": "2024-09-13T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064866fa895"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC-2024-0004-0001"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1951",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-13T12:25:27Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-20824",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-09-13T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-09-13T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064866fa893"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1951"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1950",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-13T12:24:28Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-20853",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-09-13T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-09-13T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064866fa7ad"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1950"
+            }
+        },
+        {
+            "id": "OFAC-2024-0003-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-17T16:13:58Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-20675",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": "2024-11-13T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Reporting, Procedures and Penalties Regulations and Other Information Collections Maintained by the Office of Foreign Assets Control",
+                "postedDate": "2024-09-12T04:00:00Z",
+                "docketId": "OFAC-2024-0003",
+                "subtype": null,
+                "commentStartDate": "2024-09-12T04:00:00Z",
+                "openForComment": true,
+                "objectId": "09000064866eeb68"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC-2024-0003-0001"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1948",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-10T12:18:50Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-20280",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-09-10T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-09-10T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064866e0bf2"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1948"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1947",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-09-09T12:38:05Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-20224",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Venezuela Sanctions Regulations Web General License 5P",
+                "postedDate": "2024-09-09T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-09-09T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064866cf81c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1947"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1943",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-06T12:08:40Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-20139",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-09-06T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-09-06T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064866cae80"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1943"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1945",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-09-06T12:10:49Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-19919",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Belarus Sanctions Regulations and Russian Harmful Foreign Activities Sanctions Regulations Web General License 101",
+                "postedDate": "2024-09-06T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-09-06T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064866cb5e0"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1945"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1946",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-09-06T12:10:55Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-19927",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 103, 104, 105, 106, and 107",
+                "postedDate": "2024-09-06T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-09-06T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064866cb623"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1946"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1944",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-09-06T12:09:15Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-19913",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Russia Harmful Activities Sanctions Regulations Web General Licenses 99A, 100A, and 102",
+                "postedDate": "2024-09-06T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-09-06T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064866caf80"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1944"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1942",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-08-26T12:22:03Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-19065",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-08-26T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-08-26T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648669bfae"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1942"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1941",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-08-22T13:11:12Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-18750",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Russian Sanctions Regulations Web General Licenses 13J and 55B",
+                "postedDate": "2024-08-22T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-08-22T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648665c44d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1941"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1940",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-08-21T11:42:41Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-18706",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-08-21T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-08-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486659680"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1940"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1938",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-08-21T11:41:58Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-18747",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Adding a General License to Burma Sanctions Regulations and Correcting References in Sudan Stabilization and Ukraine/Russia-Related Sanctions Regulations",
+                "postedDate": "2024-08-21T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-08-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064866595e3"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1938"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1939",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-08-21T11:42:39Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-18754",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Venezuela Sanctions Regulations Web General License 40C",
+                "postedDate": "2024-08-21T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-08-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648665967e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1939"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1937",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-08-19T12:25:13Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-18452",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-08-19T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-08-19T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648665251f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1937"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1936",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-08-15T12:12:39Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-18274",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-08-15T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-08-15T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648664a162"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1936"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1935",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-08-15T12:10:52Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-18262",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-08-15T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-08-15T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486649ba8"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1935"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1932",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-08-14T12:13:45Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-18101",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-08-14T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-08-14T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486643d57"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1932"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1933",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-08-14T12:14:37Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-18102",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-08-14T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-08-14T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486643e07"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1933"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1934",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-08-14T12:14:43Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-17804",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 6D, 8J, 25D, 98, 99, and 100",
+                "postedDate": "2024-08-14T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-08-14T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486643e0b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1934"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1931",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-08-12T11:58:17Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-17814",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-08-12T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-08-12T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486633d7f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1931"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1930",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-08-02T12:14:14Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-17005",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-08-02T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-08-02T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486614787"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1930"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1929",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-07-29T12:08:11Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-16609",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-07-29T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-07-29T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486609fee"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1929"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1926",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-07-26T12:08:21Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-16479",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Reporting Instructions under the Rebuilding Economic Prosperity and Opportunity for Ukrainians Act",
+                "postedDate": "2024-07-26T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-07-26T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486606e81"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1926"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1927",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-07-26T12:08:23Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-16510",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-07-26T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-07-26T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486606e83"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1927"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1928",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-07-26T12:08:46Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-16516",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-07-26T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-07-26T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486606ec0"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1928"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1925",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-07-25T12:07:43Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-16343",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-07-25T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-07-25T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064866051da"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1925"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1924",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-07-23T12:14:07Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-16169",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-07-23T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-07-23T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064866022ee"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1924"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1923",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-07-23T12:12:12Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-16133",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-07-23T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-07-23T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648660214a"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1923"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1922",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-07-22T12:17:56Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-16000",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Actions",
+                "postedDate": "2024-07-22T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-07-22T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865fdac1"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1922"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1921",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-07-18T12:10:42Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-15709",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Russian Harmful Foreign Activities Sanctions Regulations Determination",
+                "postedDate": "2024-07-18T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-07-18T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865f7ce4"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1921"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1920",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-07-16T12:04:01Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-15633",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Actions",
+                "postedDate": "2024-07-16T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-07-16T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865f1703"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1920"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1919",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-07-12T11:43:14Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-15285",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-07-12T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-07-12T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865eb146"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1919"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1918",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-07-11T12:13:52Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-15231",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-07-11T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-07-11T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865e7fb5"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1918"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1917",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-07-08T12:16:42Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-14829",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Actions",
+                "postedDate": "2024-07-08T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-07-08T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865dee22"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1917"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1916",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-07-01T12:34:19Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-14398",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-07-01T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-07-01T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865d50ba"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1916"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1915",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-06-28T12:29:43Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-14292",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-06-28T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-06-28T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865d0a5c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1915"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1914",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-06-27T12:08:10Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-14071",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-06-27T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-06-27T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865cd69e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1914"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1913",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-06-25T11:49:01Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-13888",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-06-25T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-06-25T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865c7440"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1913"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1911",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-06-24T12:24:34Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-13802",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-06-24T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-06-24T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865c53ab"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1911"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1910",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-06-24T12:23:16Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-13794",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-06-24T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-06-24T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865c51ff"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1910"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1912",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-06-24T12:24:44Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-13791",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-06-24T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-06-24T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865c53f5"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1912"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1909",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-06-21T12:07:53Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-13630",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Actions",
+                "postedDate": "2024-06-21T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-06-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865c2a1e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1909"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1908",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-06-20T12:55:18Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-13453",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-06-20T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-06-20T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865c0d74"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1908"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1906",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-06-17T12:35:59Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-13261",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-06-17T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-06-17T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865b9ed7"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1906"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1907",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-06-17T12:36:04Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-13197",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-06-17T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-06-17T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865b9ede"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1907"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1905",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-06-14T12:09:02Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-13174",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-06-14T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-06-14T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865b5e37"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1905"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1904",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-06-12T12:25:21Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-12852",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-06-12T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-06-12T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865adbb0"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1904"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1903",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-06-10T12:18:00Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-12308",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 8I, 13I, and 94",
+                "postedDate": "2024-06-10T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-06-10T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865a6a28"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1903"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1901",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-06-10T12:17:14Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-12312",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 95, 96, and 97",
+                "postedDate": "2024-06-10T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-06-10T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865a6902"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1901"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1902",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-06-10T12:17:27Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-12331",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Global Terrorism Sanctions Regulations and Foreign Terrorist Organization Sanctions Regulations Web General Licenses 9, 10, 11, 12, and 13",
+                "postedDate": "2024-06-10T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-06-10T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865a6938"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1902"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1900",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-06-10T12:17:06Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-12332",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Global Terrorism Sanctions Regulations Web General License 28",
+                "postedDate": "2024-06-10T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-06-10T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865a64fd"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1900"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1898",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-06-06T12:13:11Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-12309",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Publication of the List of Areas of Northeast and Northwest Syria in Which Activities are Authorized",
+                "postedDate": "2024-06-06T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-06-06T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648659993a"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1898"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1899",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-06-06T12:13:32Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-12317",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Syrian Sanctions",
+                "postedDate": "2024-06-06T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-06-06T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865999bd"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1899"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1897",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-06-06T12:12:45Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-12372",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Russian Harmful Foreign Activities Sanctions Regulations Determinations",
+                "postedDate": "2024-06-06T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-06-06T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865988a4"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1897"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1896",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-06-05T11:58:23Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-12304",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-06-05T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-06-05T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486596f74"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1896"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1893",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-06-04T11:39:03Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-12159",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-06-04T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-06-04T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865947f6"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1893"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1895",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-06-04T11:39:37Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-12185",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-06-04T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-06-04T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865948d3"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1895"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1894",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-06-04T11:39:24Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-12206",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-06-04T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-06-04T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486594842"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1894"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1892",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-06-03T12:33:49Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-12026",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Actions",
+                "postedDate": "2024-06-03T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-06-03T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486591e1a"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1892"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1891",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-05-30T11:51:35Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-11846",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Publication of Venezuela Sanctions Regulations Web General License 8N",
+                "postedDate": "2024-05-30T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-05-30T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648658c1eb"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1891"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1890",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-05-29T11:42:36Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-11618",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Cuban Assets Control",
+                "postedDate": "2024-05-29T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-05-29T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648658906f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1890"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1888",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-05-21T12:02:12Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-11098",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-05-21T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-05-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865759eb"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1888"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1889",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-05-21T12:02:50Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-11099",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-05-21T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-05-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486575abe"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1889"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1886",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-05-20T11:57:35Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-10963",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-05-20T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-05-20T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486572a26"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1886"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1885",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-05-20T11:57:19Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-11006",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-05-20T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-05-20T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648657298f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1885"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1887",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-05-20T11:58:31Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-11001",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-05-20T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-05-20T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486572b4d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1887"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1884",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-05-17T12:34:14Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-10721",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Iranian Transactions and Sanctions Regulations",
+                "postedDate": "2024-05-17T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-05-17T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648656bbd8"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1884"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1883",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-05-17T12:33:24Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-10723",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "List of Services, Software, and Hardware Incident to Communications",
+                "postedDate": "2024-05-17T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-05-17T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648656bace"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1883"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1882",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-05-17T12:31:59Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-10722",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "List of Services, Software, and Hardware Incident to Communications",
+                "postedDate": "2024-05-17T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-05-17T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648656a340"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1882"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1881",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-05-16T12:24:59Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-10161",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-05-16T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-05-16T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486569588"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1881"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1880",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-05-13T12:36:13Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-10351",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-05-13T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-05-13T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648655c886"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1880"
+            }
+        },
+        {
+            "id": "OFAC-2024-0002-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-06-15T01:00:34Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-10033",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": "2024-06-11T03:59:59Z",
+                "title": "Reporting, Procedures and Penalties Regulations",
+                "postedDate": "2024-05-10T04:00:00Z",
+                "docketId": "OFAC-2024-0002",
+                "subtype": null,
+                "commentStartDate": "2024-05-10T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865586e9"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC-2024-0002-0001"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1878",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-05-09T12:09:47Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-10076",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Actions",
+                "postedDate": "2024-05-09T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-05-09T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486553256"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1878"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1877",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-05-08T12:13:36Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-09971",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-05-08T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-05-08T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648654e03c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1877"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1876",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-05-06T12:29:56Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-09788",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-05-06T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-05-06T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648654253d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1876"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1875",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-05-02T12:39:06Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-09530",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Venezuela Sanctions Regulations Web General Licenses 5O, 8M, and 44A",
+                "postedDate": "2024-05-02T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-05-02T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648652f04a"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1875"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1874",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-05-01T12:13:38Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-09389",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-05-01T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-05-01T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648652cb1e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1874"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1873",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-04-30T12:12:47Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-09255",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-04-30T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-04-30T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865285c8"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1873"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1872",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-04-30T12:12:15Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-09252",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-04-30T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-04-30T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486528525"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1872"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1870",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-04-26T12:23:33Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-09046",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-04-26T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-04-26T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864f27e1"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1870"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1871",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-04-26T12:23:46Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-09043",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-04-26T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-04-26T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864f283b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1871"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1868",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-04-24T11:57:23Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-08726",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-04-24T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-04-24T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864eb4c4"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1868"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1869",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-04-24T11:57:49Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-08697",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-04-24T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-04-24T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864eb95c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1869"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1867",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-04-23T12:20:30Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-08667",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-04-23T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-04-23T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864e6e74"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1867"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1866",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-04-23T12:20:03Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-08633",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-04-23T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-04-23T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864e6e28"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1866"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1865",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-04-19T11:48:45Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-08351",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-04-19T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-04-19T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864e1833"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1865"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1863",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-04-19T11:47:45Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-08349",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-04-19T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-04-19T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864e16e6"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1863"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1864",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-04-19T11:47:56Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-08350",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-04-19T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-04-19T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864e172c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1864"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1862",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-04-18T16:19:50Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-08366",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Publication of Directive 1",
+                "postedDate": "2024-04-18T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-04-18T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864de104"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1862"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1860",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-04-17T11:52:04Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-08144",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Zimbabwe Sanctions Regulations",
+                "postedDate": "2024-04-17T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-04-17T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864dc1ea"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1860"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1859",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-04-17T11:51:45Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-08160",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-04-17T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-04-17T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864dc1a3"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1859"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1861",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-04-17T11:52:31Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-08165",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-04-17T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-04-17T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864dc2d0"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1861"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1858",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-04-08T12:11:39Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-07306",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-04-08T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-04-08T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864bf7e9"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1858"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1857",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-04-04T12:28:04Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-07160",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-04-04T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-04-04T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864b9862"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1857"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1855",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-04-04T12:27:29Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-07159",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-04-04T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-04-04T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864b9794"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1855"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1856",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-04-04T12:27:47Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-07161",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-04-04T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-04-04T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864b9817"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1856"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1854",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-04-03T12:26:25Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-07007",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-04-03T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-04-03T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864b6cfd"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1854"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1852",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-04-02T12:14:45Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-06891",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-04-02T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-04-02T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864b56c9"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1852"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1853",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-04-02T12:14:54Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-06889",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-04-02T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-04-02T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864b5701"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1853"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1851",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-04-01T12:13:07Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-06836",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-04-01T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-04-01T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864b17f3"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1851"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1850",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-03-29T12:15:05Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-06728",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-03-29T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-03-29T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864a278c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1850"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1849",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-03-29T12:13:59Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-06732",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-03-29T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-03-29T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864a267e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1849"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1848",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-03-27T12:34:20Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-06463",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-03-27T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-03-27T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648649b67e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1848"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1845",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-03-25T12:19:46Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-06235",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-03-25T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-03-25T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486495195"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1845"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1847",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-03-25T12:20:14Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-06231",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-03-25T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-03-25T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486495236"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1847"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1846",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-03-25T12:19:50Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-06238",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-03-25T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-03-25T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864951f6"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1846"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1844",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-03-25T12:17:26Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-06237",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-03-25T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-03-25T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864947f6"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1844"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1842",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-03-21T12:22:54Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-06031",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Venezuela Sanctions Regulations Web General License 45B",
+                "postedDate": "2024-03-21T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-03-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648648ba92"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1842"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1843",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-03-21T12:23:10Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-06033",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Global Terrorism Sanctions Regulations Web General License 29",
+                "postedDate": "2024-03-21T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-03-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648648baf2"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1843"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1841",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-03-21T12:22:47Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-05989",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Russian Harmful Foreign Activities Sanctions Regulations Web General License 83A",
+                "postedDate": "2024-03-21T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-03-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648648ba45"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1841"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1840",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-03-21T12:22:45Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-05990",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 88, 88A, 89, 90, 91, 91A, 92, and 93",
+                "postedDate": "2024-03-21T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-03-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648648ba42"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1840"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1839",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-03-21T12:21:34Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-05953",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-03-21T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-03-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648648b0f0"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1839"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1838",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-03-20T13:12:58Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-05764",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-03-20T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-03-20T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486487a21"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1838"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1837",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-03-20T13:12:39Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-05908",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-03-20T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-03-20T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486487972"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1837"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1836",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-03-20T12:36:00Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-05620",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-03-18T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-03-18T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486481130"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1836"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1835",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-03-14T12:23:01Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-05352",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-03-14T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-03-14T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648647b0ff"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1835"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1834",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-03-12T12:17:49Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-05207",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Global Magnitsky Sanctions Regulations",
+                "postedDate": "2024-03-12T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-03-12T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648647464d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1834"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1833",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-03-11T12:24:49Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-05045",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-03-11T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-03-11T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648647270c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1833"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1832",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-03-08T18:04:23Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-04964",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-03-08T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-03-08T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648646b25f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1832"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1831",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-03-07T13:19:08Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-04871",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-03-07T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-03-07T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864692cd"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1831"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1827",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-03-07T13:16:27Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-04855",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Russian Harmful Foreign Activities Sanctions Regulations Determinations",
+                "postedDate": "2024-03-07T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-03-07T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486468e38"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1827"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1830",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-03-07T13:18:36Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-04893",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-03-07T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-03-07T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864691ec"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1830"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1828",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-03-07T13:17:29Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-04856",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Western Balkans Stabilization Regulations Web General Licenses 2 and 3",
+                "postedDate": "2024-03-07T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-03-07T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486469049"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1828"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1829",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-03-07T13:17:45Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-04851",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Venezuela Sanctions Regulations Web General License 43A",
+                "postedDate": "2024-03-07T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-03-07T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486469088"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1829"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1826",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-03-05T13:27:25Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-04503",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Updating Contact Information and Grammatical Terminology in Office of Foreign Assets Control Regulations",
+                "postedDate": "2024-03-05T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-03-05T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648645ecbd"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1826"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1825",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-03-05T13:27:16Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-04500",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Updates to the Darfur Sanctions Regulations",
+                "postedDate": "2024-03-05T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-03-05T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648645ec6d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1825"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1824",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-03-04T14:26:30Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-04488",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-03-04T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-03-04T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648645438e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1824"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1823",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-02-29T13:15:09Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-04241",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-02-29T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-02-29T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486440799"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1823"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1822",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-02-23T14:35:04Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-03711",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-02-23T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-02-23T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486429587"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1822"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1820",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-02-22T13:44:50Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-03627",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Global Terrorism Sanctions Regulations Web General Licenses 22, 23, 24, 25, 26, and 27",
+                "postedDate": "2024-02-22T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-02-22T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486425550"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1820"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1817",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-02-22T13:43:40Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-03629",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 13H and 86",
+                "postedDate": "2024-02-22T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-02-22T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486425030"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1817"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1819",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-02-22T13:44:46Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-03628",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Russian Harmful Foreign Activities Sanctions Regulations Web General License 87",
+                "postedDate": "2024-02-22T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-02-22T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648642554d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1819"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1818",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-02-22T13:44:21Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-03625",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Burma Sanctions Regulations Web General License 6",
+                "postedDate": "2024-02-22T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-02-22T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864250ba"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1818"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1821",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-02-22T13:44:56Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-03626",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Venezuela Sanctions Regulations Web General License 5N",
+                "postedDate": "2024-02-22T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-02-22T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648642559f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1821"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1816",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-02-16T13:16:14Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-03255",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "North Korea Sanctions Regulations",
+                "postedDate": "2024-02-16T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-02-16T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648640b5de"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1816"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1814",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-02-13T13:21:49Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-02855",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-02-13T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-02-13T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486403b34"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1814"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1815",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-02-13T13:22:29Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-02857",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-02-13T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-02-13T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648640406c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1815"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1813",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-02-08T13:17:10Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-02240",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-02-08T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-02-08T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064863f3a86"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1813"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1810",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-02-07T13:19:47Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-02496",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-02-07T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-02-07T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064863ee45f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1810"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1811",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-02-07T13:22:17Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-02498",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-02-07T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-02-07T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064863ee5f4"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1811"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1812",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-02-07T13:22:39Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-02497",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-02-07T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-02-07T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064863ee687"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1812"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1809",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-02-06T13:33:52Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-02274",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-02-06T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-02-06T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064863e7d9a"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1809"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1807",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-02-02T13:05:05Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-02053",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-02-02T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-02-02T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064863d7b63"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1807"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1808",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-02-02T13:05:19Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-02104",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-02-02T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-02-02T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064863d7bd5"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1808"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1806",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-02-02T13:04:46Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-02052",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-02-02T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-02-02T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064863d7b15"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1806"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1805",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-01-31T13:06:18Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-01918",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-01-31T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-01-31T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064863d38a5"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1805"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1803",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-01-30T13:10:45Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-01787",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-01-30T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-01-30T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064863d05ca"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1803"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1804",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-01-30T13:10:52Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-01775",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-01-30T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-01-30T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064863d05cf"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1804"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1802",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-01-29T13:16:45Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-01657",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-01-29T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-01-29T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064863cdc59"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1802"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1801",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-01-26T12:52:01Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-01556",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-01-26T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-01-26T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064863c59dd"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1801"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1799",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-01-23T12:55:51Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-01246",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-01-23T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-01-23T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064863b91b1"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1799"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1800",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-01-23T12:56:06Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-01245",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-01-23T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-01-23T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064863b91fe"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1800"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1798",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-01-19T13:42:23Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-00971",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-01-19T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-01-19T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064863abfbd"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1798"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1797",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-01-18T13:28:05Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-00879",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Venezuela Sanctions Regulations Web General License 45A",
+                "postedDate": "2024-01-18T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-01-18T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064863a773a"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1797"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1796",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-01-17T13:23:52Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-00734",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 81, 82, 83, 84, and 85",
+                "postedDate": "2024-01-17T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-01-17T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064863a4e26"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1796"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1795",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-01-12T13:12:03Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-00594",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Civil Monetary Penalty Inflation Adjustment",
+                "postedDate": "2024-01-12T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-01-12T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486394be9"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1795"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1793",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-01-10T13:02:29Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-00273",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-01-10T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-01-10T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648638e4ee"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1793"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1794",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-01-10T13:02:55Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-00274",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-01-10T05:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-01-10T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648638f0e4"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1794"
+            }
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "documentType": [
+                {
+                    "docCount": 132,
+                    "label": "Notice"
+                },
+                {
+                    "docCount": 52,
+                    "label": "Rule"
+                }
+            ],
+            "subtype": [],
+            "withinCommentPeriod": [
+                {
+                    "docCount": 2,
+                    "label": "true"
+                },
+                {
+                    "docCount": 182,
+                    "label": "false"
+                }
+            ],
+            "agencyId": [
+                {
+                    "docCount": 20739,
+                    "value": "EPA"
+                },
+                {
+                    "docCount": 12281,
+                    "value": "FDA"
+                },
+                {
+                    "docCount": 7727,
+                    "value": "FAA"
+                },
+                {
+                    "docCount": 1970,
+                    "value": "DOT"
+                },
+                {
+                    "docCount": 1621,
+                    "value": "SEC"
+                },
+                {
+                    "docCount": 1405,
+                    "value": "FERC"
+                },
+                {
+                    "docCount": 1377,
+                    "value": "OSHA"
+                },
+                {
+                    "docCount": 1222,
+                    "value": "FMCSA"
+                },
+                {
+                    "docCount": 917,
+                    "value": "ITA"
+                },
+                {
+                    "docCount": 830,
+                    "value": "FWS"
+                },
+                {
+                    "docCount": 731,
+                    "value": "FRA"
+                },
+                {
+                    "docCount": 692,
+                    "value": "USCG"
+                },
+                {
+                    "docCount": 678,
+                    "value": "USPS"
+                },
+                {
+                    "docCount": 574,
+                    "value": "NRC"
+                },
+                {
+                    "docCount": 573,
+                    "value": "CPSC"
+                },
+                {
+                    "docCount": 509,
+                    "value": "CMS"
+                },
+                {
+                    "docCount": 479,
+                    "value": "NOAA"
+                },
+                {
+                    "docCount": 448,
+                    "value": "PHMSA"
+                },
+                {
+                    "docCount": 438,
+                    "value": "NHTSA"
+                },
+                {
+                    "docCount": 437,
+                    "value": "FEMA"
+                },
+                {
+                    "docCount": 413,
+                    "value": "FCC"
+                },
+                {
+                    "docCount": 406,
+                    "value": "VA"
+                },
+                {
+                    "docCount": 389,
+                    "value": "MARAD"
+                },
+                {
+                    "docCount": 374,
+                    "value": "ITC"
+                },
+                {
+                    "docCount": 359,
+                    "value": "USCIS"
+                },
+                {
+                    "docCount": 284,
+                    "value": "NCUA"
+                },
+                {
+                    "docCount": 282,
+                    "value": "ED"
+                },
+                {
+                    "docCount": 273,
+                    "value": "FRS"
+                },
+                {
+                    "docCount": 269,
+                    "value": "DOS"
+                },
+                {
+                    "docCount": 268,
+                    "value": "HUD"
+                },
+                {
+                    "docCount": 234,
+                    "value": "NARA"
+                },
+                {
+                    "docCount": 221,
+                    "value": "DOE"
+                },
+                {
+                    "docCount": 218,
+                    "value": "EERE"
+                },
+                {
+                    "docCount": 212,
+                    "value": "DOD"
+                },
+                {
+                    "docCount": 190,
+                    "value": "MSHA"
+                },
+                {
+                    "docCount": 184,
+                    "value": "OFAC"
+                },
+                {
+                    "docCount": 177,
+                    "value": "CRC"
+                },
+                {
+                    "docCount": 173,
+                    "value": "APHIS"
+                },
+                {
+                    "docCount": 158,
+                    "value": "DOL"
+                },
+                {
+                    "docCount": 152,
+                    "value": "FHWA"
+                },
+                {
+                    "docCount": 149,
+                    "value": "NSF"
+                },
+                {
+                    "docCount": 148,
+                    "value": "USDA"
+                },
+                {
+                    "docCount": 135,
+                    "value": "IRS"
+                },
+                {
+                    "docCount": 134,
+                    "value": "DEA"
+                },
+                {
+                    "docCount": 123,
+                    "value": "GSA"
+                },
+                {
+                    "docCount": 123,
+                    "value": "STB"
+                },
+                {
+                    "docCount": 122,
+                    "value": "FS"
+                },
+                {
+                    "docCount": 118,
+                    "value": "BOEM"
+                },
+                {
+                    "docCount": 111,
+                    "value": "AMS"
+                },
+                {
+                    "docCount": 101,
+                    "value": "CDC"
+                },
+                {
+                    "docCount": 100,
+                    "value": "FTC"
+                },
+                {
+                    "docCount": 96,
+                    "value": "USCBP"
+                },
+                {
+                    "docCount": 95,
+                    "value": "PTO"
+                },
+                {
+                    "docCount": 90,
+                    "value": "FDIC"
+                },
+                {
+                    "docCount": 89,
+                    "value": "CPPBSD"
+                },
+                {
+                    "docCount": 87,
+                    "value": "BSC"
+                },
+                {
+                    "docCount": 86,
+                    "value": "OPM"
+                },
+                {
+                    "docCount": 85,
+                    "value": "CFPB"
+                },
+                {
+                    "docCount": 83,
+                    "value": "ARTS"
+                },
+                {
+                    "docCount": 80,
+                    "value": "FMC"
+                },
+                {
+                    "docCount": 80,
+                    "value": "HHS"
+                },
+                {
+                    "docCount": 76,
+                    "value": "CFTC"
+                },
+                {
+                    "docCount": 76,
+                    "value": "OCC"
+                },
+                {
+                    "docCount": 75,
+                    "value": "NASA"
+                },
+                {
+                    "docCount": 72,
+                    "value": "DARS"
+                },
+                {
+                    "docCount": 68,
+                    "value": "CNCS"
+                },
+                {
+                    "docCount": 67,
+                    "value": "FEC"
+                },
+                {
+                    "docCount": 63,
+                    "value": "FAR"
+                },
+                {
+                    "docCount": 63,
+                    "value": "FTA"
+                },
+                {
+                    "docCount": 54,
+                    "value": "BIS"
+                },
+                {
+                    "docCount": 50,
+                    "value": "AID"
+                },
+                {
+                    "docCount": 49,
+                    "value": "FSIS"
+                },
+                {
+                    "docCount": 49,
+                    "value": "SSA"
+                },
+                {
+                    "docCount": 46,
+                    "value": "DHS"
+                },
+                {
+                    "docCount": 46,
+                    "value": "TSA"
+                },
+                {
+                    "docCount": 45,
+                    "value": "FNS"
+                },
+                {
+                    "docCount": 42,
+                    "value": "RHS"
+                },
+                {
+                    "docCount": 41,
+                    "value": "EIB"
+                },
+                {
+                    "docCount": 40,
+                    "value": "TTB"
+                },
+                {
+                    "docCount": 40,
+                    "value": "USTR"
+                },
+                {
+                    "docCount": 39,
+                    "value": "OMB"
+                },
+                {
+                    "docCount": 37,
+                    "value": "NRCS"
+                },
+                {
+                    "docCount": 37,
+                    "value": "SRBC"
+                },
+                {
+                    "docCount": 36,
+                    "value": "CISA"
+                },
+                {
+                    "docCount": 36,
+                    "value": "RUS"
+                },
+                {
+                    "docCount": 34,
+                    "value": "FINCEN"
+                },
+                {
+                    "docCount": 31,
+                    "value": "EBSA"
+                },
+                {
+                    "docCount": 31,
+                    "value": "RBS"
+                },
+                {
+                    "docCount": 31,
+                    "value": "TREAS"
+                },
+                {
+                    "docCount": 30,
+                    "value": "WCPO"
+                },
+                {
+                    "docCount": 29,
+                    "value": "PBGC"
+                },
+                {
+                    "docCount": 27,
+                    "value": "DOI"
+                },
+                {
+                    "docCount": 27,
+                    "value": "SBA"
+                },
+                {
+                    "docCount": 26,
+                    "value": "USA"
+                },
+                {
+                    "docCount": 25,
+                    "value": "BLM"
+                },
+                {
+                    "docCount": 25,
+                    "value": "OSM"
+                },
+                {
+                    "docCount": 25,
+                    "value": "PC"
+                },
+                {
+                    "docCount": 23,
+                    "value": "ETA"
+                },
+                {
+                    "docCount": 23,
+                    "value": "USBC"
+                },
+                {
+                    "docCount": 23,
+                    "value": "USN"
+                },
+                {
+                    "docCount": 21,
+                    "value": "FHFA"
+                },
+                {
+                    "docCount": 20,
+                    "value": "DOJ"
+                },
+                {
+                    "docCount": 20,
+                    "value": "EEOC"
+                },
+                {
+                    "docCount": 20,
+                    "value": "LSC"
+                },
+                {
+                    "docCount": 19,
+                    "value": "BSEE"
+                },
+                {
+                    "docCount": 19,
+                    "value": "FISCAL"
+                },
+                {
+                    "docCount": 19,
+                    "value": "RRB"
+                },
+                {
+                    "docCount": 18,
+                    "value": "ASC"
+                },
+                {
+                    "docCount": 18,
+                    "value": "EAC"
+                },
+                {
+                    "docCount": 18,
+                    "value": "IHS"
+                },
+                {
+                    "docCount": 16,
+                    "value": "FASAB"
+                },
+                {
+                    "docCount": 16,
+                    "value": "FRTIB"
+                },
+                {
+                    "docCount": 16,
+                    "value": "NASS"
+                },
+                {
+                    "docCount": 16,
+                    "value": "WAPA"
+                },
+                {
+                    "docCount": 15,
+                    "value": "EIA"
+                },
+                {
+                    "docCount": 15,
+                    "value": "FCA"
+                },
+                {
+                    "docCount": 15,
+                    "value": "FSA"
+                },
+                {
+                    "docCount": 15,
+                    "value": "USC"
+                },
+                {
+                    "docCount": 14,
+                    "value": "ACF"
+                },
+                {
+                    "docCount": 14,
+                    "value": "COE"
+                },
+                {
+                    "docCount": 14,
+                    "value": "CRB"
+                },
+                {
+                    "docCount": 14,
+                    "value": "GEO"
+                },
+                {
+                    "docCount": 14,
+                    "value": "NEIGHBOR"
+                },
+                {
+                    "docCount": 14,
+                    "value": "PRC"
+                },
+                {
+                    "docCount": 13,
+                    "value": "CEQ"
+                },
+                {
+                    "docCount": 13,
+                    "value": "NNSA"
+                },
+                {
+                    "docCount": 13,
+                    "value": "TVA"
+                },
+                {
+                    "docCount": 12,
+                    "value": "COLC"
+                },
+                {
+                    "docCount": 12,
+                    "value": "ICEB"
+                },
+                {
+                    "docCount": 12,
+                    "value": "USAF"
+                },
+                {
+                    "docCount": 11,
+                    "value": "ATBCB"
+                },
+                {
+                    "docCount": 11,
+                    "value": "MSHFRC"
+                },
+                {
+                    "docCount": 10,
+                    "value": "BIA"
+                },
+                {
+                    "docCount": 10,
+                    "value": "FAS"
+                },
+                {
+                    "docCount": 10,
+                    "value": "GAO"
+                },
+                {
+                    "docCount": 10,
+                    "value": "MCC"
+                },
+                {
+                    "docCount": 9,
+                    "value": "COFA"
+                },
+                {
+                    "docCount": 8,
+                    "value": "ATSDR"
+                },
+                {
+                    "docCount": 8,
+                    "value": "CCC"
+                },
+                {
+                    "docCount": 8,
+                    "value": "CITA"
+                },
+                {
+                    "docCount": 8,
+                    "value": "NPS"
+                },
+                {
+                    "docCount": 8,
+                    "value": "OFCCP"
+                },
+                {
+                    "docCount": 8,
+                    "value": "OSTP"
+                },
+                {
+                    "docCount": 7,
+                    "value": "DFC"
+                },
+                {
+                    "docCount": 7,
+                    "value": "FMCS"
+                },
+                {
+                    "docCount": 7,
+                    "value": "JBEA"
+                },
+                {
+                    "docCount": 7,
+                    "value": "NLRB"
+                },
+                {
+                    "docCount": 7,
+                    "value": "SSS"
+                },
+                {
+                    "docCount": 7,
+                    "value": "USCC"
+                },
+                {
+                    "docCount": 6,
+                    "value": "DOC"
+                },
+                {
+                    "docCount": 6,
+                    "value": "FCSIC"
+                },
+                {
+                    "docCount": 6,
+                    "value": "IAF"
+                },
+                {
+                    "docCount": 6,
+                    "value": "MKU"
+                },
+                {
+                    "docCount": 6,
+                    "value": "MSPB"
+                },
+                {
+                    "docCount": 6,
+                    "value": "NTSB"
+                },
+                {
+                    "docCount": 6,
+                    "value": "ONRR"
+                },
+                {
+                    "docCount": 6,
+                    "value": "USAGM"
+                },
+                {
+                    "docCount": 6,
+                    "value": "USSC"
+                },
+                {
+                    "docCount": 5,
+                    "value": "ACUS"
+                },
+                {
+                    "docCount": 5,
+                    "value": "ARS"
+                },
+                {
+                    "docCount": 5,
+                    "value": "DRBC"
+                },
+                {
+                    "docCount": 5,
+                    "value": "FLRA"
+                },
+                {
+                    "docCount": 5,
+                    "value": "USIP"
+                },
+                {
+                    "docCount": 4,
+                    "value": "ATF"
+                },
+                {
+                    "docCount": 4,
+                    "value": "EOIR"
+                },
+                {
+                    "docCount": 4,
+                    "value": "FCIC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "FIRSTNET"
+                },
+                {
+                    "docCount": 4,
+                    "value": "FPPO"
+                },
+                {
+                    "docCount": 4,
+                    "value": "GCERC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "NIST"
+                },
+                {
+                    "docCount": 4,
+                    "value": "NTIA"
+                },
+                {
+                    "docCount": 4,
+                    "value": "ODNI"
+                },
+                {
+                    "docCount": 4,
+                    "value": "USJC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "WHD"
+                },
+                {
+                    "docCount": 3,
+                    "value": "CDFI"
+                },
+                {
+                    "docCount": 3,
+                    "value": "DC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "DNFSB"
+                },
+                {
+                    "docCount": 3,
+                    "value": "HPAC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "HRSA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "NCD"
+                },
+                {
+                    "docCount": 3,
+                    "value": "NWTRB"
+                },
+                {
+                    "docCount": 3,
+                    "value": "PT"
+                },
+                {
+                    "docCount": 3,
+                    "value": "SJI"
+                },
+                {
+                    "docCount": 3,
+                    "value": "SWPA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ABMC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ACL"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ADF"
+                },
+                {
+                    "docCount": 2,
+                    "value": "BOP"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ERS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NIGC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NIH"
+                },
+                {
+                    "docCount": 2,
+                    "value": "OFPP"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ONDCP"
+                },
+                {
+                    "docCount": 2,
+                    "value": "RISC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "SLSDC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "USMINT"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BLS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BPA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CIGIE"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CSB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CSOSA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FBI"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FPAC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FTZB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "GPO"
+                },
+                {
+                    "docCount": 1,
+                    "value": "HHSIG"
+                },
+                {
+                    "docCount": 1,
+                    "value": "IAIA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "LMSO"
+                },
+                {
+                    "docCount": 1,
+                    "value": "LOC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "MBDA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "MMC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NAL"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NIFA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "OJP"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ONCD"
+                },
+                {
+                    "docCount": 1,
+                    "value": "OSHRC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "PBRB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "PCLOB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "SAMHSA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "SS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USDAIG"
+                }
+            ],
+            "commentEndDate": [
+                {
+                    "docCount": 1,
+                    "label": "Next 30 Days",
+                    "fromDate": "2024-10-17 00:00:00",
+                    "toDate": "2024-11-15 23:59:59"
+                },
+                {
+                    "docCount": 2,
+                    "label": "Next 90 Days",
+                    "fromDate": "2024-10-17 00:00:00",
+                    "toDate": "2025-01-14 23:59:59"
+                }
+            ],
+            "postedDate": [
+                {
+                    "docCount": 1,
+                    "label": "Last 3 Days",
+                    "fromDate": "2024-10-15 00:00:00",
+                    "toDate": "2024-10-17 23:59:59"
+                },
+                {
+                    "docCount": 2,
+                    "label": "Last 7 Days",
+                    "fromDate": "2024-10-11 00:00:00",
+                    "toDate": "2024-10-17 23:59:59"
+                },
+                {
+                    "docCount": 14,
+                    "label": "Last 15 Days",
+                    "fromDate": "2024-10-03 00:00:00",
+                    "toDate": "2024-10-17 23:59:59"
+                },
+                {
+                    "docCount": 21,
+                    "label": "Last 30 Days",
+                    "fromDate": "2024-09-18 00:00:00",
+                    "toDate": "2024-10-17 23:59:59"
+                },
+                {
+                    "docCount": 55,
+                    "label": "Last 90 Days",
+                    "fromDate": "2024-07-20 00:00:00",
+                    "toDate": "2024-10-17 23:59:59"
+                }
+            ]
+        },
+        "filters": {
+            "postedDate": {
+                "fromDate": "2024-01-01",
+                "toDate": "2025-01-01"
+            },
+            "agencyId": [
+                {
+                    "label": "OFAC",
+                    "value": "OFAC"
+                }
+            ]
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "numberOfElements": 184,
+        "pageNumber": 1,
+        "pageSize": 250,
+        "totalElements": 184,
+        "totalPages": 1,
+        "firstPage": true,
+        "lastPage": true
+    }
+}

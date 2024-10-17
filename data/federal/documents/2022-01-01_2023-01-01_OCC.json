@@ -1,0 +1,2387 @@
+{
+    "data": [
+        {
+            "id": "OCC-2022-0002-0680",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-12-27T19:19:16Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of the Agencies' 10.07.2022 Meeting with Representatives of Ceres",
+                "postedDate": "2022-12-27T05:00:00Z",
+                "docketId": "OCC-2022-0002",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006485559773"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0002-0680"
+            }
+        },
+        {
+            "id": "OCC-2022-0002-0681",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-12-27T19:29:49Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of the Agencies' 11.22.2022 Meeting with Mortgage Bankers Association",
+                "postedDate": "2022-12-27T05:00:00Z",
+                "docketId": "OCC-2022-0002",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006485559a0e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0002-0681"
+            }
+        },
+        {
+            "id": "OCC-2022-0002-0677",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-12-27T19:03:45Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of the Agencies' 10.04.22 Meeting with Affordable Housing Organizations",
+                "postedDate": "2022-12-27T05:00:00Z",
+                "docketId": "OCC-2022-0002",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064855599df"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0002-0677"
+            }
+        },
+        {
+            "id": "OCC-2022-0002-0678",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-12-27T19:06:54Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of the Agencies' 10.06.2022 Meeting with Representatives of Better Markets",
+                "postedDate": "2022-12-27T05:00:00Z",
+                "docketId": "OCC-2022-0002",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064855599e2"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0002-0678"
+            }
+        },
+        {
+            "id": "OCC-2022-0002-0683",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-12-27T19:48:12Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of the Agencies' 11.21.22 Meeting with National Community Reinvestment Coalition",
+                "postedDate": "2022-12-27T05:00:00Z",
+                "docketId": "OCC-2022-0002",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006485559a16"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0002-0683"
+            }
+        },
+        {
+            "id": "OCC-2022-0002-0685",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-12-27T20:08:43Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of the Agencies' 11.09.22 Meeting with Greenlining Institute, Public Citizen, and Americans for Financial Reform Education Fund",
+                "postedDate": "2022-12-27T05:00:00Z",
+                "docketId": "OCC-2022-0002",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006485559dc2"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0002-0685"
+            }
+        },
+        {
+            "id": "OCC-2022-0002-0679",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-12-27T19:10:10Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of the Agencies' 09.30.22 Meeting with Ten Digital Banks",
+                "postedDate": "2022-12-27T05:00:00Z",
+                "docketId": "OCC-2022-0002",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "090000648555976d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0002-0679"
+            }
+        },
+        {
+            "id": "OCC-2022-0002-0682",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-12-27T19:39:27Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of the Agencies' 09.28.2022 Meeting with Representatives of the MidWest Housing Equity Group",
+                "postedDate": "2022-12-27T05:00:00Z",
+                "docketId": "OCC-2022-0002",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006485559a23"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0002-0682"
+            }
+        },
+        {
+            "id": "OCC-2022-0002-0684",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-12-27T19:56:20Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of the Agencies' 10.25.2022 Meeting with Nationwide Banking Trade Association",
+                "postedDate": "2022-12-27T05:00:00Z",
+                "docketId": "OCC-2022-0002",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006485559dc1"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0002-0684"
+            }
+        },
+        {
+            "id": "OCC-2022-0002-0676",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-12-27T18:59:55Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of the Agencies' 10.04.22 Meeting with Affordable Housing Organizations",
+                "postedDate": "2022-12-27T00:00:00Z",
+                "docketId": "OCC-2022-0002",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006485557db6"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0002-0676"
+            }
+        },
+        {
+            "id": "OCC-2022-0024-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2022-10-25T01:01:13Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2022-10-19T03:59:59Z",
+                "title": "American Bank, National Association",
+                "postedDate": "2022-10-24T04:00:00Z",
+                "docketId": "OCC-2022-0024",
+                "subtype": "Application",
+                "commentStartDate": "2022-09-18T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648544ed74"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0024-0001"
+            }
+        },
+        {
+            "id": "OCC-2022-0018-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-10-20T14:18:39Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-22820",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Appraisals for Higher-Priced Mortgage Loans Exemption Threshold",
+                "postedDate": "2022-10-20T04:00:00Z",
+                "docketId": "OCC-2022-0018",
+                "subtype": null,
+                "commentStartDate": "2022-10-20T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648543b000"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0018-0001"
+            }
+        },
+        {
+            "id": "OCC-2022-0002-0675",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-09-07T17:08:18Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of the Agencies\u2019 8.30.22 meeting with the Staff for Senator Christopher Coons (D-DE), Senator Thomas Carper (D-DE), and Representative Lisa Blunt Rochester (D-DE)",
+                "postedDate": "2022-09-07T04:00:00Z",
+                "docketId": "OCC-2022-0002",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064852c2fec"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0002-0675"
+            }
+        },
+        {
+            "id": "OCC-2022-0021-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2022-09-02T01:00:53Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Application",
+                "postedDate": "2022-09-01T04:00:00Z",
+                "docketId": "OCC-2022-0021",
+                "subtype": "Application",
+                "commentStartDate": "2022-09-01T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064852a6529"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0021-0001"
+            }
+        },
+        {
+            "id": "OCC-2022-0022-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2022-09-02T01:00:46Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Providence Bank of Texas SSB, Southlake, Texas to merge with and into Great Plains National Bank, Elk City, Oklahoma",
+                "postedDate": "2022-09-01T04:00:00Z",
+                "docketId": "OCC-2022-0022",
+                "subtype": "Application",
+                "commentStartDate": "2022-09-01T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064852a65d5"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0022-0001"
+            }
+        },
+        {
+            "id": "OCC-2022-0002-0564",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-08-18T17:43:52Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of 7.29.22 Meeting with Altura Capital",
+                "postedDate": "2022-08-18T04:00:00Z",
+                "docketId": "OCC-2022-0002",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "090000648524f92a"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0002-0564"
+            }
+        },
+        {
+            "id": "OCC-2022-0002-0563",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-08-18T17:31:32Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of the Agencies' 8.4.22 Meeting with MidFirst Bank and the Bank\u2019s Outside Counsel",
+                "postedDate": "2022-08-18T04:00:00Z",
+                "docketId": "OCC-2022-0002",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "090000648524f0cd"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0002-0563"
+            }
+        },
+        {
+            "id": "OCC-2022-0002-0561",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-08-17T13:20:55Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of the Agencies' 8.1.22 Meeting with NAAHL,  NHC & NYU",
+                "postedDate": "2022-08-17T04:00:00Z",
+                "docketId": "OCC-2022-0002",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006485246a2e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0002-0561"
+            }
+        },
+        {
+            "id": "OCC-2022-0002-0560",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-08-17T13:06:04Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of the Agencies\u2019  6.16.22 Meeting with Members of the Native CDFI Network",
+                "postedDate": "2022-08-17T04:00:00Z",
+                "docketId": "OCC-2022-0002",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064852469c2"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0002-0560"
+            }
+        },
+        {
+            "id": "OCC-2022-0002-0562",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-08-18T14:30:49Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of the Agencies\u2019 8.4.22 Meeting with MidFirst Bank and the Bank\u2019s Outside Counsel",
+                "postedDate": "2022-08-17T00:00:00Z",
+                "docketId": "OCC-2022-0002",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006485249984"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0002-0562"
+            }
+        },
+        {
+            "id": "OCC-2022-0002-0282",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-08-12T21:42:47Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of the Agencies\u2019 7.25.22 Meeting with Representative Kweisi Mfume (D-MD) Staff",
+                "postedDate": "2022-08-12T04:00:00Z",
+                "docketId": "OCC-2022-0002",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "090000648523613d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0002-0282"
+            }
+        },
+        {
+            "id": "OCC-2022-0002-0281",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-08-12T21:40:29Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of the Agencies\u2019 6.13.22 Meeting with Senator Mark R. Warner (D-VA) and Staff",
+                "postedDate": "2022-08-12T04:00:00Z",
+                "docketId": "OCC-2022-0002",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "090000648523613c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0002-0281"
+            }
+        },
+        {
+            "id": "OCC-2022-0015-0003",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2022-08-05T18:07:14Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Application from Flagstar Bank, FSB, Troy, Michigan to convert to a national bank by the name of Flagstar Bank, National Association, and then to acquire by merger New York Community Bank, Hicksville, New York",
+                "postedDate": "2022-08-05T04:00:00Z",
+                "docketId": "OCC-2022-0015",
+                "subtype": "Application",
+                "commentStartDate": "2022-08-05T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648521aabb"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0015-0003"
+            }
+        },
+        {
+            "id": "OCC-2022-0002-0180",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-08-04T18:42:05Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of 6.23.22 Meeting with New Markets Tax Credit Coalition",
+                "postedDate": "2022-08-04T04:00:00Z",
+                "docketId": "OCC-2022-0002",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006485212bd1"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0002-0180"
+            }
+        },
+        {
+            "id": "OCC-2022-0002-0181",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-08-04T18:42:47Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of the Agencies' 6.25.22 Meeting with Native American Finance Officers Association",
+                "postedDate": "2022-08-04T04:00:00Z",
+                "docketId": "OCC-2022-0002",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006485212bd2"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0002-0181"
+            }
+        },
+        {
+            "id": "OCC-2022-0002-0182",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-08-04T18:43:41Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of the Agencies 8.2.22 Meeting with National Community Reinvestment Coaliton",
+                "postedDate": "2022-08-04T04:00:00Z",
+                "docketId": "OCC-2022-0002",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006485212bd3"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0002-0182"
+            }
+        },
+        {
+            "id": "OCC-2022-0017-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-10-25T01:01:00Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2022-10-04T03:59:59Z",
+                "title": "Policy Statement on Prudent Commerical Real Estate Loan Accommodations and Workouts - Proposed Policy Statement",
+                "postedDate": "2022-08-02T04:00:00Z",
+                "docketId": "OCC-2022-0017",
+                "subtype": "Guidance",
+                "commentStartDate": "2022-08-02T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648520221d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0017-0001"
+            }
+        },
+        {
+            "id": "OCC-2022-0002-0047",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-07-25T15:20:19Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of the Agencies' 7.22.22 Meeting with ICBA",
+                "postedDate": "2022-07-25T04:00:00Z",
+                "docketId": "OCC-2022-0002",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064851e60c7"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0002-0047"
+            }
+        },
+        {
+            "id": "OCC-2022-0002-0045",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-07-25T15:19:23Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of the Agencies' 7.14.22 Meeting with Rural Local Initiatives Support Corporation",
+                "postedDate": "2022-07-22T04:00:00Z",
+                "docketId": "OCC-2022-0002",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064851e2c4e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0002-0045"
+            }
+        },
+        {
+            "id": "OCC-2022-0002-0046",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-07-22T18:21:41Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of 7.21.22 Meeting with New York's Association for Neighborhood & Housing Development",
+                "postedDate": "2022-07-22T04:00:00Z",
+                "docketId": "OCC-2022-0002",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064851e2c53"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0002-0046"
+            }
+        },
+        {
+            "id": "OCC-2022-0002-0021",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-07-06T15:39:41Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of the Agencies' 6-30-22 Meeting with Consumer Bankers Association and Bank Policy Institute",
+                "postedDate": "2022-07-06T04:00:00Z",
+                "docketId": "OCC-2022-0002",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064851b3084"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0002-0021"
+            }
+        },
+        {
+            "id": "OCC-2022-0002-0020",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-07-05T20:36:21Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of the Agencies\u2019 6-3-22 Meeting with Urban Institute",
+                "postedDate": "2022-07-05T04:00:00Z",
+                "docketId": "OCC-2022-0002",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064851b1f24"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0002-0020"
+            }
+        },
+        {
+            "id": "OCC-2022-0002-0025",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2022-07-11T13:28:36Z",
+                "highlightedContent": "",
+                "frDocNum": "C1-2022-10111",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Community Reinvestment Act",
+                "postedDate": "2022-07-05T04:00:00Z",
+                "docketId": "OCC-2022-0002",
+                "subtype": "Correction",
+                "commentStartDate": "2022-07-05T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064851b0cc5"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0002-0025"
+            }
+        },
+        {
+            "id": "OCC-2022-0002-0017",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-06-30T21:29:25Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of the Agencies' 5-27-22 Meeting with National Bankers Association",
+                "postedDate": "2022-06-30T04:00:00Z",
+                "docketId": "OCC-2022-0002",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064851ad9a0"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0002-0017"
+            }
+        },
+        {
+            "id": "OCC-2022-0002-0018",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-06-30T21:47:58Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of the Agencies' 6-9-22 Meeting with Senate Banking Committee",
+                "postedDate": "2022-06-30T04:00:00Z",
+                "docketId": "OCC-2022-0002",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064851ad853"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0002-0018"
+            }
+        },
+        {
+            "id": "OCC-2022-0002-0015",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-06-30T21:04:53Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of the Agencies' 5-5-22 Meeting with Representative Maxine Waters, , Chair of the House Financial Services Committee",
+                "postedDate": "2022-06-30T04:00:00Z",
+                "docketId": "OCC-2022-0002",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064851ad944"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0002-0015"
+            }
+        },
+        {
+            "id": "OCC-2022-0002-0013",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-06-30T21:01:20Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of the Agencies' 6-6-22 Meeting with Congressional Staff",
+                "postedDate": "2022-06-30T04:00:00Z",
+                "docketId": "OCC-2022-0002",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064851ad08d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0002-0013"
+            }
+        },
+        {
+            "id": "OCC-2022-0002-0012",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-06-30T15:26:34Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Response to Trades for CRA Comment Period Extension",
+                "postedDate": "2022-06-30T04:00:00Z",
+                "docketId": "OCC-2022-0002",
+                "subtype": "Comment Response",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064851ac174"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0002-0012"
+            }
+        },
+        {
+            "id": "OCC-2022-0002-0019",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-06-30T21:57:25Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of 6-6-22 Meeting with California Reinvestment Coalition",
+                "postedDate": "2022-06-30T04:00:00Z",
+                "docketId": "OCC-2022-0002",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064851ad854"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0002-0019"
+            }
+        },
+        {
+            "id": "OCC-2022-0002-0016",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-06-30T21:21:34Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of the Agencies' 5-19-22 Meeting  with House Financial Services Committee's Majority Staff & Legislative Assistants",
+                "postedDate": "2022-06-30T04:00:00Z",
+                "docketId": "OCC-2022-0002",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064851ad990"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0002-0016"
+            }
+        },
+        {
+            "id": "OCC-2022-0016-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2022-08-12T01:00:32Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Farmers Canfield Farmers Emlenton OCC Streamlined Bank Meger Application",
+                "postedDate": "2022-06-29T04:00:00Z",
+                "docketId": "OCC-2022-0016",
+                "subtype": "Application",
+                "commentStartDate": "2022-06-29T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064851aa607"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0016-0001"
+            }
+        },
+        {
+            "id": "OCC-2022-0015-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2022-08-05T18:07:38Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Flagstar Bank NA",
+                "postedDate": "2022-06-29T00:00:00Z",
+                "docketId": "OCC-2022-0015",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064851aa1c0"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0015-0001"
+            }
+        },
+        {
+            "id": "OCC-2020-0033-0009",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-06-24T13:45:22Z",
+                "highlightedContent": "",
+                "frDocNum": "C1-2022-10414",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Loans in Areas Having Special Flood Hazards: Interagency Questions and Answers Regarding Flood Insurance",
+                "postedDate": "2022-06-16T04:00:00Z",
+                "docketId": "OCC-2020-0033",
+                "subtype": null,
+                "commentStartDate": "2022-06-16T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648516ddf7"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2020-0033-0009"
+            }
+        },
+        {
+            "id": "OCC-2021-0011-0059",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-06-08T17:44:11Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "6.03.22 Follow Up Letter on 5.24.22 Meeting with Online Lenders Alliance",
+                "postedDate": "2022-06-08T04:00:00Z",
+                "docketId": "OCC-2021-0011",
+                "subtype": "Letter",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "090000648514f29a"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2021-0011-0059"
+            }
+        },
+        {
+            "id": "OCC-2022-0002-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2023-10-13T01:00:40Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-10111",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2022-08-13T03:59:59Z",
+                "title": "Community Reinvestment Act",
+                "postedDate": "2022-06-03T04:00:00Z",
+                "docketId": "OCC-2022-0002",
+                "subtype": null,
+                "commentStartDate": "2022-06-03T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485129fc2"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0002-0001"
+            }
+        },
+        {
+            "id": "OCC-2020-0033-0008",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-05-31T14:16:54Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-10414",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Loans in Areas Having Special Flood Hazards: Interagency Questions and Answers Regarding Flood Insurance",
+                "postedDate": "2022-05-31T04:00:00Z",
+                "docketId": "OCC-2020-0033",
+                "subtype": null,
+                "commentStartDate": "2022-05-31T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648511a3c7"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2020-0033-0008"
+            }
+        },
+        {
+            "id": "OCC-2021-0011-0058",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-06-08T17:02:38Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of Meeting with Online Lenders Alliance 05-24-2022",
+                "postedDate": "2022-05-25T04:00:00Z",
+                "docketId": "OCC-2021-0011",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064850f0f71"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2021-0011-0058"
+            }
+        },
+        {
+            "id": "OCC-2022-0010-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2023-04-21T01:00:55Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2022-08-24T03:59:59Z",
+                "title": "Merger Application - TD Bank NA - First Horizon Bank (2022-LB-Combination-326132)",
+                "postedDate": "2022-05-16T04:00:00Z",
+                "docketId": "OCC-2022-0010",
+                "subtype": "Application",
+                "commentStartDate": "2022-05-16T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064850808dc"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0010-0001"
+            }
+        },
+        {
+            "id": "OCC-2022-0004-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-05-12T16:57:22Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-09860",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Customer Assistance Group Change of Mailing Address",
+                "postedDate": "2022-05-09T04:00:00Z",
+                "docketId": "OCC-2022-0004",
+                "subtype": null,
+                "commentStartDate": "2022-05-09T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485060cf9"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0004-0001"
+            }
+        },
+        {
+            "id": "OCC-2021-0023-0320",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-04-26T19:17:00Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Meeting with the Risk Management Association 04.18.22",
+                "postedDate": "2022-04-26T04:00:00Z",
+                "docketId": "OCC-2021-0023",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006485037432"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2021-0023-0320"
+            }
+        },
+        {
+            "id": "OCC-2021-0023-0321",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-04-26T19:24:27Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Meeting with the Natural Resources Defense Council and Center for American Progress 04.18.22",
+                "postedDate": "2022-04-26T04:00:00Z",
+                "docketId": "OCC-2021-0023",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006485037a28"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2021-0023-0321"
+            }
+        },
+        {
+            "id": "OCC-2021-0023-0319",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-04-18T15:34:33Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Meeting with the Financial Services Forum 03.30.22",
+                "postedDate": "2022-04-18T04:00:00Z",
+                "docketId": "OCC-2021-0023",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064850209e1"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2021-0023-0319"
+            }
+        },
+        {
+            "id": "OCC-2021-0023-0317",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-04-18T15:30:34Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Meeting with BPI 03.24.22",
+                "postedDate": "2022-04-18T04:00:00Z",
+                "docketId": "OCC-2021-0023",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006485020997"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2021-0023-0317"
+            }
+        },
+        {
+            "id": "OCC-2021-0023-0318",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-04-18T15:33:34Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Meeting with Center for Climate-Aligned Finance 03.23.22",
+                "postedDate": "2022-04-18T04:00:00Z",
+                "docketId": "OCC-2021-0023",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006485020998"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2021-0023-0318"
+            }
+        },
+        {
+            "id": "OCC-2021-0007-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2023-12-28T20:15:31Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-04454",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2022-06-14T03:59:59Z",
+                "title": "Rules of Practice and Procedure",
+                "postedDate": "2022-04-13T04:00:00Z",
+                "docketId": "OCC-2021-0007",
+                "subtype": null,
+                "commentStartDate": "2022-04-13T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485015009"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2021-0007-0001"
+            }
+        },
+        {
+            "id": "OCC-2020-0037-0009",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-03-18T13:15:31Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-05521",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Exemptions to Suspicious Activity Report Requirements",
+                "postedDate": "2022-03-18T04:00:00Z",
+                "docketId": "OCC-2020-0037",
+                "subtype": null,
+                "commentStartDate": "2022-03-18T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484fd359b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2020-0037-0009"
+            }
+        },
+        {
+            "id": "OCC-2022-0005-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2022-07-21T01:01:25Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2022-07-20T03:59:59Z",
+                "title": "FOIA RR Public Portion BMO Harris Merger Filing",
+                "postedDate": "2022-02-28T05:00:00Z",
+                "docketId": "OCC-2022-0005",
+                "subtype": "Application",
+                "commentStartDate": "2022-02-28T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484fadc5d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0005-0001"
+            }
+        },
+        {
+            "id": "OCC-2022-0003-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2022-02-12T02:00:24Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Figure BankNA Reno NV Charter Amendment 12.8.21",
+                "postedDate": "2022-02-11T05:00:00Z",
+                "docketId": "OCC-2022-0003",
+                "subtype": "Application",
+                "commentStartDate": "2022-02-11T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484f6d2bc"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0003-0001"
+            }
+        },
+        {
+            "id": "OCC-2021-0011-0057",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-01-24T20:00:07Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of Meeting with Bank Policy Institute 12-17-21",
+                "postedDate": "2022-01-24T05:00:00Z",
+                "docketId": "OCC-2021-0011",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006484f34c47"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2021-0011-0057"
+            }
+        },
+        {
+            "id": "OCC-2021-0024-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-02-23T15:26:20Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2022-03-22T03:59:59Z",
+                "title": "Climate Risk ROP Paperwork Reduction Act Notice",
+                "postedDate": "2022-01-18T05:00:00Z",
+                "docketId": "OCC-2021-0024",
+                "subtype": null,
+                "commentStartDate": "2022-01-18T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484f22b9d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2021-0024-0001"
+            }
+        },
+        {
+            "id": "OCC-2022-0001-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-01-12T13:51:05Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-00109",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Civil Monetary Penalty Inflation Adjustment",
+                "postedDate": "2022-01-12T05:00:00Z",
+                "docketId": "OCC-2022-0001",
+                "subtype": null,
+                "commentStartDate": "2022-01-12T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484f1b798"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2022-0001-0001"
+            }
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "documentType": [
+                {
+                    "docCount": 41,
+                    "label": "Supporting & Related Material"
+                },
+                {
+                    "docCount": 9,
+                    "label": "Other"
+                },
+                {
+                    "docCount": 6,
+                    "label": "Rule"
+                },
+                {
+                    "docCount": 3,
+                    "label": "Proposed Rule"
+                },
+                {
+                    "docCount": 2,
+                    "label": "Notice"
+                }
+            ],
+            "subtype": [
+                {
+                    "docCount": 37,
+                    "label": "Meeting Summary"
+                },
+                {
+                    "docCount": 8,
+                    "label": "Application"
+                },
+                {
+                    "docCount": 1,
+                    "label": "Comment Response"
+                },
+                {
+                    "docCount": 1,
+                    "label": "Correction"
+                },
+                {
+                    "docCount": 1,
+                    "label": "Guidance"
+                },
+                {
+                    "docCount": 1,
+                    "label": "Letter"
+                }
+            ],
+            "withinCommentPeriod": [
+                {
+                    "docCount": 0,
+                    "label": "true"
+                },
+                {
+                    "docCount": 61,
+                    "label": "false"
+                }
+            ],
+            "agencyId": [
+                {
+                    "docCount": 29044,
+                    "value": "EPA"
+                },
+                {
+                    "docCount": 11276,
+                    "value": "FDA"
+                },
+                {
+                    "docCount": 5827,
+                    "value": "FAA"
+                },
+                {
+                    "docCount": 2722,
+                    "value": "DOT"
+                },
+                {
+                    "docCount": 1905,
+                    "value": "SEC"
+                },
+                {
+                    "docCount": 1667,
+                    "value": "FERC"
+                },
+                {
+                    "docCount": 1446,
+                    "value": "FMCSA"
+                },
+                {
+                    "docCount": 1098,
+                    "value": "USCG"
+                },
+                {
+                    "docCount": 1016,
+                    "value": "FWS"
+                },
+                {
+                    "docCount": 1011,
+                    "value": "OSHA"
+                },
+                {
+                    "docCount": 939,
+                    "value": "FRA"
+                },
+                {
+                    "docCount": 873,
+                    "value": "PHMSA"
+                },
+                {
+                    "docCount": 861,
+                    "value": "MARAD"
+                },
+                {
+                    "docCount": 833,
+                    "value": "ITA"
+                },
+                {
+                    "docCount": 659,
+                    "value": "NRC"
+                },
+                {
+                    "docCount": 617,
+                    "value": "EERE"
+                },
+                {
+                    "docCount": 556,
+                    "value": "NOAA"
+                },
+                {
+                    "docCount": 498,
+                    "value": "FEMA"
+                },
+                {
+                    "docCount": 489,
+                    "value": "ITC"
+                },
+                {
+                    "docCount": 457,
+                    "value": "ED"
+                },
+                {
+                    "docCount": 442,
+                    "value": "NHTSA"
+                },
+                {
+                    "docCount": 437,
+                    "value": "HHS"
+                },
+                {
+                    "docCount": 433,
+                    "value": "FCC"
+                },
+                {
+                    "docCount": 409,
+                    "value": "VA"
+                },
+                {
+                    "docCount": 401,
+                    "value": "NCUA"
+                },
+                {
+                    "docCount": 397,
+                    "value": "USCIS"
+                },
+                {
+                    "docCount": 356,
+                    "value": "FRS"
+                },
+                {
+                    "docCount": 339,
+                    "value": "DOS"
+                },
+                {
+                    "docCount": 335,
+                    "value": "CMS"
+                },
+                {
+                    "docCount": 334,
+                    "value": "CRC"
+                },
+                {
+                    "docCount": 295,
+                    "value": "DOD"
+                },
+                {
+                    "docCount": 285,
+                    "value": "USPS"
+                },
+                {
+                    "docCount": 268,
+                    "value": "HUD"
+                },
+                {
+                    "docCount": 239,
+                    "value": "NSF"
+                },
+                {
+                    "docCount": 227,
+                    "value": "NARA"
+                },
+                {
+                    "docCount": 214,
+                    "value": "DOE"
+                },
+                {
+                    "docCount": 202,
+                    "value": "CDC"
+                },
+                {
+                    "docCount": 202,
+                    "value": "USDA"
+                },
+                {
+                    "docCount": 201,
+                    "value": "OFAC"
+                },
+                {
+                    "docCount": 197,
+                    "value": "CPSC"
+                },
+                {
+                    "docCount": 194,
+                    "value": "DOL"
+                },
+                {
+                    "docCount": 183,
+                    "value": "FS"
+                },
+                {
+                    "docCount": 182,
+                    "value": "DEA"
+                },
+                {
+                    "docCount": 154,
+                    "value": "APHIS"
+                },
+                {
+                    "docCount": 147,
+                    "value": "CFPB"
+                },
+                {
+                    "docCount": 145,
+                    "value": "STB"
+                },
+                {
+                    "docCount": 133,
+                    "value": "FHWA"
+                },
+                {
+                    "docCount": 131,
+                    "value": "USCBP"
+                },
+                {
+                    "docCount": 120,
+                    "value": "AMS"
+                },
+                {
+                    "docCount": 116,
+                    "value": "FTC"
+                },
+                {
+                    "docCount": 111,
+                    "value": "NLRB"
+                },
+                {
+                    "docCount": 107,
+                    "value": "FDIC"
+                },
+                {
+                    "docCount": 104,
+                    "value": "BOEM"
+                },
+                {
+                    "docCount": 103,
+                    "value": "FMC"
+                },
+                {
+                    "docCount": 101,
+                    "value": "GSA"
+                },
+                {
+                    "docCount": 96,
+                    "value": "FAR"
+                },
+                {
+                    "docCount": 93,
+                    "value": "CFTC"
+                },
+                {
+                    "docCount": 92,
+                    "value": "OPM"
+                },
+                {
+                    "docCount": 86,
+                    "value": "IRS"
+                },
+                {
+                    "docCount": 82,
+                    "value": "FEC"
+                },
+                {
+                    "docCount": 81,
+                    "value": "CPPBSD"
+                },
+                {
+                    "docCount": 79,
+                    "value": "PTO"
+                },
+                {
+                    "docCount": 78,
+                    "value": "MSHA"
+                },
+                {
+                    "docCount": 77,
+                    "value": "COE"
+                },
+                {
+                    "docCount": 77,
+                    "value": "FTA"
+                },
+                {
+                    "docCount": 75,
+                    "value": "DHS"
+                },
+                {
+                    "docCount": 73,
+                    "value": "ARTS"
+                },
+                {
+                    "docCount": 70,
+                    "value": "SSA"
+                },
+                {
+                    "docCount": 68,
+                    "value": "DARS"
+                },
+                {
+                    "docCount": 66,
+                    "value": "AHRQ"
+                },
+                {
+                    "docCount": 62,
+                    "value": "USN"
+                },
+                {
+                    "docCount": 62,
+                    "value": "USTR"
+                },
+                {
+                    "docCount": 61,
+                    "value": "OCC"
+                },
+                {
+                    "docCount": 60,
+                    "value": "CNCS"
+                },
+                {
+                    "docCount": 60,
+                    "value": "FNS"
+                },
+                {
+                    "docCount": 53,
+                    "value": "TTB"
+                },
+                {
+                    "docCount": 52,
+                    "value": "WHD"
+                },
+                {
+                    "docCount": 51,
+                    "value": "RUS"
+                },
+                {
+                    "docCount": 49,
+                    "value": "EIB"
+                },
+                {
+                    "docCount": 47,
+                    "value": "TREAS"
+                },
+                {
+                    "docCount": 44,
+                    "value": "BIS"
+                },
+                {
+                    "docCount": 43,
+                    "value": "FSIS"
+                },
+                {
+                    "docCount": 42,
+                    "value": "EBSA"
+                },
+                {
+                    "docCount": 42,
+                    "value": "ETA"
+                },
+                {
+                    "docCount": 40,
+                    "value": "USA"
+                },
+                {
+                    "docCount": 39,
+                    "value": "RHS"
+                },
+                {
+                    "docCount": 37,
+                    "value": "PBGC"
+                },
+                {
+                    "docCount": 37,
+                    "value": "RBS"
+                },
+                {
+                    "docCount": 37,
+                    "value": "SRBC"
+                },
+                {
+                    "docCount": 36,
+                    "value": "NIGC"
+                },
+                {
+                    "docCount": 36,
+                    "value": "SBA"
+                },
+                {
+                    "docCount": 35,
+                    "value": "FISCAL"
+                },
+                {
+                    "docCount": 35,
+                    "value": "ICEB"
+                },
+                {
+                    "docCount": 34,
+                    "value": "AID"
+                },
+                {
+                    "docCount": 34,
+                    "value": "DOI"
+                },
+                {
+                    "docCount": 31,
+                    "value": "LSC"
+                },
+                {
+                    "docCount": 31,
+                    "value": "TSA"
+                },
+                {
+                    "docCount": 31,
+                    "value": "USC"
+                },
+                {
+                    "docCount": 30,
+                    "value": "OSTP"
+                },
+                {
+                    "docCount": 29,
+                    "value": "FHFA"
+                },
+                {
+                    "docCount": 29,
+                    "value": "OSM"
+                },
+                {
+                    "docCount": 28,
+                    "value": "BSC"
+                },
+                {
+                    "docCount": 27,
+                    "value": "FMCS"
+                },
+                {
+                    "docCount": 27,
+                    "value": "USBC"
+                },
+                {
+                    "docCount": 26,
+                    "value": "EAC"
+                },
+                {
+                    "docCount": 25,
+                    "value": "NRCS"
+                },
+                {
+                    "docCount": 24,
+                    "value": "FAS"
+                },
+                {
+                    "docCount": 24,
+                    "value": "IHS"
+                },
+                {
+                    "docCount": 23,
+                    "value": "BSEE"
+                },
+                {
+                    "docCount": 23,
+                    "value": "CISA"
+                },
+                {
+                    "docCount": 22,
+                    "value": "RRB"
+                },
+                {
+                    "docCount": 22,
+                    "value": "USAF"
+                },
+                {
+                    "docCount": 21,
+                    "value": "WCPO"
+                },
+                {
+                    "docCount": 20,
+                    "value": "COLC"
+                },
+                {
+                    "docCount": 20,
+                    "value": "FCA"
+                },
+                {
+                    "docCount": 20,
+                    "value": "FRTIB"
+                },
+                {
+                    "docCount": 20,
+                    "value": "FSA"
+                },
+                {
+                    "docCount": 20,
+                    "value": "OMB"
+                },
+                {
+                    "docCount": 19,
+                    "value": "MCC"
+                },
+                {
+                    "docCount": 19,
+                    "value": "TVA"
+                },
+                {
+                    "docCount": 18,
+                    "value": "CEQ"
+                },
+                {
+                    "docCount": 17,
+                    "value": "PRC"
+                },
+                {
+                    "docCount": 16,
+                    "value": "BLM"
+                },
+                {
+                    "docCount": 16,
+                    "value": "NPS"
+                },
+                {
+                    "docCount": 15,
+                    "value": "ATSDR"
+                },
+                {
+                    "docCount": 15,
+                    "value": "FINCEN"
+                },
+                {
+                    "docCount": 15,
+                    "value": "NTSB"
+                },
+                {
+                    "docCount": 15,
+                    "value": "OFCCP"
+                },
+                {
+                    "docCount": 15,
+                    "value": "WAPA"
+                },
+                {
+                    "docCount": 14,
+                    "value": "DFC"
+                },
+                {
+                    "docCount": 14,
+                    "value": "EEOC"
+                },
+                {
+                    "docCount": 14,
+                    "value": "MSHFRC"
+                },
+                {
+                    "docCount": 14,
+                    "value": "NASA"
+                },
+                {
+                    "docCount": 13,
+                    "value": "CCC"
+                },
+                {
+                    "docCount": 13,
+                    "value": "CRB"
+                },
+                {
+                    "docCount": 13,
+                    "value": "DOJ"
+                },
+                {
+                    "docCount": 13,
+                    "value": "FCIC"
+                },
+                {
+                    "docCount": 13,
+                    "value": "NEIGHBOR"
+                },
+                {
+                    "docCount": 11,
+                    "value": "BIA"
+                },
+                {
+                    "docCount": 11,
+                    "value": "EIA"
+                },
+                {
+                    "docCount": 11,
+                    "value": "NASS"
+                },
+                {
+                    "docCount": 11,
+                    "value": "NIFA"
+                },
+                {
+                    "docCount": 10,
+                    "value": "ATBCB"
+                },
+                {
+                    "docCount": 10,
+                    "value": "GEO"
+                },
+                {
+                    "docCount": 9,
+                    "value": "ONRR"
+                },
+                {
+                    "docCount": 9,
+                    "value": "USCC"
+                },
+                {
+                    "docCount": 8,
+                    "value": "ASC"
+                },
+                {
+                    "docCount": 8,
+                    "value": "EAB"
+                },
+                {
+                    "docCount": 8,
+                    "value": "IAF"
+                },
+                {
+                    "docCount": 8,
+                    "value": "NNSA"
+                },
+                {
+                    "docCount": 7,
+                    "value": "ACUS"
+                },
+                {
+                    "docCount": 7,
+                    "value": "DNFSB"
+                },
+                {
+                    "docCount": 7,
+                    "value": "FASAB"
+                },
+                {
+                    "docCount": 7,
+                    "value": "GAO"
+                },
+                {
+                    "docCount": 6,
+                    "value": "CSB"
+                },
+                {
+                    "docCount": 6,
+                    "value": "FCSIC"
+                },
+                {
+                    "docCount": 6,
+                    "value": "JBEA"
+                },
+                {
+                    "docCount": 6,
+                    "value": "PC"
+                },
+                {
+                    "docCount": 5,
+                    "value": "ACF"
+                },
+                {
+                    "docCount": 5,
+                    "value": "ARS"
+                },
+                {
+                    "docCount": 5,
+                    "value": "CIGIE"
+                },
+                {
+                    "docCount": 5,
+                    "value": "CSOSA"
+                },
+                {
+                    "docCount": 5,
+                    "value": "DOC"
+                },
+                {
+                    "docCount": 5,
+                    "value": "DRBC"
+                },
+                {
+                    "docCount": 5,
+                    "value": "HHSIG"
+                },
+                {
+                    "docCount": 5,
+                    "value": "SAMHSA"
+                },
+                {
+                    "docCount": 5,
+                    "value": "SJI"
+                },
+                {
+                    "docCount": 5,
+                    "value": "SLSDC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "ATF"
+                },
+                {
+                    "docCount": 4,
+                    "value": "BOP"
+                },
+                {
+                    "docCount": 4,
+                    "value": "FIRSTNET"
+                },
+                {
+                    "docCount": 4,
+                    "value": "HPAC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "NCD"
+                },
+                {
+                    "docCount": 4,
+                    "value": "NTIA"
+                },
+                {
+                    "docCount": 4,
+                    "value": "ODNI"
+                },
+                {
+                    "docCount": 4,
+                    "value": "ONDCP"
+                },
+                {
+                    "docCount": 4,
+                    "value": "OSC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "USIP"
+                },
+                {
+                    "docCount": 4,
+                    "value": "USJC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "ACL"
+                },
+                {
+                    "docCount": 3,
+                    "value": "BPA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "CIA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "COFA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "DC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "EOIR"
+                },
+                {
+                    "docCount": 3,
+                    "value": "NSPC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "RITA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "SSS"
+                },
+                {
+                    "docCount": 3,
+                    "value": "USSC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ABMC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ACFR"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ADF"
+                },
+                {
+                    "docCount": 2,
+                    "value": "CDFI"
+                },
+                {
+                    "docCount": 2,
+                    "value": "EOP"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FLRA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "GAPFAC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "GPO"
+                },
+                {
+                    "docCount": 2,
+                    "value": "HRSA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "MKU"
+                },
+                {
+                    "docCount": 2,
+                    "value": "MSPB"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NIH"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NIST"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NWTRB"
+                },
+                {
+                    "docCount": 2,
+                    "value": "OSHRC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "PCLOB"
+                },
+                {
+                    "docCount": 2,
+                    "value": "PHS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "USAGM"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BLS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CITA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ERS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ERULE"
+                },
+                {
+                    "docCount": 1,
+                    "value": "GCERC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "IAIA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "IPEC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "LMSO"
+                },
+                {
+                    "docCount": 1,
+                    "value": "MMC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "PACIFIC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "RMA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USDAIG"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USPC"
+                }
+            ],
+            "commentEndDate": [],
+            "postedDate": [
+                {
+                    "docCount": 3,
+                    "label": "Last 30 Days",
+                    "fromDate": "2024-09-15 00:00:00",
+                    "toDate": "2024-10-14 23:59:59"
+                },
+                {
+                    "docCount": 26,
+                    "label": "Last 90 Days",
+                    "fromDate": "2024-07-17 00:00:00",
+                    "toDate": "2024-10-14 23:59:59"
+                }
+            ]
+        },
+        "filters": {
+            "postedDate": {
+                "fromDate": "2022-01-01",
+                "toDate": "2023-01-01"
+            },
+            "agencyId": [
+                {
+                    "label": "OCC",
+                    "value": "OCC"
+                }
+            ]
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "numberOfElements": 61,
+        "pageNumber": 1,
+        "pageSize": 250,
+        "totalElements": 61,
+        "totalPages": 1,
+        "firstPage": true,
+        "lastPage": true
+    }
+}

@@ -1,0 +1,1745 @@
+{
+    "data": [
+        {
+            "id": "OCC-2019-0012-0005",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2021-12-20T14:20:01Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-27561",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Credit Risk Retention: Determination of Review",
+                "postedDate": "2021-12-20T05:00:00Z",
+                "docketId": "OCC-2019-0012",
+                "subtype": null,
+                "commentStartDate": "2021-12-20T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484ed615c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2019-0012-0005"
+            }
+        },
+        {
+            "id": "OCC-2021-0023-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2022-03-14T14:30:05Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2022-02-15T04:59:59Z",
+                "title": "Principles for Climate-Related Financial Risk Management for Large Banks",
+                "postedDate": "2021-12-16T05:00:00Z",
+                "docketId": "OCC-2021-0023",
+                "subtype": "Guidance",
+                "commentStartDate": "2021-12-16T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484ed0450"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2021-0023-0001"
+            }
+        },
+        {
+            "id": "OCC-2021-0014-0065",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2021-12-16T14:37:04Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-27171",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Community Reinvestment Act Regulations",
+                "postedDate": "2021-12-15T05:00:00Z",
+                "docketId": "OCC-2021-0014",
+                "subtype": null,
+                "commentStartDate": "2021-12-15T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484ecb058"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2021-0014-0065"
+            }
+        },
+        {
+            "id": "OCC-2021-0019-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2021-12-06T17:03:38Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-25908",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Appraisals for Higher-Priced Mortgage Loans Exemption Threshold",
+                "postedDate": "2021-11-30T05:00:00Z",
+                "docketId": "OCC-2021-0019",
+                "subtype": null,
+                "commentStartDate": "2021-11-30T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484e8c1ba"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2021-0019-0001"
+            }
+        },
+        {
+            "id": "OCC-2020-0038-0026",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2021-12-06T17:00:14Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-25510",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Computer-Security Incident Notification Requirements for Banking Organizations and Their Bank Service Providers",
+                "postedDate": "2021-11-23T05:00:00Z",
+                "docketId": "OCC-2020-0038",
+                "subtype": null,
+                "commentStartDate": "2021-11-23T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484e7588b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2020-0038-0026"
+            }
+        },
+        {
+            "id": "OCC-2021-0022-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2022-09-22T01:01:34Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2021-11-07T03:59:59Z",
+                "title": "US Bank NA  and MUFG Union Bank NA Merger Application",
+                "postedDate": "2021-11-09T05:00:00Z",
+                "docketId": "OCC-2021-0022",
+                "subtype": "Application",
+                "commentStartDate": "2021-10-07T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484e38e86"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2021-0022-0001"
+            }
+        },
+        {
+            "id": "OCC-2020-0043-0006",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2021-10-19T23:56:21Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of 9.15.21 Meeting with Bank Policy Institute (BPI) and Institute for International Bankers (IIB)",
+                "postedDate": "2021-10-19T04:00:00Z",
+                "docketId": "OCC-2020-0043",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006484dcc658"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2020-0043-0006"
+            }
+        },
+        {
+            "id": "OCC-2020-0043-0007",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2021-10-19T23:56:36Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of 9.13.21 Meeting with Barclays Bank PLC and Barclays Bank Delaware",
+                "postedDate": "2021-10-19T04:00:00Z",
+                "docketId": "OCC-2020-0043",
+                "subtype": "Meeting Summary",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006484dcc657"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2020-0043-0007"
+            }
+        },
+        {
+            "id": "OCC-2020-0043-0005",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2021-10-19T23:54:30Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of 9.1.21 Meeting with American Bankers Association (ABA)",
+                "postedDate": "2021-10-19T04:00:00Z",
+                "docketId": "OCC-2020-0043",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006484dcc656"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2020-0043-0005"
+            }
+        },
+        {
+            "id": "OCC-2021-0011-0009",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2021-09-21T13:09:12Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Proposed Interagency Guidance on Third-Party Relationships - Risk Management Comment Period Extension",
+                "postedDate": "2021-09-20T04:00:00Z",
+                "docketId": "OCC-2021-0011",
+                "subtype": "Guidance",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006484d966c3"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2021-0011-0009"
+            }
+        },
+        {
+            "id": "OCC-2021-0014-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2021-09-20T11:37:26Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Meeting with the Community Bankers Association 09.09.21",
+                "postedDate": "2021-09-20T04:00:00Z",
+                "docketId": "OCC-2021-0014",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006484d9386b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2021-0014-0002"
+            }
+        },
+        {
+            "id": "OCC-2021-0014-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2022-06-10T01:00:25Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-19738",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2021-10-30T03:59:59Z",
+                "title": "Community Reinvestment Act Regulations",
+                "postedDate": "2021-09-17T04:00:00Z",
+                "docketId": "OCC-2021-0014",
+                "subtype": null,
+                "commentStartDate": "2021-09-17T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484d8c2e4"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2021-0014-0001"
+            }
+        },
+        {
+            "id": "OCC-2011-0001-2447",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2021-09-09T14:07:12Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Meeting with Communication Workers of America 9-8-21",
+                "postedDate": "2021-09-09T04:00:00Z",
+                "docketId": "OCC-2011-0001",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006484d67303"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2011-0001-2447"
+            }
+        },
+        {
+            "id": "OCC-2021-0017-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2021-09-02T01:01:04Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2021-09-21T03:59:59Z",
+                "title": "BMA from Old Second NB Merger Act Application",
+                "postedDate": "2021-09-01T04:00:00Z",
+                "docketId": "OCC-2021-0017",
+                "subtype": "Application",
+                "commentStartDate": "2021-08-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484d358b9"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2021-0017-0001"
+            }
+        },
+        {
+            "id": "OCC-2020-0026-0563",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2021-08-09T18:23:03Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-16619",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "National Banks and Federal Savings Associations as Lenders",
+                "postedDate": "2021-08-05T04:00:00Z",
+                "docketId": "OCC-2020-0026",
+                "subtype": null,
+                "commentStartDate": "2021-08-05T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484c2aac7"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2020-0026-0563"
+            }
+        },
+        {
+            "id": "OCC-2021-0013-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2021-10-09T01:00:51Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2021-07-23T03:59:59Z",
+                "title": "Citizens Bank, N.A., Providence, RI to P&A Certain A/L from HSBC Bank USA, N.A.., Tysons, VA and HSBC Securities (USA) Inc., DE",
+                "postedDate": "2021-08-04T04:00:00Z",
+                "docketId": "OCC-2021-0013",
+                "subtype": "Application",
+                "commentStartDate": "2021-06-22T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484c28b5b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2021-0013-0001"
+            }
+        },
+        {
+            "id": "OCC-2019-0012-0004",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2021-07-22T13:20:54Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-15424",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Credit Risk Retention: Notification of Extension of Review Period",
+                "postedDate": "2021-07-22T04:00:00Z",
+                "docketId": "OCC-2019-0012",
+                "subtype": null,
+                "commentStartDate": "2021-07-22T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484c077f6"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2019-0012-0004"
+            }
+        },
+        {
+            "id": "OCC-2021-0011-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-10-22T01:01:12Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-15308",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2021-10-28T03:59:59Z",
+                "title": "Proposed Interagency Guidance on Third-Party Relationships: Risk Management",
+                "postedDate": "2021-07-19T04:00:00Z",
+                "docketId": "OCC-2021-0011",
+                "subtype": null,
+                "commentStartDate": "2021-07-19T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484c01d80"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2021-0011-0001"
+            }
+        },
+        {
+            "id": "OCC-2021-0012-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2021-07-09T01:01:48Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2021-06-07T03:59:59Z",
+                "title": "Pacific Mercantile Bank to merge with and in to Banc of California",
+                "postedDate": "2021-06-16T04:00:00Z",
+                "docketId": "OCC-2021-0012",
+                "subtype": "Application",
+                "commentStartDate": "2021-05-07T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484b87fab"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2021-0012-0001"
+            }
+        },
+        {
+            "id": "OCC-2020-0031-0009",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2021-05-26T13:57:25Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-11130",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Collective Investment Funds: Prior Notice Period for Withdrawals",
+                "postedDate": "2021-05-26T04:00:00Z",
+                "docketId": "OCC-2020-0031",
+                "subtype": "Final Rule",
+                "commentStartDate": "2021-05-26T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484b38518"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2020-0031-0009"
+            }
+        },
+        {
+            "id": "OCC-2020-0049-0007",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-05-24T15:07:00Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "RFI Comment Period Extension",
+                "postedDate": "2021-05-24T04:00:00Z",
+                "docketId": "OCC-2020-0049",
+                "subtype": null,
+                "commentStartDate": "2021-05-24T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484b2e965"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2020-0049-0007"
+            }
+        },
+        {
+            "id": "OCC-2020-0043-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2021-07-10T01:00:47Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-09047",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2021-07-10T03:59:59Z",
+                "title": "Tax Allocation Agreements",
+                "postedDate": "2021-05-10T04:00:00Z",
+                "docketId": "OCC-2020-0043",
+                "subtype": null,
+                "commentStartDate": "2021-05-10T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484ae1dbc"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2020-0043-0001"
+            }
+        },
+        {
+            "id": "OCC-2020-0047-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-06-12T23:46:34Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-07428",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2021-06-12T03:59:59Z",
+                "title": "Request for Information and Comment: Extent to Which Model Risk Management Principles Support Compliance with Bank Secrecy Act/Anti-Money Laundering and Office of Foreign Assets Control Requirements",
+                "postedDate": "2021-04-12T04:00:00Z",
+                "docketId": "OCC-2020-0047",
+                "subtype": null,
+                "commentStartDate": "2021-04-12T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484aa37b4"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2020-0047-0001"
+            }
+        },
+        {
+            "id": "OCC-2020-0049-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-07-03T01:00:33Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-06607",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2021-07-02T03:59:59Z",
+                "title": "Request for Information and Comment on Financial Institutions\u2019 Use of Artificial Intelligence, Including\nMachine Learning",
+                "postedDate": "2021-03-31T04:00:00Z",
+                "docketId": "OCC-2020-0049",
+                "subtype": null,
+                "commentStartDate": "2021-03-31T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484a92368"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2020-0049-0001"
+            }
+        },
+        {
+            "id": "OCC-2021-0002-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2021-05-22T01:00:32Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-05443",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2021-05-22T03:59:59Z",
+                "title": "Emergency Capital Investment Program",
+                "postedDate": "2021-03-22T04:00:00Z",
+                "docketId": "OCC-2021-0002",
+                "subtype": null,
+                "commentStartDate": "2021-03-22T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484a736f3"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2021-0002-0001"
+            }
+        },
+        {
+            "id": "OCC-2020-0033-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2021-05-18T01:00:43Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-05314",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2021-05-18T03:59:59Z",
+                "title": "Loans in Areas Having Special Flood Hazards: Interagency Questions and Answers Regarding Private Flood Insurance",
+                "postedDate": "2021-03-18T04:00:00Z",
+                "docketId": "OCC-2020-0033",
+                "subtype": null,
+                "commentStartDate": "2021-03-18T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484a6ffff"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2020-0033-0001"
+            }
+        },
+        {
+            "id": "OCC-2014-0029-0054",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2021-02-17T15:20:43Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "FINAL NSFR RIA October 13 2020",
+                "postedDate": "2021-02-17T05:00:00Z",
+                "docketId": "OCC-2014-0029",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006484a3a8f8"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2014-0029-0054"
+            }
+        },
+        {
+            "id": "OCC-2020-0005-0133",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2021-02-12T14:32:18Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-01499",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Role of Supervisory Guidance",
+                "postedDate": "2021-02-12T05:00:00Z",
+                "docketId": "OCC-2020-0005",
+                "subtype": null,
+                "commentStartDate": "2021-02-12T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484a34732"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2020-0005-0133"
+            }
+        },
+        {
+            "id": "OCC-2014-0029-0053",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2021-02-12T14:30:54Z",
+                "highlightedContent": "",
+                "frDocNum": "2020-26546",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Net Stable Funding Ratio: Liquidity Risk Measurement Standards and Disclosure Requirements",
+                "postedDate": "2021-02-11T05:00:00Z",
+                "docketId": "OCC-2014-0029",
+                "subtype": null,
+                "commentStartDate": "2021-02-11T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484a2e4a3"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2014-0029-0053"
+            }
+        },
+        {
+            "id": "OCC-2020-0045-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2021-05-20T01:00:40Z",
+                "highlightedContent": "",
+                "frDocNum": "2020-29277",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2021-03-23T03:59:59Z",
+                "title": "National Bank and Federal Savings Association Premises",
+                "postedDate": "2021-02-03T05:00:00Z",
+                "docketId": "OCC-2020-0045",
+                "subtype": null,
+                "commentStartDate": "2021-02-03T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484a17e8d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2020-0045-0001"
+            }
+        },
+        {
+            "id": "OCC-2021-0001-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2021-02-12T02:00:31Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2021-02-11T04:59:59Z",
+                "title": "The Huntington National Bank, Columbus, OH to acquire by merger TCF National Bank, Sioux Falls, SD",
+                "postedDate": "2021-01-25T05:00:00Z",
+                "docketId": "OCC-2021-0001",
+                "subtype": "Application",
+                "commentStartDate": "2021-01-25T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064849ff297"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2021-0001-0001"
+            }
+        },
+        {
+            "id": "OCC-2020-0037-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2021-02-23T02:00:42Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-00034",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2021-02-23T04:59:59Z",
+                "title": "Exemptions to Suspicious Activity Report Requirements",
+                "postedDate": "2021-01-22T05:00:00Z",
+                "docketId": "OCC-2020-0037",
+                "subtype": null,
+                "commentStartDate": "2021-01-22T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064849fc76f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2020-0037-0001"
+            }
+        },
+        {
+            "id": "OCC-2020-0038-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2021-04-14T01:00:36Z",
+                "highlightedContent": "",
+                "frDocNum": "2020-28498",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2021-04-13T03:59:59Z",
+                "title": "Computer-Security Incident Notification Requirements for Banking Organizations and their Bank Service Providers",
+                "postedDate": "2021-01-12T05:00:00Z",
+                "docketId": "OCC-2020-0038",
+                "subtype": null,
+                "commentStartDate": "2021-01-12T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064849ef87f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2020-0038-0001"
+            }
+        },
+        {
+            "id": "OCC-2019-0024-0010",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2021-01-08T14:29:14Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-00101",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Licensing Amendments: Technical Correction",
+                "postedDate": "2021-01-08T05:00:00Z",
+                "docketId": "OCC-2019-0024",
+                "subtype": "Final Rule",
+                "commentStartDate": "2021-01-08T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064849e89f2"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2019-0024-0010"
+            }
+        },
+        {
+            "id": "OCC-2018-0019-0012",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2021-01-06T13:51:50Z",
+                "highlightedContent": "",
+                "frDocNum": "2020-27046",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Regulatory Capital Treatment for Investments in Certain Unsecured Debt Instruments of Global Systemically Important U.S. Bank Holding Companies, Certain Intermediate Holding Companies, and Global Systemically Important Foreign Banking Organizations; Total Loss-Absorbing Capacity Requirements",
+                "postedDate": "2021-01-06T05:00:00Z",
+                "docketId": "OCC-2018-0019",
+                "subtype": "Final Rule",
+                "commentStartDate": "2021-01-06T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064849e0825"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2018-0019-0012"
+            }
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "documentType": [
+                {
+                    "docCount": 11,
+                    "label": "Rule"
+                },
+                {
+                    "docCount": 7,
+                    "label": "Other"
+                },
+                {
+                    "docCount": 7,
+                    "label": "Proposed Rule"
+                },
+                {
+                    "docCount": 6,
+                    "label": "Supporting & Related Material"
+                },
+                {
+                    "docCount": 4,
+                    "label": "Notice"
+                }
+            ],
+            "subtype": [
+                {
+                    "docCount": 5,
+                    "label": "Application"
+                },
+                {
+                    "docCount": 3,
+                    "label": "Final Rule"
+                },
+                {
+                    "docCount": 2,
+                    "label": "Guidance"
+                },
+                {
+                    "docCount": 2,
+                    "label": "Meeting Summary"
+                }
+            ],
+            "withinCommentPeriod": [
+                {
+                    "docCount": 0,
+                    "label": "true"
+                },
+                {
+                    "docCount": 35,
+                    "label": "false"
+                }
+            ],
+            "agencyId": [
+                {
+                    "docCount": 33375,
+                    "value": "EPA"
+                },
+                {
+                    "docCount": 8221,
+                    "value": "FDA"
+                },
+                {
+                    "docCount": 5088,
+                    "value": "FAA"
+                },
+                {
+                    "docCount": 3044,
+                    "value": "DOT"
+                },
+                {
+                    "docCount": 1968,
+                    "value": "SEC"
+                },
+                {
+                    "docCount": 1966,
+                    "value": "OSHA"
+                },
+                {
+                    "docCount": 1625,
+                    "value": "FERC"
+                },
+                {
+                    "docCount": 1578,
+                    "value": "FMCSA"
+                },
+                {
+                    "docCount": 1184,
+                    "value": "FRA"
+                },
+                {
+                    "docCount": 1096,
+                    "value": "FWS"
+                },
+                {
+                    "docCount": 985,
+                    "value": "ITA"
+                },
+                {
+                    "docCount": 917,
+                    "value": "USCG"
+                },
+                {
+                    "docCount": 846,
+                    "value": "MARAD"
+                },
+                {
+                    "docCount": 737,
+                    "value": "NRC"
+                },
+                {
+                    "docCount": 734,
+                    "value": "FEMA"
+                },
+                {
+                    "docCount": 701,
+                    "value": "NOAA"
+                },
+                {
+                    "docCount": 571,
+                    "value": "FCC"
+                },
+                {
+                    "docCount": 528,
+                    "value": "NHTSA"
+                },
+                {
+                    "docCount": 490,
+                    "value": "VA"
+                },
+                {
+                    "docCount": 456,
+                    "value": "ITC"
+                },
+                {
+                    "docCount": 444,
+                    "value": "ED"
+                },
+                {
+                    "docCount": 438,
+                    "value": "FRS"
+                },
+                {
+                    "docCount": 407,
+                    "value": "EERE"
+                },
+                {
+                    "docCount": 398,
+                    "value": "USCIS"
+                },
+                {
+                    "docCount": 371,
+                    "value": "PHMSA"
+                },
+                {
+                    "docCount": 356,
+                    "value": "NCUA"
+                },
+                {
+                    "docCount": 338,
+                    "value": "DOS"
+                },
+                {
+                    "docCount": 325,
+                    "value": "CMS"
+                },
+                {
+                    "docCount": 249,
+                    "value": "APHIS"
+                },
+                {
+                    "docCount": 247,
+                    "value": "CRC"
+                },
+                {
+                    "docCount": 243,
+                    "value": "DOD"
+                },
+                {
+                    "docCount": 223,
+                    "value": "NSF"
+                },
+                {
+                    "docCount": 221,
+                    "value": "HUD"
+                },
+                {
+                    "docCount": 198,
+                    "value": "CPSC"
+                },
+                {
+                    "docCount": 195,
+                    "value": "CDC"
+                },
+                {
+                    "docCount": 189,
+                    "value": "USDA"
+                },
+                {
+                    "docCount": 187,
+                    "value": "DOE"
+                },
+                {
+                    "docCount": 187,
+                    "value": "FS"
+                },
+                {
+                    "docCount": 184,
+                    "value": "NARA"
+                },
+                {
+                    "docCount": 177,
+                    "value": "USPS"
+                },
+                {
+                    "docCount": 176,
+                    "value": "DOL"
+                },
+                {
+                    "docCount": 171,
+                    "value": "STB"
+                },
+                {
+                    "docCount": 162,
+                    "value": "CFPB"
+                },
+                {
+                    "docCount": 148,
+                    "value": "COE"
+                },
+                {
+                    "docCount": 138,
+                    "value": "AMS"
+                },
+                {
+                    "docCount": 130,
+                    "value": "USCBP"
+                },
+                {
+                    "docCount": 128,
+                    "value": "OFAC"
+                },
+                {
+                    "docCount": 126,
+                    "value": "FDIC"
+                },
+                {
+                    "docCount": 121,
+                    "value": "HHS"
+                },
+                {
+                    "docCount": 112,
+                    "value": "ARTS"
+                },
+                {
+                    "docCount": 100,
+                    "value": "OPM"
+                },
+                {
+                    "docCount": 99,
+                    "value": "FHWA"
+                },
+                {
+                    "docCount": 98,
+                    "value": "BOEM"
+                },
+                {
+                    "docCount": 96,
+                    "value": "FAR"
+                },
+                {
+                    "docCount": 91,
+                    "value": "FTC"
+                },
+                {
+                    "docCount": 91,
+                    "value": "PTO"
+                },
+                {
+                    "docCount": 90,
+                    "value": "CPPBSD"
+                },
+                {
+                    "docCount": 88,
+                    "value": "CNCS"
+                },
+                {
+                    "docCount": 77,
+                    "value": "GSA"
+                },
+                {
+                    "docCount": 75,
+                    "value": "FEC"
+                },
+                {
+                    "docCount": 73,
+                    "value": "IRS"
+                },
+                {
+                    "docCount": 72,
+                    "value": "DEA"
+                },
+                {
+                    "docCount": 72,
+                    "value": "DHS"
+                },
+                {
+                    "docCount": 71,
+                    "value": "EIB"
+                },
+                {
+                    "docCount": 70,
+                    "value": "USTR"
+                },
+                {
+                    "docCount": 67,
+                    "value": "FNS"
+                },
+                {
+                    "docCount": 66,
+                    "value": "BIS"
+                },
+                {
+                    "docCount": 64,
+                    "value": "FMC"
+                },
+                {
+                    "docCount": 62,
+                    "value": "TSA"
+                },
+                {
+                    "docCount": 60,
+                    "value": "MSHA"
+                },
+                {
+                    "docCount": 56,
+                    "value": "DARS"
+                },
+                {
+                    "docCount": 53,
+                    "value": "SSA"
+                },
+                {
+                    "docCount": 52,
+                    "value": "FTA"
+                },
+                {
+                    "docCount": 47,
+                    "value": "USC"
+                },
+                {
+                    "docCount": 46,
+                    "value": "CFTC"
+                },
+                {
+                    "docCount": 44,
+                    "value": "FSIS"
+                },
+                {
+                    "docCount": 43,
+                    "value": "RBS"
+                },
+                {
+                    "docCount": 43,
+                    "value": "TREAS"
+                },
+                {
+                    "docCount": 42,
+                    "value": "AHRQ"
+                },
+                {
+                    "docCount": 41,
+                    "value": "SRBC"
+                },
+                {
+                    "docCount": 41,
+                    "value": "TTB"
+                },
+                {
+                    "docCount": 41,
+                    "value": "WHD"
+                },
+                {
+                    "docCount": 36,
+                    "value": "USA"
+                },
+                {
+                    "docCount": 35,
+                    "value": "OCC"
+                },
+                {
+                    "docCount": 34,
+                    "value": "DOI"
+                },
+                {
+                    "docCount": 34,
+                    "value": "EAC"
+                },
+                {
+                    "docCount": 34,
+                    "value": "PBGC"
+                },
+                {
+                    "docCount": 33,
+                    "value": "RUS"
+                },
+                {
+                    "docCount": 32,
+                    "value": "OMB"
+                },
+                {
+                    "docCount": 32,
+                    "value": "USBC"
+                },
+                {
+                    "docCount": 31,
+                    "value": "FCA"
+                },
+                {
+                    "docCount": 28,
+                    "value": "AID"
+                },
+                {
+                    "docCount": 28,
+                    "value": "OSM"
+                },
+                {
+                    "docCount": 28,
+                    "value": "WCPO"
+                },
+                {
+                    "docCount": 27,
+                    "value": "CISA"
+                },
+                {
+                    "docCount": 27,
+                    "value": "COLC"
+                },
+                {
+                    "docCount": 26,
+                    "value": "CRB"
+                },
+                {
+                    "docCount": 26,
+                    "value": "FSA"
+                },
+                {
+                    "docCount": 26,
+                    "value": "ICEB"
+                },
+                {
+                    "docCount": 26,
+                    "value": "RRB"
+                },
+                {
+                    "docCount": 25,
+                    "value": "FHFA"
+                },
+                {
+                    "docCount": 24,
+                    "value": "EBSA"
+                },
+                {
+                    "docCount": 24,
+                    "value": "RHS"
+                },
+                {
+                    "docCount": 24,
+                    "value": "SBA"
+                },
+                {
+                    "docCount": 23,
+                    "value": "LSC"
+                },
+                {
+                    "docCount": 21,
+                    "value": "FISCAL"
+                },
+                {
+                    "docCount": 21,
+                    "value": "IHS"
+                },
+                {
+                    "docCount": 21,
+                    "value": "NTSB"
+                },
+                {
+                    "docCount": 20,
+                    "value": "ETA"
+                },
+                {
+                    "docCount": 20,
+                    "value": "FRTIB"
+                },
+                {
+                    "docCount": 19,
+                    "value": "EEOC"
+                },
+                {
+                    "docCount": 19,
+                    "value": "NASS"
+                },
+                {
+                    "docCount": 19,
+                    "value": "TVA"
+                },
+                {
+                    "docCount": 17,
+                    "value": "BSEE"
+                },
+                {
+                    "docCount": 17,
+                    "value": "FINCEN"
+                },
+                {
+                    "docCount": 17,
+                    "value": "PRC"
+                },
+                {
+                    "docCount": 17,
+                    "value": "USN"
+                },
+                {
+                    "docCount": 16,
+                    "value": "DOC"
+                },
+                {
+                    "docCount": 16,
+                    "value": "ONRR"
+                },
+                {
+                    "docCount": 16,
+                    "value": "OSTP"
+                },
+                {
+                    "docCount": 15,
+                    "value": "DOJ"
+                },
+                {
+                    "docCount": 15,
+                    "value": "NEIGHBOR"
+                },
+                {
+                    "docCount": 14,
+                    "value": "ATSDR"
+                },
+                {
+                    "docCount": 14,
+                    "value": "BIA"
+                },
+                {
+                    "docCount": 14,
+                    "value": "FASAB"
+                },
+                {
+                    "docCount": 14,
+                    "value": "FMCS"
+                },
+                {
+                    "docCount": 14,
+                    "value": "IAF"
+                },
+                {
+                    "docCount": 14,
+                    "value": "WAPA"
+                },
+                {
+                    "docCount": 13,
+                    "value": "GEO"
+                },
+                {
+                    "docCount": 13,
+                    "value": "MCC"
+                },
+                {
+                    "docCount": 13,
+                    "value": "USAF"
+                },
+                {
+                    "docCount": 12,
+                    "value": "CEQ"
+                },
+                {
+                    "docCount": 12,
+                    "value": "FCIC"
+                },
+                {
+                    "docCount": 11,
+                    "value": "CCC"
+                },
+                {
+                    "docCount": 11,
+                    "value": "FAS"
+                },
+                {
+                    "docCount": 11,
+                    "value": "HRSA"
+                },
+                {
+                    "docCount": 11,
+                    "value": "NIGC"
+                },
+                {
+                    "docCount": 11,
+                    "value": "NRCS"
+                },
+                {
+                    "docCount": 10,
+                    "value": "ACF"
+                },
+                {
+                    "docCount": 10,
+                    "value": "ARS"
+                },
+                {
+                    "docCount": 10,
+                    "value": "EIA"
+                },
+                {
+                    "docCount": 10,
+                    "value": "MSHFRC"
+                },
+                {
+                    "docCount": 9,
+                    "value": "ASC"
+                },
+                {
+                    "docCount": 9,
+                    "value": "NIST"
+                },
+                {
+                    "docCount": 9,
+                    "value": "USCC"
+                },
+                {
+                    "docCount": 8,
+                    "value": "GAO"
+                },
+                {
+                    "docCount": 8,
+                    "value": "HHSIG"
+                },
+                {
+                    "docCount": 8,
+                    "value": "NPS"
+                },
+                {
+                    "docCount": 8,
+                    "value": "PC"
+                },
+                {
+                    "docCount": 7,
+                    "value": "CSB"
+                },
+                {
+                    "docCount": 7,
+                    "value": "DRBC"
+                },
+                {
+                    "docCount": 7,
+                    "value": "NASA"
+                },
+                {
+                    "docCount": 7,
+                    "value": "OSHRC"
+                },
+                {
+                    "docCount": 7,
+                    "value": "PCSCOTUS"
+                },
+                {
+                    "docCount": 7,
+                    "value": "USPC"
+                },
+                {
+                    "docCount": 6,
+                    "value": "ACUS"
+                },
+                {
+                    "docCount": 6,
+                    "value": "CIGIE"
+                },
+                {
+                    "docCount": 6,
+                    "value": "EOIR"
+                },
+                {
+                    "docCount": 6,
+                    "value": "FCSIC"
+                },
+                {
+                    "docCount": 6,
+                    "value": "NNSA"
+                },
+                {
+                    "docCount": 5,
+                    "value": "ADF"
+                },
+                {
+                    "docCount": 5,
+                    "value": "BLM"
+                },
+                {
+                    "docCount": 5,
+                    "value": "DNFSB"
+                },
+                {
+                    "docCount": 5,
+                    "value": "LMSO"
+                },
+                {
+                    "docCount": 5,
+                    "value": "NLRB"
+                },
+                {
+                    "docCount": 5,
+                    "value": "OFCCP"
+                },
+                {
+                    "docCount": 5,
+                    "value": "SJI"
+                },
+                {
+                    "docCount": 5,
+                    "value": "SWPA"
+                },
+                {
+                    "docCount": 4,
+                    "value": "ATF"
+                },
+                {
+                    "docCount": 4,
+                    "value": "ERS"
+                },
+                {
+                    "docCount": 4,
+                    "value": "FIRSTNET"
+                },
+                {
+                    "docCount": 4,
+                    "value": "GCERC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "JBEA"
+                },
+                {
+                    "docCount": 4,
+                    "value": "NCD"
+                },
+                {
+                    "docCount": 4,
+                    "value": "NIFA"
+                },
+                {
+                    "docCount": 4,
+                    "value": "NSCAI"
+                },
+                {
+                    "docCount": 4,
+                    "value": "PHS"
+                },
+                {
+                    "docCount": 4,
+                    "value": "SLSDC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "ATBCB"
+                },
+                {
+                    "docCount": 3,
+                    "value": "CITA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "DFC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "MKU"
+                },
+                {
+                    "docCount": 3,
+                    "value": "MSPB"
+                },
+                {
+                    "docCount": 3,
+                    "value": "NWTRB"
+                },
+                {
+                    "docCount": 3,
+                    "value": "ONDCP"
+                },
+                {
+                    "docCount": 3,
+                    "value": "OSC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "RITA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "SSS"
+                },
+                {
+                    "docCount": 3,
+                    "value": "USIP"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ABMC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "DC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ERULE"
+                },
+                {
+                    "docCount": 2,
+                    "value": "LOC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NCPPCC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NIH"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NTIA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ODNI"
+                },
+                {
+                    "docCount": 2,
+                    "value": "USAGM"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ATR"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BOP"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BOR"
+                },
+                {
+                    "docCount": 1,
+                    "value": "EAB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "EDA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FLRA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "GPO"
+                },
+                {
+                    "docCount": 1,
+                    "value": "HPAC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "MMC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "PBRB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "RMA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USMINT"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USOPC"
+                }
+            ],
+            "commentEndDate": [],
+            "postedDate": [
+                {
+                    "docCount": 3,
+                    "label": "Last 30 Days",
+                    "fromDate": "2024-09-15 00:00:00",
+                    "toDate": "2024-10-14 23:59:59"
+                },
+                {
+                    "docCount": 26,
+                    "label": "Last 90 Days",
+                    "fromDate": "2024-07-17 00:00:00",
+                    "toDate": "2024-10-14 23:59:59"
+                }
+            ]
+        },
+        "filters": {
+            "postedDate": {
+                "fromDate": "2021-01-01",
+                "toDate": "2022-01-01"
+            },
+            "agencyId": [
+                {
+                    "label": "OCC",
+                    "value": "OCC"
+                }
+            ]
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "numberOfElements": 35,
+        "pageNumber": 1,
+        "pageSize": 250,
+        "totalElements": 35,
+        "totalPages": 1,
+        "firstPage": true,
+        "lastPage": true
+    }
+}

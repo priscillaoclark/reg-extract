@@ -6663,34 +6663,28 @@
             "commentEndDate": [],
             "postedDate": [
                 {
-                    "docCount": 3,
-                    "label": "Last 3 Days",
-                    "fromDate": "2024-10-11 00:00:00",
-                    "toDate": "2024-10-13 23:59:59"
-                },
-                {
-                    "docCount": 9,
+                    "docCount": 6,
                     "label": "Last 7 Days",
-                    "fromDate": "2024-10-07 00:00:00",
-                    "toDate": "2024-10-13 23:59:59"
+                    "fromDate": "2024-10-08 00:00:00",
+                    "toDate": "2024-10-14 23:59:59"
                 },
                 {
                     "docCount": 25,
                     "label": "Last 15 Days",
-                    "fromDate": "2024-09-29 00:00:00",
-                    "toDate": "2024-10-13 23:59:59"
+                    "fromDate": "2024-09-30 00:00:00",
+                    "toDate": "2024-10-14 23:59:59"
                 },
                 {
                     "docCount": 36,
                     "label": "Last 30 Days",
-                    "fromDate": "2024-09-14 00:00:00",
-                    "toDate": "2024-10-13 23:59:59"
+                    "fromDate": "2024-09-15 00:00:00",
+                    "toDate": "2024-10-14 23:59:59"
                 },
                 {
                     "docCount": 90,
                     "label": "Last 90 Days",
-                    "fromDate": "2024-07-16 00:00:00",
-                    "toDate": "2024-10-13 23:59:59"
+                    "fromDate": "2024-07-17 00:00:00",
+                    "toDate": "2024-10-14 23:59:59"
                 }
             ]
         },

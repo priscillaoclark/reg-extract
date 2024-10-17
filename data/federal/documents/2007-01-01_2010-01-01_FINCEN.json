@@ -1,0 +1,1846 @@
+{
+    "data": [
+        {
+            "id": "FINCEN-2009-0005-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2011-06-11T17:23:30Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "FINCEN",
+                "commentEndDate": "2009-12-17T04:59:59Z",
+                "title": "Financial Crimes Enforcement Network; Expansion of Special Information Sharing Procedures To Deter Money Laundering and Terrorist Activity",
+                "postedDate": "2009-11-20T05:00:00Z",
+                "docketId": "FINCEN-2009-0005",
+                "subtype": "NPRM",
+                "commentStartDate": "2009-11-16T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a5afdb"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FINCEN-2009-0005-0002"
+            }
+        },
+        {
+            "id": "FINCEN-2009-0005-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2011-06-11T17:23:30Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "FINCEN",
+                "commentEndDate": "2009-12-17T04:59:59Z",
+                "title": "Financial Crimes Enforcement Network; Expansion of Special Information Sharing Procedures To Deter Money Laundering and Terrorist Activity",
+                "postedDate": "2009-11-19T05:00:00Z",
+                "docketId": "FINCEN-2009-0005",
+                "subtype": "NPRM",
+                "commentStartDate": "2009-11-19T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a5afda"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FINCEN-2009-0005-0001"
+            }
+        },
+        {
+            "id": "FINCEN-2009-0003-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2011-06-11T17:23:27Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-17117",
+                "withdrawn": false,
+                "agencyId": "FINCEN",
+                "commentEndDate": "2009-08-21T03:59:59Z",
+                "title": "Financial Crimes Enforcement Network: Anti-Money Laundering Program and Suspicious Activity Report Requirements for Non-Bank Residential Mortgage Lenders and Originators",
+                "postedDate": "2009-07-21T04:00:00Z",
+                "docketId": "FINCEN-2009-0003",
+                "subtype": "ANPRM",
+                "commentStartDate": "2009-07-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a155ba"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FINCEN-2009-0003-0001"
+            }
+        },
+        {
+            "id": "FINCEN-2007-0011-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2012-11-30T18:11:53Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "FINCEN",
+                "commentEndDate": null,
+                "title": "Banco-Delta Asia Final Rule",
+                "postedDate": "2009-07-15T04:00:00Z",
+                "docketId": "FINCEN-2007-0011",
+                "subtype": "Final Rule",
+                "commentStartDate": "2009-07-15T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a14075"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FINCEN-2007-0011-0001"
+            }
+        },
+        {
+            "id": "FINCEN-2008-0025-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2012-03-24T19:31:34Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "FINCEN",
+                "commentEndDate": null,
+                "title": "Notice of Proposed Rulemaking; Anti-Money Laundering Programs for Investment Advisers",
+                "postedDate": "2009-07-15T04:00:00Z",
+                "docketId": "FINCEN-2008-0025",
+                "subtype": "Final Rule",
+                "commentStartDate": "2009-07-15T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a15410"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FINCEN-2008-0025-0001"
+            }
+        },
+        {
+            "id": "FINCEN-2009-0004-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2011-06-11T17:23:29Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-13136",
+                "withdrawn": false,
+                "agencyId": "FINCEN",
+                "commentEndDate": "2009-09-04T03:59:59Z",
+                "title": "Financial Crimes Enforcement Network; Amendment to the Bank Secrecy Act Regulations; Defining Mutual Funds as Financial Institutions",
+                "postedDate": "2009-06-05T04:00:00Z",
+                "docketId": "FINCEN-2009-0004",
+                "subtype": "NPRM",
+                "commentStartDate": "2009-06-05T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a155bb"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FINCEN-2009-0004-0001"
+            }
+        },
+        {
+            "id": "FINCEN-2009-0002-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2012-11-30T18:10:38Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-10864",
+                "withdrawn": false,
+                "agencyId": "FINCEN",
+                "commentEndDate": "2009-09-10T03:59:59Z",
+                "title": "Amendment to the Bank Secrecy Act Regulations: Definitions and Other Regulations Relating to Money Services Businesses",
+                "postedDate": "2009-05-12T04:00:00Z",
+                "docketId": "FINCEN-2009-0002",
+                "subtype": "NPRM",
+                "commentStartDate": "2009-05-12T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a154de"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FINCEN-2009-0002-0001"
+            }
+        },
+        {
+            "id": "FINCEN-2009-0006-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2009-09-13T23:05:46Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "FINCEN",
+                "commentEndDate": null,
+                "title": "Semiannual Regulatory Agenda - Spring 2009",
+                "postedDate": "2009-05-10T16:45:57Z",
+                "docketId": "FINCEN-2009-0006",
+                "subtype": "NA",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006480a155bc"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FINCEN-2009-0006-0001"
+            }
+        },
+        {
+            "id": "FINCEN-2008-0020-0010",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2011-06-11T17:23:21Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "FINCEN",
+                "commentEndDate": "2009-03-10T03:59:59Z",
+                "title": "Transfer and Reorganization of Bank Secrecy Act Regulations",
+                "postedDate": "2009-04-23T04:00:00Z",
+                "docketId": "FINCEN-2008-0020",
+                "subtype": "Notice",
+                "commentStartDate": "2009-04-23T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a14fdc"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FINCEN-2008-0020-0010"
+            }
+        },
+        {
+            "id": "FINCEN-2008-0020-0011",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2011-06-11T17:23:22Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "FINCEN",
+                "commentEndDate": "2009-03-10T03:59:59Z",
+                "title": "ACLI Comments on Proposed Transfer and Reorg of BAS Regs",
+                "postedDate": "2009-04-23T04:00:00Z",
+                "docketId": "FINCEN-2008-0020",
+                "subtype": "NPRM",
+                "commentStartDate": "2009-04-23T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a14fdd"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FINCEN-2008-0020-0011"
+            }
+        },
+        {
+            "id": "FINCEN-2008-0022-0003",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2012-11-30T18:11:53Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "FINCEN",
+                "commentEndDate": "2009-06-09T03:59:59Z",
+                "title": "Interpretive Guidance - Sharing Suspicious Activity Reports by Securities Broker-Dealers et. al",
+                "postedDate": "2009-03-09T04:00:00Z",
+                "docketId": "FINCEN-2008-0022",
+                "subtype": "NA",
+                "commentStartDate": "2009-03-09T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a15200"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FINCEN-2008-0022-0003"
+            }
+        },
+        {
+            "id": "FINCEN-2008-0022-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2012-11-30T18:11:53Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "FINCEN",
+                "commentEndDate": "2009-06-09T03:59:59Z",
+                "title": "Interpretive Guidance - Sharing Suspicious Activity Reports by Depository Institutions with Certain U.S. Affiliates",
+                "postedDate": "2009-03-09T04:00:00Z",
+                "docketId": "FINCEN-2008-0022",
+                "subtype": "NA",
+                "commentStartDate": "2009-03-09T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a151fe"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FINCEN-2008-0022-0001"
+            }
+        },
+        {
+            "id": "FINCEN-2008-0022-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2012-11-30T18:11:53Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-04697",
+                "withdrawn": false,
+                "agencyId": "FINCEN",
+                "commentEndDate": "2009-06-09T03:59:59Z",
+                "title": "Confidentiality of Suspicious Activity Reports",
+                "postedDate": "2009-03-09T04:00:00Z",
+                "docketId": "FINCEN-2008-0022",
+                "subtype": "NPRM",
+                "commentStartDate": "2009-03-09T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a151ff"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FINCEN-2008-0022-0002"
+            }
+        },
+        {
+            "id": "FINCEN-2008-0021-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2009-09-13T23:05:45Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "FINCEN",
+                "commentEndDate": null,
+                "title": "Regulatory Plan - Fall 2008",
+                "postedDate": "2008-11-23T18:17:21Z",
+                "docketId": "FINCEN-2008-0021",
+                "subtype": "NA",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006480a14fdf"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FINCEN-2008-0021-0002"
+            }
+        },
+        {
+            "id": "FINCEN-2008-0021-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2009-09-13T23:05:45Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "FINCEN",
+                "commentEndDate": null,
+                "title": "Semiannual Regulatory Agenda - Fall 2008",
+                "postedDate": "2008-11-23T18:16:40Z",
+                "docketId": "FINCEN-2008-0021",
+                "subtype": "NA",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006480a14fde"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FINCEN-2008-0021-0001"
+            }
+        },
+        {
+            "id": "FINCEN-2008-0020-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2011-06-11T17:23:22Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-25550",
+                "withdrawn": false,
+                "agencyId": "FINCEN",
+                "commentEndDate": "2009-03-10T03:59:59Z",
+                "title": "Transfer and Reorganization of Bank Secrecy Act Regulations",
+                "postedDate": "2008-11-07T05:00:00Z",
+                "docketId": "FINCEN-2008-0020",
+                "subtype": "NPRM",
+                "commentStartDate": "2008-11-07T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a14fdb"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FINCEN-2008-0020-0001"
+            }
+        },
+        {
+            "id": "FINCEN-2008-0026-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2011-06-11T17:23:25Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-26204",
+                "withdrawn": false,
+                "agencyId": "FINCEN",
+                "commentEndDate": null,
+                "title": "Financial Crimes Enforcement Network; Withdrawal of the Notice of Proposed Rulemaking; Anti-Money Laundering Programs for Commodity Trading Advisors",
+                "postedDate": "2008-11-04T05:00:00Z",
+                "docketId": "FINCEN-2008-0026",
+                "subtype": "NPRM",
+                "commentStartDate": "2008-11-04T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a1564a"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FINCEN-2008-0026-0001"
+            }
+        },
+        {
+            "id": "FINCEN-2008-0024-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2012-03-24T19:35:46Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-26205",
+                "withdrawn": false,
+                "agencyId": "FINCEN",
+                "commentEndDate": null,
+                "title": "Financial Crimes Enforcement Network; Withdrawal of the Notice of Proposed Rulemaking; Anti-Money Laundering Programs for Investment Advisers",
+                "postedDate": "2008-11-04T05:00:00Z",
+                "docketId": "FINCEN-2008-0024",
+                "subtype": "NPRM",
+                "commentStartDate": "2008-11-04T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a1540e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FINCEN-2008-0024-0001"
+            }
+        },
+        {
+            "id": "FINCEN-2008-0024-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2012-03-24T19:35:46Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-26202",
+                "withdrawn": false,
+                "agencyId": "FINCEN",
+                "commentEndDate": null,
+                "title": "Financial Crimes Enforcement Network; Withdrawal of the Notice of Proposed Rulemaking; Anti-Money Laundering Programs for Unregistered Investment Companies",
+                "postedDate": "2008-11-04T05:00:00Z",
+                "docketId": "FINCEN-2008-0024",
+                "subtype": "NPRM",
+                "commentStartDate": "2008-11-04T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a1540f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FINCEN-2008-0024-0002"
+            }
+        },
+        {
+            "id": "FINCEN-2008-0007-0006",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2009-09-13T23:05:49Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "FINCEN",
+                "commentEndDate": null,
+                "title": "Comment Letter - 5-9-2008",
+                "postedDate": "2008-05-28T04:00:00Z",
+                "docketId": "FINCEN-2008-0007",
+                "subtype": "NA",
+                "commentStartDate": "2008-05-28T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a14eea"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FINCEN-2008-0007-0006"
+            }
+        },
+        {
+            "id": "FINCEN-2008-0010-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2009-09-13T23:05:47Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "FINCEN",
+                "commentEndDate": null,
+                "title": "Semiannual Regulatory Agenda - Spring 2008",
+                "postedDate": "2008-05-06T23:14:49Z",
+                "docketId": "FINCEN-2008-0010",
+                "subtype": "NA",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006480a14fd4"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FINCEN-2008-0010-0001"
+            }
+        },
+        {
+            "id": "FINCEN-2008-0007-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2011-06-11T17:23:20Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-08955",
+                "withdrawn": false,
+                "agencyId": "FINCEN",
+                "commentEndDate": "2008-06-24T03:59:59Z",
+                "title": "Financial Crimes Enforcement Network; Proposed Amendments to the Bank Secrecy Act Regulations--Exemptions From the Requirement To Report Transactions in Currency; Comment Request",
+                "postedDate": "2008-04-24T04:00:00Z",
+                "docketId": "FINCEN-2008-0007",
+                "subtype": "NPRM",
+                "commentStartDate": "2008-04-24T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a14e81"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FINCEN-2008-0007-0001"
+            }
+        },
+        {
+            "id": "FINCEN-2008-0008-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2011-06-11T17:23:21Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-08392",
+                "withdrawn": false,
+                "agencyId": "FINCEN",
+                "commentEndDate": null,
+                "title": "Financial Crimes Enforcement Network; Withdrawal of the Notice of Proposed Rulemaking Against the Republic of Nauru",
+                "postedDate": "2008-04-18T04:00:00Z",
+                "docketId": "FINCEN-2008-0008",
+                "subtype": "NPRM",
+                "commentStartDate": "2008-04-18T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a14fd3"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FINCEN-2008-0008-0001"
+            }
+        },
+        {
+            "id": "FINCEN-2008-0006-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2011-06-11T17:23:19Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-07627",
+                "withdrawn": false,
+                "agencyId": "FINCEN",
+                "commentEndDate": null,
+                "title": "Financial Crimes Enforcement Network; Withdrawal of the Finding of Primary Money Laundering Concern and the Notice of Proposed Rulemaking Against First Merchant Bank",
+                "postedDate": "2008-04-10T04:00:00Z",
+                "docketId": "FINCEN-2008-0006",
+                "subtype": null,
+                "commentStartDate": "2008-04-10T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a14e30"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FINCEN-2008-0006-0001"
+            }
+        },
+        {
+            "id": "FINCEN-2008-0005-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T17:23:18Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-00315",
+                "withdrawn": false,
+                "agencyId": "FINCEN",
+                "commentEndDate": "2008-01-12T04:59:59Z",
+                "title": "Financial Crimes Enforcement Network; Amendment Regarding Financial Institutions Exempt from Establishing Anti-Money Laundering Programs",
+                "postedDate": "2008-01-11T05:00:00Z",
+                "docketId": "FINCEN-2008-0005",
+                "subtype": "Final Rule",
+                "commentStartDate": "2008-01-11T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a14e2f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FINCEN-2008-0005-0001"
+            }
+        },
+        {
+            "id": "FINCEN-2007-0019-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2009-09-13T23:05:49Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "FINCEN",
+                "commentEndDate": null,
+                "title": "Regulatory Plan - Fall 2007",
+                "postedDate": "2007-12-10T14:46:04Z",
+                "docketId": "FINCEN-2007-0019",
+                "subtype": "NA",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006480a140b8"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FINCEN-2007-0019-0002"
+            }
+        },
+        {
+            "id": "FINCEN-2007-0019-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2009-09-13T23:05:45Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "FINCEN",
+                "commentEndDate": null,
+                "title": "Semiannual Regulatory Agenda - Fall 2007",
+                "postedDate": "2007-12-10T14:45:47Z",
+                "docketId": "FINCEN-2007-0019",
+                "subtype": "NA",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006480a140b7"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FINCEN-2007-0019-0001"
+            }
+        },
+        {
+            "id": "FINCEN-2008-0004-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T17:23:17Z",
+                "highlightedContent": "",
+                "frDocNum": "E7-15467",
+                "withdrawn": false,
+                "agencyId": "FINCEN",
+                "commentEndDate": null,
+                "title": "Financial Crimes Enforcement Network; Anti-Money Laundering Programs; Special Due Diligence Programs for Certain Foreign Accounts",
+                "postedDate": "2007-08-09T04:00:00Z",
+                "docketId": "FINCEN-2008-0004",
+                "subtype": "Final Rule",
+                "commentStartDate": "2007-08-09T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a14e2e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FINCEN-2008-0004-0001"
+            }
+        },
+        {
+            "id": "FINCEN-2008-0003-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T17:23:17Z",
+                "highlightedContent": "",
+                "frDocNum": "E7-12332",
+                "withdrawn": false,
+                "agencyId": "FINCEN",
+                "commentEndDate": null,
+                "title": "Financial Crimes Enforcement Network; Amendments to Bank Secrecy Act Regulations Regarding Casino Recordkeeping and Reporting Requirements",
+                "postedDate": "2007-06-26T04:00:00Z",
+                "docketId": "FINCEN-2008-0003",
+                "subtype": "Final Rule",
+                "commentStartDate": "2007-06-26T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a14e2d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FINCEN-2008-0003-0001"
+            }
+        },
+        {
+            "id": "FINCEN-2008-0002-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2009-09-13T23:05:44Z",
+                "highlightedContent": "",
+                "frDocNum": "07-01416",
+                "withdrawn": false,
+                "agencyId": "FINCEN",
+                "commentEndDate": null,
+                "title": "Semi-annual agenda",
+                "postedDate": "2007-04-30T04:00:00Z",
+                "docketId": "FINCEN-2008-0002",
+                "subtype": "Notice",
+                "commentStartDate": "2007-04-30T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a14e2c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FINCEN-2008-0002-0001"
+            }
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "documentType": [
+                {
+                    "docCount": 14,
+                    "label": "Proposed Rule"
+                },
+                {
+                    "docCount": 9,
+                    "label": "Other"
+                },
+                {
+                    "docCount": 5,
+                    "label": "Rule"
+                },
+                {
+                    "docCount": 2,
+                    "label": "Notice"
+                }
+            ],
+            "subtype": [
+                {
+                    "docCount": 12,
+                    "label": "NPRM"
+                },
+                {
+                    "docCount": 9,
+                    "label": "NA"
+                },
+                {
+                    "docCount": 5,
+                    "label": "Final Rule"
+                },
+                {
+                    "docCount": 2,
+                    "label": "Notice"
+                },
+                {
+                    "docCount": 1,
+                    "label": "ANPRM"
+                }
+            ],
+            "withinCommentPeriod": [
+                {
+                    "docCount": 0,
+                    "label": "true"
+                },
+                {
+                    "docCount": 30,
+                    "label": "false"
+                }
+            ],
+            "agencyId": [
+                {
+                    "docCount": 46344,
+                    "value": "EPA"
+                },
+                {
+                    "docCount": 36313,
+                    "value": "DOT"
+                },
+                {
+                    "docCount": 18900,
+                    "value": "FAA"
+                },
+                {
+                    "docCount": 14166,
+                    "value": "FDA"
+                },
+                {
+                    "docCount": 6222,
+                    "value": "FERC"
+                },
+                {
+                    "docCount": 6005,
+                    "value": "FMCSA"
+                },
+                {
+                    "docCount": 5512,
+                    "value": "SEC"
+                },
+                {
+                    "docCount": 4039,
+                    "value": "USCG"
+                },
+                {
+                    "docCount": 3981,
+                    "value": "NIH"
+                },
+                {
+                    "docCount": 3860,
+                    "value": "NHTSA"
+                },
+                {
+                    "docCount": 3175,
+                    "value": "PHMSA"
+                },
+                {
+                    "docCount": 2907,
+                    "value": "FRA"
+                },
+                {
+                    "docCount": 2541,
+                    "value": "NOAA"
+                },
+                {
+                    "docCount": 1997,
+                    "value": "NRC"
+                },
+                {
+                    "docCount": 1551,
+                    "value": "FCC"
+                },
+                {
+                    "docCount": 1326,
+                    "value": "FRS"
+                },
+                {
+                    "docCount": 1193,
+                    "value": "OSHA"
+                },
+                {
+                    "docCount": 1192,
+                    "value": "HUD"
+                },
+                {
+                    "docCount": 1152,
+                    "value": "VA"
+                },
+                {
+                    "docCount": 1035,
+                    "value": "USCIS"
+                },
+                {
+                    "docCount": 993,
+                    "value": "FEMA"
+                },
+                {
+                    "docCount": 972,
+                    "value": "MARAD"
+                },
+                {
+                    "docCount": 928,
+                    "value": "APHIS"
+                },
+                {
+                    "docCount": 889,
+                    "value": "CMS"
+                },
+                {
+                    "docCount": 885,
+                    "value": "ITC"
+                },
+                {
+                    "docCount": 834,
+                    "value": "AMS"
+                },
+                {
+                    "docCount": 762,
+                    "value": "USDA"
+                },
+                {
+                    "docCount": 737,
+                    "value": "IRS"
+                },
+                {
+                    "docCount": 721,
+                    "value": "DOS"
+                },
+                {
+                    "docCount": 697,
+                    "value": "STB"
+                },
+                {
+                    "docCount": 664,
+                    "value": "USCBP"
+                },
+                {
+                    "docCount": 649,
+                    "value": "FWS"
+                },
+                {
+                    "docCount": 647,
+                    "value": "FTA"
+                },
+                {
+                    "docCount": 626,
+                    "value": "DOD"
+                },
+                {
+                    "docCount": 620,
+                    "value": "DHS"
+                },
+                {
+                    "docCount": 574,
+                    "value": "FHWA"
+                },
+                {
+                    "docCount": 571,
+                    "value": "DOE"
+                },
+                {
+                    "docCount": 521,
+                    "value": "FMC"
+                },
+                {
+                    "docCount": 435,
+                    "value": "NSF"
+                },
+                {
+                    "docCount": 403,
+                    "value": "ITA"
+                },
+                {
+                    "docCount": 383,
+                    "value": "CFTC"
+                },
+                {
+                    "docCount": 372,
+                    "value": "ED"
+                },
+                {
+                    "docCount": 347,
+                    "value": "OPM"
+                },
+                {
+                    "docCount": 342,
+                    "value": "FTC"
+                },
+                {
+                    "docCount": 324,
+                    "value": "FAR"
+                },
+                {
+                    "docCount": 324,
+                    "value": "HHS"
+                },
+                {
+                    "docCount": 321,
+                    "value": "TSA"
+                },
+                {
+                    "docCount": 305,
+                    "value": "FDIC"
+                },
+                {
+                    "docCount": 293,
+                    "value": "SSA"
+                },
+                {
+                    "docCount": 287,
+                    "value": "COE"
+                },
+                {
+                    "docCount": 284,
+                    "value": "CPPBSD"
+                },
+                {
+                    "docCount": 280,
+                    "value": "CDC"
+                },
+                {
+                    "docCount": 276,
+                    "value": "PRC"
+                },
+                {
+                    "docCount": 249,
+                    "value": "USN"
+                },
+                {
+                    "docCount": 236,
+                    "value": "CPSC"
+                },
+                {
+                    "docCount": 236,
+                    "value": "EERE"
+                },
+                {
+                    "docCount": 222,
+                    "value": "USA"
+                },
+                {
+                    "docCount": 220,
+                    "value": "ARTS"
+                },
+                {
+                    "docCount": 209,
+                    "value": "USTR"
+                },
+                {
+                    "docCount": 201,
+                    "value": "DARS"
+                },
+                {
+                    "docCount": 201,
+                    "value": "USPS"
+                },
+                {
+                    "docCount": 198,
+                    "value": "MMS"
+                },
+                {
+                    "docCount": 195,
+                    "value": "NCUA"
+                },
+                {
+                    "docCount": 192,
+                    "value": "GSA"
+                },
+                {
+                    "docCount": 183,
+                    "value": "CRC"
+                },
+                {
+                    "docCount": 182,
+                    "value": "EBSA"
+                },
+                {
+                    "docCount": 181,
+                    "value": "FEC"
+                },
+                {
+                    "docCount": 180,
+                    "value": "PTO"
+                },
+                {
+                    "docCount": 180,
+                    "value": "USAF"
+                },
+                {
+                    "docCount": 162,
+                    "value": "NARA"
+                },
+                {
+                    "docCount": 156,
+                    "value": "AHRQ"
+                },
+                {
+                    "docCount": 147,
+                    "value": "ACF"
+                },
+                {
+                    "docCount": 139,
+                    "value": "EAC"
+                },
+                {
+                    "docCount": 139,
+                    "value": "NRCS"
+                },
+                {
+                    "docCount": 139,
+                    "value": "OFAC"
+                },
+                {
+                    "docCount": 139,
+                    "value": "OSM"
+                },
+                {
+                    "docCount": 133,
+                    "value": "FNS"
+                },
+                {
+                    "docCount": 133,
+                    "value": "PBGC"
+                },
+                {
+                    "docCount": 129,
+                    "value": "RRB"
+                },
+                {
+                    "docCount": 126,
+                    "value": "HRSA"
+                },
+                {
+                    "docCount": 118,
+                    "value": "TTB"
+                },
+                {
+                    "docCount": 117,
+                    "value": "CORP"
+                },
+                {
+                    "docCount": 113,
+                    "value": "FSIS"
+                },
+                {
+                    "docCount": 101,
+                    "value": "CITA"
+                },
+                {
+                    "docCount": 99,
+                    "value": "IHS"
+                },
+                {
+                    "docCount": 96,
+                    "value": "GIPSA"
+                },
+                {
+                    "docCount": 93,
+                    "value": "NASA"
+                },
+                {
+                    "docCount": 91,
+                    "value": "DOC"
+                },
+                {
+                    "docCount": 90,
+                    "value": "FCA"
+                },
+                {
+                    "docCount": 90,
+                    "value": "TREAS"
+                },
+                {
+                    "docCount": 89,
+                    "value": "WAPA"
+                },
+                {
+                    "docCount": 87,
+                    "value": "CCC"
+                },
+                {
+                    "docCount": 85,
+                    "value": "RHS"
+                },
+                {
+                    "docCount": 78,
+                    "value": "RBS"
+                },
+                {
+                    "docCount": 77,
+                    "value": "OMB"
+                },
+                {
+                    "docCount": 77,
+                    "value": "SBA"
+                },
+                {
+                    "docCount": 76,
+                    "value": "LSC"
+                },
+                {
+                    "docCount": 74,
+                    "value": "DEA"
+                },
+                {
+                    "docCount": 74,
+                    "value": "OTS"
+                },
+                {
+                    "docCount": 74,
+                    "value": "USEIB"
+                },
+                {
+                    "docCount": 73,
+                    "value": "BIS"
+                },
+                {
+                    "docCount": 71,
+                    "value": "OCC"
+                },
+                {
+                    "docCount": 69,
+                    "value": "EEOC"
+                },
+                {
+                    "docCount": 68,
+                    "value": "DOJ"
+                },
+                {
+                    "docCount": 65,
+                    "value": "SAMHSA"
+                },
+                {
+                    "docCount": 64,
+                    "value": "TVA"
+                },
+                {
+                    "docCount": 62,
+                    "value": "AID"
+                },
+                {
+                    "docCount": 60,
+                    "value": "ICEB"
+                },
+                {
+                    "docCount": 58,
+                    "value": "FCIC"
+                },
+                {
+                    "docCount": 58,
+                    "value": "FRTIB"
+                },
+                {
+                    "docCount": 57,
+                    "value": "NIGC"
+                },
+                {
+                    "docCount": 57,
+                    "value": "USJC"
+                },
+                {
+                    "docCount": 56,
+                    "value": "COLC"
+                },
+                {
+                    "docCount": 55,
+                    "value": "ARS"
+                },
+                {
+                    "docCount": 55,
+                    "value": "MCC"
+                },
+                {
+                    "docCount": 55,
+                    "value": "NTSB"
+                },
+                {
+                    "docCount": 55,
+                    "value": "PC"
+                },
+                {
+                    "docCount": 54,
+                    "value": "RITA"
+                },
+                {
+                    "docCount": 52,
+                    "value": "FTZB"
+                },
+                {
+                    "docCount": 52,
+                    "value": "OPIC"
+                },
+                {
+                    "docCount": 51,
+                    "value": "EIA"
+                },
+                {
+                    "docCount": 51,
+                    "value": "FHFB"
+                },
+                {
+                    "docCount": 50,
+                    "value": "ATBCB"
+                },
+                {
+                    "docCount": 50,
+                    "value": "NTIA"
+                },
+                {
+                    "docCount": 49,
+                    "value": "FHFA"
+                },
+                {
+                    "docCount": 48,
+                    "value": "ETA"
+                },
+                {
+                    "docCount": 47,
+                    "value": "MSHA"
+                },
+                {
+                    "docCount": 47,
+                    "value": "NPS"
+                },
+                {
+                    "docCount": 45,
+                    "value": "USBC"
+                },
+                {
+                    "docCount": 44,
+                    "value": "NASS"
+                },
+                {
+                    "docCount": 39,
+                    "value": "CRB"
+                },
+                {
+                    "docCount": 38,
+                    "value": "SRBC"
+                },
+                {
+                    "docCount": 37,
+                    "value": "BPD"
+                },
+                {
+                    "docCount": 37,
+                    "value": "CSREES"
+                },
+                {
+                    "docCount": 37,
+                    "value": "NIST"
+                },
+                {
+                    "docCount": 36,
+                    "value": "FAS"
+                },
+                {
+                    "docCount": 36,
+                    "value": "MSHFRC"
+                },
+                {
+                    "docCount": 35,
+                    "value": "BBG"
+                },
+                {
+                    "docCount": 32,
+                    "value": "BPA"
+                },
+                {
+                    "docCount": 30,
+                    "value": "FINCEN"
+                },
+                {
+                    "docCount": 30,
+                    "value": "OSTP"
+                },
+                {
+                    "docCount": 30,
+                    "value": "USCC"
+                },
+                {
+                    "docCount": 29,
+                    "value": "DRBC"
+                },
+                {
+                    "docCount": 29,
+                    "value": "USSC"
+                },
+                {
+                    "docCount": 28,
+                    "value": "COFA"
+                },
+                {
+                    "docCount": 27,
+                    "value": "FASAB"
+                },
+                {
+                    "docCount": 24,
+                    "value": "FISCAL"
+                },
+                {
+                    "docCount": 24,
+                    "value": "HPAC"
+                },
+                {
+                    "docCount": 23,
+                    "value": "CDFI"
+                },
+                {
+                    "docCount": 23,
+                    "value": "DOI"
+                },
+                {
+                    "docCount": 23,
+                    "value": "LMSO"
+                },
+                {
+                    "docCount": 23,
+                    "value": "ONDCP"
+                },
+                {
+                    "docCount": 22,
+                    "value": "FCSIC"
+                },
+                {
+                    "docCount": 22,
+                    "value": "FS"
+                },
+                {
+                    "docCount": 22,
+                    "value": "GEO"
+                },
+                {
+                    "docCount": 22,
+                    "value": "NCD"
+                },
+                {
+                    "docCount": 21,
+                    "value": "BLM"
+                },
+                {
+                    "docCount": 21,
+                    "value": "EAB"
+                },
+                {
+                    "docCount": 21,
+                    "value": "PT"
+                },
+                {
+                    "docCount": 20,
+                    "value": "FSA"
+                },
+                {
+                    "docCount": 20,
+                    "value": "MSPB"
+                },
+                {
+                    "docCount": 20,
+                    "value": "RUS"
+                },
+                {
+                    "docCount": 19,
+                    "value": "DNFSB"
+                },
+                {
+                    "docCount": 19,
+                    "value": "FMCS"
+                },
+                {
+                    "docCount": 19,
+                    "value": "HHSIG"
+                },
+                {
+                    "docCount": 19,
+                    "value": "OFHEO"
+                },
+                {
+                    "docCount": 18,
+                    "value": "USIP"
+                },
+                {
+                    "docCount": 17,
+                    "value": "DOL"
+                },
+                {
+                    "docCount": 17,
+                    "value": "EIB"
+                },
+                {
+                    "docCount": 17,
+                    "value": "SLSDC"
+                },
+                {
+                    "docCount": 16,
+                    "value": "DLA"
+                },
+                {
+                    "docCount": 16,
+                    "value": "GAO"
+                },
+                {
+                    "docCount": 16,
+                    "value": "NCS"
+                },
+                {
+                    "docCount": 16,
+                    "value": "SWPA"
+                },
+                {
+                    "docCount": 16,
+                    "value": "WHD"
+                },
+                {
+                    "docCount": 15,
+                    "value": "EDA"
+                },
+                {
+                    "docCount": 15,
+                    "value": "FPPO"
+                },
+                {
+                    "docCount": 15,
+                    "value": "JBEA"
+                },
+                {
+                    "docCount": 15,
+                    "value": "NIL"
+                },
+                {
+                    "docCount": 14,
+                    "value": "ESA"
+                },
+                {
+                    "docCount": 14,
+                    "value": "ISOO"
+                },
+                {
+                    "docCount": 14,
+                    "value": "MKU"
+                },
+                {
+                    "docCount": 13,
+                    "value": "BIA"
+                },
+                {
+                    "docCount": 13,
+                    "value": "SSS"
+                },
+                {
+                    "docCount": 13,
+                    "value": "VETS"
+                },
+                {
+                    "docCount": 12,
+                    "value": "NEIGHBOR"
+                },
+                {
+                    "docCount": 12,
+                    "value": "RATB"
+                },
+                {
+                    "docCount": 11,
+                    "value": "BOR"
+                },
+                {
+                    "docCount": 11,
+                    "value": "CEQ"
+                },
+                {
+                    "docCount": 11,
+                    "value": "CSB"
+                },
+                {
+                    "docCount": 11,
+                    "value": "FLRA"
+                },
+                {
+                    "docCount": 11,
+                    "value": "NMB"
+                },
+                {
+                    "docCount": 10,
+                    "value": "ADF"
+                },
+                {
+                    "docCount": 10,
+                    "value": "AOA"
+                },
+                {
+                    "docCount": 10,
+                    "value": "ARCTIC"
+                },
+                {
+                    "docCount": 10,
+                    "value": "BOP"
+                },
+                {
+                    "docCount": 10,
+                    "value": "CSOSA"
+                },
+                {
+                    "docCount": 10,
+                    "value": "EOIR"
+                },
+                {
+                    "docCount": 10,
+                    "value": "NNSA"
+                },
+                {
+                    "docCount": 10,
+                    "value": "NWTRB"
+                },
+                {
+                    "docCount": 9,
+                    "value": "FFIEC"
+                },
+                {
+                    "docCount": 9,
+                    "value": "NLRB"
+                },
+                {
+                    "docCount": 9,
+                    "value": "ODNI"
+                },
+                {
+                    "docCount": 8,
+                    "value": "IAF"
+                },
+                {
+                    "docCount": 8,
+                    "value": "OFPP"
+                },
+                {
+                    "docCount": 7,
+                    "value": "CCJJDP"
+                },
+                {
+                    "docCount": 7,
+                    "value": "DIA"
+                },
+                {
+                    "docCount": 7,
+                    "value": "FLETC"
+                },
+                {
+                    "docCount": 7,
+                    "value": "USPC"
+                },
+                {
+                    "docCount": 6,
+                    "value": "DEPO"
+                },
+                {
+                    "docCount": 6,
+                    "value": "MBDA"
+                },
+                {
+                    "docCount": 6,
+                    "value": "MISS"
+                },
+                {
+                    "docCount": 6,
+                    "value": "OSHRC"
+                },
+                {
+                    "docCount": 6,
+                    "value": "RMA"
+                },
+                {
+                    "docCount": 5,
+                    "value": "ATF"
+                },
+                {
+                    "docCount": 5,
+                    "value": "ATSDR"
+                },
+                {
+                    "docCount": 5,
+                    "value": "ECSA"
+                },
+                {
+                    "docCount": 5,
+                    "value": "GPO"
+                },
+                {
+                    "docCount": 5,
+                    "value": "OEPNU"
+                },
+                {
+                    "docCount": 5,
+                    "value": "OSC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "ABMC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "CSEO"
+                },
+                {
+                    "docCount": 4,
+                    "value": "DC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "HOPE"
+                },
+                {
+                    "docCount": 4,
+                    "value": "MMC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "OFCCP"
+                },
+                {
+                    "docCount": 4,
+                    "value": "PHS"
+                },
+                {
+                    "docCount": 4,
+                    "value": "RISC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "SJI"
+                },
+                {
+                    "docCount": 4,
+                    "value": "SS"
+                },
+                {
+                    "docCount": 4,
+                    "value": "URMCC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "WCPO"
+                },
+                {
+                    "docCount": 3,
+                    "value": "CIA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "FBI"
+                },
+                {
+                    "docCount": 3,
+                    "value": "IIO"
+                },
+                {
+                    "docCount": 3,
+                    "value": "OJP"
+                },
+                {
+                    "docCount": 3,
+                    "value": "TA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "AFRH"
+                },
+                {
+                    "docCount": 2,
+                    "value": "AMC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "CDFIF"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ECAB"
+                },
+                {
+                    "docCount": 2,
+                    "value": "EOP"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FR"
+                },
+                {
+                    "docCount": 2,
+                    "value": "HST"
+                },
+                {
+                    "docCount": 2,
+                    "value": "LOC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NPREC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NSA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "PACIFIC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "SIGIR"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ACFR"
+                },
+                {
+                    "docCount": 1,
+                    "value": "APPAL"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BOEM"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DISA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ERS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FINCIC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NCLIS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NIFA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "OJJDP"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ONHIR"
+                },
+                {
+                    "docCount": 1,
+                    "value": "PRES"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USMINT"
+                },
+                {
+                    "docCount": 1,
+                    "value": "VCNP"
+                }
+            ],
+            "commentEndDate": [],
+            "postedDate": [
+                {
+                    "docCount": 1,
+                    "label": "Last 7 Days",
+                    "fromDate": "2024-10-10 00:00:00",
+                    "toDate": "2024-10-16 23:59:59"
+                },
+                {
+                    "docCount": 1,
+                    "label": "Last 15 Days",
+                    "fromDate": "2024-10-02 00:00:00",
+                    "toDate": "2024-10-16 23:59:59"
+                },
+                {
+                    "docCount": 3,
+                    "label": "Last 30 Days",
+                    "fromDate": "2024-09-17 00:00:00",
+                    "toDate": "2024-10-16 23:59:59"
+                },
+                {
+                    "docCount": 9,
+                    "label": "Last 90 Days",
+                    "fromDate": "2024-07-19 00:00:00",
+                    "toDate": "2024-10-16 23:59:59"
+                }
+            ]
+        },
+        "filters": {
+            "postedDate": {
+                "fromDate": "2007-01-01",
+                "toDate": "2010-01-01"
+            },
+            "agencyId": [
+                {
+                    "label": "FINCEN",
+                    "value": "FINCEN"
+                }
+            ]
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "numberOfElements": 30,
+        "pageNumber": 1,
+        "pageSize": 250,
+        "totalElements": 30,
+        "totalPages": 1,
+        "firstPage": true,
+        "lastPage": true
+    }
+}

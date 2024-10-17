@@ -1,0 +1,3825 @@
+{
+    "data": [
+        {
+            "id": "FDIC-2021-0126-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-12-28T12:51:28Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-28143",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Response to Exception Requests Pursuant to Recordkeeping for Timely Deposit Insurance Determination",
+                "postedDate": "2021-12-28T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-12-28T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484efee48"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0126-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0125-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-12-21T12:47:59Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-27525",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2022-01-21T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2021-12-21T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-12-21T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484ed8419"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0125-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0124-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-12-21T12:47:24Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-27526",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Intent to Terminate Receivership",
+                "postedDate": "2021-12-21T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-12-21T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484ed82e4"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0124-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0123-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2021-12-20T12:40:41Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-27561",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Credit Risk Retention: Determination of Review",
+                "postedDate": "2021-12-20T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-12-20T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484ed6208"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0123-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0122-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2021-12-20T12:40:26Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-27439",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Community Reinvestment Act",
+                "postedDate": "2021-12-20T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-12-20T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484ed61aa"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0122-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0121-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-12-17T12:44:49Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-27382",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Designated Reserve Ratio for 2022",
+                "postedDate": "2021-12-17T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-12-17T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484ed1d0d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0121-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0120-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-12-16T12:52:35Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-27395",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2021-12-16T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-12-16T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484ecfac7"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0120-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0119-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-12-15T12:43:44Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-27146",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Charter Renewal: Advisory Committee of State Regulators",
+                "postedDate": "2021-12-15T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-12-15T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484ecae98"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0119-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0118-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-12-10T12:53:28Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-26865",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2021-12-10T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-12-10T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484eb8234"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0118-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0117-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-12-06T12:43:58Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-26357",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2022-02-05T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2021-12-06T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-12-06T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484ea3262"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0117-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0116-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-12-03T12:46:04Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-26259",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2022-01-04T04:59:59Z",
+                "title": "Privacy Act; System of Records",
+                "postedDate": "2021-12-03T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-12-03T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484e9c821"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0116-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0114-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-11-29T12:40:45Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-25813",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-12-30T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2021-11-29T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-11-29T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484e8693d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0114-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0115-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-11-29T12:41:38Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-25924",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-12-30T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2021-11-29T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-11-29T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484e869bd"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0115-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0113-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2021-11-23T12:48:17Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-25510",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Computer-Security Incident Notification Requirements for Banking Organizations and Their Bank Service Providers",
+                "postedDate": "2021-11-23T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-11-23T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484e758d0"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0113-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0112-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2021-11-22T12:55:39Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-25415",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Applicability of Annual Independent Audits and Reporting Requirements for Fiscal Years Ending in 2021; Correction",
+                "postedDate": "2021-11-22T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-11-22T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484e713d5"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0112-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0110-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-11-18T13:18:21Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-25159",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Joint Report: Differences in Accounting and Capital Standards Among the Federal Banking Agencies as of September 30, 2021; Report to Congressional Committees",
+                "postedDate": "2021-11-18T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-11-18T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484e5f3d0"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0110-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0111-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-11-18T13:19:22Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-25105",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Termination of Receivership",
+                "postedDate": "2021-11-18T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-11-18T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484e5f4ad"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0111-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0109-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-11-16T13:06:26Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-24894",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-12-17T04:59:59Z",
+                "title": "Privacy Act; Systems of Records",
+                "postedDate": "2021-11-16T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-11-16T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484e4dfce"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0109-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0108-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-11-15T12:56:15Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-24814",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-12-16T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2021-11-15T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-11-15T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484e4b8ea"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0108-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0107-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-11-12T12:37:41Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-24648",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2022-01-12T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2021-11-12T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-11-12T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484e421db"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0107-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0106-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-11-10T12:49:04Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-24519",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-12-11T04:59:59Z",
+                "title": "Agency InformationCollection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2021-11-10T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-11-10T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484e3b8bc"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0106-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0105-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-11-10T12:48:35Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-24553",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2022-01-11T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2021-11-10T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-11-10T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484e3b829"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0105-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0104-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-11-04T11:49:40Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-24060",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-12-07T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2021-11-04T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-11-04T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484e18044"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0104-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0103-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-11-04T11:48:58Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-24058",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Termination of Receiverships",
+                "postedDate": "2021-11-04T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-11-04T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484e17f67"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0103-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0102-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2021-10-27T11:47:52Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-23381",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Real Estate Lending Standards",
+                "postedDate": "2021-10-27T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-10-27T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484dfa57f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0102-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0101-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-10-21T11:40:50Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-22944",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-11-23T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2021-10-21T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-10-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484dd6578"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0101-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0100-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-10-06T12:13:26Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-21817",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Termination of Receiverships",
+                "postedDate": "2021-10-06T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-10-06T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484dbc505"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0100-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0099-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-10-05T12:02:17Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-21673",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Meetings: Advisory Committee on Community Banking",
+                "postedDate": "2021-10-05T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-10-05T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484dbaa55"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0099-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0098-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-09-30T11:53:26Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-21263",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Termination of Receivership",
+                "postedDate": "2021-09-30T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-09-30T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484db3dbe"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0098-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0097-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-09-28T12:00:38Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-20973",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2021-09-28T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-09-28T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484dae0e9"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0097-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0096-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-09-27T12:00:18Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-20808",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-11-27T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2021-09-27T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-09-27T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484dab14b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0096-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0094-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-09-22T16:55:31Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-20501",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-11-23T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2021-09-22T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-09-22T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484d9ba11"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0094-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0095-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-09-22T16:55:46Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-20505",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-11-23T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2021-09-22T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-09-22T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484d9bb0f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0095-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0093-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-09-21T11:52:10Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-20359",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Meetings: Advisory Committee on Economic Inclusion",
+                "postedDate": "2021-09-21T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-09-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484d98dfe"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0093-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0091-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-09-21T11:51:00Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-20358",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Meetings: Advisory Committee of State Regulators",
+                "postedDate": "2021-09-21T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-09-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484d973f6"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0091-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0092-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-09-21T11:51:31Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-20306",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-10-22T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2021-09-21T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-09-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484d98d63"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0092-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0090-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-09-21T00:59:27Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-20223",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Termination of Receiverships",
+                "postedDate": "2021-09-20T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-09-20T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484d93a3a"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0090-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0089-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-09-17T11:52:46Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-20160",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Response to Exception Requests Pursuant to Recordkeeping for Timely Deposit Insurance Determination",
+                "postedDate": "2021-09-17T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-09-17T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484d8a4e8"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0089-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0088-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-09-10T11:48:30Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-19545",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-10-19T03:59:59Z",
+                "title": "Proposed Interagency Guidance on Third-Party Relationships: Risk Management",
+                "postedDate": "2021-09-10T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-09-10T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484d6b78c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0088-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0087-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-09-07T11:44:07Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-19195",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Termination of Receiverships",
+                "postedDate": "2021-09-07T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-09-07T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484d567fb"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0087-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0086-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-09-03T12:43:09Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-19118",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Termination of Receiverships",
+                "postedDate": "2021-09-03T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-09-03T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484d49e6b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0086-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0085-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-09-02T11:54:16Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-18951",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-10-05T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2021-09-02T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-09-02T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484d436a7"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0085-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0084-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-08-16T11:52:38Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-17408",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-10-16T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2021-08-16T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-08-16T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484c6369b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0084-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0083-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-08-13T12:24:52Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-17311",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-10-13T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2021-08-13T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-08-13T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484c4ff4f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0083-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0082-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-08-12T11:44:47Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-17230",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-10-13T03:59:59Z",
+                "title": "Request for Information: Supervisory Approach to Examinations During the Pandemic",
+                "postedDate": "2021-08-12T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-08-12T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484c484b4"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0082-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0081-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-08-10T11:52:15Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-16963",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-10-13T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2021-08-10T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-08-10T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484c3b53b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0081-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0079-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-08-06T11:56:05Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-16804",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Termination of Receivership",
+                "postedDate": "2021-08-06T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-08-06T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484c2fe45"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0079-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0080-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-08-06T11:56:48Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-16805",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Termination of Receivership",
+                "postedDate": "2021-08-06T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-08-06T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484c2fef9"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0080-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0078-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2021-08-03T11:47:27Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-15732",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-10-05T03:59:59Z",
+                "title": "Simplification of Deposit Insurance Rules",
+                "postedDate": "2021-08-03T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-08-03T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484c23e52"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0078-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0077-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-07-28T12:13:37Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-16060",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Charter Renewal: Advisory Committee on Community Banking",
+                "postedDate": "2021-07-28T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-07-28T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484c1491b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0077-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0076-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-07-23T11:44:19Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-15807",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2021-07-23T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-07-23T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484c0a164"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0076-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0074-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-07-22T11:50:41Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-15729",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2021-07-22T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-07-22T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484c078c4"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0074-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0073-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2021-07-22T11:50:39Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-15424",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Credit Risk Retention: Notification of Extension of Review Period",
+                "postedDate": "2021-07-22T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-07-22T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484c078c3"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0073-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0072-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-07-22T11:47:44Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-15672",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2021-07-22T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-07-22T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484c076b0"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0072-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0075-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-07-22T11:51:01Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-15556",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-09-21T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2021-07-22T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-07-22T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484c07d14"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0075-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0071-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-07-19T11:40:20Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-15308",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-09-18T03:59:59Z",
+                "title": "Proposed Interagency Guidance on Third-Party Relationships: Risk Management",
+                "postedDate": "2021-07-19T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-07-19T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484c01893"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0071-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0070-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-07-16T13:43:52Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-15203",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2021-07-16T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-07-16T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484bfbbc5"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0070-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0069-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-07-08T11:51:20Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-14502",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-09-08T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2021-07-08T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-07-08T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484bdac7f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0069-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0068-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-07-07T11:54:06Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-14422",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Termination of Receiverships: Correction",
+                "postedDate": "2021-07-07T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-07-07T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484bd5f23"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0068-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0067-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-07-06T11:39:05Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-14345",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Termination of Receivership",
+                "postedDate": "2021-07-06T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-07-06T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484bd1961"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0067-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0066-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-07-02T11:55:27Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-14185",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Meetings: Advisory Committee on Community Banking",
+                "postedDate": "2021-07-02T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-07-02T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484bcc364"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0066-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0065-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-06-29T11:49:53Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-13792",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Termination of Receivership",
+                "postedDate": "2021-06-29T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-06-29T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484bbddbc"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0065-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0064-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2021-06-25T11:49:32Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-12973",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-07-27T03:59:59Z",
+                "title": "Real Estate Lending Standards",
+                "postedDate": "2021-06-25T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-06-25T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484bb1a0b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0064-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0063-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-06-24T12:02:49Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-13441",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Termination of Receivership",
+                "postedDate": "2021-06-24T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-06-24T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484ba94c2"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0063-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0061-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-06-24T12:02:06Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-13433",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Termination of Receivership",
+                "postedDate": "2021-06-24T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-06-24T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484ba93fa"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0061-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0062-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-06-24T12:02:47Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-13445",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-07-27T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2021-06-24T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-06-24T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484ba94c1"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0062-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0059-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-06-23T12:06:34Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-13446",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2021-06-23T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-06-23T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484ba43c3"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0059-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0060-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2021-06-23T12:06:43Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-12972",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Statement of Policy Regarding Minority Depository Institutions",
+                "postedDate": "2021-06-23T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-06-23T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484ba4407"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0060-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0057-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-06-17T11:44:25Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-12743",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Meetings: Matter to Be Withdrawn from the Agenda for Consideration",
+                "postedDate": "2021-06-17T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-06-17T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484b8fe00"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0057-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0058-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-06-17T11:44:28Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-12997",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2021-06-17T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-06-17T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484b8fe03"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0058-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0056-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-06-15T11:53:42Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-12589",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2021-06-15T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-06-15T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484b7f62b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0056-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0055-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-05-24T11:44:00Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-10861",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-07-02T03:59:59Z",
+                "title": "Request for Information: Financial Institutions' Use of Artificial Intelligence, including Machine Learning",
+                "postedDate": "2021-05-24T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-05-24T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484b2e2e0"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0055-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0054-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-05-24T11:43:57Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-10853",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-06-24T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2021-05-24T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-05-24T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484b2e2de"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0054-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0052-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-05-21T12:17:54Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-10772",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-07-17T03:59:59Z",
+                "title": "Request for Information: Digital Assets",
+                "postedDate": "2021-05-21T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-05-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484b2540d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0052-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0053-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-05-21T12:18:43Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-10754",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-06-22T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2021-05-21T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-05-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484b25918"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0053-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0049-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2021-05-10T12:01:53Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-09047",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-07-10T03:59:59Z",
+                "title": "Tax Allocation Agreements",
+                "postedDate": "2021-05-10T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-05-10T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484adfbd5"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0049-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0051-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2021-05-10T12:04:08Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-08690",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-07-10T03:59:59Z",
+                "title": "False Advertising, Misrepresentation of Insured Status, and Misuse of the FDIC's Name or Logo",
+                "postedDate": "2021-05-10T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-05-10T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484ae1ea0"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0051-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0050-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-05-10T12:02:16Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-09868",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Termination of Receiverships",
+                "postedDate": "2021-05-10T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-05-10T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484ae1450"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0050-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0048-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-05-03T11:48:04Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-08804",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Charter Renewal: FDIC System Resolution Advisory Committee",
+                "postedDate": "2021-05-03T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-05-03T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484ac7aaf"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0048-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0047-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-04-28T12:26:38Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-08803",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-05-29T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2021-04-28T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-04-28T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484ab94e5"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0047-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0046-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-04-27T11:54:43Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-08704",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Intent To Terminate Receiverships",
+                "postedDate": "2021-04-27T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-04-27T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484ab824c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0046-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0045-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-04-27T11:54:36Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-08556",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Meetings: Advisory Committee on Economic Inclusion",
+                "postedDate": "2021-04-27T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-04-27T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484ab820c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0045-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0044-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-04-21T11:50:56Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-08131",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-06-22T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2021-04-21T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-04-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484ab0b98"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0044-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0043-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-04-14T11:51:23Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-07591",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Privacy Act; System of Records: Correction",
+                "postedDate": "2021-04-14T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-04-14T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484aa6d4b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0043-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0042-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-04-13T11:54:08Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-07498",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-06-15T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2021-04-13T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-04-13T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484aa484c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0042-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0041-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-04-12T11:47:37Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-07428",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-06-12T03:59:59Z",
+                "title": "Request for Information: Extent to Which Model Risk Management Principles Support Compliance with Bank Secrecy Act/Anti-Money Laundering and Office of Foreign Assets Control Requirements",
+                "postedDate": "2021-04-12T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-04-12T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484aa3089"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0041-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0039-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-04-09T11:47:47Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-07355",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Termination of Receiverships",
+                "postedDate": "2021-04-09T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-04-09T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484aa1300"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0039-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0040-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-04-09T11:48:20Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-07354",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Intent to Terminate Receiverships",
+                "postedDate": "2021-04-09T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-04-09T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484aa1395"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0040-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0038-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-04-09T11:46:36Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-07356",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-05-25T03:59:59Z",
+                "title": "Request for Information: Official Sign and Advertising Requirements and Potential Technological Solutions",
+                "postedDate": "2021-04-09T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-04-09T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484aa11f1"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0038-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0037-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2021-04-08T11:38:40Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-06724",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Securitization Safe Harbor Rule: Correction",
+                "postedDate": "2021-04-08T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-04-08T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484a9fbd7"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0037-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0036-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-03-31T11:58:04Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-06607",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-06-02T03:59:59Z",
+                "title": "Request for Information: Financial Institutions' Use of Artificial Intelligence, Including Machine Learning",
+                "postedDate": "2021-03-31T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-03-31T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484a91dbc"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0036-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0035-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-03-26T11:41:30Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-06268",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Meetings: Advisory Committee on Community Banking",
+                "postedDate": "2021-03-26T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-03-26T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484a7df29"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0035-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0034-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2021-03-22T11:49:18Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-05443",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-05-22T03:59:59Z",
+                "title": "Emergency Capital Investment Program",
+                "postedDate": "2021-03-22T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-03-22T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484a737d8"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0034-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0033-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2021-03-18T11:54:38Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-05314",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Loans in Areas Having Special Flood Hazards: Interagency Questions and Answers Regarding Private Flood Insurance",
+                "postedDate": "2021-03-18T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-03-18T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484a70002"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0033-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0032-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2021-03-02T12:54:34Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-01537",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Role of Supervisory Guidance",
+                "postedDate": "2021-03-02T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-03-02T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484a5b7f9"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0032-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0031-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-02-26T13:18:29Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-04046",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2021-02-26T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-02-26T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484a4fa44"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0031-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0030-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2021-02-25T12:47:51Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-03456",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Assessments, Amendments to Address the Temporary Deposit Insurance Assessment Effects of the Optional Regulatory Capital Transitions for Implementing the Current Expected Credit Losses Methodology",
+                "postedDate": "2021-02-25T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-02-25T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484a4d4dd"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0030-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0029-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-02-25T12:47:49Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-03839",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Meetings: Advisory Committee of State Regulators",
+                "postedDate": "2021-02-25T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-02-25T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484a4d4dc"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0029-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0028-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2021-02-23T12:42:25Z",
+                "highlightedContent": "",
+                "frDocNum": "2020-28473",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Parent Companies of Industrial Banks and Industrial Loan Companies",
+                "postedDate": "2021-02-23T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-02-23T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484a47cf5"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0028-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0027-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-02-18T12:49:52Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-03210",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2021-02-18T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-02-18T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484a3c741"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0027-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0025-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-02-17T12:44:09Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-03110",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2021-02-17T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-02-17T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484a39756"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0025-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0026-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-02-17T12:44:53Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-03171",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2021-02-17T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-02-17T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484a39839"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0026-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0024-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2021-02-16T12:53:21Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-00371",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Branch Application Procedures; Correction",
+                "postedDate": "2021-02-16T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-02-16T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484a37f4c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0024-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0020-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2021-02-11T12:38:10Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-01536",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Removal of Transferred Office of Thrift Supervision Regulations Regarding Definitions of Terms",
+                "postedDate": "2021-02-11T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-02-11T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484a2e3f7"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0020-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0021-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-02-11T12:38:14Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-02781",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Response to Exception Requests Pursuant to Recordkeeping for Timely Deposit Insurance Determination",
+                "postedDate": "2021-02-11T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-02-11T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484a2e3f9"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0021-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0023-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-02-11T12:38:20Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-02782",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Response to Exception Requests Pursuant to Recordkeeping for Timely Deposit Insurance Determination",
+                "postedDate": "2021-02-11T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-02-11T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484a2e452"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0023-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0022-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-02-11T12:38:18Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-02783",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Termination of Receiverships",
+                "postedDate": "2021-02-11T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-02-11T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484a2e3fb"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0022-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0019-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2021-02-11T12:38:05Z",
+                "highlightedContent": "",
+                "frDocNum": "2020-26546",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Net Stable Funding Ratio: Liquidity Risk Measurement Standards and Disclosure Requirements",
+                "postedDate": "2021-02-11T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-02-11T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484a2e3f5"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0019-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0018-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-02-05T12:47:16Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-02375",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-04-07T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2021-02-05T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-02-05T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484a1e03f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0018-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0017-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2021-02-04T12:46:37Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-02028",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Removal of Transferred Office of Thrift Supervision Regulations Regarding Securities Offerings of State Savings Associations, Rescission of Statement of Policy on the Use of Offering Circulars, etc.",
+                "postedDate": "2021-02-04T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-02-04T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484a1b9df"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0017-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0016-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2021-02-03T12:45:34Z",
+                "highlightedContent": "",
+                "frDocNum": "2020-28453",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Removal of Transferred Office of Thrift Supervision Regulations Regarding Application Processing Procedures of State Savings Associations and Conforming Amendments to Other Regulations",
+                "postedDate": "2021-02-03T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-02-03T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484a17fe6"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0016-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0013-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2021-02-03T12:44:28Z",
+                "highlightedContent": "",
+                "frDocNum": "2020-28452",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Removal of Transferred Office of Thrift Supervision Regulations Regarding Nondiscrimination Requirements",
+                "postedDate": "2021-02-03T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-02-03T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484a17d48"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0013-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0014-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2021-02-03T12:44:32Z",
+                "highlightedContent": "",
+                "frDocNum": "2020-28455",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Removal of Transferred Office of Thrift Supervision Regulations Regarding Prompt Corrective Action Directives and Conforming Amendments to Other Regulations",
+                "postedDate": "2021-02-03T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-02-03T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484a17dac"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0014-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0015-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2021-02-03T12:45:04Z",
+                "highlightedContent": "",
+                "frDocNum": "2020-28454",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Removal of Transferred Office of Thrift Supervision Regulations Regarding Certain Subordinate Organizations of State Savings Associations",
+                "postedDate": "2021-02-03T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-02-03T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484a17edc"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0015-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0011-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-01-25T12:38:36Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-01543",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "All Interested Parties of Intent To Terminate Receivership",
+                "postedDate": "2021-01-25T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-01-25T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064849feae4"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0011-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0012-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-01-25T12:41:14Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-01547",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Guidelines for Appeals of Material Supervisory Determinations",
+                "postedDate": "2021-01-25T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-01-25T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064849fec07"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0012-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0007-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2021-01-22T12:53:38Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-00037",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-03-24T03:59:59Z",
+                "title": "Exemptions to Suspicious Activity Report Requirements",
+                "postedDate": "2021-01-22T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-01-22T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064849fc614"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0007-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0010-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2021-01-22T12:57:51Z",
+                "highlightedContent": "",
+                "frDocNum": "2020-28196",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Unsafe and Unsound Banking Practices: Brokered Deposits and Interest Rate Restrictions",
+                "postedDate": "2021-01-22T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-01-22T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064849fc801"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0010-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0009-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-01-22T12:55:08Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-01544",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2021-01-22T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-01-22T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064849fc669"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0009-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0008-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-01-22T12:53:40Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-01545",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2021-01-22T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-01-22T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064849fc615"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0008-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0006-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-01-21T13:02:55Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-01369",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2021-01-21T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-01-21T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064849faa24"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0006-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0005-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2021-01-12T12:51:09Z",
+                "highlightedContent": "",
+                "frDocNum": "2020-27944",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Rules of Practice and Procedure; Technical Revisions",
+                "postedDate": "2021-01-12T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-01-12T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064849ef996"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0005-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0004-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2021-01-12T12:50:20Z",
+                "highlightedContent": "",
+                "frDocNum": "2020-28498",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": "2021-04-13T03:59:59Z",
+                "title": "Computer-Security Incident Notification Requirements for Banking Organizations and their Bank Service Providers",
+                "postedDate": "2021-01-12T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-01-12T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064849ef91a"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0004-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0003-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2021-01-11T12:47:21Z",
+                "highlightedContent": "",
+                "frDocNum": "2020-27955",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Collection of Civil Money Penalty Debt",
+                "postedDate": "2021-01-11T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-01-11T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064849ec35e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0003-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0002-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2021-01-06T12:56:11Z",
+                "highlightedContent": "",
+                "frDocNum": "2020-27046",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Regulatory Capital Treatment for Investments in Certain Unsecured Debt Instruments of Global Systemically Important U.S. Bank Holding Companies, Certain Intermediate Holding Companies, and Global Systemically Important Foreign Banking Organizations; Total Loss-Absorbing Capacity Requirements",
+                "postedDate": "2021-01-06T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-01-06T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064849e09e9"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0002-0001"
+            }
+        },
+        {
+            "id": "FDIC-2021-0001-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2021-01-05T12:47:50Z",
+                "highlightedContent": "",
+                "frDocNum": "2020-29175",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "commentEndDate": null,
+                "title": "Inflation Adjustments for Civil Money Penalties",
+                "postedDate": "2021-01-05T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2021-01-05T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064849de5d1"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2021-0001-0001"
+            }
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "documentType": [
+                {
+                    "docCount": 95,
+                    "label": "Notice"
+                },
+                {
+                    "docCount": 21,
+                    "label": "Rule"
+                },
+                {
+                    "docCount": 10,
+                    "label": "Proposed Rule"
+                }
+            ],
+            "subtype": [],
+            "withinCommentPeriod": [
+                {
+                    "docCount": 0,
+                    "label": "true"
+                },
+                {
+                    "docCount": 126,
+                    "label": "false"
+                }
+            ],
+            "agencyId": [
+                {
+                    "docCount": 33375,
+                    "value": "EPA"
+                },
+                {
+                    "docCount": 8221,
+                    "value": "FDA"
+                },
+                {
+                    "docCount": 5088,
+                    "value": "FAA"
+                },
+                {
+                    "docCount": 3044,
+                    "value": "DOT"
+                },
+                {
+                    "docCount": 1968,
+                    "value": "SEC"
+                },
+                {
+                    "docCount": 1966,
+                    "value": "OSHA"
+                },
+                {
+                    "docCount": 1625,
+                    "value": "FERC"
+                },
+                {
+                    "docCount": 1578,
+                    "value": "FMCSA"
+                },
+                {
+                    "docCount": 1184,
+                    "value": "FRA"
+                },
+                {
+                    "docCount": 1096,
+                    "value": "FWS"
+                },
+                {
+                    "docCount": 985,
+                    "value": "ITA"
+                },
+                {
+                    "docCount": 917,
+                    "value": "USCG"
+                },
+                {
+                    "docCount": 846,
+                    "value": "MARAD"
+                },
+                {
+                    "docCount": 737,
+                    "value": "NRC"
+                },
+                {
+                    "docCount": 734,
+                    "value": "FEMA"
+                },
+                {
+                    "docCount": 701,
+                    "value": "NOAA"
+                },
+                {
+                    "docCount": 571,
+                    "value": "FCC"
+                },
+                {
+                    "docCount": 528,
+                    "value": "NHTSA"
+                },
+                {
+                    "docCount": 490,
+                    "value": "VA"
+                },
+                {
+                    "docCount": 456,
+                    "value": "ITC"
+                },
+                {
+                    "docCount": 444,
+                    "value": "ED"
+                },
+                {
+                    "docCount": 438,
+                    "value": "FRS"
+                },
+                {
+                    "docCount": 407,
+                    "value": "EERE"
+                },
+                {
+                    "docCount": 398,
+                    "value": "USCIS"
+                },
+                {
+                    "docCount": 371,
+                    "value": "PHMSA"
+                },
+                {
+                    "docCount": 356,
+                    "value": "NCUA"
+                },
+                {
+                    "docCount": 338,
+                    "value": "DOS"
+                },
+                {
+                    "docCount": 325,
+                    "value": "CMS"
+                },
+                {
+                    "docCount": 249,
+                    "value": "APHIS"
+                },
+                {
+                    "docCount": 247,
+                    "value": "CRC"
+                },
+                {
+                    "docCount": 243,
+                    "value": "DOD"
+                },
+                {
+                    "docCount": 223,
+                    "value": "NSF"
+                },
+                {
+                    "docCount": 221,
+                    "value": "HUD"
+                },
+                {
+                    "docCount": 198,
+                    "value": "CPSC"
+                },
+                {
+                    "docCount": 195,
+                    "value": "CDC"
+                },
+                {
+                    "docCount": 189,
+                    "value": "USDA"
+                },
+                {
+                    "docCount": 187,
+                    "value": "DOE"
+                },
+                {
+                    "docCount": 187,
+                    "value": "FS"
+                },
+                {
+                    "docCount": 184,
+                    "value": "NARA"
+                },
+                {
+                    "docCount": 177,
+                    "value": "USPS"
+                },
+                {
+                    "docCount": 176,
+                    "value": "DOL"
+                },
+                {
+                    "docCount": 171,
+                    "value": "STB"
+                },
+                {
+                    "docCount": 162,
+                    "value": "CFPB"
+                },
+                {
+                    "docCount": 148,
+                    "value": "COE"
+                },
+                {
+                    "docCount": 138,
+                    "value": "AMS"
+                },
+                {
+                    "docCount": 130,
+                    "value": "USCBP"
+                },
+                {
+                    "docCount": 128,
+                    "value": "OFAC"
+                },
+                {
+                    "docCount": 126,
+                    "value": "FDIC"
+                },
+                {
+                    "docCount": 121,
+                    "value": "HHS"
+                },
+                {
+                    "docCount": 112,
+                    "value": "ARTS"
+                },
+                {
+                    "docCount": 100,
+                    "value": "OPM"
+                },
+                {
+                    "docCount": 99,
+                    "value": "FHWA"
+                },
+                {
+                    "docCount": 98,
+                    "value": "BOEM"
+                },
+                {
+                    "docCount": 96,
+                    "value": "FAR"
+                },
+                {
+                    "docCount": 91,
+                    "value": "FTC"
+                },
+                {
+                    "docCount": 91,
+                    "value": "PTO"
+                },
+                {
+                    "docCount": 90,
+                    "value": "CPPBSD"
+                },
+                {
+                    "docCount": 88,
+                    "value": "CNCS"
+                },
+                {
+                    "docCount": 77,
+                    "value": "GSA"
+                },
+                {
+                    "docCount": 75,
+                    "value": "FEC"
+                },
+                {
+                    "docCount": 73,
+                    "value": "IRS"
+                },
+                {
+                    "docCount": 72,
+                    "value": "DEA"
+                },
+                {
+                    "docCount": 72,
+                    "value": "DHS"
+                },
+                {
+                    "docCount": 71,
+                    "value": "EIB"
+                },
+                {
+                    "docCount": 70,
+                    "value": "USTR"
+                },
+                {
+                    "docCount": 67,
+                    "value": "FNS"
+                },
+                {
+                    "docCount": 66,
+                    "value": "BIS"
+                },
+                {
+                    "docCount": 64,
+                    "value": "FMC"
+                },
+                {
+                    "docCount": 62,
+                    "value": "TSA"
+                },
+                {
+                    "docCount": 60,
+                    "value": "MSHA"
+                },
+                {
+                    "docCount": 56,
+                    "value": "DARS"
+                },
+                {
+                    "docCount": 53,
+                    "value": "SSA"
+                },
+                {
+                    "docCount": 52,
+                    "value": "FTA"
+                },
+                {
+                    "docCount": 47,
+                    "value": "USC"
+                },
+                {
+                    "docCount": 46,
+                    "value": "CFTC"
+                },
+                {
+                    "docCount": 44,
+                    "value": "FSIS"
+                },
+                {
+                    "docCount": 43,
+                    "value": "RBS"
+                },
+                {
+                    "docCount": 43,
+                    "value": "TREAS"
+                },
+                {
+                    "docCount": 42,
+                    "value": "AHRQ"
+                },
+                {
+                    "docCount": 41,
+                    "value": "SRBC"
+                },
+                {
+                    "docCount": 41,
+                    "value": "TTB"
+                },
+                {
+                    "docCount": 41,
+                    "value": "WHD"
+                },
+                {
+                    "docCount": 36,
+                    "value": "USA"
+                },
+                {
+                    "docCount": 35,
+                    "value": "OCC"
+                },
+                {
+                    "docCount": 34,
+                    "value": "DOI"
+                },
+                {
+                    "docCount": 34,
+                    "value": "EAC"
+                },
+                {
+                    "docCount": 34,
+                    "value": "PBGC"
+                },
+                {
+                    "docCount": 33,
+                    "value": "RUS"
+                },
+                {
+                    "docCount": 32,
+                    "value": "OMB"
+                },
+                {
+                    "docCount": 32,
+                    "value": "USBC"
+                },
+                {
+                    "docCount": 31,
+                    "value": "FCA"
+                },
+                {
+                    "docCount": 28,
+                    "value": "AID"
+                },
+                {
+                    "docCount": 28,
+                    "value": "OSM"
+                },
+                {
+                    "docCount": 28,
+                    "value": "WCPO"
+                },
+                {
+                    "docCount": 27,
+                    "value": "CISA"
+                },
+                {
+                    "docCount": 27,
+                    "value": "COLC"
+                },
+                {
+                    "docCount": 26,
+                    "value": "CRB"
+                },
+                {
+                    "docCount": 26,
+                    "value": "FSA"
+                },
+                {
+                    "docCount": 26,
+                    "value": "ICEB"
+                },
+                {
+                    "docCount": 26,
+                    "value": "RRB"
+                },
+                {
+                    "docCount": 25,
+                    "value": "FHFA"
+                },
+                {
+                    "docCount": 24,
+                    "value": "EBSA"
+                },
+                {
+                    "docCount": 24,
+                    "value": "RHS"
+                },
+                {
+                    "docCount": 24,
+                    "value": "SBA"
+                },
+                {
+                    "docCount": 23,
+                    "value": "LSC"
+                },
+                {
+                    "docCount": 21,
+                    "value": "FISCAL"
+                },
+                {
+                    "docCount": 21,
+                    "value": "IHS"
+                },
+                {
+                    "docCount": 21,
+                    "value": "NTSB"
+                },
+                {
+                    "docCount": 20,
+                    "value": "ETA"
+                },
+                {
+                    "docCount": 20,
+                    "value": "FRTIB"
+                },
+                {
+                    "docCount": 19,
+                    "value": "EEOC"
+                },
+                {
+                    "docCount": 19,
+                    "value": "NASS"
+                },
+                {
+                    "docCount": 19,
+                    "value": "TVA"
+                },
+                {
+                    "docCount": 17,
+                    "value": "BSEE"
+                },
+                {
+                    "docCount": 17,
+                    "value": "FINCEN"
+                },
+                {
+                    "docCount": 17,
+                    "value": "PRC"
+                },
+                {
+                    "docCount": 17,
+                    "value": "USN"
+                },
+                {
+                    "docCount": 16,
+                    "value": "DOC"
+                },
+                {
+                    "docCount": 16,
+                    "value": "ONRR"
+                },
+                {
+                    "docCount": 16,
+                    "value": "OSTP"
+                },
+                {
+                    "docCount": 15,
+                    "value": "DOJ"
+                },
+                {
+                    "docCount": 15,
+                    "value": "NEIGHBOR"
+                },
+                {
+                    "docCount": 14,
+                    "value": "ATSDR"
+                },
+                {
+                    "docCount": 14,
+                    "value": "BIA"
+                },
+                {
+                    "docCount": 14,
+                    "value": "FASAB"
+                },
+                {
+                    "docCount": 14,
+                    "value": "FMCS"
+                },
+                {
+                    "docCount": 14,
+                    "value": "IAF"
+                },
+                {
+                    "docCount": 14,
+                    "value": "WAPA"
+                },
+                {
+                    "docCount": 13,
+                    "value": "GEO"
+                },
+                {
+                    "docCount": 13,
+                    "value": "MCC"
+                },
+                {
+                    "docCount": 13,
+                    "value": "USAF"
+                },
+                {
+                    "docCount": 12,
+                    "value": "CEQ"
+                },
+                {
+                    "docCount": 12,
+                    "value": "FCIC"
+                },
+                {
+                    "docCount": 11,
+                    "value": "CCC"
+                },
+                {
+                    "docCount": 11,
+                    "value": "FAS"
+                },
+                {
+                    "docCount": 11,
+                    "value": "HRSA"
+                },
+                {
+                    "docCount": 11,
+                    "value": "NIGC"
+                },
+                {
+                    "docCount": 11,
+                    "value": "NRCS"
+                },
+                {
+                    "docCount": 10,
+                    "value": "ACF"
+                },
+                {
+                    "docCount": 10,
+                    "value": "ARS"
+                },
+                {
+                    "docCount": 10,
+                    "value": "EIA"
+                },
+                {
+                    "docCount": 10,
+                    "value": "MSHFRC"
+                },
+                {
+                    "docCount": 9,
+                    "value": "ASC"
+                },
+                {
+                    "docCount": 9,
+                    "value": "NIST"
+                },
+                {
+                    "docCount": 9,
+                    "value": "USCC"
+                },
+                {
+                    "docCount": 8,
+                    "value": "GAO"
+                },
+                {
+                    "docCount": 8,
+                    "value": "HHSIG"
+                },
+                {
+                    "docCount": 8,
+                    "value": "NPS"
+                },
+                {
+                    "docCount": 8,
+                    "value": "PC"
+                },
+                {
+                    "docCount": 7,
+                    "value": "CSB"
+                },
+                {
+                    "docCount": 7,
+                    "value": "DRBC"
+                },
+                {
+                    "docCount": 7,
+                    "value": "NASA"
+                },
+                {
+                    "docCount": 7,
+                    "value": "OSHRC"
+                },
+                {
+                    "docCount": 7,
+                    "value": "PCSCOTUS"
+                },
+                {
+                    "docCount": 7,
+                    "value": "USPC"
+                },
+                {
+                    "docCount": 6,
+                    "value": "ACUS"
+                },
+                {
+                    "docCount": 6,
+                    "value": "CIGIE"
+                },
+                {
+                    "docCount": 6,
+                    "value": "EOIR"
+                },
+                {
+                    "docCount": 6,
+                    "value": "FCSIC"
+                },
+                {
+                    "docCount": 6,
+                    "value": "NNSA"
+                },
+                {
+                    "docCount": 5,
+                    "value": "ADF"
+                },
+                {
+                    "docCount": 5,
+                    "value": "BLM"
+                },
+                {
+                    "docCount": 5,
+                    "value": "DNFSB"
+                },
+                {
+                    "docCount": 5,
+                    "value": "LMSO"
+                },
+                {
+                    "docCount": 5,
+                    "value": "NLRB"
+                },
+                {
+                    "docCount": 5,
+                    "value": "OFCCP"
+                },
+                {
+                    "docCount": 5,
+                    "value": "SJI"
+                },
+                {
+                    "docCount": 5,
+                    "value": "SWPA"
+                },
+                {
+                    "docCount": 4,
+                    "value": "ATF"
+                },
+                {
+                    "docCount": 4,
+                    "value": "ERS"
+                },
+                {
+                    "docCount": 4,
+                    "value": "FIRSTNET"
+                },
+                {
+                    "docCount": 4,
+                    "value": "GCERC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "JBEA"
+                },
+                {
+                    "docCount": 4,
+                    "value": "NCD"
+                },
+                {
+                    "docCount": 4,
+                    "value": "NIFA"
+                },
+                {
+                    "docCount": 4,
+                    "value": "NSCAI"
+                },
+                {
+                    "docCount": 4,
+                    "value": "PHS"
+                },
+                {
+                    "docCount": 4,
+                    "value": "SLSDC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "ATBCB"
+                },
+                {
+                    "docCount": 3,
+                    "value": "CITA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "DFC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "MKU"
+                },
+                {
+                    "docCount": 3,
+                    "value": "MSPB"
+                },
+                {
+                    "docCount": 3,
+                    "value": "NWTRB"
+                },
+                {
+                    "docCount": 3,
+                    "value": "ONDCP"
+                },
+                {
+                    "docCount": 3,
+                    "value": "OSC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "RITA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "SSS"
+                },
+                {
+                    "docCount": 3,
+                    "value": "USIP"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ABMC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "DC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ERULE"
+                },
+                {
+                    "docCount": 2,
+                    "value": "LOC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NCPPCC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NIH"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NTIA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ODNI"
+                },
+                {
+                    "docCount": 2,
+                    "value": "USAGM"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ATR"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BOP"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BOR"
+                },
+                {
+                    "docCount": 1,
+                    "value": "EAB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "EDA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FLRA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "GPO"
+                },
+                {
+                    "docCount": 1,
+                    "value": "HPAC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "MMC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "PBRB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "RMA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USMINT"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USOPC"
+                }
+            ],
+            "commentEndDate": [],
+            "postedDate": [
+                {
+                    "docCount": 2,
+                    "label": "Last 7 Days",
+                    "fromDate": "2024-10-08 00:00:00",
+                    "toDate": "2024-10-14 23:59:59"
+                },
+                {
+                    "docCount": 6,
+                    "label": "Last 15 Days",
+                    "fromDate": "2024-09-30 00:00:00",
+                    "toDate": "2024-10-14 23:59:59"
+                },
+                {
+                    "docCount": 13,
+                    "label": "Last 30 Days",
+                    "fromDate": "2024-09-15 00:00:00",
+                    "toDate": "2024-10-14 23:59:59"
+                },
+                {
+                    "docCount": 38,
+                    "label": "Last 90 Days",
+                    "fromDate": "2024-07-17 00:00:00",
+                    "toDate": "2024-10-14 23:59:59"
+                }
+            ]
+        },
+        "filters": {
+            "postedDate": {
+                "fromDate": "2021-01-01",
+                "toDate": "2022-01-01"
+            },
+            "agencyId": [
+                {
+                    "label": "FDIC",
+                    "value": "FDIC"
+                }
+            ]
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "numberOfElements": 126,
+        "pageNumber": 1,
+        "pageSize": 250,
+        "totalElements": 126,
+        "totalPages": 1,
+        "firstPage": true,
+        "lastPage": true
+    }
+}

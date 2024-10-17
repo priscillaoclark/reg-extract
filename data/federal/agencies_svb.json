@@ -8,11 +8,31 @@
     "agency_title": "Federal Deposit Insurance Corporation"
   },
   {
+    "agency_id": "FINCEN",
+    "agency_title": "Financial Crimes Enforcement Network"
+  },
+  {
     "agency_id": "FRS",
     "agency_title": "Federal Reserve System"
   },
   {
+    "agency_id": "FSOC",
+    "agency_title": "Financial Stability Oversight Council"
+  },
+  {
     "agency_id": "OCC",
     "agency_title": "Office of the Comptroller of the Currency"
+  },
+  {
+    "agency_id": "OFAC",
+    "agency_title": "Office of Foreign Assets Control"
+  },
+  {
+    "agency_id": "SEC",
+    "agency_title": "Securities and Exchange Commission"
+  },
+  {
+    "agency_id": "TREAS",
+    "agency_title": "Department of the Treasury"
   }
 ]

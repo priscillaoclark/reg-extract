@@ -1,0 +1,3222 @@
+{
+    "data": [
+        {
+            "id": "TREAS_FRDOC_0001-0081",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-10-17T19:14:21Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-29613",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Terrorism Risk Insurance Program; Recoupment Provisions",
+                "postedDate": "2009-12-14T05:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2009-12-14T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a6a1d0"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0081"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0080",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-10-17T19:14:21Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-29614",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Terrorism Risk Insurance Program; Cap on Annual Liability",
+                "postedDate": "2009-12-14T05:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2009-12-14T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a6a141"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0080"
+            }
+        },
+        {
+            "id": "TREAS-FINCEN-2009-0010-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2015-01-11T16:11:47Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Regulatory Plan - Fall 2009",
+                "postedDate": "2009-12-07T11:35:29Z",
+                "docketId": "TREAS-FINCEN-2009-0010",
+                "subtype": "NA",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006480a64e28"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-FINCEN-2009-0010-0002"
+            }
+        },
+        {
+            "id": "TREAS-FINCEN-2009-0010-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2015-01-11T16:11:46Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Semiannual Regulatory Agenda - Fall 2009",
+                "postedDate": "2009-12-07T11:35:21Z",
+                "docketId": "TREAS-FINCEN-2009-0010",
+                "subtype": "NA",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006480a64e27"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-FINCEN-2009-0010-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2009-0007-0020",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2011-06-11T18:01:29Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "TARP Standards for Compensation and Corporate Governance; Correction",
+                "postedDate": "2009-12-07T05:00:00Z",
+                "docketId": "TREAS-DO-2009-0007",
+                "subtype": "NA",
+                "commentStartDate": "2009-12-07T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a64ac7"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2009-0007-0020"
+            }
+        },
+        {
+            "id": "TREAS-DO-2009-0007-0021",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2013-06-18T14:58:03Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "TARP Standards for Compensation and Corporate Governance; Correction",
+                "postedDate": "2009-12-07T05:00:00Z",
+                "docketId": "TREAS-DO-2009-0007",
+                "subtype": "NA",
+                "commentStartDate": "2009-12-07T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a64ac3"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2009-0007-0021"
+            }
+        },
+        {
+            "id": "TREAS-DO-2007-0015-0130",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T18:01:24Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-28746",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Prohibition on Funding of Unlawful Internet Gambling",
+                "postedDate": "2009-12-01T05:00:00Z",
+                "docketId": "TREAS-DO-2007-0015",
+                "subtype": "Final Rule",
+                "commentStartDate": "2009-12-01T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a60eeb"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2007-0015-0130"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0076",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-10-17T19:14:21Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-27449",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Financial Crimes Enforcement Network; Amendment to the Bank Secrecy Act Regulations-Administrative Ruling System",
+                "postedDate": "2009-11-17T05:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2009-11-17T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a592c8"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0076"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0075",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2011-10-17T19:14:20Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-27447",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2009-12-17T04:59:59Z",
+                "title": "Financial Crimes Enforcement Network; Expansion of Special Information Sharing Procedures To Deter Money Laundering and Terrorist Activity",
+                "postedDate": "2009-11-16T05:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": "NPRM",
+                "commentStartDate": "2009-11-16T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a582a2"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0075"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0074",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2011-10-17T19:14:20Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-24789",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2009-11-17T04:59:59Z",
+                "title": "Drawback of Internal Revenue Excise Tax",
+                "postedDate": "2009-10-15T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": "NPRM",
+                "commentStartDate": "2009-10-15T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a42227"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0074"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0073",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-10-17T19:14:20Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-24302",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Privacy Act; Implementation",
+                "postedDate": "2009-10-08T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2009-10-08T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a3c0bc"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0073"
+            }
+        },
+        {
+            "id": "TREAS-DO-2009-0009-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T18:01:30Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-20903",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2009-10-01T03:59:59Z",
+                "title": "Payments in Lieu of Low Income Housing Tax Credits",
+                "postedDate": "2009-08-31T04:00:00Z",
+                "docketId": "TREAS-DO-2009-0009",
+                "subtype": "Interim Rule",
+                "commentStartDate": "2009-08-31T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a19102"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2009-0009-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2009-0008-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2009-08-04T15:03:33Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2009-08-15T03:59:59Z",
+                "title": "Report on Section 529 College Savings",
+                "postedDate": "2009-08-04T04:00:00Z",
+                "docketId": "TREAS-DO-2009-0008",
+                "subtype": "Notice",
+                "commentStartDate": "2009-08-04T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a0079e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2009-0008-0001"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0070",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2011-06-11T18:01:50Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-17743",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2009-09-11T03:59:59Z",
+                "title": "Contingent Fees Under Circular 230",
+                "postedDate": "2009-07-28T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": "NPRM",
+                "commentStartDate": "2009-07-28T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064809fc1b6"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0070"
+            }
+        },
+        {
+            "id": "TREAS-FINCEN-2009-0003-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2015-01-11T16:11:33Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Financial Crimes Enforcement Network: Anti-Money Laundering Program and Suspicious Activity Report Requirements for Non-Bank Residential Mortgage Lenders and Originators",
+                "postedDate": "2009-07-21T00:00:00Z",
+                "docketId": "TREAS-FINCEN-2009-0003",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064809f7232"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-FINCEN-2009-0003-0001"
+            }
+        },
+        {
+            "id": "TREAS-FINCEN-2007-0011-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2015-01-11T16:09:47Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Banco-Delta Asia Final Rule",
+                "postedDate": "2009-07-15T00:00:00Z",
+                "docketId": "TREAS-FINCEN-2007-0011",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064809f1c76"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-FINCEN-2007-0011-0001"
+            }
+        },
+        {
+            "id": "TREAS-FINCEN-2008-0025-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2015-01-11T16:11:06Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Notice of Proposed Rulemaking; Anti-Money Laundering Programs for Investment Advisers",
+                "postedDate": "2009-07-15T00:00:00Z",
+                "docketId": "TREAS-FINCEN-2008-0025",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064807d949f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-FINCEN-2008-0025-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2009-0007-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T18:01:29Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-13868",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2009-08-15T03:59:59Z",
+                "title": "TARP Standards for Compensation and Corporate Governance; Interim Final Rule",
+                "postedDate": "2009-06-15T04:00:00Z",
+                "docketId": "TREAS-DO-2009-0007",
+                "subtype": "Interim Rule",
+                "commentStartDate": "2009-06-15T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064809cf275"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2009-0007-0002"
+            }
+        },
+        {
+            "id": "TREAS-DO-2009-0007-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T18:01:28Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2009-08-15T03:59:59Z",
+                "title": "TARP Standards for Compensation and Corporate Governance; Interim Final Rule",
+                "postedDate": "2009-06-15T04:00:00Z",
+                "docketId": "TREAS-DO-2009-0007",
+                "subtype": "Interim Rule",
+                "commentStartDate": "2009-06-15T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064809ceed0"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2009-0007-0001"
+            }
+        },
+        {
+            "id": "TREAS-FINCEN-2009-0004-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2015-01-11T16:11:28Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Financial Crimes Enforcement Network; Amendment to the Bank Secrecy Act Regulations; Defining Mutual Funds as Financial Institutions",
+                "postedDate": "2009-06-05T00:00:00Z",
+                "docketId": "TREAS-FINCEN-2009-0004",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064809c67d6"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-FINCEN-2009-0004-0001"
+            }
+        },
+        {
+            "id": "TREAS-FINCEN-2009-0002-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2015-01-11T16:11:08Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Amendment to the Bank Secrecy Act Regulations: Definitions and Other Regulations Relating to Money Services Businesses",
+                "postedDate": "2009-05-12T00:00:00Z",
+                "docketId": "TREAS-FINCEN-2009-0002",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "090000648098c91b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-FINCEN-2009-0002-0001"
+            }
+        },
+        {
+            "id": "TREAS-FINCEN-2009-0006-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2015-01-11T16:11:45Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Semiannual Regulatory Agenda - Spring 2009",
+                "postedDate": "2009-05-10T12:45:57Z",
+                "docketId": "TREAS-FINCEN-2009-0006",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006480984999"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-FINCEN-2009-0006-0001"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0065",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2009-05-06T12:03:16Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-09861",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2009-06-05T03:59:59Z",
+                "title": "Unfair or Deceptive Acts or Practices; Clarifications",
+                "postedDate": "2009-05-05T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": "NPRM",
+                "commentStartDate": "2009-05-05T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480975fe2"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0065"
+            }
+        },
+        {
+            "id": "TREAS-FINCEN-2008-0020-0011",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2015-01-11T16:10:42Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "ACLI Comments on Proposed Transfer and Reorg of BAS Regs",
+                "postedDate": "2009-04-23T00:00:00Z",
+                "docketId": "TREAS-FINCEN-2008-0020",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064809675b3"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-FINCEN-2008-0020-0011"
+            }
+        },
+        {
+            "id": "TREAS-FINCEN-2008-0020-0010",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2015-01-11T16:10:41Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Transfer and Reorganization of Bank Secrecy Act Regulations",
+                "postedDate": "2009-04-23T00:00:00Z",
+                "docketId": "TREAS-FINCEN-2008-0020",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "090000648079cdc2"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-FINCEN-2008-0020-0010"
+            }
+        },
+        {
+            "id": "TREAS-TRIP-2008-0015-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2014-01-18T16:56:18Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-09007",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Terrorism Risk Insurance Program; Terrorism Risk Insurance Program Reauthorization Act Implementation",
+                "postedDate": "2009-04-21T04:00:00Z",
+                "docketId": "TREAS-TRIP-2008-0015",
+                "subtype": "Final Rule",
+                "commentStartDate": "2009-04-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648096159c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-TRIP-2008-0015-0002"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0063",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2011-06-11T18:01:48Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-07154",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Cost or Value of Foreign Repairs, Alterations, or Processing",
+                "postedDate": "2009-03-30T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": "NPRM",
+                "commentStartDate": "2009-03-30T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648093752c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0063"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0062",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2011-06-11T18:01:50Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-05481",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2009-05-13T03:59:59Z",
+                "title": "Cost or Value of Foreign Repairs, Alterations, or Processing",
+                "postedDate": "2009-03-13T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": "NPRM",
+                "commentStartDate": "2009-03-13T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480910064"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0062"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0061",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T18:01:50Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-05001",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Extension of import restrictions imposed on archaeological material from Honduras",
+                "postedDate": "2009-03-11T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": "Final Rule",
+                "commentStartDate": "2009-03-11T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480905131"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0061"
+            }
+        },
+        {
+            "id": "TREAS-FINCEN-2008-0022-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2015-01-11T16:10:33Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Confidentiality of Suspicious Activity Reports",
+                "postedDate": "2009-03-09T00:00:00Z",
+                "docketId": "TREAS-FINCEN-2008-0022",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006480900b8c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-FINCEN-2008-0022-0002"
+            }
+        },
+        {
+            "id": "TREAS-FINCEN-2008-0022-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2015-01-11T16:10:32Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Interpretive Guidance - Sharing Suspicious Activity Reports by Depository Institutions with Certain U.S. Affiliates",
+                "postedDate": "2009-03-09T00:00:00Z",
+                "docketId": "TREAS-FINCEN-2008-0022",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006480900b60"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-FINCEN-2008-0022-0001"
+            }
+        },
+        {
+            "id": "TREAS-FINCEN-2008-0022-0003",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2015-01-11T16:10:33Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Interpretive Guidance - Sharing Suspicious Activity Reports by Securities Broker-Dealers et. al",
+                "postedDate": "2009-03-09T00:00:00Z",
+                "docketId": "TREAS-FINCEN-2008-0022",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006480900bf1"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-FINCEN-2008-0022-0003"
+            }
+        },
+        {
+            "id": "TREAS-DO-2009-0001-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T18:01:28Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-01179",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2009-03-24T03:59:59Z",
+                "title": "TARP Conflicts of Interest",
+                "postedDate": "2009-01-21T05:00:00Z",
+                "docketId": "TREAS-DO-2009-0001",
+                "subtype": "Interim Rule",
+                "commentStartDate": "2009-01-21T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480829397"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2009-0001-0001"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0056",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T18:01:49Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-00848",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Import Restrictions Imposed on Certain Archeological Material from China",
+                "postedDate": "2009-01-16T05:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": "Final Rule",
+                "commentStartDate": "2009-01-16T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064808232b3"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0056"
+            }
+        },
+        {
+            "id": "TREAS-FINCEN-2008-0021-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2015-01-11T16:10:43Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Regulatory Plan - Fall 2008",
+                "postedDate": "2008-11-23T13:17:21Z",
+                "docketId": "TREAS-FINCEN-2008-0021",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064807bb99f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-FINCEN-2008-0021-0002"
+            }
+        },
+        {
+            "id": "TREAS-FINCEN-2008-0021-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2015-01-11T16:10:43Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Semiannual Regulatory Agenda - Fall 2008",
+                "postedDate": "2008-11-23T13:16:40Z",
+                "docketId": "TREAS-FINCEN-2008-0021",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064807bb99d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-FINCEN-2008-0021-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2008-0001-0031",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T18:01:25Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-27525",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Regulations Pertaining to Mergers, Acquisitions, and Takeovers by Foreign Persons",
+                "postedDate": "2008-11-21T05:00:00Z",
+                "docketId": "TREAS-DO-2008-0001",
+                "subtype": "Final Rule",
+                "commentStartDate": "2008-11-21T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064807b6eea"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2008-0001-0031"
+            }
+        },
+        {
+            "id": "TREAS-DO-2007-0015-0129",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T18:01:23Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-27181",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Prohibition on Funding of Unlawful Internet Gambling",
+                "postedDate": "2008-11-18T05:00:00Z",
+                "docketId": "TREAS-DO-2007-0015",
+                "subtype": "Final Rule",
+                "commentStartDate": "2008-11-18T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064807af936"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2007-0015-0129"
+            }
+        },
+        {
+            "id": "TREAS-FINCEN-2008-0020-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2015-01-11T16:10:39Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Transfer and Reorganization of Bank Secrecy Act Regulations",
+                "postedDate": "2008-11-07T00:00:00Z",
+                "docketId": "TREAS-FINCEN-2008-0020",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "090000648079c426"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-FINCEN-2008-0020-0001"
+            }
+        },
+        {
+            "id": "TREAS-FINCEN-2008-0026-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2015-01-11T16:11:06Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Financial Crimes Enforcement Network; Withdrawal of the Notice of Proposed Rulemaking; Anti-Money Laundering Programs for Commodity Trading Advisors",
+                "postedDate": "2008-11-04T00:00:00Z",
+                "docketId": "TREAS-FINCEN-2008-0026",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006480793970"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-FINCEN-2008-0026-0001"
+            }
+        },
+        {
+            "id": "TREAS-FINCEN-2008-0024-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2015-01-11T16:11:06Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Financial Crimes Enforcement Network; Withdrawal of the Notice of Proposed Rulemaking; Anti-Money Laundering Programs for Unregistered Investment Companies",
+                "postedDate": "2008-11-04T00:00:00Z",
+                "docketId": "TREAS-FINCEN-2008-0024",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "090000648079390a"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-FINCEN-2008-0024-0002"
+            }
+        },
+        {
+            "id": "TREAS-FINCEN-2008-0024-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2015-01-11T16:11:05Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Financial Crimes Enforcement Network; Withdrawal of the Notice of Proposed Rulemaking; Anti-Money Laundering Programs for Investment Advisers",
+                "postedDate": "2008-11-04T00:00:00Z",
+                "docketId": "TREAS-FINCEN-2008-0024",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064807938d6"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-FINCEN-2008-0024-0001"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0048",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2011-06-11T18:01:51Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-25731",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2008-12-02T04:59:59Z",
+                "title": "Uniform Rules of Origin for Imported Merchandise",
+                "postedDate": "2008-10-30T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": "NPRM",
+                "commentStartDate": "2008-10-30T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480784db7"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0048"
+            }
+        },
+        {
+            "id": "TREAS-DO-2008-0019-0005",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2008-10-20T13:10:05Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2008-11-20T04:59:59Z",
+                "title": "TARP Capital Purchase Program",
+                "postedDate": "2008-10-20T04:00:00Z",
+                "docketId": "TREAS-DO-2008-0019",
+                "subtype": "Interim Rule",
+                "commentStartDate": "2008-10-20T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648076866b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2008-0019-0005"
+            }
+        },
+        {
+            "id": "TREAS-DO-2008-0019-0007",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2008-10-21T12:41:13Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-24781",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Tarp Capital Purchase Program",
+                "postedDate": "2008-10-20T04:00:00Z",
+                "docketId": "TREAS-DO-2008-0019",
+                "subtype": "Interim Rule",
+                "commentStartDate": "2008-10-20T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648076a3e7"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2008-0019-0007"
+            }
+        },
+        {
+            "id": "TREAS-DO-2008-0019-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2020-11-26T02:00:54Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2008-11-21T04:59:59Z",
+                "title": "TARP Capital Purchase Program",
+                "postedDate": "2008-10-16T04:00:00Z",
+                "docketId": "TREAS-DO-2008-0019",
+                "subtype": "Interim Rule",
+                "commentStartDate": "2008-10-16T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480761272"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2008-0019-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2008-0018-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2008-10-28T22:19:11Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2008-10-29T03:59:59Z",
+                "title": "Development of a Guarantee Program for Troubled Assets",
+                "postedDate": "2008-10-16T04:00:00Z",
+                "docketId": "TREAS-DO-2008-0018",
+                "subtype": "Notice",
+                "commentStartDate": "2008-10-16T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648076066f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2008-0018-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2008-0014-0009",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T18:01:26Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-23008",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Haitian Hemispheric Opportunity Through Partnership Encouragement Acts of 2006 and 2008",
+                "postedDate": "2008-09-30T04:00:00Z",
+                "docketId": "TREAS-DO-2008-0014",
+                "subtype": "Final Rule",
+                "commentStartDate": "2008-09-30T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648072e3fb"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2008-0014-0009"
+            }
+        },
+        {
+            "id": "TREAS-TRIP-2008-0017-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2011-06-11T18:01:40Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-22940",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2008-10-31T03:59:59Z",
+                "title": "Terrorism Risk Insurance Program; Cap on Annual Liability",
+                "postedDate": "2008-09-30T04:00:00Z",
+                "docketId": "TREAS-TRIP-2008-0017",
+                "subtype": "NPRM",
+                "commentStartDate": "2008-09-30T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648072e403"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-TRIP-2008-0017-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2008-0014-0005",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T18:01:27Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-22034",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Extension of Import Restrictions Imposed on Archaeological Material From Cambodia",
+                "postedDate": "2008-09-19T04:00:00Z",
+                "docketId": "TREAS-DO-2008-0014",
+                "subtype": "Final Rule",
+                "commentStartDate": "2008-09-19T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648070f551"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2008-0014-0005"
+            }
+        },
+        {
+            "id": "TREAS-TRIP-2008-0016-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2014-01-18T18:00:49Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2008-10-18T03:59:59Z",
+                "title": "Terrorism Risk Insurance Program; Recoupment Provisions",
+                "postedDate": "2008-09-17T04:00:00Z",
+                "docketId": "TREAS-TRIP-2008-0016",
+                "subtype": "NPRM",
+                "commentStartDate": "2008-09-17T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648070beff"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-TRIP-2008-0016-0001"
+            }
+        },
+        {
+            "id": "TREAS-TRIP-2008-0016-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2014-01-17T21:04:55Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-21699",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2008-10-18T03:59:59Z",
+                "title": "Terrorism Risk Insurance Program; Recoupment Provisions",
+                "postedDate": "2008-09-17T04:00:00Z",
+                "docketId": "TREAS-TRIP-2008-0016",
+                "subtype": "NPRM",
+                "commentStartDate": "2008-09-17T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648070a708"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-TRIP-2008-0016-0002"
+            }
+        },
+        {
+            "id": "TREAS-TRIP-2008-0015-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2014-01-18T18:09:49Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-21578",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2008-10-17T03:59:59Z",
+                "title": "Terrorism Risk Insurance Program; Terrorism Risk Insurance Program Reauthorization Act Implementation",
+                "postedDate": "2008-09-16T04:00:00Z",
+                "docketId": "TREAS-TRIP-2008-0015",
+                "subtype": "Interim Rule",
+                "commentStartDate": "2008-09-16T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480708388"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-TRIP-2008-0015-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2008-0014-0006",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2011-06-11T18:01:26Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-20662",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2008-10-24T03:59:59Z",
+                "title": "Uniform Rules of Origin for Imported Merchandise",
+                "postedDate": "2008-09-08T04:00:00Z",
+                "docketId": "TREAS-DO-2008-0014",
+                "subtype": "NPRM",
+                "commentStartDate": "2008-09-08T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064806f82b6"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2008-0014-0006"
+            }
+        },
+        {
+            "id": "TREAS-DO-2008-0009-0003",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2008-10-02T16:19:20Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-20205",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2008-10-03T03:59:59Z",
+                "title": "Privacy Act; Implementation",
+                "postedDate": "2008-09-02T04:00:00Z",
+                "docketId": "TREAS-DO-2008-0009",
+                "subtype": "Interim Rule",
+                "commentStartDate": "2008-09-02T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064806ec60c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2008-0009-0003"
+            }
+        },
+        {
+            "id": "TREAS-DO-2008-0014-0008",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T18:01:28Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-19640",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2008-10-25T03:59:59Z",
+                "title": "First Sale Declaration Requirement",
+                "postedDate": "2008-08-25T04:00:00Z",
+                "docketId": "TREAS-DO-2008-0014",
+                "subtype": "Interim Rule",
+                "commentStartDate": "2008-08-25T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064806d8037"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2008-0014-0008"
+            }
+        },
+        {
+            "id": "TREAS-DO-2008-0014-0007",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T18:01:27Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-19641",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2008-10-25T03:59:59Z",
+                "title": "Entry Requirements for Certain Softwood Lumber Products Exported From Any Country Into the United States",
+                "postedDate": "2008-08-25T04:00:00Z",
+                "docketId": "TREAS-DO-2008-0014",
+                "subtype": "Interim Rule",
+                "commentStartDate": "2008-08-25T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064806d8090"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2008-0014-0007"
+            }
+        },
+        {
+            "id": "TREAS-DO-2008-0014-0004",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2008-08-06T15:31:25Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-17968",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "United States-Morocco Free Trade Agreement",
+                "postedDate": "2008-08-05T04:00:00Z",
+                "docketId": "TREAS-DO-2008-0014",
+                "subtype": "Final Rule",
+                "commentStartDate": "2008-08-05T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064806aeda9"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2008-0014-0004"
+            }
+        },
+        {
+            "id": "TREAS-DO-2008-0014-0003",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2008-10-06T11:10:30Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-17967",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2008-10-07T03:59:59Z",
+                "title": "Electronic Payment and Refund of Quarterly Harbor Maintenance Fees",
+                "postedDate": "2008-08-05T04:00:00Z",
+                "docketId": "TREAS-DO-2008-0014",
+                "subtype": "NPRM",
+                "commentStartDate": "2008-08-05T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064806aed19"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2008-0014-0003"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0035",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2011-06-11T18:01:50Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-17025",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2008-09-24T03:59:59Z",
+                "title": "Uniform Rules of Origin for Imported Merchandise",
+                "postedDate": "2008-07-25T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": "NPRM",
+                "commentStartDate": "2008-07-25T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064806955fe"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0035"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0034",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T18:01:51Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-16799",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "United States-Bahrain Free Trade Agreement",
+                "postedDate": "2008-07-23T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": "Final Rule",
+                "commentStartDate": "2008-07-23T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648068f51f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0034"
+            }
+        },
+        {
+            "id": "TREAS-DO-2008-0011-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T18:01:26Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-13252",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2008-08-13T03:59:59Z",
+                "title": "Dominican Republic--Central America--United States Free Trade Agreement",
+                "postedDate": "2008-06-13T04:00:00Z",
+                "docketId": "TREAS-DO-2008-0011",
+                "subtype": "Interim Rule",
+                "commentStartDate": "2008-06-13T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480623deb"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2008-0011-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2008-0001-0027",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2008-06-10T16:15:24Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "SUMMARY OF PUBLIC MEETING - May 2, 2008",
+                "postedDate": "2008-06-10T04:00:00Z",
+                "docketId": "TREAS-DO-2008-0001",
+                "subtype": "Related Materials",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "090000648061c991"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2008-0001-0027"
+            }
+        },
+        {
+            "id": "TREAS-FINCEN-2008-0007-0006",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2015-01-11T16:09:59Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Comment Letter - 5-9-2008",
+                "postedDate": "2008-05-28T00:00:00Z",
+                "docketId": "TREAS-FINCEN-2008-0007",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006480604072"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-FINCEN-2008-0007-0006"
+            }
+        },
+        {
+            "id": "TREAS-DO-2008-0001-0003",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2008-05-23T19:17:28Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Summary of Conference Call on Proposed CFIUS Regulations",
+                "postedDate": "2008-05-23T04:00:00Z",
+                "docketId": "TREAS-DO-2008-0001",
+                "subtype": "Related Materials",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064805fb93a"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2008-0001-0003"
+            }
+        },
+        {
+            "id": "TREAS-FINCEN-2008-0010-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2015-01-11T16:10:23Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Semiannual Regulatory Agenda - Spring 2008",
+                "postedDate": "2008-05-06T19:14:49Z",
+                "docketId": "TREAS-FINCEN-2008-0010",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "090000648054df5f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-FINCEN-2008-0010-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2008-0001-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2020-04-08T14:10:49Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2008-06-10T03:59:59Z",
+                "title": "Regulations Pertaining to Mergers, Acquisitions, and Takeovers by Foreign Persons",
+                "postedDate": "2008-04-28T04:00:00Z",
+                "docketId": "TREAS-DO-2008-0001",
+                "subtype": "NPRM",
+                "commentStartDate": "2008-04-28T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064805386e6"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2008-0001-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2008-0001-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2011-06-11T18:01:25Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Summary of Meeting on Proposed CFIUS Regulations",
+                "postedDate": "2008-04-28T04:00:00Z",
+                "docketId": "TREAS-DO-2008-0001",
+                "subtype": "Related Materials",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064805390b0"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2008-0001-0002"
+            }
+        },
+        {
+            "id": "TREAS-FINCEN-2008-0007-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2015-01-11T16:09:55Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Financial Crimes Enforcement Network; Proposed Amendments to the Bank Secrecy Act Regulations--Exemptions From the Requirement To Report Transactions in Currency; Comment Request",
+                "postedDate": "2008-04-24T00:00:00Z",
+                "docketId": "TREAS-FINCEN-2008-0007",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006480524273"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-FINCEN-2008-0007-0001"
+            }
+        },
+        {
+            "id": "TREAS-FINCEN-2008-0008-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2015-01-11T16:10:36Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Financial Crimes Enforcement Network; Withdrawal of the Notice of Proposed Rulemaking Against the Republic of Nauru",
+                "postedDate": "2008-04-18T00:00:00Z",
+                "docketId": "TREAS-FINCEN-2008-0008",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006480511aa0"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-FINCEN-2008-0008-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2008-0014-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T18:01:26Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-08095",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Entry of Softwood Lumber Products From Canada",
+                "postedDate": "2008-04-17T04:00:00Z",
+                "docketId": "TREAS-DO-2008-0014",
+                "subtype": "Interim Rule",
+                "commentStartDate": "2008-04-17T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648050c21f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2008-0014-0002"
+            }
+        },
+        {
+            "id": "TREAS-FINCEN-2008-0006-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2015-01-11T16:10:34Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Financial Crimes Enforcement Network; Withdrawal of the Finding of Primary Money Laundering Concern and the Notice of Proposed Rulemaking Against First Merchant Bank",
+                "postedDate": "2008-04-10T00:00:00Z",
+                "docketId": "TREAS-FINCEN-2008-0006",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064804a3250"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-FINCEN-2008-0006-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2008-0014-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T18:01:27Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-06511",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "United States-Jordan Free Trade Agreement",
+                "postedDate": "2008-03-31T04:00:00Z",
+                "docketId": "TREAS-DO-2008-0014",
+                "subtype": "Interim Rule",
+                "commentStartDate": "2008-03-31T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480414850"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2008-0014-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2008-0009-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2008-09-23T13:07:36Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-05980",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Privacy Act; Implementation",
+                "postedDate": "2008-03-25T04:00:00Z",
+                "docketId": "TREAS-DO-2008-0009",
+                "subtype": "Interim Rule",
+                "commentStartDate": "2008-03-25T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480407907"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2008-0009-0002"
+            }
+        },
+        {
+            "id": "TREAS-DO-2008-0014-0018",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2015-10-15T14:33:41Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-04586",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2008-04-08T03:59:59Z",
+                "title": "Standards for the Administrative Collection of Claims",
+                "postedDate": "2008-03-07T05:00:00Z",
+                "docketId": "TREAS-DO-2008-0014",
+                "subtype": "Interim Rule",
+                "commentStartDate": "2008-03-07T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064803eac89"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2008-0014-0018"
+            }
+        },
+        {
+            "id": "TREAS-FINCEN-2008-0005-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2015-01-11T16:09:53Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Financial Crimes Enforcement Network; Amendment Regarding Financial Institutions Exempt from Establishing Anti-Money Laundering Programs",
+                "postedDate": "2008-01-11T00:00:00Z",
+                "docketId": "TREAS-FINCEN-2008-0005",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064803993a5"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-FINCEN-2008-0005-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2008-0009-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2008-05-27T17:01:22Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-00130",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2008-02-12T04:59:59Z",
+                "title": "Privacy Act; Implementation",
+                "postedDate": "2008-01-10T05:00:00Z",
+                "docketId": "TREAS-DO-2008-0009",
+                "subtype": "Interim Rule",
+                "commentStartDate": "2008-01-10T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648039867d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2008-0009-0001"
+            }
+        },
+        {
+            "id": "TREAS-FINCEN-2007-0019-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2015-01-11T16:09:49Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Regulatory Plan - Fall 2007",
+                "postedDate": "2007-12-10T09:46:04Z",
+                "docketId": "TREAS-FINCEN-2007-0019",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006480375b8e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-FINCEN-2007-0019-0002"
+            }
+        },
+        {
+            "id": "TREAS-FINCEN-2007-0019-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2015-01-11T16:09:49Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Semiannual Regulatory Agenda - Fall 2007",
+                "postedDate": "2007-12-10T09:45:47Z",
+                "docketId": "TREAS-FINCEN-2007-0019",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006480375b8d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-FINCEN-2007-0019-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2007-0018-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2007-11-30T14:14:24Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2007-11-24T04:59:59Z",
+                "title": "FR Notice:  Review by the Treasury Department of the Regulatory Structure Associated with Financial Institutions",
+                "postedDate": "2007-10-25T04:00:00Z",
+                "docketId": "TREAS-DO-2007-0018",
+                "subtype": "Notice",
+                "commentStartDate": "2007-10-25T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648035681a"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2007-0018-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2007-0015-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2011-06-11T18:01:23Z",
+                "highlightedContent": "",
+                "frDocNum": "07-04914",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2007-12-13T04:59:59Z",
+                "title": "Prohibition on Funding of Unlawful Internet Gambling",
+                "postedDate": "2007-10-04T04:00:00Z",
+                "docketId": "TREAS-DO-2007-0015",
+                "subtype": "NPRM",
+                "commentStartDate": "2007-10-04T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064802f82e9"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2007-0015-0001"
+            }
+        },
+        {
+            "id": "TREAS-FINCEN-2008-0004-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2015-01-11T16:09:52Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Financial Crimes Enforcement Network; Anti-Money Laundering Programs; Special Due Diligence Programs for Certain Foreign Accounts",
+                "postedDate": "2007-08-09T00:00:00Z",
+                "docketId": "TREAS-FINCEN-2008-0004",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006480273eda"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-FINCEN-2008-0004-0001"
+            }
+        },
+        {
+            "id": "TREAS-2006-0143-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2014-01-17T20:37:08Z",
+                "highlightedContent": "",
+                "frDocNum": "07-03425",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Extension of Import Restrictions Imposed on Pre-Classical and Classical Archaeological Objects and Byzantine Period Ecclesiastical and Ritual Ethnological Material From Cyprus",
+                "postedDate": "2007-07-13T04:00:00Z",
+                "docketId": "TREAS-2006-0143",
+                "subtype": "Final Rule",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006480267e61"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-2006-0143-0002"
+            }
+        },
+        {
+            "id": "TREAS-FINCEN-2008-0003-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2015-01-11T16:09:51Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Financial Crimes Enforcement Network; Amendments to Bank Secrecy Act Regulations Regarding Casino Recordkeeping and Reporting Requirements",
+                "postedDate": "2007-06-26T00:00:00Z",
+                "docketId": "TREAS-FINCEN-2008-0003",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006480259772"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-FINCEN-2008-0003-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2007-0016-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T18:01:24Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "United States-Singapore Free Trade",
+                "postedDate": "2007-06-18T04:00:00Z",
+                "docketId": "TREAS-DO-2007-0016",
+                "subtype": "Interim Rule",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006480253884"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2007-0016-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2007-0017-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T18:01:24Z",
+                "highlightedContent": "",
+                "frDocNum": "07-02810",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Extension of Import Restrictions Imposed on Archaeological and Ethnological Materials From Peru",
+                "postedDate": "2007-06-06T04:00:00Z",
+                "docketId": "TREAS-DO-2007-0017",
+                "subtype": "Final Rule",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006480249acb"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2007-0017-0001"
+            }
+        },
+        {
+            "id": "TREAS-FINCEN-2008-0002-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2015-01-11T16:09:50Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Semi-annual agenda",
+                "postedDate": "2007-04-30T00:00:00Z",
+                "docketId": "TREAS-FINCEN-2008-0002",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006480231a2c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-FINCEN-2008-0002-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2007-0014-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2011-06-11T18:01:23Z",
+                "highlightedContent": "",
+                "frDocNum": "07-01330",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "To submit or view comments on this rulemaking, please go to docket number USCBP-2006-0001; Remote Location Filing",
+                "postedDate": "2007-03-23T04:00:00Z",
+                "docketId": "TREAS-DO-2007-0014",
+                "subtype": "NPRM",
+                "commentStartDate": "2007-03-23T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480218a59"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2007-0014-0001"
+            }
+        },
+        {
+            "id": "TREAS-2005-0001-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T18:01:22Z",
+                "highlightedContent": "",
+                "frDocNum": "07-01313",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Financial Crimes Enforcement Network; Amendment to the Bank Secrecy Act Regulations--Imposition of Special Measure Against Banco Delta Asia, Including Its Subsidiaries Delta Asia Credit Limited and Delta Asia Insurance Limited, as a Financial Institution of Primary Money Laundering Concern",
+                "postedDate": "2007-03-19T04:00:00Z",
+                "docketId": "TREAS-2005-0001",
+                "subtype": null,
+                "commentStartDate": "2007-03-19T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480215ee1"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-2005-0001-0002"
+            }
+        },
+        {
+            "id": "TREAS-DO-2007-0013-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T18:01:22Z",
+                "highlightedContent": "",
+                "frDocNum": "07-00997",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Entry of Certain Cement Products From Mexico Requiring a Commerce Department Import License",
+                "postedDate": "2007-03-06T05:00:00Z",
+                "docketId": "TREAS-DO-2007-0013",
+                "subtype": "Final Rule",
+                "commentStartDate": "2007-03-06T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648020dfcb"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2007-0013-0001"
+            }
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "documentType": [
+                {
+                    "docCount": 41,
+                    "label": "Rule"
+                },
+                {
+                    "docCount": 28,
+                    "label": "Proposed Rule"
+                },
+                {
+                    "docCount": 13,
+                    "label": "Other"
+                },
+                {
+                    "docCount": 5,
+                    "label": "Notice"
+                },
+                {
+                    "docCount": 3,
+                    "label": "Supporting & Related Material"
+                }
+            ],
+            "subtype": [
+                {
+                    "docCount": 18,
+                    "label": "Interim Rule"
+                },
+                {
+                    "docCount": 16,
+                    "label": "NPRM"
+                },
+                {
+                    "docCount": 13,
+                    "label": "Final Rule"
+                },
+                {
+                    "docCount": 4,
+                    "label": "NA"
+                },
+                {
+                    "docCount": 3,
+                    "label": "Notice"
+                },
+                {
+                    "docCount": 3,
+                    "label": "Related Materials"
+                }
+            ],
+            "withinCommentPeriod": [
+                {
+                    "docCount": 0,
+                    "label": "true"
+                },
+                {
+                    "docCount": 90,
+                    "label": "false"
+                }
+            ],
+            "agencyId": [
+                {
+                    "docCount": 46344,
+                    "value": "EPA"
+                },
+                {
+                    "docCount": 36313,
+                    "value": "DOT"
+                },
+                {
+                    "docCount": 18900,
+                    "value": "FAA"
+                },
+                {
+                    "docCount": 14166,
+                    "value": "FDA"
+                },
+                {
+                    "docCount": 6222,
+                    "value": "FERC"
+                },
+                {
+                    "docCount": 6005,
+                    "value": "FMCSA"
+                },
+                {
+                    "docCount": 5512,
+                    "value": "SEC"
+                },
+                {
+                    "docCount": 4039,
+                    "value": "USCG"
+                },
+                {
+                    "docCount": 3981,
+                    "value": "NIH"
+                },
+                {
+                    "docCount": 3860,
+                    "value": "NHTSA"
+                },
+                {
+                    "docCount": 3175,
+                    "value": "PHMSA"
+                },
+                {
+                    "docCount": 2907,
+                    "value": "FRA"
+                },
+                {
+                    "docCount": 2541,
+                    "value": "NOAA"
+                },
+                {
+                    "docCount": 1997,
+                    "value": "NRC"
+                },
+                {
+                    "docCount": 1551,
+                    "value": "FCC"
+                },
+                {
+                    "docCount": 1326,
+                    "value": "FRS"
+                },
+                {
+                    "docCount": 1193,
+                    "value": "OSHA"
+                },
+                {
+                    "docCount": 1192,
+                    "value": "HUD"
+                },
+                {
+                    "docCount": 1152,
+                    "value": "VA"
+                },
+                {
+                    "docCount": 1035,
+                    "value": "USCIS"
+                },
+                {
+                    "docCount": 993,
+                    "value": "FEMA"
+                },
+                {
+                    "docCount": 972,
+                    "value": "MARAD"
+                },
+                {
+                    "docCount": 928,
+                    "value": "APHIS"
+                },
+                {
+                    "docCount": 889,
+                    "value": "CMS"
+                },
+                {
+                    "docCount": 885,
+                    "value": "ITC"
+                },
+                {
+                    "docCount": 834,
+                    "value": "AMS"
+                },
+                {
+                    "docCount": 762,
+                    "value": "USDA"
+                },
+                {
+                    "docCount": 737,
+                    "value": "IRS"
+                },
+                {
+                    "docCount": 721,
+                    "value": "DOS"
+                },
+                {
+                    "docCount": 697,
+                    "value": "STB"
+                },
+                {
+                    "docCount": 664,
+                    "value": "USCBP"
+                },
+                {
+                    "docCount": 649,
+                    "value": "FWS"
+                },
+                {
+                    "docCount": 647,
+                    "value": "FTA"
+                },
+                {
+                    "docCount": 626,
+                    "value": "DOD"
+                },
+                {
+                    "docCount": 620,
+                    "value": "DHS"
+                },
+                {
+                    "docCount": 574,
+                    "value": "FHWA"
+                },
+                {
+                    "docCount": 571,
+                    "value": "DOE"
+                },
+                {
+                    "docCount": 521,
+                    "value": "FMC"
+                },
+                {
+                    "docCount": 435,
+                    "value": "NSF"
+                },
+                {
+                    "docCount": 403,
+                    "value": "ITA"
+                },
+                {
+                    "docCount": 383,
+                    "value": "CFTC"
+                },
+                {
+                    "docCount": 372,
+                    "value": "ED"
+                },
+                {
+                    "docCount": 347,
+                    "value": "OPM"
+                },
+                {
+                    "docCount": 342,
+                    "value": "FTC"
+                },
+                {
+                    "docCount": 324,
+                    "value": "FAR"
+                },
+                {
+                    "docCount": 324,
+                    "value": "HHS"
+                },
+                {
+                    "docCount": 321,
+                    "value": "TSA"
+                },
+                {
+                    "docCount": 305,
+                    "value": "FDIC"
+                },
+                {
+                    "docCount": 293,
+                    "value": "SSA"
+                },
+                {
+                    "docCount": 287,
+                    "value": "COE"
+                },
+                {
+                    "docCount": 284,
+                    "value": "CPPBSD"
+                },
+                {
+                    "docCount": 280,
+                    "value": "CDC"
+                },
+                {
+                    "docCount": 276,
+                    "value": "PRC"
+                },
+                {
+                    "docCount": 249,
+                    "value": "USN"
+                },
+                {
+                    "docCount": 236,
+                    "value": "CPSC"
+                },
+                {
+                    "docCount": 236,
+                    "value": "EERE"
+                },
+                {
+                    "docCount": 222,
+                    "value": "USA"
+                },
+                {
+                    "docCount": 220,
+                    "value": "ARTS"
+                },
+                {
+                    "docCount": 209,
+                    "value": "USTR"
+                },
+                {
+                    "docCount": 201,
+                    "value": "DARS"
+                },
+                {
+                    "docCount": 201,
+                    "value": "USPS"
+                },
+                {
+                    "docCount": 198,
+                    "value": "MMS"
+                },
+                {
+                    "docCount": 195,
+                    "value": "NCUA"
+                },
+                {
+                    "docCount": 192,
+                    "value": "GSA"
+                },
+                {
+                    "docCount": 183,
+                    "value": "CRC"
+                },
+                {
+                    "docCount": 182,
+                    "value": "EBSA"
+                },
+                {
+                    "docCount": 181,
+                    "value": "FEC"
+                },
+                {
+                    "docCount": 180,
+                    "value": "PTO"
+                },
+                {
+                    "docCount": 180,
+                    "value": "USAF"
+                },
+                {
+                    "docCount": 162,
+                    "value": "NARA"
+                },
+                {
+                    "docCount": 156,
+                    "value": "AHRQ"
+                },
+                {
+                    "docCount": 147,
+                    "value": "ACF"
+                },
+                {
+                    "docCount": 139,
+                    "value": "EAC"
+                },
+                {
+                    "docCount": 139,
+                    "value": "NRCS"
+                },
+                {
+                    "docCount": 139,
+                    "value": "OFAC"
+                },
+                {
+                    "docCount": 139,
+                    "value": "OSM"
+                },
+                {
+                    "docCount": 133,
+                    "value": "FNS"
+                },
+                {
+                    "docCount": 133,
+                    "value": "PBGC"
+                },
+                {
+                    "docCount": 129,
+                    "value": "RRB"
+                },
+                {
+                    "docCount": 126,
+                    "value": "HRSA"
+                },
+                {
+                    "docCount": 118,
+                    "value": "TTB"
+                },
+                {
+                    "docCount": 117,
+                    "value": "CORP"
+                },
+                {
+                    "docCount": 113,
+                    "value": "FSIS"
+                },
+                {
+                    "docCount": 101,
+                    "value": "CITA"
+                },
+                {
+                    "docCount": 99,
+                    "value": "IHS"
+                },
+                {
+                    "docCount": 96,
+                    "value": "GIPSA"
+                },
+                {
+                    "docCount": 93,
+                    "value": "NASA"
+                },
+                {
+                    "docCount": 91,
+                    "value": "DOC"
+                },
+                {
+                    "docCount": 90,
+                    "value": "FCA"
+                },
+                {
+                    "docCount": 90,
+                    "value": "TREAS"
+                },
+                {
+                    "docCount": 89,
+                    "value": "WAPA"
+                },
+                {
+                    "docCount": 87,
+                    "value": "CCC"
+                },
+                {
+                    "docCount": 85,
+                    "value": "RHS"
+                },
+                {
+                    "docCount": 78,
+                    "value": "RBS"
+                },
+                {
+                    "docCount": 77,
+                    "value": "OMB"
+                },
+                {
+                    "docCount": 77,
+                    "value": "SBA"
+                },
+                {
+                    "docCount": 76,
+                    "value": "LSC"
+                },
+                {
+                    "docCount": 74,
+                    "value": "DEA"
+                },
+                {
+                    "docCount": 74,
+                    "value": "OTS"
+                },
+                {
+                    "docCount": 74,
+                    "value": "USEIB"
+                },
+                {
+                    "docCount": 73,
+                    "value": "BIS"
+                },
+                {
+                    "docCount": 71,
+                    "value": "OCC"
+                },
+                {
+                    "docCount": 69,
+                    "value": "EEOC"
+                },
+                {
+                    "docCount": 68,
+                    "value": "DOJ"
+                },
+                {
+                    "docCount": 65,
+                    "value": "SAMHSA"
+                },
+                {
+                    "docCount": 64,
+                    "value": "TVA"
+                },
+                {
+                    "docCount": 62,
+                    "value": "AID"
+                },
+                {
+                    "docCount": 60,
+                    "value": "ICEB"
+                },
+                {
+                    "docCount": 58,
+                    "value": "FCIC"
+                },
+                {
+                    "docCount": 58,
+                    "value": "FRTIB"
+                },
+                {
+                    "docCount": 57,
+                    "value": "NIGC"
+                },
+                {
+                    "docCount": 57,
+                    "value": "USJC"
+                },
+                {
+                    "docCount": 56,
+                    "value": "COLC"
+                },
+                {
+                    "docCount": 55,
+                    "value": "ARS"
+                },
+                {
+                    "docCount": 55,
+                    "value": "MCC"
+                },
+                {
+                    "docCount": 55,
+                    "value": "NTSB"
+                },
+                {
+                    "docCount": 55,
+                    "value": "PC"
+                },
+                {
+                    "docCount": 54,
+                    "value": "RITA"
+                },
+                {
+                    "docCount": 52,
+                    "value": "FTZB"
+                },
+                {
+                    "docCount": 52,
+                    "value": "OPIC"
+                },
+                {
+                    "docCount": 51,
+                    "value": "EIA"
+                },
+                {
+                    "docCount": 51,
+                    "value": "FHFB"
+                },
+                {
+                    "docCount": 50,
+                    "value": "ATBCB"
+                },
+                {
+                    "docCount": 50,
+                    "value": "NTIA"
+                },
+                {
+                    "docCount": 49,
+                    "value": "FHFA"
+                },
+                {
+                    "docCount": 48,
+                    "value": "ETA"
+                },
+                {
+                    "docCount": 47,
+                    "value": "MSHA"
+                },
+                {
+                    "docCount": 47,
+                    "value": "NPS"
+                },
+                {
+                    "docCount": 45,
+                    "value": "USBC"
+                },
+                {
+                    "docCount": 44,
+                    "value": "NASS"
+                },
+                {
+                    "docCount": 39,
+                    "value": "CRB"
+                },
+                {
+                    "docCount": 38,
+                    "value": "SRBC"
+                },
+                {
+                    "docCount": 37,
+                    "value": "BPD"
+                },
+                {
+                    "docCount": 37,
+                    "value": "CSREES"
+                },
+                {
+                    "docCount": 37,
+                    "value": "NIST"
+                },
+                {
+                    "docCount": 36,
+                    "value": "FAS"
+                },
+                {
+                    "docCount": 36,
+                    "value": "MSHFRC"
+                },
+                {
+                    "docCount": 35,
+                    "value": "BBG"
+                },
+                {
+                    "docCount": 32,
+                    "value": "BPA"
+                },
+                {
+                    "docCount": 30,
+                    "value": "FINCEN"
+                },
+                {
+                    "docCount": 30,
+                    "value": "OSTP"
+                },
+                {
+                    "docCount": 30,
+                    "value": "USCC"
+                },
+                {
+                    "docCount": 29,
+                    "value": "DRBC"
+                },
+                {
+                    "docCount": 29,
+                    "value": "USSC"
+                },
+                {
+                    "docCount": 28,
+                    "value": "COFA"
+                },
+                {
+                    "docCount": 27,
+                    "value": "FASAB"
+                },
+                {
+                    "docCount": 24,
+                    "value": "FISCAL"
+                },
+                {
+                    "docCount": 24,
+                    "value": "HPAC"
+                },
+                {
+                    "docCount": 23,
+                    "value": "CDFI"
+                },
+                {
+                    "docCount": 23,
+                    "value": "DOI"
+                },
+                {
+                    "docCount": 23,
+                    "value": "LMSO"
+                },
+                {
+                    "docCount": 23,
+                    "value": "ONDCP"
+                },
+                {
+                    "docCount": 22,
+                    "value": "FCSIC"
+                },
+                {
+                    "docCount": 22,
+                    "value": "FS"
+                },
+                {
+                    "docCount": 22,
+                    "value": "GEO"
+                },
+                {
+                    "docCount": 22,
+                    "value": "NCD"
+                },
+                {
+                    "docCount": 21,
+                    "value": "BLM"
+                },
+                {
+                    "docCount": 21,
+                    "value": "EAB"
+                },
+                {
+                    "docCount": 21,
+                    "value": "PT"
+                },
+                {
+                    "docCount": 20,
+                    "value": "FSA"
+                },
+                {
+                    "docCount": 20,
+                    "value": "MSPB"
+                },
+                {
+                    "docCount": 20,
+                    "value": "RUS"
+                },
+                {
+                    "docCount": 19,
+                    "value": "DNFSB"
+                },
+                {
+                    "docCount": 19,
+                    "value": "FMCS"
+                },
+                {
+                    "docCount": 19,
+                    "value": "HHSIG"
+                },
+                {
+                    "docCount": 19,
+                    "value": "OFHEO"
+                },
+                {
+                    "docCount": 18,
+                    "value": "USIP"
+                },
+                {
+                    "docCount": 17,
+                    "value": "DOL"
+                },
+                {
+                    "docCount": 17,
+                    "value": "EIB"
+                },
+                {
+                    "docCount": 17,
+                    "value": "SLSDC"
+                },
+                {
+                    "docCount": 16,
+                    "value": "DLA"
+                },
+                {
+                    "docCount": 16,
+                    "value": "GAO"
+                },
+                {
+                    "docCount": 16,
+                    "value": "NCS"
+                },
+                {
+                    "docCount": 16,
+                    "value": "SWPA"
+                },
+                {
+                    "docCount": 16,
+                    "value": "WHD"
+                },
+                {
+                    "docCount": 15,
+                    "value": "EDA"
+                },
+                {
+                    "docCount": 15,
+                    "value": "FPPO"
+                },
+                {
+                    "docCount": 15,
+                    "value": "JBEA"
+                },
+                {
+                    "docCount": 15,
+                    "value": "NIL"
+                },
+                {
+                    "docCount": 14,
+                    "value": "ESA"
+                },
+                {
+                    "docCount": 14,
+                    "value": "ISOO"
+                },
+                {
+                    "docCount": 14,
+                    "value": "MKU"
+                },
+                {
+                    "docCount": 13,
+                    "value": "BIA"
+                },
+                {
+                    "docCount": 13,
+                    "value": "SSS"
+                },
+                {
+                    "docCount": 13,
+                    "value": "VETS"
+                },
+                {
+                    "docCount": 12,
+                    "value": "NEIGHBOR"
+                },
+                {
+                    "docCount": 12,
+                    "value": "RATB"
+                },
+                {
+                    "docCount": 11,
+                    "value": "BOR"
+                },
+                {
+                    "docCount": 11,
+                    "value": "CEQ"
+                },
+                {
+                    "docCount": 11,
+                    "value": "CSB"
+                },
+                {
+                    "docCount": 11,
+                    "value": "FLRA"
+                },
+                {
+                    "docCount": 11,
+                    "value": "NMB"
+                },
+                {
+                    "docCount": 10,
+                    "value": "ADF"
+                },
+                {
+                    "docCount": 10,
+                    "value": "AOA"
+                },
+                {
+                    "docCount": 10,
+                    "value": "ARCTIC"
+                },
+                {
+                    "docCount": 10,
+                    "value": "BOP"
+                },
+                {
+                    "docCount": 10,
+                    "value": "CSOSA"
+                },
+                {
+                    "docCount": 10,
+                    "value": "EOIR"
+                },
+                {
+                    "docCount": 10,
+                    "value": "NNSA"
+                },
+                {
+                    "docCount": 10,
+                    "value": "NWTRB"
+                },
+                {
+                    "docCount": 9,
+                    "value": "FFIEC"
+                },
+                {
+                    "docCount": 9,
+                    "value": "NLRB"
+                },
+                {
+                    "docCount": 9,
+                    "value": "ODNI"
+                },
+                {
+                    "docCount": 8,
+                    "value": "IAF"
+                },
+                {
+                    "docCount": 8,
+                    "value": "OFPP"
+                },
+                {
+                    "docCount": 7,
+                    "value": "CCJJDP"
+                },
+                {
+                    "docCount": 7,
+                    "value": "DIA"
+                },
+                {
+                    "docCount": 7,
+                    "value": "FLETC"
+                },
+                {
+                    "docCount": 7,
+                    "value": "USPC"
+                },
+                {
+                    "docCount": 6,
+                    "value": "DEPO"
+                },
+                {
+                    "docCount": 6,
+                    "value": "MBDA"
+                },
+                {
+                    "docCount": 6,
+                    "value": "MISS"
+                },
+                {
+                    "docCount": 6,
+                    "value": "OSHRC"
+                },
+                {
+                    "docCount": 6,
+                    "value": "RMA"
+                },
+                {
+                    "docCount": 5,
+                    "value": "ATF"
+                },
+                {
+                    "docCount": 5,
+                    "value": "ATSDR"
+                },
+                {
+                    "docCount": 5,
+                    "value": "ECSA"
+                },
+                {
+                    "docCount": 5,
+                    "value": "GPO"
+                },
+                {
+                    "docCount": 5,
+                    "value": "OEPNU"
+                },
+                {
+                    "docCount": 5,
+                    "value": "OSC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "ABMC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "CSEO"
+                },
+                {
+                    "docCount": 4,
+                    "value": "DC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "HOPE"
+                },
+                {
+                    "docCount": 4,
+                    "value": "MMC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "OFCCP"
+                },
+                {
+                    "docCount": 4,
+                    "value": "PHS"
+                },
+                {
+                    "docCount": 4,
+                    "value": "RISC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "SJI"
+                },
+                {
+                    "docCount": 4,
+                    "value": "SS"
+                },
+                {
+                    "docCount": 4,
+                    "value": "URMCC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "WCPO"
+                },
+                {
+                    "docCount": 3,
+                    "value": "CIA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "FBI"
+                },
+                {
+                    "docCount": 3,
+                    "value": "IIO"
+                },
+                {
+                    "docCount": 3,
+                    "value": "OJP"
+                },
+                {
+                    "docCount": 3,
+                    "value": "TA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "AFRH"
+                },
+                {
+                    "docCount": 2,
+                    "value": "AMC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "CDFIF"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ECAB"
+                },
+                {
+                    "docCount": 2,
+                    "value": "EOP"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FR"
+                },
+                {
+                    "docCount": 2,
+                    "value": "HST"
+                },
+                {
+                    "docCount": 2,
+                    "value": "LOC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NPREC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NSA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "PACIFIC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "SIGIR"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ACFR"
+                },
+                {
+                    "docCount": 1,
+                    "value": "APPAL"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BOEM"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DISA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ERS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FINCIC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NCLIS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NIFA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "OJJDP"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ONHIR"
+                },
+                {
+                    "docCount": 1,
+                    "value": "PRES"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USMINT"
+                },
+                {
+                    "docCount": 1,
+                    "value": "VCNP"
+                }
+            ],
+            "commentEndDate": [],
+            "postedDate": [
+                {
+                    "docCount": 2,
+                    "label": "Last 30 Days",
+                    "fromDate": "2024-09-17 00:00:00",
+                    "toDate": "2024-10-16 23:59:59"
+                },
+                {
+                    "docCount": 9,
+                    "label": "Last 90 Days",
+                    "fromDate": "2024-07-19 00:00:00",
+                    "toDate": "2024-10-16 23:59:59"
+                }
+            ]
+        },
+        "filters": {
+            "postedDate": {
+                "fromDate": "2007-01-01",
+                "toDate": "2010-01-01"
+            },
+            "agencyId": [
+                {
+                    "label": "TREAS",
+                    "value": "TREAS"
+                }
+            ]
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "numberOfElements": 90,
+        "pageNumber": 1,
+        "pageSize": 250,
+        "totalElements": 90,
+        "totalPages": 1,
+        "firstPage": true,
+        "lastPage": true
+    }
+}

@@ -81,8 +81,8 @@ def load_json_to_mongodb(json_data, collection):
 
 def extract_federal_history():
     # Date range for search
-    startDate = '2022-01-01'
-    endDate = '2023-01-01'
+    startDate = '2024-01-01'
+    endDate = '2025-01-01'
     search_term = None
     document_id = None
     docket_id = None
@@ -101,7 +101,7 @@ def extract_federal_history():
 
     # Import agency IDs from agencies.json
     try:
-        with open("data/federal/agencies_svb.json") as f:
+        with open("data/federal/agencies.json") as f:
             agencies = json.load(f)
     except FileNotFoundError:
         print("agencies.json file not found. Please ensure it exists in the data/ directory.")
@@ -142,24 +142,24 @@ def extract_federal_history():
                                 print(f"Error loading document {doc_id}: {e}")
                         
                 # Download the htm file listed in the link in fileFormats
-                if doc_id in loaded_ids:
-                    print(f"Document {doc_id} already exists - skipping attachment download.")
-                else:
-                    try:
-                        for doc_id in document_ids:
-                            #details = get_document_details(doc_id)
-                            if details:
-                                if details['data']['attributes'] and 'fileFormats' in details['data']['attributes']:
-                                    for attachment in details['data']['attributes']['fileFormats']:
-                                        if attachment['fileUrl'].endswith('.htm'):
-                                            print(f"Downloading attachment for {doc_id}...")
-                                            response = requests.get(attachment['fileUrl'])
-                                            with open(f"data/federal/attachments/{doc_id}.htm", 'wb') as f:
-                                                f.write(response.content)
-                            else:
-                                print(f"No fileFormats found for {doc_id}")
-                    except Exception as e:
-                        print(f"Error downloading attachments for {agency_id}: {e}")
+                try:
+                    for doc_id in document_ids:
+                        if doc_id in loaded_ids:
+                            print(f"Document {doc_id} already exists - skipping attachment download.")
+                    else:
+                        details = get_document_details(doc_id)
+                        if details:
+                            if details['data']['attributes'] and 'fileFormats' in details['data']['attributes']:
+                                for attachment in details['data']['attributes']['fileFormats']:
+                                    if attachment['fileUrl'].endswith('.htm'):
+                                        print(f"Downloading attachment for {doc_id}...")
+                                        response = requests.get(attachment['fileUrl'])
+                                        with open(f"data/federal/attachments/{doc_id}.htm", 'wb') as f:
+                                            f.write(response.content)
+                        else:
+                            print(f"No fileFormats found for {doc_id}")
+                except Exception as e:
+                    print(f"Error downloading attachments for {agency_id}: {e}")
                 
             # List the number of documents returned for each agency to a log file
             with open(f"data/federal/logs/{startDate}_{endDate}_log.txt", "a") as f:

@@ -1,0 +1,2803 @@
+{
+    "data": [
+        {
+            "id": "OCC-2009-0019-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T17:52:24Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-30646",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Community Reinvestment Act Regulations",
+                "postedDate": "2009-12-29T05:00:00Z",
+                "docketId": "OCC-2009-0019",
+                "subtype": "Final Rule",
+                "commentStartDate": "2009-12-29T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a731db"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2009-0019-0001"
+            }
+        },
+        {
+            "id": "OCC-2009-0011-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T17:52:23Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-27882",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Final Model Privacy Form Under the Gramm-Leach-Bliley Act",
+                "postedDate": "2009-12-01T05:00:00Z",
+                "docketId": "OCC-2009-0011",
+                "subtype": "Final Rule",
+                "commentStartDate": "2009-12-01T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a60e8e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2009-0011-0001"
+            }
+        },
+        {
+            "id": "OCC-2009-0018-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T17:52:24Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-27776",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Risk-Based Capital Guidelines; Capital Adequacy Guidelines; Capital Maintenance; Capital-Residential Mortgage Loans Modified Pursuantto the Home Affordable Mortgage Program",
+                "postedDate": "2009-11-20T05:00:00Z",
+                "docketId": "OCC-2009-0018",
+                "subtype": "Final Rule",
+                "commentStartDate": "2009-11-20T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a5b917"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2009-0018-0001"
+            }
+        },
+        {
+            "id": "OCC-2009-0013-0027",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2009-10-26T15:49:54Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "The Bankers' Bank Council",
+                "postedDate": "2009-10-26T00:00:00Z",
+                "docketId": "OCC-2009-0013",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006480a4bb5a"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2009-0013-0027"
+            }
+        },
+        {
+            "id": "OCC-2009-0012-0027",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2009-10-20T14:47:11Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Financial Services Roundtable",
+                "postedDate": "2009-10-16T00:00:00Z",
+                "docketId": "OCC-2009-0012",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006480a43677"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2009-0012-0027"
+            }
+        },
+        {
+            "id": "OCC-2009-0012-0011",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2009-10-15T17:54:10Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Sagat/Burton LLP",
+                "postedDate": "2009-10-15T00:00:00Z",
+                "docketId": "OCC-2009-0012",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006480a426d9"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2009-0012-0011"
+            }
+        },
+        {
+            "id": "OCC-2009-0012-0012",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2009-10-15T17:53:35Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Bank of America",
+                "postedDate": "2009-10-15T00:00:00Z",
+                "docketId": "OCC-2009-0012",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006480a426db"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2009-0012-0012"
+            }
+        },
+        {
+            "id": "OCC-2009-0012-0013",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2009-10-21T19:58:31Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Bank of America",
+                "postedDate": "2009-10-15T00:00:00Z",
+                "docketId": "OCC-2009-0012",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006480a426dd"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2009-0012-0013"
+            }
+        },
+        {
+            "id": "OCC-2009-0013-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2009-09-28T14:47:22Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Correspondent Concentration Risks",
+                "postedDate": "2009-09-28T04:00:00Z",
+                "docketId": "OCC-2009-0013",
+                "subtype": "Notice",
+                "commentStartDate": "2009-09-28T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a2e78a"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2009-0013-0001"
+            }
+        },
+        {
+            "id": "OCC-2009-0012-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2011-06-11T17:52:23Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-21497",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2009-10-16T03:59:59Z",
+                "title": "Risk-Based Capital Guidelines; Capital Adequacy Guidelines; Capital Maintenance: Regulatory Capital; Impact of Modifications to Generally Accepted Accounting Principles; Consolidation of Asset-Backed Commercial Paper Programs; and Other Related Issues",
+                "postedDate": "2009-09-15T04:00:00Z",
+                "docketId": "OCC-2009-0012",
+                "subtype": "NPRM",
+                "commentStartDate": "2009-09-15T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480a23707"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2009-0012-0001"
+            }
+        },
+        {
+            "id": "OCC-2009-0007-0007",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T17:52:22Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-16882",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Risk-Based Capital Guidelines; Capital Adequacy Guidelines; Capital Maintenance; Capital-Residential Mortgage Loans Modified Pursuant to the Making Home Affordable Program; Correcting Amendment",
+                "postedDate": "2009-07-16T04:00:00Z",
+                "docketId": "OCC-2009-0007",
+                "subtype": "Final Rule",
+                "commentStartDate": "2009-07-16T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064809f32d7"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2009-0007-0007"
+            }
+        },
+        {
+            "id": "OCC-2009-0001-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T17:52:20Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-16030",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Fair Credit Reporting Affiliate Marketing Regulations; Identity Theft Red Flags and Address Discrepancies Under the Fair and Accurate Credit Transactions Act of 2003; Correction",
+                "postedDate": "2009-07-08T04:00:00Z",
+                "docketId": "OCC-2009-0001",
+                "subtype": "Final Rule",
+                "commentStartDate": "2009-07-08T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064809ec2f0"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2009-0001-0002"
+            }
+        },
+        {
+            "id": "OCC-2009-0009-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2009-07-07T18:38:02Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Interagency Proposed Guidance - Funding and Liquidity Risk Management",
+                "postedDate": "2009-07-07T04:00:00Z",
+                "docketId": "OCC-2009-0009",
+                "subtype": "Notice",
+                "commentStartDate": "2009-07-07T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064809eb5ad"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2009-0009-0001"
+            }
+        },
+        {
+            "id": "OCC-2008-0022-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2011-06-11T17:52:18Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-15322",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2009-09-01T03:59:59Z",
+                "title": "Guidelines for Furnishers of Information to Consumer Reporting Agencies",
+                "postedDate": "2009-07-01T04:00:00Z",
+                "docketId": "OCC-2008-0022",
+                "subtype": "ANPRM",
+                "commentStartDate": "2009-07-01T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064809e748d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2008-0022-0001"
+            }
+        },
+        {
+            "id": "OCC-2008-0023-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T17:52:19Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-15323",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Procedures to Enhance the Accuracy and Integrity of Information Furnished to Consumer Reporting Agencies",
+                "postedDate": "2009-07-01T04:00:00Z",
+                "docketId": "OCC-2008-0023",
+                "subtype": "Final Rule",
+                "commentStartDate": "2009-07-01T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064809e73ea"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2008-0023-0001"
+            }
+        },
+        {
+            "id": "OCC-2009-0007-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T17:52:22Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-15507",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2009-07-31T03:59:59Z",
+                "title": "Risk-Based Capital Guidelines; Capital Adequacy Guidelines; Capital Maintenance; Capital-Residential Mortgage Loans Modified Pursuant to the Making Home Affordable Program",
+                "postedDate": "2009-06-30T04:00:00Z",
+                "docketId": "OCC-2009-0007",
+                "subtype": "Interim Final Rule",
+                "commentStartDate": "2009-06-30T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064809e643f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2009-0007-0001"
+            }
+        },
+        {
+            "id": "OCC-2009-0010-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2011-06-11T17:52:23Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-15204",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2009-07-31T03:59:59Z",
+                "title": "Community Reinvestment Act Regulations",
+                "postedDate": "2009-06-30T04:00:00Z",
+                "docketId": "OCC-2009-0010",
+                "subtype": "NPRM",
+                "commentStartDate": "2009-06-30T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064809e63b4"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2009-0010-0001"
+            }
+        },
+        {
+            "id": "OCC-2009-0005-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2011-06-11T17:52:21Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-13058",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2009-08-11T03:59:59Z",
+                "title": "Registration of Mortgage Loan Originators",
+                "postedDate": "2009-06-09T04:00:00Z",
+                "docketId": "OCC-2009-0005",
+                "subtype": "NPRM",
+                "commentStartDate": "2009-06-09T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064809c9d9f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2009-0005-0001"
+            }
+        },
+        {
+            "id": "OCC-2009-0001-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T17:52:19Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-10009",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Fair Credit Reporting Affiliate Marketing Regulations; Identity Theft Red Flags and Address Discrepancies Under the Fair and Accurate Credit Transactions Act of 2003",
+                "postedDate": "2009-05-14T04:00:00Z",
+                "docketId": "OCC-2009-0001",
+                "subtype": "Final Rule",
+                "commentStartDate": "2009-05-14T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480991d05"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2009-0001-0001"
+            }
+        },
+        {
+            "id": "OCC-2009-0008-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2011-06-11T17:52:22Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-09375",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2009-06-24T03:59:59Z",
+                "title": "Freedom of Information Act",
+                "postedDate": "2009-04-24T04:00:00Z",
+                "docketId": "OCC-2009-0008",
+                "subtype": "NPRM",
+                "commentStartDate": "2009-04-24T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480968b70"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2009-0008-0001"
+            }
+        },
+        {
+            "id": "OCC-2009-0006-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T17:52:21Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-07861",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Community and Economic Development Entities, Community Development Projects, and Other Public Welfare Investments",
+                "postedDate": "2009-04-07T04:00:00Z",
+                "docketId": "OCC-2009-0006",
+                "subtype": "Final Rule",
+                "commentStartDate": "2009-04-07T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648094682d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2009-0006-0001"
+            }
+        },
+        {
+            "id": "OCC-2009-0002-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T17:52:20Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-06864",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Risk-Based Capital Guidelines Money Market Mutual Funds",
+                "postedDate": "2009-03-27T04:00:00Z",
+                "docketId": "OCC-2009-0002",
+                "subtype": "Final Rule",
+                "commentStartDate": "2009-03-27T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064809331a2"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2009-0002-0001"
+            }
+        },
+        {
+            "id": "OCC-2009-0004-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2011-06-11T17:52:21Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-04703",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2009-06-09T03:59:59Z",
+                "title": "Confidentiality of Suspicious Activity Reports",
+                "postedDate": "2009-03-09T04:00:00Z",
+                "docketId": "OCC-2009-0004",
+                "subtype": "NPRM",
+                "commentStartDate": "2009-03-09T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480900c70"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2009-0004-0001"
+            }
+        },
+        {
+            "id": "OCC-2009-0003-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2011-06-11T17:52:20Z",
+                "highlightedContent": "",
+                "frDocNum": "E9-04700",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2009-06-09T03:59:59Z",
+                "title": "Standards Governing the Release of a Suspicious Activity Report",
+                "postedDate": "2009-03-09T04:00:00Z",
+                "docketId": "OCC-2009-0003",
+                "subtype": "NPRM",
+                "commentStartDate": "2009-03-09T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480900bb4"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2009-0003-0001"
+            }
+        },
+        {
+            "id": "OCC-2008-0025-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2009-02-06T15:49:42Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-30780",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Minimum Capital Ratios; Capital Adequacy Guidelines; Capital Maintenance; Capital:  Deduction of Goodwill Net of Associated Deferred Tax Liability",
+                "postedDate": "2008-12-30T05:00:00Z",
+                "docketId": "OCC-2008-0025",
+                "subtype": "Final Rule",
+                "commentStartDate": "2008-12-30T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648080799a"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2008-0025-0001"
+            }
+        },
+        {
+            "id": "OCC-2008-0024-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T17:52:19Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-30433",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Community Reinvestment Act Regulations",
+                "postedDate": "2008-12-22T05:00:00Z",
+                "docketId": "OCC-2008-0024",
+                "subtype": "Final Rule",
+                "commentStartDate": "2008-12-22T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064807e68d6"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2008-0024-0001"
+            }
+        },
+        {
+            "id": "OCC-2008-0020-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T17:52:18Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-26654",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Rules of Practice and Procedure; Civil Money Penalty Inflation Adjustments",
+                "postedDate": "2008-11-10T05:00:00Z",
+                "docketId": "OCC-2008-0020",
+                "subtype": "Final Rule",
+                "commentStartDate": "2008-11-10T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064807a1382"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2008-0020-0001"
+            }
+        },
+        {
+            "id": "OCC-2008-0016-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2011-06-11T17:52:18Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-25555",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2008-11-27T04:59:59Z",
+                "title": "Minimum Capital Ratios; Capital Adequacy Guidelines; Capital Maintenance; Capital: Treatment of Certain Claims on, or Guaranteed by, the Federal National Mortgage Association (Fannie Mae) and the Federal Home Loan Mortgage Corporation (Freddie Mac)",
+                "postedDate": "2008-10-27T04:00:00Z",
+                "docketId": "OCC-2008-0016",
+                "subtype": "NPRM",
+                "commentStartDate": "2008-10-27T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648077d021"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2008-0016-0001"
+            }
+        },
+        {
+            "id": "OCC-2008-0014-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2011-06-11T17:52:17Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-22741",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2008-10-31T03:59:59Z",
+                "title": "Minimum Capital Ratios; Capital Adequacy Guidelines; Capital Maintenance; Capital: Deduction of Goodwill Net of Associated Deferred Tax Liability",
+                "postedDate": "2008-09-30T04:00:00Z",
+                "docketId": "OCC-2008-0014",
+                "subtype": "NPRM",
+                "commentStartDate": "2008-09-30T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648072e4e6"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2008-0014-0001"
+            }
+        },
+        {
+            "id": "OCC-2008-0015-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T17:52:17Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-22720",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2008-11-01T03:59:59Z",
+                "title": "Risk-Based Capital Guidelines--Money Market Mutual Funds",
+                "postedDate": "2008-09-26T04:00:00Z",
+                "docketId": "OCC-2008-0015",
+                "subtype": "Interim Final Rule",
+                "commentStartDate": "2008-09-26T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480727ec7"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2008-0015-0001"
+            }
+        },
+        {
+            "id": "OCC-2008-0013-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T17:52:17Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-20905",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Assessment of Fees",
+                "postedDate": "2008-09-10T04:00:00Z",
+                "docketId": "OCC-2008-0013",
+                "subtype": "Final Rule",
+                "commentStartDate": "2008-09-10T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064806fc7ee"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2008-0013-0001"
+            }
+        },
+        {
+            "id": "OCC-2008-0010-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T17:52:16Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-18410",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2008-09-11T03:59:59Z",
+                "title": "Community and Economic Development Entities, Community Development Projects, and Other Public Welfare Investments",
+                "postedDate": "2008-08-11T04:00:00Z",
+                "docketId": "OCC-2008-0010",
+                "subtype": "Interim Final Rule",
+                "commentStartDate": "2008-08-11T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064806bd3cc"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2008-0010-0001"
+            }
+        },
+        {
+            "id": "OCC-2008-0009-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2009-06-05T14:10:33Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-17555",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Supervisory Guidance: Supervisory Review Process of Capital Adequacy (Pillar 2) Related to the Implementation of the Basel II Advanced Capital Framework",
+                "postedDate": "2008-07-31T04:00:00Z",
+                "docketId": "OCC-2008-0009",
+                "subtype": "Notice",
+                "commentStartDate": "2008-07-31T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064806a3737"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2008-0009-0001"
+            }
+        },
+        {
+            "id": "OCC-2008-0006-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2011-06-11T17:52:16Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-16262",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2008-10-28T03:59:59Z",
+                "title": "Risk-Based Capital Guidelines; Capital Adequacy Guidelines: Standardized Framework",
+                "postedDate": "2008-07-29T04:00:00Z",
+                "docketId": "OCC-2008-0006",
+                "subtype": "NPRM",
+                "commentStartDate": "2008-07-29T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648069e753"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2008-0006-0001"
+            }
+        },
+        {
+            "id": "OCC-2008-0004-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T17:52:15Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-08443",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Regulatory Review Amendments",
+                "postedDate": "2008-04-24T04:00:00Z",
+                "docketId": "OCC-2008-0004",
+                "subtype": "Final Rule",
+                "commentStartDate": "2008-04-24T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064805241c2"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2008-0004-0001"
+            }
+        },
+        {
+            "id": "OCC-2007-0018-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2008-05-05T15:16:29Z",
+                "highlightedContent": "",
+                "frDocNum": "C7-05729",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Correction to Risk-Based Capital Standards: Advanced Capital Adequacy Framework-Basel II",
+                "postedDate": "2008-04-22T04:00:00Z",
+                "docketId": "OCC-2007-0018",
+                "subtype": "Final Rule",
+                "commentStartDate": "2008-04-22T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064805199fb"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2007-0018-0002"
+            }
+        },
+        {
+            "id": "OCC-2008-0005-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T17:52:16Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-05724",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2008-04-22T03:59:59Z",
+                "title": "Lending Limits",
+                "postedDate": "2008-03-20T04:00:00Z",
+                "docketId": "OCC-2008-0005",
+                "subtype": "Interim Final Rule",
+                "commentStartDate": "2008-03-20T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480400960"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2008-0005-0001"
+            }
+        },
+        {
+            "id": "OCC-2008-0003-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T17:52:15Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-04382",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Securities Offering Disclosure Rules",
+                "postedDate": "2008-03-06T05:00:00Z",
+                "docketId": "OCC-2008-0003",
+                "subtype": "Final Rule",
+                "commentStartDate": "2008-03-06T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064803e9785"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2008-0003-0001"
+            }
+        },
+        {
+            "id": "OCC-2008-0001-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2008-11-24T20:08:21Z",
+                "highlightedContent": "",
+                "frDocNum": "Z8-03004",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Assessment of Fees; Correction",
+                "postedDate": "2008-02-21T05:00:00Z",
+                "docketId": "OCC-2008-0001",
+                "subtype": "Interim Final Rule",
+                "commentStartDate": "2008-02-21T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064803b9f58"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2008-0001-0002"
+            }
+        },
+        {
+            "id": "OCC-2008-0001-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T17:52:15Z",
+                "highlightedContent": "",
+                "frDocNum": "E8-03004",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2008-03-21T03:59:59Z",
+                "title": "Assessment of Fees",
+                "postedDate": "2008-02-19T05:00:00Z",
+                "docketId": "OCC-2008-0001",
+                "subtype": "Interim Final Rule",
+                "commentStartDate": "2008-02-19T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064803b793f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2008-0001-0001"
+            }
+        },
+        {
+            "id": "OCC-2007-0021-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T17:52:14Z",
+                "highlightedContent": "",
+                "frDocNum": "E7-24719",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Community Reinvestment Act Regulations",
+                "postedDate": "2007-12-21T05:00:00Z",
+                "docketId": "OCC-2007-0021",
+                "subtype": "Final Rule",
+                "commentStartDate": "2007-12-21T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648037d60d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2007-0021-0001"
+            }
+        },
+        {
+            "id": "OCC-2007-0019-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2011-06-11T17:52:14Z",
+                "highlightedContent": "",
+                "frDocNum": "E7-23549",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2008-02-12T04:59:59Z",
+                "title": "Interagency Notice of Proposed Rulemaking: Procedures To Enhance the Accuracy and Integrity of Information Furnished to Consumer Reporting Agencies Under Section 312 of the Fair and Accurate Credit Transactions Act",
+                "postedDate": "2007-12-13T05:00:00Z",
+                "docketId": "OCC-2007-0019",
+                "subtype": "NPRM",
+                "commentStartDate": "2007-12-13T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480379570"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2007-0019-0001"
+            }
+        },
+        {
+            "id": "OCC-2007-0018-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T17:52:14Z",
+                "highlightedContent": "",
+                "frDocNum": "07-05729",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Risk-Based Capital Standards: Advanced Capital Adequacy Framework -- Basel II",
+                "postedDate": "2007-12-07T05:00:00Z",
+                "docketId": "OCC-2007-0018",
+                "subtype": "Final Rule",
+                "commentStartDate": "2007-12-07T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064803715c1"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2007-0018-0001"
+            }
+        },
+        {
+            "id": "OCC-2007-0017-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T17:52:13Z",
+                "highlightedContent": "",
+                "frDocNum": "07-05453",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Identity Theft Red Flags and Address Discrepancies Under the Fair and Accurate Credit Transactions Act of 2003",
+                "postedDate": "2007-11-09T05:00:00Z",
+                "docketId": "OCC-2007-0017",
+                "subtype": "Temporary Rule",
+                "commentStartDate": "2007-11-09T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064803621ef"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2007-0017-0001"
+            }
+        },
+        {
+            "id": "OCC-2007-0010-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T17:52:12Z",
+                "highlightedContent": "",
+                "frDocNum": "07-05349",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Fair Credit Reporting Affiliate Marketing Regulations",
+                "postedDate": "2007-11-07T05:00:00Z",
+                "docketId": "OCC-2007-0010",
+                "subtype": "Final Rule",
+                "commentStartDate": "2007-11-07T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648036101d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2007-0010-0001"
+            }
+        },
+        {
+            "id": "OCC-2006-0035-0080",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2007-11-05T19:39:12Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of Meeting with Asset Securitization Forum",
+                "postedDate": "2007-11-05T05:00:00Z",
+                "docketId": "OCC-2006-0035",
+                "subtype": "Related Materials",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "090000648036023e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2006-0035-0080"
+            }
+        },
+        {
+            "id": "OCC-2006-0035-0081",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2007-11-05T19:39:13Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of Meeting re Treatment of Leveraged Pooled Investment Vehicles",
+                "postedDate": "2007-11-05T05:00:00Z",
+                "docketId": "OCC-2006-0035",
+                "subtype": "Related Materials",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006480360268"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2006-0035-0081"
+            }
+        },
+        {
+            "id": "OCC-2006-0035-0082",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2007-11-05T19:39:13Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of Meeting with Citigroup",
+                "postedDate": "2007-11-05T05:00:00Z",
+                "docketId": "OCC-2006-0035",
+                "subtype": "Related Materials",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064803602aa"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2006-0035-0082"
+            }
+        },
+        {
+            "id": "OCC-2006-0035-0079",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2007-11-05T19:49:44Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": true,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of Meeting with Asset Securitization Forum",
+                "postedDate": "2007-11-05T00:00:00Z",
+                "docketId": "OCC-2006-0035",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "090000648035ea57"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2006-0035-0079"
+            }
+        },
+        {
+            "id": "OCC-2007-0016-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2011-06-11T17:52:13Z",
+                "highlightedContent": "",
+                "frDocNum": "E7-20600",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2007-12-18T04:59:59Z",
+                "title": "Securities Offering Disclosure Rules",
+                "postedDate": "2007-10-18T04:00:00Z",
+                "docketId": "OCC-2007-0016",
+                "subtype": "NPRM",
+                "commentStartDate": "2007-10-18T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064803217d8"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2007-0016-0001"
+            }
+        },
+        {
+            "id": "OCC-2007-0014-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T17:52:13Z",
+                "highlightedContent": "",
+                "frDocNum": "07-04716",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Expanded Examination Cycle for Certain Small Insured Depository Institutions and U.S. Branches and Agencies of Foreign Banks",
+                "postedDate": "2007-09-25T04:00:00Z",
+                "docketId": "OCC-2007-0014",
+                "subtype": null,
+                "commentStartDate": "2007-09-25T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064802a019c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2007-0014-0001"
+            }
+        },
+        {
+            "id": "OCC-2007-0006-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T17:52:11Z",
+                "highlightedContent": "",
+                "frDocNum": "07-03441",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Management Official Interlocks",
+                "postedDate": "2007-07-16T04:00:00Z",
+                "docketId": "OCC-2007-0006",
+                "subtype": "Final Rule",
+                "commentStartDate": "2007-07-16T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480268f29"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2007-0006-0001"
+            }
+        },
+        {
+            "id": "OCC-2007-0008-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2011-06-11T17:52:12Z",
+                "highlightedContent": "",
+                "frDocNum": "07-03206",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2007-09-05T03:59:59Z",
+                "title": "Regulatory Review Amendments",
+                "postedDate": "2007-07-03T04:00:00Z",
+                "docketId": "OCC-2007-0008",
+                "subtype": "NPRM",
+                "commentStartDate": "2007-07-03T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648025bf73"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2007-0008-0001"
+            }
+        },
+        {
+            "id": "OCC-2007-0011-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T17:52:13Z",
+                "highlightedContent": "",
+                "frDocNum": "E7-11014",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2007-07-10T03:59:59Z",
+                "title": "Special Lending Limits for Residential Real Estate Loans, Small Business Loans, and Small Farm Loans",
+                "postedDate": "2007-06-07T04:00:00Z",
+                "docketId": "OCC-2007-0011",
+                "subtype": "Interim Final Rule",
+                "commentStartDate": "2007-06-07T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648024a194"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2007-0011-0001"
+            }
+        },
+        {
+            "id": "OCC-2006-0035-0077",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2007-04-11T14:23:24Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Summary of Meeting with the Federated Investors 2-22-07",
+                "postedDate": "2007-04-11T04:00:00Z",
+                "docketId": "OCC-2006-0035",
+                "subtype": "Related Materials",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064802241e1"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2006-0035-0077"
+            }
+        },
+        {
+            "id": "OCC-2007-0007-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T17:52:12Z",
+                "highlightedContent": "",
+                "frDocNum": "07-01716",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2007-05-11T03:59:59Z",
+                "title": "Expanded Examination Cycle for Certain Small Insured Depository Institutions and U.S. Branches and Agencies of Foreign Banks",
+                "postedDate": "2007-04-10T04:00:00Z",
+                "docketId": "OCC-2007-0007",
+                "subtype": "Interim Final Rule",
+                "commentStartDate": "2007-04-10T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006480223496"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2007-0007-0001"
+            }
+        },
+        {
+            "id": "OCC-2007-0003-0003",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2007-05-29T11:16:44Z",
+                "highlightedContent": "",
+                "frDocNum": "C7-01476",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "CORRECTED FORM - Interagency Proposal for Model Privacy Notice under the Gramm-Leach-Bliley Act",
+                "postedDate": "2007-04-05T04:00:00Z",
+                "docketId": "OCC-2007-0003",
+                "subtype": "NPRM",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006480220b81"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2007-0003-0003"
+            }
+        },
+        {
+            "id": "OCC-2006-0035-0066",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2011-06-11T17:52:08Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Minutes of Meeting with Institute of International Bankers 08-01-2006",
+                "postedDate": "2007-03-30T04:00:00Z",
+                "docketId": "OCC-2006-0035",
+                "subtype": "Related Materials",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "090000648021cff8"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2006-0035-0066"
+            }
+        },
+        {
+            "id": "OCC-2006-0035-0067",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2011-06-11T17:52:07Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Minutes of Meeting with ABN-Amro and Institute of International Bankers 10-03-2006",
+                "postedDate": "2007-03-30T04:00:00Z",
+                "docketId": "OCC-2006-0035",
+                "subtype": "Related Materials",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "090000648021d00b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2006-0035-0067"
+            }
+        },
+        {
+            "id": "OCC-2006-0035-0064",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2011-06-11T17:52:08Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Minutes of Meeting with Citigroup et al 07-14-2006",
+                "postedDate": "2007-03-30T04:00:00Z",
+                "docketId": "OCC-2006-0035",
+                "subtype": "Related Materials",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "090000648021cfe1"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2006-0035-0064"
+            }
+        },
+        {
+            "id": "OCC-2006-0035-0059",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2011-06-11T17:52:07Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Minutes of Meeting with American Bankers Association 05-16-2006",
+                "postedDate": "2007-03-30T04:00:00Z",
+                "docketId": "OCC-2006-0035",
+                "subtype": "Related Materials",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "090000648021cd14"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2006-0035-0059"
+            }
+        },
+        {
+            "id": "OCC-2006-0035-0061",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2011-06-11T17:52:06Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Minutes of Meeting with European Banking Federation et al 05-25-2006",
+                "postedDate": "2007-03-30T04:00:00Z",
+                "docketId": "OCC-2006-0035",
+                "subtype": "Related Materials",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "090000648021cf98"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2006-0035-0061"
+            }
+        },
+        {
+            "id": "OCC-2006-0035-0062",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2011-06-11T17:52:09Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Minutes of Meeting with Risk Management Association 06-05-2006",
+                "postedDate": "2007-03-30T04:00:00Z",
+                "docketId": "OCC-2006-0035",
+                "subtype": "Related Materials",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "090000648021cfb0"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2006-0035-0062"
+            }
+        },
+        {
+            "id": "OCC-2006-0035-0063",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2011-06-11T17:52:08Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Minutes of Meeting with JP Morgan Chase 06-15-2006",
+                "postedDate": "2007-03-30T04:00:00Z",
+                "docketId": "OCC-2006-0035",
+                "subtype": "Related Materials",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "090000648021cfd7"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2006-0035-0063"
+            }
+        },
+        {
+            "id": "OCC-2006-0035-0065",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2011-06-11T17:52:08Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Minutes of Meeting with National Association of Realtors 07-18-2006",
+                "postedDate": "2007-03-30T04:00:00Z",
+                "docketId": "OCC-2006-0035",
+                "subtype": "Related Materials",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "090000648021cfeb"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2006-0035-0065"
+            }
+        },
+        {
+            "id": "OCC-2007-0003-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2011-06-11T17:52:11Z",
+                "highlightedContent": "",
+                "frDocNum": "07-01476",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2007-05-30T03:59:59Z",
+                "title": "Interagency Proposal for Model Privacy Form Under the Gramm- Leach-Bliley Act",
+                "postedDate": "2007-03-29T04:00:00Z",
+                "docketId": "OCC-2007-0003",
+                "subtype": "NPRM",
+                "commentStartDate": "2007-03-29T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648021bcb1"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2007-0003-0001"
+            }
+        },
+        {
+            "id": "OCC-2006-0049-0003",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2011-06-11T17:52:09Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Regulatory Impact Analysis for Risk-Based Capital Guidelines (Basel IA)",
+                "postedDate": "2007-03-26T04:00:00Z",
+                "docketId": "OCC-2006-0049",
+                "subtype": "Related Materials",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006480219d56"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2006-0049-0003"
+            }
+        },
+        {
+            "id": "OCC-2006-0035-0003",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2011-06-11T17:52:07Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Regulatory Impact Analysis for Risk-Based Capital Standards: Revised Capital Adequacy Guidelines (Basel II).",
+                "postedDate": "2007-03-26T04:00:00Z",
+                "docketId": "OCC-2006-0035",
+                "subtype": "Related Materials",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006480219e0b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2006-0035-0003"
+            }
+        },
+        {
+            "id": "OCC-2007-0001-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2011-06-11T17:52:11Z",
+                "highlightedContent": "",
+                "frDocNum": "07-00079",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": "2007-02-13T04:59:59Z",
+                "title": "Management Official Interlocks",
+                "postedDate": "2007-01-11T05:00:00Z",
+                "docketId": "OCC-2007-0001",
+                "subtype": null,
+                "commentStartDate": "2007-01-11T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064801f3aee"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2007-0001-0001"
+            }
+        },
+        {
+            "id": "OCC-2007-0002-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2007-01-17T03:59:47Z",
+                "highlightedContent": "",
+                "frDocNum": "07-00055",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Interagency Statement on Sound Practices Concerning Elevated Risk Complex Structured Finance Activities",
+                "postedDate": "2007-01-11T05:00:00Z",
+                "docketId": "OCC-2007-0002",
+                "subtype": null,
+                "commentStartDate": "2007-01-11T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064801f3b50"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2007-0002-0001"
+            }
+        },
+        {
+            "id": "OCC-2006-0049-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2011-06-11T17:52:10Z",
+                "highlightedContent": "",
+                "frDocNum": "C6-09738",
+                "withdrawn": false,
+                "agencyId": "OCC",
+                "commentEndDate": null,
+                "title": "Risk-Based Capital Guidelines; Capital Adequacy Guidelines; Capital Maintenance: Domestic Capital Modifications",
+                "postedDate": "2007-01-10T05:00:00Z",
+                "docketId": "OCC-2006-0049",
+                "subtype": "ANPRM",
+                "commentStartDate": "2007-01-10T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064801f36ee"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OCC-2006-0049-0002"
+            }
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "documentType": [
+                {
+                    "docCount": 31,
+                    "label": "Rule"
+                },
+                {
+                    "docCount": 17,
+                    "label": "Proposed Rule"
+                },
+                {
+                    "docCount": 15,
+                    "label": "Supporting & Related Material"
+                },
+                {
+                    "docCount": 8,
+                    "label": "Notice"
+                }
+            ],
+            "subtype": [
+                {
+                    "docCount": 20,
+                    "label": "Final Rule"
+                },
+                {
+                    "docCount": 14,
+                    "label": "NPRM"
+                },
+                {
+                    "docCount": 14,
+                    "label": "Related Materials"
+                },
+                {
+                    "docCount": 8,
+                    "label": "Interim Final Rule"
+                },
+                {
+                    "docCount": 3,
+                    "label": "Notice"
+                },
+                {
+                    "docCount": 2,
+                    "label": "ANPRM"
+                },
+                {
+                    "docCount": 1,
+                    "label": "Temporary Rule"
+                }
+            ],
+            "withinCommentPeriod": [
+                {
+                    "docCount": 0,
+                    "label": "true"
+                },
+                {
+                    "docCount": 71,
+                    "label": "false"
+                }
+            ],
+            "agencyId": [
+                {
+                    "docCount": 46344,
+                    "value": "EPA"
+                },
+                {
+                    "docCount": 36313,
+                    "value": "DOT"
+                },
+                {
+                    "docCount": 18900,
+                    "value": "FAA"
+                },
+                {
+                    "docCount": 14166,
+                    "value": "FDA"
+                },
+                {
+                    "docCount": 6222,
+                    "value": "FERC"
+                },
+                {
+                    "docCount": 6005,
+                    "value": "FMCSA"
+                },
+                {
+                    "docCount": 5512,
+                    "value": "SEC"
+                },
+                {
+                    "docCount": 4039,
+                    "value": "USCG"
+                },
+                {
+                    "docCount": 3981,
+                    "value": "NIH"
+                },
+                {
+                    "docCount": 3860,
+                    "value": "NHTSA"
+                },
+                {
+                    "docCount": 3175,
+                    "value": "PHMSA"
+                },
+                {
+                    "docCount": 2907,
+                    "value": "FRA"
+                },
+                {
+                    "docCount": 2541,
+                    "value": "NOAA"
+                },
+                {
+                    "docCount": 1997,
+                    "value": "NRC"
+                },
+                {
+                    "docCount": 1551,
+                    "value": "FCC"
+                },
+                {
+                    "docCount": 1326,
+                    "value": "FRS"
+                },
+                {
+                    "docCount": 1193,
+                    "value": "OSHA"
+                },
+                {
+                    "docCount": 1192,
+                    "value": "HUD"
+                },
+                {
+                    "docCount": 1152,
+                    "value": "VA"
+                },
+                {
+                    "docCount": 1035,
+                    "value": "USCIS"
+                },
+                {
+                    "docCount": 993,
+                    "value": "FEMA"
+                },
+                {
+                    "docCount": 972,
+                    "value": "MARAD"
+                },
+                {
+                    "docCount": 928,
+                    "value": "APHIS"
+                },
+                {
+                    "docCount": 889,
+                    "value": "CMS"
+                },
+                {
+                    "docCount": 885,
+                    "value": "ITC"
+                },
+                {
+                    "docCount": 834,
+                    "value": "AMS"
+                },
+                {
+                    "docCount": 762,
+                    "value": "USDA"
+                },
+                {
+                    "docCount": 737,
+                    "value": "IRS"
+                },
+                {
+                    "docCount": 721,
+                    "value": "DOS"
+                },
+                {
+                    "docCount": 697,
+                    "value": "STB"
+                },
+                {
+                    "docCount": 664,
+                    "value": "USCBP"
+                },
+                {
+                    "docCount": 649,
+                    "value": "FWS"
+                },
+                {
+                    "docCount": 647,
+                    "value": "FTA"
+                },
+                {
+                    "docCount": 626,
+                    "value": "DOD"
+                },
+                {
+                    "docCount": 620,
+                    "value": "DHS"
+                },
+                {
+                    "docCount": 574,
+                    "value": "FHWA"
+                },
+                {
+                    "docCount": 571,
+                    "value": "DOE"
+                },
+                {
+                    "docCount": 521,
+                    "value": "FMC"
+                },
+                {
+                    "docCount": 435,
+                    "value": "NSF"
+                },
+                {
+                    "docCount": 403,
+                    "value": "ITA"
+                },
+                {
+                    "docCount": 383,
+                    "value": "CFTC"
+                },
+                {
+                    "docCount": 372,
+                    "value": "ED"
+                },
+                {
+                    "docCount": 347,
+                    "value": "OPM"
+                },
+                {
+                    "docCount": 342,
+                    "value": "FTC"
+                },
+                {
+                    "docCount": 324,
+                    "value": "FAR"
+                },
+                {
+                    "docCount": 324,
+                    "value": "HHS"
+                },
+                {
+                    "docCount": 321,
+                    "value": "TSA"
+                },
+                {
+                    "docCount": 305,
+                    "value": "FDIC"
+                },
+                {
+                    "docCount": 293,
+                    "value": "SSA"
+                },
+                {
+                    "docCount": 287,
+                    "value": "COE"
+                },
+                {
+                    "docCount": 284,
+                    "value": "CPPBSD"
+                },
+                {
+                    "docCount": 280,
+                    "value": "CDC"
+                },
+                {
+                    "docCount": 276,
+                    "value": "PRC"
+                },
+                {
+                    "docCount": 249,
+                    "value": "USN"
+                },
+                {
+                    "docCount": 236,
+                    "value": "CPSC"
+                },
+                {
+                    "docCount": 236,
+                    "value": "EERE"
+                },
+                {
+                    "docCount": 222,
+                    "value": "USA"
+                },
+                {
+                    "docCount": 220,
+                    "value": "ARTS"
+                },
+                {
+                    "docCount": 209,
+                    "value": "USTR"
+                },
+                {
+                    "docCount": 201,
+                    "value": "DARS"
+                },
+                {
+                    "docCount": 201,
+                    "value": "USPS"
+                },
+                {
+                    "docCount": 198,
+                    "value": "MMS"
+                },
+                {
+                    "docCount": 195,
+                    "value": "NCUA"
+                },
+                {
+                    "docCount": 192,
+                    "value": "GSA"
+                },
+                {
+                    "docCount": 183,
+                    "value": "CRC"
+                },
+                {
+                    "docCount": 182,
+                    "value": "EBSA"
+                },
+                {
+                    "docCount": 181,
+                    "value": "FEC"
+                },
+                {
+                    "docCount": 180,
+                    "value": "PTO"
+                },
+                {
+                    "docCount": 180,
+                    "value": "USAF"
+                },
+                {
+                    "docCount": 162,
+                    "value": "NARA"
+                },
+                {
+                    "docCount": 156,
+                    "value": "AHRQ"
+                },
+                {
+                    "docCount": 147,
+                    "value": "ACF"
+                },
+                {
+                    "docCount": 139,
+                    "value": "EAC"
+                },
+                {
+                    "docCount": 139,
+                    "value": "NRCS"
+                },
+                {
+                    "docCount": 139,
+                    "value": "OFAC"
+                },
+                {
+                    "docCount": 139,
+                    "value": "OSM"
+                },
+                {
+                    "docCount": 133,
+                    "value": "FNS"
+                },
+                {
+                    "docCount": 133,
+                    "value": "PBGC"
+                },
+                {
+                    "docCount": 129,
+                    "value": "RRB"
+                },
+                {
+                    "docCount": 126,
+                    "value": "HRSA"
+                },
+                {
+                    "docCount": 118,
+                    "value": "TTB"
+                },
+                {
+                    "docCount": 117,
+                    "value": "CORP"
+                },
+                {
+                    "docCount": 113,
+                    "value": "FSIS"
+                },
+                {
+                    "docCount": 101,
+                    "value": "CITA"
+                },
+                {
+                    "docCount": 99,
+                    "value": "IHS"
+                },
+                {
+                    "docCount": 96,
+                    "value": "GIPSA"
+                },
+                {
+                    "docCount": 93,
+                    "value": "NASA"
+                },
+                {
+                    "docCount": 91,
+                    "value": "DOC"
+                },
+                {
+                    "docCount": 90,
+                    "value": "FCA"
+                },
+                {
+                    "docCount": 90,
+                    "value": "TREAS"
+                },
+                {
+                    "docCount": 89,
+                    "value": "WAPA"
+                },
+                {
+                    "docCount": 87,
+                    "value": "CCC"
+                },
+                {
+                    "docCount": 85,
+                    "value": "RHS"
+                },
+                {
+                    "docCount": 78,
+                    "value": "RBS"
+                },
+                {
+                    "docCount": 77,
+                    "value": "OMB"
+                },
+                {
+                    "docCount": 77,
+                    "value": "SBA"
+                },
+                {
+                    "docCount": 76,
+                    "value": "LSC"
+                },
+                {
+                    "docCount": 74,
+                    "value": "DEA"
+                },
+                {
+                    "docCount": 74,
+                    "value": "OTS"
+                },
+                {
+                    "docCount": 74,
+                    "value": "USEIB"
+                },
+                {
+                    "docCount": 73,
+                    "value": "BIS"
+                },
+                {
+                    "docCount": 71,
+                    "value": "OCC"
+                },
+                {
+                    "docCount": 69,
+                    "value": "EEOC"
+                },
+                {
+                    "docCount": 68,
+                    "value": "DOJ"
+                },
+                {
+                    "docCount": 65,
+                    "value": "SAMHSA"
+                },
+                {
+                    "docCount": 64,
+                    "value": "TVA"
+                },
+                {
+                    "docCount": 62,
+                    "value": "AID"
+                },
+                {
+                    "docCount": 60,
+                    "value": "ICEB"
+                },
+                {
+                    "docCount": 58,
+                    "value": "FCIC"
+                },
+                {
+                    "docCount": 58,
+                    "value": "FRTIB"
+                },
+                {
+                    "docCount": 57,
+                    "value": "NIGC"
+                },
+                {
+                    "docCount": 57,
+                    "value": "USJC"
+                },
+                {
+                    "docCount": 56,
+                    "value": "COLC"
+                },
+                {
+                    "docCount": 55,
+                    "value": "ARS"
+                },
+                {
+                    "docCount": 55,
+                    "value": "MCC"
+                },
+                {
+                    "docCount": 55,
+                    "value": "NTSB"
+                },
+                {
+                    "docCount": 55,
+                    "value": "PC"
+                },
+                {
+                    "docCount": 54,
+                    "value": "RITA"
+                },
+                {
+                    "docCount": 52,
+                    "value": "FTZB"
+                },
+                {
+                    "docCount": 52,
+                    "value": "OPIC"
+                },
+                {
+                    "docCount": 51,
+                    "value": "EIA"
+                },
+                {
+                    "docCount": 51,
+                    "value": "FHFB"
+                },
+                {
+                    "docCount": 50,
+                    "value": "ATBCB"
+                },
+                {
+                    "docCount": 50,
+                    "value": "NTIA"
+                },
+                {
+                    "docCount": 49,
+                    "value": "FHFA"
+                },
+                {
+                    "docCount": 48,
+                    "value": "ETA"
+                },
+                {
+                    "docCount": 47,
+                    "value": "MSHA"
+                },
+                {
+                    "docCount": 47,
+                    "value": "NPS"
+                },
+                {
+                    "docCount": 45,
+                    "value": "USBC"
+                },
+                {
+                    "docCount": 44,
+                    "value": "NASS"
+                },
+                {
+                    "docCount": 39,
+                    "value": "CRB"
+                },
+                {
+                    "docCount": 38,
+                    "value": "SRBC"
+                },
+                {
+                    "docCount": 37,
+                    "value": "BPD"
+                },
+                {
+                    "docCount": 37,
+                    "value": "CSREES"
+                },
+                {
+                    "docCount": 37,
+                    "value": "NIST"
+                },
+                {
+                    "docCount": 36,
+                    "value": "FAS"
+                },
+                {
+                    "docCount": 36,
+                    "value": "MSHFRC"
+                },
+                {
+                    "docCount": 35,
+                    "value": "BBG"
+                },
+                {
+                    "docCount": 32,
+                    "value": "BPA"
+                },
+                {
+                    "docCount": 30,
+                    "value": "FINCEN"
+                },
+                {
+                    "docCount": 30,
+                    "value": "OSTP"
+                },
+                {
+                    "docCount": 30,
+                    "value": "USCC"
+                },
+                {
+                    "docCount": 29,
+                    "value": "DRBC"
+                },
+                {
+                    "docCount": 29,
+                    "value": "USSC"
+                },
+                {
+                    "docCount": 28,
+                    "value": "COFA"
+                },
+                {
+                    "docCount": 27,
+                    "value": "FASAB"
+                },
+                {
+                    "docCount": 24,
+                    "value": "FISCAL"
+                },
+                {
+                    "docCount": 24,
+                    "value": "HPAC"
+                },
+                {
+                    "docCount": 23,
+                    "value": "CDFI"
+                },
+                {
+                    "docCount": 23,
+                    "value": "DOI"
+                },
+                {
+                    "docCount": 23,
+                    "value": "LMSO"
+                },
+                {
+                    "docCount": 23,
+                    "value": "ONDCP"
+                },
+                {
+                    "docCount": 22,
+                    "value": "FCSIC"
+                },
+                {
+                    "docCount": 22,
+                    "value": "FS"
+                },
+                {
+                    "docCount": 22,
+                    "value": "GEO"
+                },
+                {
+                    "docCount": 22,
+                    "value": "NCD"
+                },
+                {
+                    "docCount": 21,
+                    "value": "BLM"
+                },
+                {
+                    "docCount": 21,
+                    "value": "EAB"
+                },
+                {
+                    "docCount": 21,
+                    "value": "PT"
+                },
+                {
+                    "docCount": 20,
+                    "value": "FSA"
+                },
+                {
+                    "docCount": 20,
+                    "value": "MSPB"
+                },
+                {
+                    "docCount": 20,
+                    "value": "RUS"
+                },
+                {
+                    "docCount": 19,
+                    "value": "DNFSB"
+                },
+                {
+                    "docCount": 19,
+                    "value": "FMCS"
+                },
+                {
+                    "docCount": 19,
+                    "value": "HHSIG"
+                },
+                {
+                    "docCount": 19,
+                    "value": "OFHEO"
+                },
+                {
+                    "docCount": 18,
+                    "value": "USIP"
+                },
+                {
+                    "docCount": 17,
+                    "value": "DOL"
+                },
+                {
+                    "docCount": 17,
+                    "value": "EIB"
+                },
+                {
+                    "docCount": 17,
+                    "value": "SLSDC"
+                },
+                {
+                    "docCount": 16,
+                    "value": "DLA"
+                },
+                {
+                    "docCount": 16,
+                    "value": "GAO"
+                },
+                {
+                    "docCount": 16,
+                    "value": "NCS"
+                },
+                {
+                    "docCount": 16,
+                    "value": "SWPA"
+                },
+                {
+                    "docCount": 16,
+                    "value": "WHD"
+                },
+                {
+                    "docCount": 15,
+                    "value": "EDA"
+                },
+                {
+                    "docCount": 15,
+                    "value": "FPPO"
+                },
+                {
+                    "docCount": 15,
+                    "value": "JBEA"
+                },
+                {
+                    "docCount": 15,
+                    "value": "NIL"
+                },
+                {
+                    "docCount": 14,
+                    "value": "ESA"
+                },
+                {
+                    "docCount": 14,
+                    "value": "ISOO"
+                },
+                {
+                    "docCount": 14,
+                    "value": "MKU"
+                },
+                {
+                    "docCount": 13,
+                    "value": "BIA"
+                },
+                {
+                    "docCount": 13,
+                    "value": "SSS"
+                },
+                {
+                    "docCount": 13,
+                    "value": "VETS"
+                },
+                {
+                    "docCount": 12,
+                    "value": "NEIGHBOR"
+                },
+                {
+                    "docCount": 12,
+                    "value": "RATB"
+                },
+                {
+                    "docCount": 11,
+                    "value": "BOR"
+                },
+                {
+                    "docCount": 11,
+                    "value": "CEQ"
+                },
+                {
+                    "docCount": 11,
+                    "value": "CSB"
+                },
+                {
+                    "docCount": 11,
+                    "value": "FLRA"
+                },
+                {
+                    "docCount": 11,
+                    "value": "NMB"
+                },
+                {
+                    "docCount": 10,
+                    "value": "ADF"
+                },
+                {
+                    "docCount": 10,
+                    "value": "AOA"
+                },
+                {
+                    "docCount": 10,
+                    "value": "ARCTIC"
+                },
+                {
+                    "docCount": 10,
+                    "value": "BOP"
+                },
+                {
+                    "docCount": 10,
+                    "value": "CSOSA"
+                },
+                {
+                    "docCount": 10,
+                    "value": "EOIR"
+                },
+                {
+                    "docCount": 10,
+                    "value": "NNSA"
+                },
+                {
+                    "docCount": 10,
+                    "value": "NWTRB"
+                },
+                {
+                    "docCount": 9,
+                    "value": "FFIEC"
+                },
+                {
+                    "docCount": 9,
+                    "value": "NLRB"
+                },
+                {
+                    "docCount": 9,
+                    "value": "ODNI"
+                },
+                {
+                    "docCount": 8,
+                    "value": "IAF"
+                },
+                {
+                    "docCount": 8,
+                    "value": "OFPP"
+                },
+                {
+                    "docCount": 7,
+                    "value": "CCJJDP"
+                },
+                {
+                    "docCount": 7,
+                    "value": "DIA"
+                },
+                {
+                    "docCount": 7,
+                    "value": "FLETC"
+                },
+                {
+                    "docCount": 7,
+                    "value": "USPC"
+                },
+                {
+                    "docCount": 6,
+                    "value": "DEPO"
+                },
+                {
+                    "docCount": 6,
+                    "value": "MBDA"
+                },
+                {
+                    "docCount": 6,
+                    "value": "MISS"
+                },
+                {
+                    "docCount": 6,
+                    "value": "OSHRC"
+                },
+                {
+                    "docCount": 6,
+                    "value": "RMA"
+                },
+                {
+                    "docCount": 5,
+                    "value": "ATF"
+                },
+                {
+                    "docCount": 5,
+                    "value": "ATSDR"
+                },
+                {
+                    "docCount": 5,
+                    "value": "ECSA"
+                },
+                {
+                    "docCount": 5,
+                    "value": "GPO"
+                },
+                {
+                    "docCount": 5,
+                    "value": "OEPNU"
+                },
+                {
+                    "docCount": 5,
+                    "value": "OSC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "ABMC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "CSEO"
+                },
+                {
+                    "docCount": 4,
+                    "value": "DC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "HOPE"
+                },
+                {
+                    "docCount": 4,
+                    "value": "MMC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "OFCCP"
+                },
+                {
+                    "docCount": 4,
+                    "value": "PHS"
+                },
+                {
+                    "docCount": 4,
+                    "value": "RISC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "SJI"
+                },
+                {
+                    "docCount": 4,
+                    "value": "SS"
+                },
+                {
+                    "docCount": 4,
+                    "value": "URMCC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "WCPO"
+                },
+                {
+                    "docCount": 3,
+                    "value": "CIA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "FBI"
+                },
+                {
+                    "docCount": 3,
+                    "value": "IIO"
+                },
+                {
+                    "docCount": 3,
+                    "value": "OJP"
+                },
+                {
+                    "docCount": 3,
+                    "value": "TA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "AFRH"
+                },
+                {
+                    "docCount": 2,
+                    "value": "AMC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "CDFIF"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ECAB"
+                },
+                {
+                    "docCount": 2,
+                    "value": "EOP"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FR"
+                },
+                {
+                    "docCount": 2,
+                    "value": "HST"
+                },
+                {
+                    "docCount": 2,
+                    "value": "LOC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NPREC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NSA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "PACIFIC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "SIGIR"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ACFR"
+                },
+                {
+                    "docCount": 1,
+                    "value": "APPAL"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BOEM"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DISA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ERS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FINCIC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NCLIS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NIFA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "OJJDP"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ONHIR"
+                },
+                {
+                    "docCount": 1,
+                    "value": "PRES"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USMINT"
+                },
+                {
+                    "docCount": 1,
+                    "value": "VCNP"
+                }
+            ],
+            "commentEndDate": [],
+            "postedDate": [
+                {
+                    "docCount": 1,
+                    "label": "Last 3 Days",
+                    "fromDate": "2024-10-14 00:00:00",
+                    "toDate": "2024-10-16 23:59:59"
+                },
+                {
+                    "docCount": 1,
+                    "label": "Last 7 Days",
+                    "fromDate": "2024-10-10 00:00:00",
+                    "toDate": "2024-10-16 23:59:59"
+                },
+                {
+                    "docCount": 1,
+                    "label": "Last 15 Days",
+                    "fromDate": "2024-10-02 00:00:00",
+                    "toDate": "2024-10-16 23:59:59"
+                },
+                {
+                    "docCount": 4,
+                    "label": "Last 30 Days",
+                    "fromDate": "2024-09-17 00:00:00",
+                    "toDate": "2024-10-16 23:59:59"
+                },
+                {
+                    "docCount": 27,
+                    "label": "Last 90 Days",
+                    "fromDate": "2024-07-19 00:00:00",
+                    "toDate": "2024-10-16 23:59:59"
+                }
+            ]
+        },
+        "filters": {
+            "postedDate": {
+                "fromDate": "2007-01-01",
+                "toDate": "2010-01-01"
+            },
+            "agencyId": [
+                {
+                    "label": "OCC",
+                    "value": "OCC"
+                }
+            ]
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "numberOfElements": 71,
+        "pageNumber": 1,
+        "pageSize": 250,
+        "totalElements": 71,
+        "totalPages": 1,
+        "firstPage": true,
+        "lastPage": true
+    }
+}

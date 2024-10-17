@@ -1,0 +1,2746 @@
+{
+    "data": [
+        {
+            "id": "CFTC-2024-0076-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-10-15T12:10:08Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-23105",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Guidance: Listing of Voluntary Carbon Credit Derivative Contracts",
+                "postedDate": "2024-10-15T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-10-15T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867ce631"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0076-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0074-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-04T11:53:27Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-22909",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": "2024-12-04T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Rules Relating to Review of National Futures Association Decisions in Disciplinary, Membership Denial, Registration, and Member Responsibility Actions",
+                "postedDate": "2024-10-04T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-10-04T04:00:00Z",
+                "openForComment": true,
+                "objectId": "09000064867abb80"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0074-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0075-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-04T11:55:03Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-22910",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": "2024-12-04T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Swap Data Repositories; Registration and Regulatory Requirements",
+                "postedDate": "2024-10-04T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-10-04T04:00:00Z",
+                "openForComment": true,
+                "objectId": "09000064867abd12"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0075-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0073-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-09-26T12:28:09Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-21682",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Commodity Pool Operators, Commodity Trading Advisors, and Commodity Pools: Qualified Eligible Person Definition, Minimum Disclosure Requirements for Pools and Trading Programs, Permitting Monthly Account Statements for Funds of Funds",
+                "postedDate": "2024-09-26T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-09-26T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648678e4bc"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0073-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0072-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-20T12:04:13Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-21710",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2024-09-20T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-09-20T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648675eb8e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0072-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0071-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-18T12:22:47Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-21398",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2024-09-18T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-09-18T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648673fefb"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0071-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0070-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-13T12:25:44Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-20819",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": "2024-11-13T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Notification of Pending Legal Proceedings",
+                "postedDate": "2024-09-13T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-09-13T04:00:00Z",
+                "openForComment": true,
+                "objectId": "09000064866fa8d3"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0070-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0069-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-11T12:27:56Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-20781",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2024-09-11T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-09-11T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064866ea156"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0069-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0068-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-09T12:36:12Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-20339",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2024-09-09T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-09-09T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064866cf6dc"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0068-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0067-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-05T12:17:37Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-19921",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Charter Amendments, Establishments, Renewals and Terminations: Technology Advisory Committee",
+                "postedDate": "2024-09-05T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-09-05T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064866c2cac"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0067-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0066-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-09-04T12:17:21Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-18445",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Provisions to Incorporate Changes in the Administrative Structure, Remove Superfluous Verbiage, and Correct Inaccurate Text",
+                "postedDate": "2024-09-04T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-09-04T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064866bf9e9"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0066-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0065-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-08-27T12:03:14Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-19214",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": "2024-09-27T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2024-08-27T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-08-27T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064866aa0a8"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0065-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0064-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2024-08-22T13:12:55Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-18415",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": "2024-10-22T03:59:59Z",
+                "title": "Financial Data Transparency Act Joint Data Standards",
+                "postedDate": "2024-08-22T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-08-22T04:00:00Z",
+                "openForComment": true,
+                "objectId": "090000648665c994"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0064-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0063-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-08-20T12:15:37Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-18660",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Charter Amendments, Establishments, Renewals and Terminations: Global Markets Advisory Committee",
+                "postedDate": "2024-08-20T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-08-20T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064866564ed"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0063-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0062-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-08-16T12:33:44Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-18510",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2024-08-16T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-08-16T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648664dc2b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0062-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0061-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2024-08-16T12:33:36Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-16465",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Regulatory Flexibility Agenda",
+                "postedDate": "2024-08-16T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-08-16T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648664dbe7"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0061-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0060-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-08-15T12:12:07Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-17828",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Foreign Boards of Trade",
+                "postedDate": "2024-08-15T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-08-15T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486649cfc"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0060-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0059-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-08-12T11:56:59Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-17792",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": "2024-10-12T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Regulation of Domestic Exchange-Traded Options",
+                "postedDate": "2024-08-12T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-08-12T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486633c00"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0059-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0058-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-08-06T12:12:50Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-17356",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Charter Amendments, Establishments, Renewals and Terminations: Agricultural Advisory Committee",
+                "postedDate": "2024-08-06T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-08-06T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648661f693"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0058-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0057-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-08-02T12:15:11Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-17232",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2024-08-02T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-08-02T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064866148af"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0057-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0056-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-07-19T12:01:19Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-16071",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2024-07-19T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-07-19T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865fa4f8"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0056-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0054-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-07-18T12:11:56Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-15093",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Order: Conditional Substituted Compliance in Connection with Certain Capital and Financial Reporting Requirements Applicable to Nonbank Swap Dealer Subject to Regulation by the Mexican Comision Nacional Bancaria y de Valores and Banco de Mexico",
+                "postedDate": "2024-07-18T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-07-18T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865f81e0"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0054-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0052-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-07-18T12:11:48Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-15095",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Order: Conditional Substituted Compliance in Connection with Certain Capital and Financial Reporting Requirements Applicable to Nonbank Swap Dealers Domiciled in the French Republic and Federal Republic of Germany and Subject to Regulation in the European Union",
+                "postedDate": "2024-07-18T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-07-18T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865f81db"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0052-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0055-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-07-18T12:12:30Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-15094",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Order: Conditional Substituted Compliance in Connection with Certain Capital and Financial Reporting RequirementsApplicable to Nonbank Swap Dealers Subject to Regulation by the United Kingdom Prudential Regulation Authority",
+                "postedDate": "2024-07-18T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-07-18T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865f8285"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0055-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0053-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-07-18T12:11:53Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-15092",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Order: Conditional Substituted Compliance in Connection with Certain Capital and Financial Reporting Requirements Applicable to Nonbank Swap Dealers Subject to Regulation by the Financial Services Agency of Japan",
+                "postedDate": "2024-07-18T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-07-18T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865f81dd"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0053-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0051-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-07-17T12:18:34Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-15725",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": "2024-08-17T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2024-07-17T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-07-17T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865f480f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0051-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0049-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-07-05T12:25:22Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-14948",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2024-07-05T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-07-05T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865dc4db"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0049-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0050-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2024-07-05T12:25:37Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-14610",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": "2024-08-09T03:59:59Z",
+                "title": "Event Contracts",
+                "postedDate": "2024-07-05T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-07-05T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865dc51f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0050-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0048-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-06-28T12:31:04Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-14250",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": "2024-07-30T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2024-06-28T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-06-28T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865d0bd6"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0048-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0047-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-06-21T12:08:11Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-13744",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2024-06-21T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-06-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865c2ab1"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0047-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0046-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-06-21T12:07:37Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-13763",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2024-06-21T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-06-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865c29bc"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0046-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0045-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-06-17T12:35:26Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-12685",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Privacy Act Regulations",
+                "postedDate": "2024-06-17T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-06-17T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865b9de6"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0045-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0044-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-06-17T12:35:16Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-13254",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": "2024-08-17T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Regulations Governing Bankruptcies of Commodity Brokers",
+                "postedDate": "2024-06-17T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-06-17T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865b9d92"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0044-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0043-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-06-13T12:13:54Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-12968",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Fiscal Year 2022 Service Contract Inventory",
+                "postedDate": "2024-06-13T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-06-13T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865b392c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0043-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0042-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-06-12T12:25:04Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-12967",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2024-06-12T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-06-12T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865adb63"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0042-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0040-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2024-06-10T12:17:21Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-12125",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": "2024-07-10T03:59:59Z",
+                "title": "Event Contracts",
+                "postedDate": "2024-06-10T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-06-10T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865a6934"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0040-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0041-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-06-10T12:17:57Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-12624",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2024-06-10T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-06-10T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865a69f4"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0041-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0039-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-06-03T12:34:55Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-11798",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Large Trader Reporting Requirements",
+                "postedDate": "2024-06-03T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-06-03T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865926f7"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0039-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0038-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-05-23T11:59:45Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-10342",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Capital and Financial Reporting Requirements for Swap Dealers and Major Swap Participants",
+                "postedDate": "2024-05-23T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-05-23T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648657cdd4"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0038-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0037-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-05-20T11:58:07Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-11034",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Hearings, Meetings, Proceedings, etc.: Global Markets Advisory Committee",
+                "postedDate": "2024-05-20T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-05-20T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486572aaf"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0037-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0036-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-05-08T12:12:13Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-10118",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2024-05-08T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-05-08T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648654deaa"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0036-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0035-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-05-08T12:11:55Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-10120",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2024-05-08T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-05-08T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648654de60"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0035-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0034-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-05-01T12:14:32Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-09368",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Swap Confirmation Requirements for Swap Execution Facilities",
+                "postedDate": "2024-05-01T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-05-01T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648652cc4c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0034-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0033-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-05-01T12:14:31Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-09433",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": "2024-07-02T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Reparations Complaint",
+                "postedDate": "2024-05-01T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-05-01T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648652cc4b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0033-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0032-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-04-26T12:22:37Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-09131",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2024-04-26T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-04-26T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864f2711"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0032-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0030-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2024-04-25T12:14:23Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-08872",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": "2024-05-14T03:59:59Z",
+                "title": "Requirements for Designated Contract Markets and Swap Execution Facilities Regarding Governance and the Mitigation of Conflicts of Interest Impacting Market Regulation Functions",
+                "postedDate": "2024-04-25T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-04-25T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864ee608"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0030-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0031-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-04-25T12:15:36Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-08958",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2024-04-25T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-04-25T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864ee77f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0031-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0029-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-04-18T16:20:09Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-08327",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Charter Amendments, Establishments, Renewals and Terminations: Market Risk Advisory Committee",
+                "postedDate": "2024-04-18T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-04-18T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864de14a"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0029-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0028-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-04-17T11:52:08Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-08188",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Hearings, Meetings, Proceedings, etc.: Technology Advisory Committee",
+                "postedDate": "2024-04-17T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-04-17T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864dc23b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0028-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0027-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-03-29T12:14:35Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-06847",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2024-03-29T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-03-29T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864a26b9"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0027-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0026-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-03-20T13:13:08Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-05819",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Hearings, Meetings, Proceedings, etc.:",
+                "postedDate": "2024-03-20T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-03-20T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486487a78"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0026-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0025-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2024-03-19T12:14:35Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-04938",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": "2024-04-23T03:59:59Z",
+                "title": "Requirements for Designated Contract Markets and Swap Execution Facilities Regarding Governance and the Mitigation of Conflicts of Interest Impacting Market Regulation Functions",
+                "postedDate": "2024-03-19T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-03-19T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486484255"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0025-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0024-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-03-20T12:35:58Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-05718",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": "2024-05-18T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Large Trader Reporting for Physical Commodity Swaps",
+                "postedDate": "2024-03-18T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-03-18T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648648082e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0024-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0023-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2024-03-01T13:04:50Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-04117",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": "2024-04-23T03:59:59Z",
+                "title": "Foreign Boards of Trade",
+                "postedDate": "2024-03-01T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-03-01T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486448206"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0023-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0021-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2024-03-01T13:03:25Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-04107",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": "2024-04-23T03:59:59Z",
+                "title": "Regulations to Address Margin Adequacy and to Account for the Treatment of Separate Accounts by Futures Commission Merchants",
+                "postedDate": "2024-03-01T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-03-01T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486448108"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0021-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0022-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-03-01T13:04:42Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-04471",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2024-03-01T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-03-01T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486448188"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0022-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0020-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2024-02-29T13:14:18Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-04255",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": "2024-04-12T03:59:59Z",
+                "title": "Real-Time Public Reporting Requirements and Swap Data Recordkeeping and Reporting Requirements",
+                "postedDate": "2024-02-29T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-02-29T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648644065b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0020-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0019-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-02-28T13:05:48Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-04070",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Hearings, Meetings, Proceedings, etc.: Market Risk Advisory Committee",
+                "postedDate": "2024-02-28T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-02-28T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486436780"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0019-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0018-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2024-02-26T13:15:36Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-03826",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": "2024-04-02T03:59:59Z",
+                "title": "Operational Resilience Framework for Futures Commission Merchants, Swap Dealers, and Major Swap Participants",
+                "postedDate": "2024-02-26T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-02-26T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648642e324"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0018-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0017-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-02-21T14:50:39Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-03503",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2024-02-20T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-02-20T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486418eb7"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0017-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0016-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-02-16T13:15:16Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-03266",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Hearings, Meetings, Proceedings, etc.: Global Markets Advisory Committee",
+                "postedDate": "2024-02-16T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-02-16T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648640b4ac"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0016-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0015-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-02-13T13:23:44Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-02997",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2024-02-13T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-02-13T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486404266"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0015-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0014-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-02-08T13:17:15Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-02635",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2024-02-08T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-02-08T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064863f3a89"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0014-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0013-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2024-02-06T13:33:34Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-02234",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": "2024-03-19T03:59:59Z",
+                "title": "Protection of Clearing Member Funds Held by Derivatives Clearing Organizations",
+                "postedDate": "2024-02-06T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-02-06T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064863e7d10"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0013-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0012-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2024-02-05T13:22:48Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-02070",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": "2024-03-25T03:59:59Z",
+                "title": "Permits; Applications, Issuances, etc.: Capital Comparability Determination Submitted on behalf of Nonbank Swap Dealers subject to Capital and Financial Reporting Requirements of the United Kingdom and Regulated by the United Kingdom Prudential Regulation Authority",
+                "postedDate": "2024-02-05T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-02-05T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064863e4e43"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0012-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0010-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2024-02-02T13:04:32Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-01684",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": "2024-03-05T04:59:59Z",
+                "title": "Privacy Act Regulations",
+                "postedDate": "2024-02-02T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-02-02T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064863d7ac7"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0010-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0011-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-02-02T13:04:38Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-02271",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2024-02-02T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-02-02T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064863d7ace"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0011-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0009-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-02-01T13:09:43Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-01973",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": "2024-03-05T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2024-02-01T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-02-01T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064863d5ec1"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0009-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0008-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-01-30T13:11:57Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-01745",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": "2024-03-01T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2024-01-30T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-01-30T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064863d0776"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0008-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0007-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-01-26T12:52:14Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-01600",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": "2024-02-27T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2024-01-26T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-01-26T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064863c5a22"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0007-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0006-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-01-24T13:30:04Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-01341",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Civil Monetary Penalty Inflation Adjustment",
+                "postedDate": "2024-01-24T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-01-24T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064863bdc9b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0006-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0005-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2024-01-24T13:29:37Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-28745",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": "2024-03-03T04:59:59Z",
+                "title": "Operational Resilience Framework for Futures Commission Merchants, Swap Dealers, and Major Swap Participants",
+                "postedDate": "2024-01-24T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-01-24T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064863bdc61"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0005-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0004-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-01-17T13:24:37Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-00943",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2024-01-17T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-01-17T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064863a4f8b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0004-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0003-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2024-01-16T14:05:39Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-28649",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": "2024-02-14T04:59:59Z",
+                "title": "Capital and Financial Reporting Requirements for Swap Dealers and Major Swap Participants",
+                "postedDate": "2024-01-16T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-01-16T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648639e14b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0003-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0002-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-01-05T13:18:53Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-00144",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2024-01-05T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-01-05T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648637d815"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0002-0001"
+            }
+        },
+        {
+            "id": "CFTC-2024-0001-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2024-01-03T13:15:20Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-28767",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "commentEndDate": "2024-02-17T04:59:59Z",
+                "title": "Protection of Clearing Member Funds Held by Derivatives Clearing Organizations",
+                "postedDate": "2024-01-03T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-01-03T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486373c59"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0001-0001"
+            }
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "documentType": [
+                {
+                    "docCount": 47,
+                    "label": "Notice"
+                },
+                {
+                    "docCount": 16,
+                    "label": "Proposed Rule"
+                },
+                {
+                    "docCount": 13,
+                    "label": "Rule"
+                }
+            ],
+            "subtype": [],
+            "withinCommentPeriod": [
+                {
+                    "docCount": 4,
+                    "label": "true"
+                },
+                {
+                    "docCount": 72,
+                    "label": "false"
+                }
+            ],
+            "agencyId": [
+                {
+                    "docCount": 20739,
+                    "value": "EPA"
+                },
+                {
+                    "docCount": 12281,
+                    "value": "FDA"
+                },
+                {
+                    "docCount": 7727,
+                    "value": "FAA"
+                },
+                {
+                    "docCount": 1970,
+                    "value": "DOT"
+                },
+                {
+                    "docCount": 1621,
+                    "value": "SEC"
+                },
+                {
+                    "docCount": 1405,
+                    "value": "FERC"
+                },
+                {
+                    "docCount": 1377,
+                    "value": "OSHA"
+                },
+                {
+                    "docCount": 1222,
+                    "value": "FMCSA"
+                },
+                {
+                    "docCount": 917,
+                    "value": "ITA"
+                },
+                {
+                    "docCount": 830,
+                    "value": "FWS"
+                },
+                {
+                    "docCount": 731,
+                    "value": "FRA"
+                },
+                {
+                    "docCount": 692,
+                    "value": "USCG"
+                },
+                {
+                    "docCount": 678,
+                    "value": "USPS"
+                },
+                {
+                    "docCount": 574,
+                    "value": "NRC"
+                },
+                {
+                    "docCount": 573,
+                    "value": "CPSC"
+                },
+                {
+                    "docCount": 509,
+                    "value": "CMS"
+                },
+                {
+                    "docCount": 479,
+                    "value": "NOAA"
+                },
+                {
+                    "docCount": 448,
+                    "value": "PHMSA"
+                },
+                {
+                    "docCount": 438,
+                    "value": "NHTSA"
+                },
+                {
+                    "docCount": 437,
+                    "value": "FEMA"
+                },
+                {
+                    "docCount": 413,
+                    "value": "FCC"
+                },
+                {
+                    "docCount": 406,
+                    "value": "VA"
+                },
+                {
+                    "docCount": 389,
+                    "value": "MARAD"
+                },
+                {
+                    "docCount": 374,
+                    "value": "ITC"
+                },
+                {
+                    "docCount": 359,
+                    "value": "USCIS"
+                },
+                {
+                    "docCount": 284,
+                    "value": "NCUA"
+                },
+                {
+                    "docCount": 282,
+                    "value": "ED"
+                },
+                {
+                    "docCount": 273,
+                    "value": "FRS"
+                },
+                {
+                    "docCount": 269,
+                    "value": "DOS"
+                },
+                {
+                    "docCount": 268,
+                    "value": "HUD"
+                },
+                {
+                    "docCount": 234,
+                    "value": "NARA"
+                },
+                {
+                    "docCount": 221,
+                    "value": "DOE"
+                },
+                {
+                    "docCount": 218,
+                    "value": "EERE"
+                },
+                {
+                    "docCount": 212,
+                    "value": "DOD"
+                },
+                {
+                    "docCount": 190,
+                    "value": "MSHA"
+                },
+                {
+                    "docCount": 184,
+                    "value": "OFAC"
+                },
+                {
+                    "docCount": 177,
+                    "value": "CRC"
+                },
+                {
+                    "docCount": 173,
+                    "value": "APHIS"
+                },
+                {
+                    "docCount": 158,
+                    "value": "DOL"
+                },
+                {
+                    "docCount": 152,
+                    "value": "FHWA"
+                },
+                {
+                    "docCount": 149,
+                    "value": "NSF"
+                },
+                {
+                    "docCount": 148,
+                    "value": "USDA"
+                },
+                {
+                    "docCount": 135,
+                    "value": "IRS"
+                },
+                {
+                    "docCount": 134,
+                    "value": "DEA"
+                },
+                {
+                    "docCount": 123,
+                    "value": "GSA"
+                },
+                {
+                    "docCount": 123,
+                    "value": "STB"
+                },
+                {
+                    "docCount": 122,
+                    "value": "FS"
+                },
+                {
+                    "docCount": 118,
+                    "value": "BOEM"
+                },
+                {
+                    "docCount": 111,
+                    "value": "AMS"
+                },
+                {
+                    "docCount": 101,
+                    "value": "CDC"
+                },
+                {
+                    "docCount": 100,
+                    "value": "FTC"
+                },
+                {
+                    "docCount": 96,
+                    "value": "USCBP"
+                },
+                {
+                    "docCount": 95,
+                    "value": "PTO"
+                },
+                {
+                    "docCount": 90,
+                    "value": "FDIC"
+                },
+                {
+                    "docCount": 89,
+                    "value": "CPPBSD"
+                },
+                {
+                    "docCount": 87,
+                    "value": "BSC"
+                },
+                {
+                    "docCount": 86,
+                    "value": "OPM"
+                },
+                {
+                    "docCount": 85,
+                    "value": "CFPB"
+                },
+                {
+                    "docCount": 83,
+                    "value": "ARTS"
+                },
+                {
+                    "docCount": 80,
+                    "value": "FMC"
+                },
+                {
+                    "docCount": 80,
+                    "value": "HHS"
+                },
+                {
+                    "docCount": 76,
+                    "value": "CFTC"
+                },
+                {
+                    "docCount": 76,
+                    "value": "OCC"
+                },
+                {
+                    "docCount": 75,
+                    "value": "NASA"
+                },
+                {
+                    "docCount": 72,
+                    "value": "DARS"
+                },
+                {
+                    "docCount": 68,
+                    "value": "CNCS"
+                },
+                {
+                    "docCount": 67,
+                    "value": "FEC"
+                },
+                {
+                    "docCount": 63,
+                    "value": "FAR"
+                },
+                {
+                    "docCount": 63,
+                    "value": "FTA"
+                },
+                {
+                    "docCount": 54,
+                    "value": "BIS"
+                },
+                {
+                    "docCount": 50,
+                    "value": "AID"
+                },
+                {
+                    "docCount": 49,
+                    "value": "FSIS"
+                },
+                {
+                    "docCount": 49,
+                    "value": "SSA"
+                },
+                {
+                    "docCount": 46,
+                    "value": "DHS"
+                },
+                {
+                    "docCount": 46,
+                    "value": "TSA"
+                },
+                {
+                    "docCount": 45,
+                    "value": "FNS"
+                },
+                {
+                    "docCount": 42,
+                    "value": "RHS"
+                },
+                {
+                    "docCount": 41,
+                    "value": "EIB"
+                },
+                {
+                    "docCount": 40,
+                    "value": "TTB"
+                },
+                {
+                    "docCount": 40,
+                    "value": "USTR"
+                },
+                {
+                    "docCount": 39,
+                    "value": "OMB"
+                },
+                {
+                    "docCount": 37,
+                    "value": "NRCS"
+                },
+                {
+                    "docCount": 37,
+                    "value": "SRBC"
+                },
+                {
+                    "docCount": 36,
+                    "value": "CISA"
+                },
+                {
+                    "docCount": 36,
+                    "value": "RUS"
+                },
+                {
+                    "docCount": 34,
+                    "value": "FINCEN"
+                },
+                {
+                    "docCount": 31,
+                    "value": "EBSA"
+                },
+                {
+                    "docCount": 31,
+                    "value": "RBS"
+                },
+                {
+                    "docCount": 31,
+                    "value": "TREAS"
+                },
+                {
+                    "docCount": 30,
+                    "value": "WCPO"
+                },
+                {
+                    "docCount": 29,
+                    "value": "PBGC"
+                },
+                {
+                    "docCount": 27,
+                    "value": "DOI"
+                },
+                {
+                    "docCount": 27,
+                    "value": "SBA"
+                },
+                {
+                    "docCount": 26,
+                    "value": "USA"
+                },
+                {
+                    "docCount": 25,
+                    "value": "BLM"
+                },
+                {
+                    "docCount": 25,
+                    "value": "OSM"
+                },
+                {
+                    "docCount": 25,
+                    "value": "PC"
+                },
+                {
+                    "docCount": 23,
+                    "value": "ETA"
+                },
+                {
+                    "docCount": 23,
+                    "value": "USBC"
+                },
+                {
+                    "docCount": 23,
+                    "value": "USN"
+                },
+                {
+                    "docCount": 21,
+                    "value": "FHFA"
+                },
+                {
+                    "docCount": 20,
+                    "value": "DOJ"
+                },
+                {
+                    "docCount": 20,
+                    "value": "EEOC"
+                },
+                {
+                    "docCount": 20,
+                    "value": "LSC"
+                },
+                {
+                    "docCount": 19,
+                    "value": "BSEE"
+                },
+                {
+                    "docCount": 19,
+                    "value": "FISCAL"
+                },
+                {
+                    "docCount": 19,
+                    "value": "RRB"
+                },
+                {
+                    "docCount": 18,
+                    "value": "ASC"
+                },
+                {
+                    "docCount": 18,
+                    "value": "EAC"
+                },
+                {
+                    "docCount": 18,
+                    "value": "IHS"
+                },
+                {
+                    "docCount": 16,
+                    "value": "FASAB"
+                },
+                {
+                    "docCount": 16,
+                    "value": "FRTIB"
+                },
+                {
+                    "docCount": 16,
+                    "value": "NASS"
+                },
+                {
+                    "docCount": 16,
+                    "value": "WAPA"
+                },
+                {
+                    "docCount": 15,
+                    "value": "EIA"
+                },
+                {
+                    "docCount": 15,
+                    "value": "FCA"
+                },
+                {
+                    "docCount": 15,
+                    "value": "FSA"
+                },
+                {
+                    "docCount": 15,
+                    "value": "USC"
+                },
+                {
+                    "docCount": 14,
+                    "value": "ACF"
+                },
+                {
+                    "docCount": 14,
+                    "value": "COE"
+                },
+                {
+                    "docCount": 14,
+                    "value": "CRB"
+                },
+                {
+                    "docCount": 14,
+                    "value": "GEO"
+                },
+                {
+                    "docCount": 14,
+                    "value": "NEIGHBOR"
+                },
+                {
+                    "docCount": 14,
+                    "value": "PRC"
+                },
+                {
+                    "docCount": 13,
+                    "value": "CEQ"
+                },
+                {
+                    "docCount": 13,
+                    "value": "NNSA"
+                },
+                {
+                    "docCount": 13,
+                    "value": "TVA"
+                },
+                {
+                    "docCount": 12,
+                    "value": "COLC"
+                },
+                {
+                    "docCount": 12,
+                    "value": "ICEB"
+                },
+                {
+                    "docCount": 12,
+                    "value": "USAF"
+                },
+                {
+                    "docCount": 11,
+                    "value": "ATBCB"
+                },
+                {
+                    "docCount": 11,
+                    "value": "MSHFRC"
+                },
+                {
+                    "docCount": 10,
+                    "value": "BIA"
+                },
+                {
+                    "docCount": 10,
+                    "value": "FAS"
+                },
+                {
+                    "docCount": 10,
+                    "value": "GAO"
+                },
+                {
+                    "docCount": 10,
+                    "value": "MCC"
+                },
+                {
+                    "docCount": 9,
+                    "value": "COFA"
+                },
+                {
+                    "docCount": 8,
+                    "value": "ATSDR"
+                },
+                {
+                    "docCount": 8,
+                    "value": "CCC"
+                },
+                {
+                    "docCount": 8,
+                    "value": "CITA"
+                },
+                {
+                    "docCount": 8,
+                    "value": "NPS"
+                },
+                {
+                    "docCount": 8,
+                    "value": "OFCCP"
+                },
+                {
+                    "docCount": 8,
+                    "value": "OSTP"
+                },
+                {
+                    "docCount": 7,
+                    "value": "DFC"
+                },
+                {
+                    "docCount": 7,
+                    "value": "FMCS"
+                },
+                {
+                    "docCount": 7,
+                    "value": "JBEA"
+                },
+                {
+                    "docCount": 7,
+                    "value": "NLRB"
+                },
+                {
+                    "docCount": 7,
+                    "value": "SSS"
+                },
+                {
+                    "docCount": 7,
+                    "value": "USCC"
+                },
+                {
+                    "docCount": 6,
+                    "value": "DOC"
+                },
+                {
+                    "docCount": 6,
+                    "value": "FCSIC"
+                },
+                {
+                    "docCount": 6,
+                    "value": "IAF"
+                },
+                {
+                    "docCount": 6,
+                    "value": "MKU"
+                },
+                {
+                    "docCount": 6,
+                    "value": "MSPB"
+                },
+                {
+                    "docCount": 6,
+                    "value": "NTSB"
+                },
+                {
+                    "docCount": 6,
+                    "value": "ONRR"
+                },
+                {
+                    "docCount": 6,
+                    "value": "USAGM"
+                },
+                {
+                    "docCount": 6,
+                    "value": "USSC"
+                },
+                {
+                    "docCount": 5,
+                    "value": "ACUS"
+                },
+                {
+                    "docCount": 5,
+                    "value": "ARS"
+                },
+                {
+                    "docCount": 5,
+                    "value": "DRBC"
+                },
+                {
+                    "docCount": 5,
+                    "value": "FLRA"
+                },
+                {
+                    "docCount": 5,
+                    "value": "USIP"
+                },
+                {
+                    "docCount": 4,
+                    "value": "ATF"
+                },
+                {
+                    "docCount": 4,
+                    "value": "EOIR"
+                },
+                {
+                    "docCount": 4,
+                    "value": "FCIC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "FIRSTNET"
+                },
+                {
+                    "docCount": 4,
+                    "value": "FPPO"
+                },
+                {
+                    "docCount": 4,
+                    "value": "GCERC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "NIST"
+                },
+                {
+                    "docCount": 4,
+                    "value": "NTIA"
+                },
+                {
+                    "docCount": 4,
+                    "value": "ODNI"
+                },
+                {
+                    "docCount": 4,
+                    "value": "USJC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "WHD"
+                },
+                {
+                    "docCount": 3,
+                    "value": "CDFI"
+                },
+                {
+                    "docCount": 3,
+                    "value": "DC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "DNFSB"
+                },
+                {
+                    "docCount": 3,
+                    "value": "HPAC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "HRSA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "NCD"
+                },
+                {
+                    "docCount": 3,
+                    "value": "NWTRB"
+                },
+                {
+                    "docCount": 3,
+                    "value": "PT"
+                },
+                {
+                    "docCount": 3,
+                    "value": "SJI"
+                },
+                {
+                    "docCount": 3,
+                    "value": "SWPA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ABMC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ACL"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ADF"
+                },
+                {
+                    "docCount": 2,
+                    "value": "BOP"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ERS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NIGC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NIH"
+                },
+                {
+                    "docCount": 2,
+                    "value": "OFPP"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ONDCP"
+                },
+                {
+                    "docCount": 2,
+                    "value": "RISC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "SLSDC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "USMINT"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BLS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BPA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CIGIE"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CSB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CSOSA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FBI"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FPAC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FTZB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "GPO"
+                },
+                {
+                    "docCount": 1,
+                    "value": "HHSIG"
+                },
+                {
+                    "docCount": 1,
+                    "value": "IAIA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "LMSO"
+                },
+                {
+                    "docCount": 1,
+                    "value": "LOC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "MBDA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "MMC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NAL"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NIFA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "OJP"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ONCD"
+                },
+                {
+                    "docCount": 1,
+                    "value": "OSHRC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "PBRB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "PCLOB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "SAMHSA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "SS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USDAIG"
+                }
+            ],
+            "commentEndDate": [
+                {
+                    "docCount": 1,
+                    "label": "Next 7 Days",
+                    "fromDate": "2024-10-17 00:00:00",
+                    "toDate": "2024-10-23 23:59:59"
+                },
+                {
+                    "docCount": 1,
+                    "label": "Next 15 Days",
+                    "fromDate": "2024-10-17 00:00:00",
+                    "toDate": "2024-10-31 23:59:59"
+                },
+                {
+                    "docCount": 2,
+                    "label": "Next 30 Days",
+                    "fromDate": "2024-10-17 00:00:00",
+                    "toDate": "2024-11-15 23:59:59"
+                },
+                {
+                    "docCount": 4,
+                    "label": "Next 90 Days",
+                    "fromDate": "2024-10-17 00:00:00",
+                    "toDate": "2025-01-14 23:59:59"
+                }
+            ],
+            "postedDate": [
+                {
+                    "docCount": 1,
+                    "label": "Last 3 Days",
+                    "fromDate": "2024-10-15 00:00:00",
+                    "toDate": "2024-10-17 23:59:59"
+                },
+                {
+                    "docCount": 1,
+                    "label": "Last 7 Days",
+                    "fromDate": "2024-10-11 00:00:00",
+                    "toDate": "2024-10-17 23:59:59"
+                },
+                {
+                    "docCount": 3,
+                    "label": "Last 15 Days",
+                    "fromDate": "2024-10-03 00:00:00",
+                    "toDate": "2024-10-17 23:59:59"
+                },
+                {
+                    "docCount": 6,
+                    "label": "Last 30 Days",
+                    "fromDate": "2024-09-18 00:00:00",
+                    "toDate": "2024-10-17 23:59:59"
+                },
+                {
+                    "docCount": 20,
+                    "label": "Last 90 Days",
+                    "fromDate": "2024-07-20 00:00:00",
+                    "toDate": "2024-10-17 23:59:59"
+                }
+            ]
+        },
+        "filters": {
+            "postedDate": {
+                "fromDate": "2024-01-01",
+                "toDate": "2025-01-01"
+            },
+            "agencyId": [
+                {
+                    "label": "CFTC",
+                    "value": "CFTC"
+                }
+            ]
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "numberOfElements": 76,
+        "pageNumber": 1,
+        "pageSize": 250,
+        "totalElements": 76,
+        "totalPages": 1,
+        "firstPage": true,
+        "lastPage": true
+    }
+}

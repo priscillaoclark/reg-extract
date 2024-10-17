@@ -114,6 +114,7 @@ def summarize_attachments(filename):
     # Get the file extension
     extension = os.path.splitext(filename)[1]
     
+    """
     # Send the file to OpenAI for analysis
     ai_summary = get_ai_summaries(contents)
     if ai_summary:
@@ -122,6 +123,9 @@ def summarize_attachments(filename):
         # Print error message and exit
         print("Error generating AI summaries. Exiting program.")
         exit(1)
+    """
+    ai_summary_short = 'TBD'
+    ai_summary_long = 'TBD'
     
     # Add all fields to dictionary
     output = {
