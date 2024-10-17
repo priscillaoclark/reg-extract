@@ -254,29 +254,6 @@
             }
         },
         {
-            "id": "NCUA-2024-0122-0002",
-            "type": "documents",
-            "attributes": {
-                "documentType": "Notice",
-                "lastModifiedDate": "2024-10-09T01:01:00Z",
-                "highlightedContent": "",
-                "frDocNum": null,
-                "withdrawn": false,
-                "agencyId": "NCUA",
-                "commentEndDate": "2024-11-27T04:59:59Z",
-                "title": "Proposed Merger of Heartland Federal Credit Union located in Omaha, NE with and into Omaha Federal Credit Union located in Omaha, NE.",
-                "postedDate": "2024-09-30T04:00:00Z",
-                "docketId": "NCUA-2024-0122",
-                "subtype": null,
-                "commentStartDate": "2024-09-30T04:00:00Z",
-                "openForComment": true,
-                "objectId": "09000064867a3aa6"
-            },
-            "links": {
-                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0122-0002"
-            }
-        },
-        {
             "id": "NCUA-2024-0122-0001",
             "type": "documents",
             "attributes": {
@@ -320,6 +297,29 @@
             },
             "links": {
                 "self": "https://api.regulations.gov/v4/documents/NCUA-2023-0082-0014"
+            }
+        },
+        {
+            "id": "NCUA-2024-0122-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-09T01:01:00Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": "2024-11-27T04:59:59Z",
+                "title": "Proposed Merger of Heartland Federal Credit Union located in Omaha, NE with and into Omaha Federal Credit Union located in Omaha, NE.",
+                "postedDate": "2024-09-30T04:00:00Z",
+                "docketId": "NCUA-2024-0122",
+                "subtype": null,
+                "commentStartDate": "2024-09-30T04:00:00Z",
+                "openForComment": true,
+                "objectId": "09000064867a3aa6"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0122-0002"
             }
         },
         {
@@ -5788,7 +5788,7 @@
                     "value": "EPA"
                 },
                 {
-                    "docCount": 12281,
+                    "docCount": 12283,
                     "value": "FDA"
                 },
                 {

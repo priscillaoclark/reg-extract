@@ -1,0 +1,2065 @@
+{
+    "data": [
+        {
+            "id": "FHFA-2024-0022-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2024-10-03T12:06:32Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-22865",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": "2024-12-03T04:59:59Z",
+                "title": "Unsecured Credit Limits for Federal Home Loan Banks",
+                "postedDate": "2024-10-03T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-10-03T04:00:00Z",
+                "openForComment": true,
+                "objectId": "09000064867a86ad"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2024-0022-0001"
+            }
+        },
+        {
+            "id": "FHFA-2024-0021-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2024-10-01T11:46:23Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-22393",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": "2024-12-03T04:59:59Z",
+                "title": "Suspended Counterparty Program",
+                "postedDate": "2024-10-01T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-10-01T04:00:00Z",
+                "openForComment": true,
+                "objectId": "09000064867a4328"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2024-0021-0001"
+            }
+        },
+        {
+            "id": "FHFA-2024-0020-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-08-30T12:05:06Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-19575",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": "2024-10-01T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2024-08-30T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-08-30T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064866b57ec"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2024-0020-0001"
+            }
+        },
+        {
+            "id": "FHFA-2024-0019-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2024-08-29T12:02:03Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-19261",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": "2024-10-29T03:59:59Z",
+                "title": "2025-2027 Enterprise Housing Goals",
+                "postedDate": "2024-08-29T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-08-29T04:00:00Z",
+                "openForComment": true,
+                "objectId": "09000064866b3578"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2024-0019-0001"
+            }
+        },
+        {
+            "id": "FHFA-2024-0018-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-08-29T12:01:55Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-19453",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": null,
+                "title": "Hearings, Meetings, Proceedings, etc.: Federal Advisory Committee on Affordable, Equitable, and Sustainable Housing; Postponement",
+                "postedDate": "2024-08-29T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-08-29T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064866b3571"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2024-0018-0001"
+            }
+        },
+        {
+            "id": "FHFA-2024-0017-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2024-08-22T13:12:25Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-18415",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": "2024-10-22T03:59:59Z",
+                "title": "Financial Data Transparency Act Joint Data Standards",
+                "postedDate": "2024-08-22T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-08-22T04:00:00Z",
+                "openForComment": true,
+                "objectId": "090000648665c941"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2024-0017-0001"
+            }
+        },
+        {
+            "id": "FHFA-2024-0016-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-08-14T12:15:06Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-18116",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": null,
+                "title": "Hearings, Meetings, Proceedings, etc.: Federal Advisory Committee on Affordable, Equitable, and Sustainable Housing; Charter Renewal",
+                "postedDate": "2024-08-14T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-08-14T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486643e5b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2024-0016-0001"
+            }
+        },
+        {
+            "id": "FHFA-2024-0015-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-08-13T12:23:15Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-17941",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": "2024-09-13T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2024-08-13T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-08-13T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486639590"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2024-0015-0001"
+            }
+        },
+        {
+            "id": "FHFA-2024-0014-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-08-07T11:51:13Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-16197",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": null,
+                "title": "Quality Control Standards for Automated Valuation Models",
+                "postedDate": "2024-08-07T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-08-07T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486622560"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2024-0014-0001"
+            }
+        },
+        {
+            "id": "FHFA-2024-0013-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-07-31T12:39:55Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-16856",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": "2024-08-31T03:59:59Z",
+                "title": "Privacy Act; Systems of Records",
+                "postedDate": "2024-07-31T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-07-31T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648660fc68"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2024-0013-0001"
+            }
+        },
+        {
+            "id": "FHFA-2024-0011-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-06-25T11:48:13Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-13859",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": "2024-07-26T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2024-06-25T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-06-25T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865c7356"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2024-0011-0001"
+            }
+        },
+        {
+            "id": "FHFA-2024-0012-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-06-25T11:48:36Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-13902",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": "2024-08-27T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2024-06-25T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-06-25T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865c73b7"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2024-0012-0001"
+            }
+        },
+        {
+            "id": "FHFA-2024-0010-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-06-07T12:02:27Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-12506",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": "2024-08-07T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2024-06-07T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-06-07T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648659da27"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2024-0010-0001"
+            }
+        },
+        {
+            "id": "FHFA-2024-0009-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-05-16T12:24:54Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-09559",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": null,
+                "title": "Fair Lending, Fair Housing, and Equitable Housing Finance Plans",
+                "postedDate": "2024-05-16T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-05-16T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486569587"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2024-0009-0001"
+            }
+        },
+        {
+            "id": "FHFA-2024-0008-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-04-22T12:38:59Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-08479",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": "2024-05-23T03:59:59Z",
+                "title": "Freddie Mac Proposed Purchase of Single-Family Closed-End Second Mortgages",
+                "postedDate": "2024-04-22T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-04-22T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864e3f09"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2024-0008-0001"
+            }
+        },
+        {
+            "id": "FHFA-2024-0007-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-03-20T13:12:44Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-05757",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": null,
+                "title": "Order: Reporting by Regulated Entities of Stress Testing Results as of December 31, 2023; Summary Instructions and Guidance",
+                "postedDate": "2024-03-20T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-03-20T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864879ca"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2024-0007-0001"
+            }
+        },
+        {
+            "id": "FHFA-2024-0005-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-02-28T13:04:50Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-04126",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": "2024-04-30T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2024-02-28T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-02-28T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648643667d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2024-0005-0001"
+            }
+        },
+        {
+            "id": "FHFA-2024-0004-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-01-29T13:16:14Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-01682",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": "2024-02-29T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2024-01-29T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-01-29T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064863cdba1"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2024-0004-0001"
+            }
+        },
+        {
+            "id": "FHFA-2024-0003-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-01-19T13:38:42Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-00731",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": null,
+                "title": "Prudential Management and Operations Standards",
+                "postedDate": "2024-01-19T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-01-19T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064863ab6b2"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2024-0003-0001"
+            }
+        },
+        {
+            "id": "FHFA-2024-0002-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-01-18T13:28:42Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-00874",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": null,
+                "title": "Civil Monetary Penalty Inflation Adjustment",
+                "postedDate": "2024-01-18T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-01-18T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064863a77e8"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2024-0002-0001"
+            }
+        },
+        {
+            "id": "FHFA-2024-0001-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-01-12T13:10:15Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-00491",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": null,
+                "title": "Annual Adjustment of the Cap on Average Total Assets that Defines Community Financial Institutions",
+                "postedDate": "2024-01-12T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-01-12T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064863949f6"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2024-0001-0001"
+            }
+        },
+        {
+            "id": "FHFA-2023-0024-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2023-11-30T13:22:39Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-26078",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": null,
+                "title": "Enterprise Regulatory Capital Framework: Commingled Securities, Multifamily Government Subsidy, Derivatives, and Other Enhancements",
+                "postedDate": "2023-11-30T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-11-30T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064862c3145"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2023-0024-0001"
+            }
+        },
+        {
+            "id": "FHFA-2023-0023-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2023-11-17T13:55:40Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-25371",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": "2023-12-19T04:59:59Z",
+                "title": "Privacy Act; Systems of Records",
+                "postedDate": "2023-11-17T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-11-17T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648628ca98"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2023-0023-0001"
+            }
+        },
+        {
+            "id": "FHFA-2023-0022-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2023-11-16T16:45:41Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-25333",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": "2024-01-17T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2023-11-16T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-11-16T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486287885"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2023-0022-0001"
+            }
+        },
+        {
+            "id": "FHFA-2023-0021-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2023-10-19T12:11:12Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-23067",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": "2023-11-21T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2023-10-19T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-10-19T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648610beb6"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2023-0021-0001"
+            }
+        },
+        {
+            "id": "FHFA-2023-0020-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2023-09-26T12:18:34Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-20818",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": "2023-11-28T04:59:59Z",
+                "title": "Exception to Restrictions on Private Transfer Fee Covenants for Loans Meeting Certain Duty to Serve Shared Equity Loan Program Requirements",
+                "postedDate": "2023-09-26T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-09-26T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485ff5720"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2023-0020-0001"
+            }
+        },
+        {
+            "id": "FHFA-2023-0019-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2023-09-25T12:10:55Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-20679",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": "2023-10-26T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2023-09-25T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-09-25T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485fefc00"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2023-0019-0001"
+            }
+        },
+        {
+            "id": "FHFA-2023-0018-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2023-09-13T11:37:53Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-19805",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": null,
+                "title": "Requests for Nominations: Committee on Affordable, Equitable, and Sustainable Housing",
+                "postedDate": "2023-09-13T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-09-13T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485f94483"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2023-0018-0001"
+            }
+        },
+        {
+            "id": "FHFA-2023-0017-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2023-08-08T12:12:16Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-16910",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": "2023-10-11T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2023-08-08T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-08-08T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485dfb760"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2023-0017-0001"
+            }
+        },
+        {
+            "id": "FHFA-2023-0016-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2023-07-21T12:10:54Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-14723",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": "2023-09-20T03:59:59Z",
+                "title": "Suspended Counterparty Program",
+                "postedDate": "2023-07-21T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-07-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485cf8dd1"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2023-0016-0001"
+            }
+        },
+        {
+            "id": "FHFA-2023-0015-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2023-06-21T12:42:04Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-12187",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": "2023-08-22T03:59:59Z",
+                "title": "Quality Control Standards for Automated Valuation Models",
+                "postedDate": "2023-06-21T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-06-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485b91752"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2023-0015-0001"
+            }
+        },
+        {
+            "id": "FHFA-2023-0014-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2023-06-12T12:13:26Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-12445",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": "2023-08-12T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2023-06-12T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-06-12T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485b02bbb"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2023-0014-0001"
+            }
+        },
+        {
+            "id": "FHFA-2023-0013-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2023-06-07T12:16:08Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-12175",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": "2023-07-08T03:59:59Z",
+                "title": "Privacy Act; System of Records",
+                "postedDate": "2023-06-07T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-06-07T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485ad2c2d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2023-0013-0001"
+            }
+        },
+        {
+            "id": "FHFA-2023-0012-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2023-06-01T12:07:57Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-11604",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": "2023-07-04T03:59:59Z",
+                "title": "Prudential Management and Operations Standards; Correction",
+                "postedDate": "2023-06-01T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-06-01T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485a9dfd5"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2023-0012-0001"
+            }
+        },
+        {
+            "id": "FHFA-2023-0011-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2023-05-04T12:15:10Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-09320",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": "2023-07-04T03:59:59Z",
+                "title": "Prudential Management and Operations Standards",
+                "postedDate": "2023-05-04T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-05-04T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064859c9bb8"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2023-0011-0001"
+            }
+        },
+        {
+            "id": "FHFA-2023-0010-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2023-04-26T12:13:58Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-08602",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": "2023-06-27T03:59:59Z",
+                "title": "Fair Lending, Fair Housing, and Equitable Housing Finance Plans",
+                "postedDate": "2023-04-26T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-04-26T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648598ab48"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2023-0010-0001"
+            }
+        },
+        {
+            "id": "FHFA-2023-0009-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2023-04-18T12:18:02Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-08005",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": null,
+                "title": "Enterprise Duty To Serve Underserved Markets: Colonia Census Tract Amendments",
+                "postedDate": "2023-04-18T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-04-18T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485956139"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2023-0009-0001"
+            }
+        },
+        {
+            "id": "FHFA-2023-0008-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2023-04-14T12:12:26Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-07928",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": "2023-06-14T03:59:59Z",
+                "title": "Regulatory Review Plan",
+                "postedDate": "2023-04-14T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-04-14T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485948f36"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2023-0008-0001"
+            }
+        },
+        {
+            "id": "FHFA-2023-0007-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2023-04-14T12:11:53Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-07863",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": "2023-05-16T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: National Survey of Mortgage Originations",
+                "postedDate": "2023-04-14T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-04-14T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485948e62"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2023-0007-0001"
+            }
+        },
+        {
+            "id": "FHFA-2023-0006-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2023-03-13T12:32:30Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-04041",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": "2023-05-13T03:59:59Z",
+                "title": "Enterprise Regulatory Capital Framework--Commingled Securities, Multifamily Government Subsidy, Derivatives, and Other Enhancements",
+                "postedDate": "2023-03-13T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-03-13T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648579b687"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2023-0006-0001"
+            }
+        },
+        {
+            "id": "FHFA-2023-0005-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2023-03-10T13:39:49Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-04980",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": null,
+                "title": "Orders: Reporting by Regulated Entities of Stress Testing Results as of December 31, 2022; Summary Instructions and Guidance",
+                "postedDate": "2023-03-10T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-03-10T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648578c538"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2023-0005-0001"
+            }
+        },
+        {
+            "id": "FHFA-2023-0004-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2023-02-24T13:33:23Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-03805",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": null,
+                "title": "Prior Approval for Enterprise Products",
+                "postedDate": "2023-02-24T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-02-24T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064856fb0f2"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2023-0004-0001"
+            }
+        },
+        {
+            "id": "FHFA-2023-0003-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2023-02-22T21:43:05Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-03603",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": "2023-03-25T03:59:59Z",
+                "title": "Request for Comments: Federal Home Loan Bank Community Support Program",
+                "postedDate": "2023-02-22T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-02-22T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064856ee160"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2023-0003-0001"
+            }
+        },
+        {
+            "id": "FHFA-2023-0002-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2023-02-14T13:32:25Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-03079",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": "2023-03-17T03:59:59Z",
+                "title": "Privacy Act; System of Records",
+                "postedDate": "2023-02-14T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-02-14T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485692ff5"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2023-0002-0001"
+            }
+        },
+        {
+            "id": "FHFA-2023-0001-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2023-01-10T12:42:49Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-00211",
+                "withdrawn": false,
+                "agencyId": "FHFA",
+                "commentEndDate": "2023-02-10T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2023-01-10T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-01-10T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064855d0c2c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FHFA-2023-0001-0001"
+            }
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "documentType": [
+                {
+                    "docCount": 24,
+                    "label": "Notice"
+                },
+                {
+                    "docCount": 12,
+                    "label": "Proposed Rule"
+                },
+                {
+                    "docCount": 9,
+                    "label": "Rule"
+                }
+            ],
+            "subtype": [],
+            "withinCommentPeriod": [
+                {
+                    "docCount": 4,
+                    "label": "true"
+                },
+                {
+                    "docCount": 41,
+                    "label": "false"
+                }
+            ],
+            "agencyId": [
+                {
+                    "docCount": 44875,
+                    "value": "EPA"
+                },
+                {
+                    "docCount": 25410,
+                    "value": "FDA"
+                },
+                {
+                    "docCount": 16189,
+                    "value": "FAA"
+                },
+                {
+                    "docCount": 4399,
+                    "value": "DOT"
+                },
+                {
+                    "docCount": 3336,
+                    "value": "SEC"
+                },
+                {
+                    "docCount": 3088,
+                    "value": "FERC"
+                },
+                {
+                    "docCount": 2687,
+                    "value": "CPSC"
+                },
+                {
+                    "docCount": 2538,
+                    "value": "FMCSA"
+                },
+                {
+                    "docCount": 2118,
+                    "value": "FWS"
+                },
+                {
+                    "docCount": 1886,
+                    "value": "OSHA"
+                },
+                {
+                    "docCount": 1829,
+                    "value": "ITA"
+                },
+                {
+                    "docCount": 1746,
+                    "value": "FRA"
+                },
+                {
+                    "docCount": 1565,
+                    "value": "USCG"
+                },
+                {
+                    "docCount": 1563,
+                    "value": "MSHA"
+                },
+                {
+                    "docCount": 1387,
+                    "value": "MARAD"
+                },
+                {
+                    "docCount": 1267,
+                    "value": "NRC"
+                },
+                {
+                    "docCount": 1119,
+                    "value": "USCIS"
+                },
+                {
+                    "docCount": 1117,
+                    "value": "NOAA"
+                },
+                {
+                    "docCount": 1077,
+                    "value": "USPS"
+                },
+                {
+                    "docCount": 1071,
+                    "value": "PHMSA"
+                },
+                {
+                    "docCount": 1049,
+                    "value": "NHTSA"
+                },
+                {
+                    "docCount": 970,
+                    "value": "FEMA"
+                },
+                {
+                    "docCount": 926,
+                    "value": "FCC"
+                },
+                {
+                    "docCount": 889,
+                    "value": "CMS"
+                },
+                {
+                    "docCount": 831,
+                    "value": "VA"
+                },
+                {
+                    "docCount": 823,
+                    "value": "ED"
+                },
+                {
+                    "docCount": 805,
+                    "value": "ITC"
+                },
+                {
+                    "docCount": 636,
+                    "value": "EERE"
+                },
+                {
+                    "docCount": 629,
+                    "value": "NCUA"
+                },
+                {
+                    "docCount": 614,
+                    "value": "DOS"
+                },
+                {
+                    "docCount": 608,
+                    "value": "HUD"
+                },
+                {
+                    "docCount": 602,
+                    "value": "FRS"
+                },
+                {
+                    "docCount": 524,
+                    "value": "DOE"
+                },
+                {
+                    "docCount": 477,
+                    "value": "CRC"
+                },
+                {
+                    "docCount": 445,
+                    "value": "DOD"
+                },
+                {
+                    "docCount": 421,
+                    "value": "APHIS"
+                },
+                {
+                    "docCount": 400,
+                    "value": "OFAC"
+                },
+                {
+                    "docCount": 375,
+                    "value": "NARA"
+                },
+                {
+                    "docCount": 355,
+                    "value": "DOL"
+                },
+                {
+                    "docCount": 353,
+                    "value": "USDA"
+                },
+                {
+                    "docCount": 340,
+                    "value": "NSF"
+                },
+                {
+                    "docCount": 338,
+                    "value": "DEA"
+                },
+                {
+                    "docCount": 296,
+                    "value": "STB"
+                },
+                {
+                    "docCount": 280,
+                    "value": "FHWA"
+                },
+                {
+                    "docCount": 267,
+                    "value": "IRS"
+                },
+                {
+                    "docCount": 265,
+                    "value": "BOEM"
+                },
+                {
+                    "docCount": 265,
+                    "value": "CDC"
+                },
+                {
+                    "docCount": 252,
+                    "value": "AMS"
+                },
+                {
+                    "docCount": 246,
+                    "value": "FS"
+                },
+                {
+                    "docCount": 227,
+                    "value": "GSA"
+                },
+                {
+                    "docCount": 226,
+                    "value": "USCBP"
+                },
+                {
+                    "docCount": 219,
+                    "value": "FTC"
+                },
+                {
+                    "docCount": 198,
+                    "value": "HHS"
+                },
+                {
+                    "docCount": 197,
+                    "value": "OPM"
+                },
+                {
+                    "docCount": 196,
+                    "value": "CFPB"
+                },
+                {
+                    "docCount": 194,
+                    "value": "CFTC"
+                },
+                {
+                    "docCount": 190,
+                    "value": "FDIC"
+                },
+                {
+                    "docCount": 184,
+                    "value": "PTO"
+                },
+                {
+                    "docCount": 181,
+                    "value": "NASA"
+                },
+                {
+                    "docCount": 180,
+                    "value": "CPPBSD"
+                },
+                {
+                    "docCount": 178,
+                    "value": "FMC"
+                },
+                {
+                    "docCount": 171,
+                    "value": "DARS"
+                },
+                {
+                    "docCount": 171,
+                    "value": "FTA"
+                },
+                {
+                    "docCount": 156,
+                    "value": "ARTS"
+                },
+                {
+                    "docCount": 149,
+                    "value": "CNCS"
+                },
+                {
+                    "docCount": 140,
+                    "value": "FAR"
+                },
+                {
+                    "docCount": 137,
+                    "value": "BSC"
+                },
+                {
+                    "docCount": 133,
+                    "value": "FEC"
+                },
+                {
+                    "docCount": 127,
+                    "value": "FNS"
+                },
+                {
+                    "docCount": 116,
+                    "value": "DHS"
+                },
+                {
+                    "docCount": 108,
+                    "value": "OCC"
+                },
+                {
+                    "docCount": 106,
+                    "value": "SSA"
+                },
+                {
+                    "docCount": 105,
+                    "value": "CISA"
+                },
+                {
+                    "docCount": 105,
+                    "value": "FSIS"
+                },
+                {
+                    "docCount": 104,
+                    "value": "BIS"
+                },
+                {
+                    "docCount": 89,
+                    "value": "EBSA"
+                },
+                {
+                    "docCount": 87,
+                    "value": "AID"
+                },
+                {
+                    "docCount": 87,
+                    "value": "USTR"
+                },
+                {
+                    "docCount": 86,
+                    "value": "OSM"
+                },
+                {
+                    "docCount": 83,
+                    "value": "OMB"
+                },
+                {
+                    "docCount": 80,
+                    "value": "TSA"
+                },
+                {
+                    "docCount": 80,
+                    "value": "TTB"
+                },
+                {
+                    "docCount": 76,
+                    "value": "EIB"
+                },
+                {
+                    "docCount": 75,
+                    "value": "RHS"
+                },
+                {
+                    "docCount": 73,
+                    "value": "RUS"
+                },
+                {
+                    "docCount": 73,
+                    "value": "SRBC"
+                },
+                {
+                    "docCount": 71,
+                    "value": "WCPO"
+                },
+                {
+                    "docCount": 68,
+                    "value": "RBS"
+                },
+                {
+                    "docCount": 68,
+                    "value": "USN"
+                },
+                {
+                    "docCount": 66,
+                    "value": "COE"
+                },
+                {
+                    "docCount": 63,
+                    "value": "TREAS"
+                },
+                {
+                    "docCount": 61,
+                    "value": "PBGC"
+                },
+                {
+                    "docCount": 60,
+                    "value": "FINCEN"
+                },
+                {
+                    "docCount": 58,
+                    "value": "NRCS"
+                },
+                {
+                    "docCount": 58,
+                    "value": "SBA"
+                },
+                {
+                    "docCount": 57,
+                    "value": "BLM"
+                },
+                {
+                    "docCount": 57,
+                    "value": "EAC"
+                },
+                {
+                    "docCount": 55,
+                    "value": "IHS"
+                },
+                {
+                    "docCount": 53,
+                    "value": "USA"
+                },
+                {
+                    "docCount": 50,
+                    "value": "FISCAL"
+                },
+                {
+                    "docCount": 48,
+                    "value": "DOI"
+                },
+                {
+                    "docCount": 46,
+                    "value": "BSEE"
+                },
+                {
+                    "docCount": 46,
+                    "value": "LSC"
+                },
+                {
+                    "docCount": 46,
+                    "value": "USBC"
+                },
+                {
+                    "docCount": 45,
+                    "value": "FHFA"
+                },
+                {
+                    "docCount": 44,
+                    "value": "TVA"
+                },
+                {
+                    "docCount": 43,
+                    "value": "DOJ"
+                },
+                {
+                    "docCount": 43,
+                    "value": "ICEB"
+                },
+                {
+                    "docCount": 42,
+                    "value": "RRB"
+                },
+                {
+                    "docCount": 41,
+                    "value": "FSA"
+                },
+                {
+                    "docCount": 39,
+                    "value": "ASC"
+                },
+                {
+                    "docCount": 37,
+                    "value": "CRB"
+                },
+                {
+                    "docCount": 37,
+                    "value": "EEOC"
+                },
+                {
+                    "docCount": 35,
+                    "value": "COLC"
+                },
+                {
+                    "docCount": 35,
+                    "value": "PRC"
+                },
+                {
+                    "docCount": 34,
+                    "value": "ACF"
+                },
+                {
+                    "docCount": 34,
+                    "value": "ETA"
+                },
+                {
+                    "docCount": 34,
+                    "value": "FASAB"
+                },
+                {
+                    "docCount": 34,
+                    "value": "FCA"
+                },
+                {
+                    "docCount": 34,
+                    "value": "WAPA"
+                },
+                {
+                    "docCount": 33,
+                    "value": "FRTIB"
+                },
+                {
+                    "docCount": 33,
+                    "value": "USC"
+                },
+                {
+                    "docCount": 31,
+                    "value": "CEQ"
+                },
+                {
+                    "docCount": 31,
+                    "value": "USAF"
+                },
+                {
+                    "docCount": 30,
+                    "value": "NASS"
+                },
+                {
+                    "docCount": 29,
+                    "value": "FAS"
+                },
+                {
+                    "docCount": 28,
+                    "value": "PC"
+                },
+                {
+                    "docCount": 27,
+                    "value": "NEIGHBOR"
+                },
+                {
+                    "docCount": 27,
+                    "value": "NLRB"
+                },
+                {
+                    "docCount": 27,
+                    "value": "OSTP"
+                },
+                {
+                    "docCount": 25,
+                    "value": "BIA"
+                },
+                {
+                    "docCount": 25,
+                    "value": "EIA"
+                },
+                {
+                    "docCount": 25,
+                    "value": "GEO"
+                },
+                {
+                    "docCount": 24,
+                    "value": "ATSDR"
+                },
+                {
+                    "docCount": 23,
+                    "value": "MSHFRC"
+                },
+                {
+                    "docCount": 23,
+                    "value": "NNSA"
+                },
+                {
+                    "docCount": 23,
+                    "value": "NTSB"
+                },
+                {
+                    "docCount": 22,
+                    "value": "NIGC"
+                },
+                {
+                    "docCount": 22,
+                    "value": "NPS"
+                },
+                {
+                    "docCount": 21,
+                    "value": "ATBCB"
+                },
+                {
+                    "docCount": 21,
+                    "value": "ONRR"
+                },
+                {
+                    "docCount": 20,
+                    "value": "FLRA"
+                },
+                {
+                    "docCount": 19,
+                    "value": "MCC"
+                },
+                {
+                    "docCount": 18,
+                    "value": "DOC"
+                },
+                {
+                    "docCount": 18,
+                    "value": "FMCS"
+                },
+                {
+                    "docCount": 18,
+                    "value": "GAO"
+                },
+                {
+                    "docCount": 18,
+                    "value": "IAF"
+                },
+                {
+                    "docCount": 17,
+                    "value": "COFA"
+                },
+                {
+                    "docCount": 17,
+                    "value": "OFCCP"
+                },
+                {
+                    "docCount": 16,
+                    "value": "MSPB"
+                },
+                {
+                    "docCount": 16,
+                    "value": "NIST"
+                },
+                {
+                    "docCount": 16,
+                    "value": "NTIA"
+                },
+                {
+                    "docCount": 16,
+                    "value": "USCC"
+                },
+                {
+                    "docCount": 14,
+                    "value": "DFC"
+                },
+                {
+                    "docCount": 14,
+                    "value": "FCIC"
+                },
+                {
+                    "docCount": 14,
+                    "value": "SSS"
+                },
+                {
+                    "docCount": 14,
+                    "value": "USJC"
+                },
+                {
+                    "docCount": 14,
+                    "value": "USSC"
+                },
+                {
+                    "docCount": 14,
+                    "value": "WHD"
+                },
+                {
+                    "docCount": 13,
+                    "value": "CCC"
+                },
+                {
+                    "docCount": 13,
+                    "value": "DRBC"
+                },
+                {
+                    "docCount": 13,
+                    "value": "FSOC"
+                },
+                {
+                    "docCount": 12,
+                    "value": "DNFSB"
+                },
+                {
+                    "docCount": 12,
+                    "value": "FCSIC"
+                },
+                {
+                    "docCount": 12,
+                    "value": "JBEA"
+                },
+                {
+                    "docCount": 11,
+                    "value": "CSB"
+                },
+                {
+                    "docCount": 10,
+                    "value": "ACUS"
+                },
+                {
+                    "docCount": 10,
+                    "value": "AHRQ"
+                },
+                {
+                    "docCount": 10,
+                    "value": "CITA"
+                },
+                {
+                    "docCount": 10,
+                    "value": "MKU"
+                },
+                {
+                    "docCount": 10,
+                    "value": "ODNI"
+                },
+                {
+                    "docCount": 9,
+                    "value": "EOIR"
+                },
+                {
+                    "docCount": 9,
+                    "value": "SWPA"
+                },
+                {
+                    "docCount": 9,
+                    "value": "USAGM"
+                },
+                {
+                    "docCount": 9,
+                    "value": "USIP"
+                },
+                {
+                    "docCount": 8,
+                    "value": "FIRSTNET"
+                },
+                {
+                    "docCount": 8,
+                    "value": "SJI"
+                },
+                {
+                    "docCount": 8,
+                    "value": "SLSDC"
+                },
+                {
+                    "docCount": 7,
+                    "value": "ATF"
+                },
+                {
+                    "docCount": 7,
+                    "value": "NCD"
+                },
+                {
+                    "docCount": 7,
+                    "value": "NIFA"
+                },
+                {
+                    "docCount": 6,
+                    "value": "ADF"
+                },
+                {
+                    "docCount": 6,
+                    "value": "BOP"
+                },
+                {
+                    "docCount": 6,
+                    "value": "GCERC"
+                },
+                {
+                    "docCount": 6,
+                    "value": "HHSIG"
+                },
+                {
+                    "docCount": 6,
+                    "value": "HPAC"
+                },
+                {
+                    "docCount": 6,
+                    "value": "NWTRB"
+                },
+                {
+                    "docCount": 5,
+                    "value": "ARS"
+                },
+                {
+                    "docCount": 5,
+                    "value": "FPPO"
+                },
+                {
+                    "docCount": 5,
+                    "value": "NIH"
+                },
+                {
+                    "docCount": 5,
+                    "value": "RITA"
+                },
+                {
+                    "docCount": 4,
+                    "value": "ACL"
+                },
+                {
+                    "docCount": 4,
+                    "value": "BPA"
+                },
+                {
+                    "docCount": 4,
+                    "value": "CDFI"
+                },
+                {
+                    "docCount": 4,
+                    "value": "DC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "GAPFAC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "GPO"
+                },
+                {
+                    "docCount": 4,
+                    "value": "ONCD"
+                },
+                {
+                    "docCount": 4,
+                    "value": "RISC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "ERS"
+                },
+                {
+                    "docCount": 3,
+                    "value": "HRSA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "MMC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "OFPP"
+                },
+                {
+                    "docCount": 3,
+                    "value": "OFR"
+                },
+                {
+                    "docCount": 3,
+                    "value": "OSHRC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "PT"
+                },
+                {
+                    "docCount": 3,
+                    "value": "RMA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "SS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ABMC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "BOR"
+                },
+                {
+                    "docCount": 2,
+                    "value": "CIA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "CIGIE"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FBI"
+                },
+                {
+                    "docCount": 2,
+                    "value": "IPEC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "LMSO"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NAL"
+                },
+                {
+                    "docCount": 2,
+                    "value": "OJP"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ONDCP"
+                },
+                {
+                    "docCount": 2,
+                    "value": "PBRB"
+                },
+                {
+                    "docCount": 2,
+                    "value": "SAMHSA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "USMINT"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BLS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CSOSA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FPAC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FR"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FTZB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "IAIA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "LOC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "MBDA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NMB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "PCLOB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USDAIG"
+                }
+            ],
+            "commentEndDate": [
+                {
+                    "docCount": 1,
+                    "label": "Next 7 Days",
+                    "fromDate": "2024-10-17 00:00:00",
+                    "toDate": "2024-10-23 23:59:59"
+                },
+                {
+                    "docCount": 2,
+                    "label": "Next 15 Days",
+                    "fromDate": "2024-10-17 00:00:00",
+                    "toDate": "2024-10-31 23:59:59"
+                },
+                {
+                    "docCount": 2,
+                    "label": "Next 30 Days",
+                    "fromDate": "2024-10-17 00:00:00",
+                    "toDate": "2024-11-15 23:59:59"
+                },
+                {
+                    "docCount": 4,
+                    "label": "Next 90 Days",
+                    "fromDate": "2024-10-17 00:00:00",
+                    "toDate": "2025-01-14 23:59:59"
+                }
+            ],
+            "postedDate": [
+                {
+                    "docCount": 1,
+                    "label": "Last 15 Days",
+                    "fromDate": "2024-10-03 00:00:00",
+                    "toDate": "2024-10-17 23:59:59"
+                },
+                {
+                    "docCount": 2,
+                    "label": "Last 30 Days",
+                    "fromDate": "2024-09-18 00:00:00",
+                    "toDate": "2024-10-17 23:59:59"
+                },
+                {
+                    "docCount": 10,
+                    "label": "Last 90 Days",
+                    "fromDate": "2024-07-20 00:00:00",
+                    "toDate": "2024-10-17 23:59:59"
+                }
+            ]
+        },
+        "filters": {
+            "postedDate": {
+                "fromDate": "2023-01-01",
+                "toDate": "2025-01-01"
+            },
+            "agencyId": [
+                {
+                    "label": "FHFA",
+                    "value": "FHFA"
+                }
+            ]
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "numberOfElements": 45,
+        "pageNumber": 1,
+        "pageSize": 250,
+        "totalElements": 45,
+        "totalPages": 1,
+        "firstPage": true,
+        "lastPage": true
+    }
+}

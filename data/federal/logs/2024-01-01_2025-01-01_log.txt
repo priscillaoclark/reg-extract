@@ -142,3 +142,99 @@ SEC: 250
 ---
 TREAS: 31
 ---
+CCC: 8
+---
+CDFI: 3
+---
+CDFIF: 0
+---
+CFPB: 85
+---
+CFTC: 76
+---
+EIB: 41
+---
+FDIC: 90
+---
+FFIEC: 0
+---
+FHFA: 21
+---
+FHFB: 0
+---
+FINCEN: 34
+---
+FINCIC: 0
+---
+FLRA: 5
+---
+FRS: 250
+---
+FSOC: 0
+---
+ISOO: 0
+---
+NCUA: 250
+---
+NLRB: 7
+---
+OCC: 76
+---
+OFAC: 184
+---
+OFHEO: 0
+---
+RMA: 0
+---
+SEC: 250
+---
+TREAS: 31
+---
+CCC: 8
+---
+CDFI: 3
+---
+CDFIF: 0
+---
+CFPB: 85
+---
+CFTC: 76
+---
+EIB: 41
+---
+FDIC: 90
+---
+FFIEC: 0
+---
+FHFA: 21
+---
+FHFB: 0
+---
+FINCEN: 34
+---
+FINCIC: 0
+---
+FLRA: 5
+---
+FRS: 250
+---
+FSOC: 0
+---
+ISOO: 0
+---
+NCUA: 250
+---
+NLRB: 7
+---
+OCC: 76
+---
+OFAC: 184
+---
+OFHEO: 0
+---
+RMA: 0
+---
+SEC: 250
+---
+TREAS: 31
+---

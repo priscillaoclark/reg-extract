@@ -162,6 +162,29 @@
             }
         },
         {
+            "id": "OFAC_FRDOC_0001-1970",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-07T12:07:10Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-23043",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-10-07T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-10-07T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867b683b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1970"
+            }
+        },
+        {
             "id": "OFAC_FRDOC_0001-1969",
             "type": "documents",
             "attributes": {
@@ -205,29 +228,6 @@
             },
             "links": {
                 "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1968"
-            }
-        },
-        {
-            "id": "OFAC_FRDOC_0001-1970",
-            "type": "documents",
-            "attributes": {
-                "documentType": "Notice",
-                "lastModifiedDate": "2024-10-07T12:07:10Z",
-                "highlightedContent": "",
-                "frDocNum": "2024-23043",
-                "withdrawn": false,
-                "agencyId": "OFAC",
-                "commentEndDate": null,
-                "title": "Sanctions Action",
-                "postedDate": "2024-10-07T04:00:00Z",
-                "docketId": "OFAC_FRDOC_0001",
-                "subtype": null,
-                "commentStartDate": "2024-10-07T04:00:00Z",
-                "openForComment": false,
-                "objectId": "09000064867b683b"
-            },
-            "links": {
-                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1970"
             }
         },
         {
@@ -277,29 +277,6 @@
             }
         },
         {
-            "id": "OFAC_FRDOC_0001-1964",
-            "type": "documents",
-            "attributes": {
-                "documentType": "Rule",
-                "lastModifiedDate": "2024-10-04T11:53:53Z",
-                "highlightedContent": "",
-                "frDocNum": "2024-22936",
-                "withdrawn": false,
-                "agencyId": "OFAC",
-                "commentEndDate": null,
-                "title": "Russian Harmful Foreign Activities Sanctions Regulations Web General License 76A",
-                "postedDate": "2024-10-04T04:00:00Z",
-                "docketId": "OFAC_FRDOC_0001",
-                "subtype": null,
-                "commentStartDate": "2024-10-04T04:00:00Z",
-                "openForComment": false,
-                "objectId": "09000064867abbbb"
-            },
-            "links": {
-                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1964"
-            }
-        },
-        {
             "id": "OFAC_FRDOC_0001-1963",
             "type": "documents",
             "attributes": {
@@ -320,6 +297,29 @@
             },
             "links": {
                 "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1963"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1964",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-10-04T11:53:53Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-22936",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Russian Harmful Foreign Activities Sanctions Regulations Web General License 76A",
+                "postedDate": "2024-10-04T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-10-04T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867abbbb"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1964"
             }
         },
         {
@@ -4262,7 +4262,7 @@
                     "value": "EPA"
                 },
                 {
-                    "docCount": 12281,
+                    "docCount": 12283,
                     "value": "FDA"
                 },
                 {

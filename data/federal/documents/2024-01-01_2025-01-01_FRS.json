@@ -185,29 +185,6 @@
             }
         },
         {
-            "id": "FRS-2024-0268-0001",
-            "type": "documents",
-            "attributes": {
-                "documentType": "Notice",
-                "lastModifiedDate": "2024-10-11T11:36:45Z",
-                "highlightedContent": "",
-                "frDocNum": "2024-23510",
-                "withdrawn": false,
-                "agencyId": "FRS",
-                "commentEndDate": null,
-                "title": "Proposals to Engage in or to Acquire Companies Engaged in Permissible Nonbanking Activities",
-                "postedDate": "2024-10-11T04:00:00Z",
-                "docketId": null,
-                "subtype": null,
-                "commentStartDate": "2024-10-11T04:00:00Z",
-                "openForComment": false,
-                "objectId": "09000064867c96f6"
-            },
-            "links": {
-                "self": "https://api.regulations.gov/v4/documents/FRS-2024-0268-0001"
-            }
-        },
-        {
             "id": "FRS-2024-0267-0001",
             "type": "documents",
             "attributes": {
@@ -228,6 +205,29 @@
             },
             "links": {
                 "self": "https://api.regulations.gov/v4/documents/FRS-2024-0267-0001"
+            }
+        },
+        {
+            "id": "FRS-2024-0268-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-11T11:36:45Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-23510",
+                "withdrawn": false,
+                "agencyId": "FRS",
+                "commentEndDate": null,
+                "title": "Proposals to Engage in or to Acquire Companies Engaged in Permissible Nonbanking Activities",
+                "postedDate": "2024-10-11T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-10-11T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867c96f6"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FRS-2024-0268-0001"
             }
         },
         {
@@ -5784,7 +5784,7 @@
                     "value": "EPA"
                 },
                 {
-                    "docCount": 12281,
+                    "docCount": 12283,
                     "value": "FDA"
                 },
                 {

@@ -81,7 +81,7 @@ def load_json_to_mongodb(json_data, collection):
 
 def extract_federal_history():
     # Date range for search
-    startDate = '2024-01-01'
+    startDate = '2023-01-01'
     endDate = '2025-01-01'
     search_term = None
     document_id = None
@@ -146,18 +146,18 @@ def extract_federal_history():
                     for doc_id in document_ids:
                         if doc_id in loaded_ids:
                             print(f"Document {doc_id} already exists - skipping attachment download.")
-                    else:
-                        details = get_document_details(doc_id)
-                        if details:
-                            if details['data']['attributes'] and 'fileFormats' in details['data']['attributes']:
-                                for attachment in details['data']['attributes']['fileFormats']:
-                                    if attachment['fileUrl'].endswith('.htm'):
-                                        print(f"Downloading attachment for {doc_id}...")
-                                        response = requests.get(attachment['fileUrl'])
-                                        with open(f"data/federal/attachments/{doc_id}.htm", 'wb') as f:
-                                            f.write(response.content)
                         else:
-                            print(f"No fileFormats found for {doc_id}")
+                            details = get_document_details(doc_id)
+                            if details:
+                                if details['data']['attributes'] and 'fileFormats' in details['data']['attributes']:
+                                    for attachment in details['data']['attributes']['fileFormats']:
+                                        if attachment['fileUrl'].endswith('.htm'):
+                                            print(f"Downloading attachment for {doc_id}...")
+                                            response = requests.get(attachment['fileUrl'])
+                                            with open(f"data/federal/attachments/{doc_id}.htm", 'wb') as f:
+                                                f.write(response.content)
+                                else:
+                                    print(f"No fileFormats found for {doc_id}")
                 except Exception as e:
                     print(f"Error downloading attachments for {agency_id}: {e}")
                 
