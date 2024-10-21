@@ -23,17 +23,17 @@ def folder_to_ai(path):
             for i in range(count):
                 page = reader.pages[i]
                 output.append(page.extract_text())
-                combined = ','.join(output)
-                try:
-                    ai_summary = get_ai_summaries(combined)
-                    ai_summary_short, ai_summary_long = ai_summary
-                
-                    # Add the file name and summaries to the dictionary
-                    ai_summaries['file_name'].append(file)
-                    ai_summaries['short_summary'].append(ai_summary_short)
-                    ai_summaries['long_summary'].append(ai_summary_long)
-                except Exception as e:
-                    print(f"Error generating AI summaries for {file}: {e}")
+            combined = ','.join(output)
+            try:
+                ai_summary = get_ai_summaries(combined)
+                ai_summary_short, ai_summary_long = ai_summary
+            
+                # Add the file name and summaries to the dictionary
+                ai_summaries['file_name'].append(file)
+                ai_summaries['short_summary'].append(ai_summary_short)
+                ai_summaries['long_summary'].append(ai_summary_long)
+            except Exception as e:
+                print(f"Error generating AI summaries for {file}: {e}")
         except Exception as e:
             print(f"Error reading file {file}: {e}")
             
