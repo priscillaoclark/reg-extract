@@ -41,9 +41,14 @@ def summarize_with_assistant(assistant_id, text_to_summarize, api_key):
 def get_ai_summaries(data):
         assistant_id = "asst_NbCGwXBaXWbRQr683B9fT0H3"
         
+        # Clear existing environment variables
+        for key in list(os.environ.keys()):
+            if key.startswith("OPENAI"):
+                del os.environ[key]
+                
         # Get the API key from the .env file
         load_dotenv()
-        #OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+        OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
         
         # Remove any HTML tags
         data = re.sub(r'<[^>]*>', '', data)

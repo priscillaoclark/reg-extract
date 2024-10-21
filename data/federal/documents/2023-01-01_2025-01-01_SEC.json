@@ -1,6 +1,282 @@
 {
     "data": [
         {
+            "id": "SEC-2024-1480-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-21T12:29:08Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-24217",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "commentEndDate": null,
+                "title": "Application: 5C Lending Partners Corp., et al.",
+                "postedDate": "2024-10-21T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-10-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867db58c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1480-0001"
+            }
+        },
+        {
+            "id": "SEC-2024-1486-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-21T12:29:56Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-24201",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "commentEndDate": null,
+                "title": "Self-Regulatory Organizations; Proposed Rule Changes: New York Stock Exchange, LLC",
+                "postedDate": "2024-10-21T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-10-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867db662"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1486-0001"
+            }
+        },
+        {
+            "id": "SEC-2024-1487-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-21T12:30:13Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-24205",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "commentEndDate": null,
+                "title": "Self-Regulatory Organizations; Proposed Rule Changes: Fixed Income Clearing Corp.",
+                "postedDate": "2024-10-21T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-10-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867db6b9"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1487-0001"
+            }
+        },
+        {
+            "id": "SEC-2024-1488-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-21T12:30:19Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-24209",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "commentEndDate": null,
+                "title": "Self-Regulatory Organizations; Proposed Rule Changes: Nasdaq ISE, LLC",
+                "postedDate": "2024-10-21T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-10-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867db6bd"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1488-0001"
+            }
+        },
+        {
+            "id": "SEC-2024-1479-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-21T12:29:02Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-24207",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "commentEndDate": null,
+                "title": "Self-Regulatory Organizations; Proposed Rule Changes: Depository Trust Co.",
+                "postedDate": "2024-10-21T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-10-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867db589"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1479-0001"
+            }
+        },
+        {
+            "id": "SEC-2024-1481-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-21T12:29:09Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-24206",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "commentEndDate": null,
+                "title": "Self-Regulatory Organizations; Proposed Rule Changes: MIAX Pearl, LLC",
+                "postedDate": "2024-10-21T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-10-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867db58d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1481-0001"
+            }
+        },
+        {
+            "id": "SEC-2024-1489-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-21T12:30:35Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-24208",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "commentEndDate": null,
+                "title": "Self-Regulatory Organizations; Proposed Rule Changes: Fixed Income Clearing Corp.",
+                "postedDate": "2024-10-21T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-10-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867db755"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1489-0001"
+            }
+        },
+        {
+            "id": "SEC-2024-1484-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-21T12:29:34Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-24204",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "commentEndDate": null,
+                "title": "Self-Regulatory Organizations; Proposed Rule Changes: MEMX, LLC",
+                "postedDate": "2024-10-21T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-10-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867db620"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1484-0001"
+            }
+        },
+        {
+            "id": "SEC-2024-1483-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-21T12:29:11Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-24401",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "commentEndDate": null,
+                "title": "Meetings; Sunshine Act",
+                "postedDate": "2024-10-21T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-10-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867db5d5"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1483-0001"
+            }
+        },
+        {
+            "id": "SEC-2024-1485-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-21T12:29:44Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-24202",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "commentEndDate": null,
+                "title": "Self-Regulatory Organizations; Proposed Rule Changes: Financial Industry Regulatory Authority, Inc.",
+                "postedDate": "2024-10-21T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-10-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867db625"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1485-0001"
+            }
+        },
+        {
+            "id": "SEC-2024-1482-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-21T12:29:10Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-24203",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "commentEndDate": null,
+                "title": "Self-Regulatory Organizations; Proposed Rule Changes: National Securities Clearing Corp.",
+                "postedDate": "2024-10-21T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-10-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867db5d4"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1482-0001"
+            }
+        },
+        {
+            "id": "SEC-2015-0952-0005",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-18T12:13:32Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-24132",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "commentEndDate": null,
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2024-10-18T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-10-18T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867d73b2"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2015-0952-0005"
+            }
+        },
+        {
             "id": "SEC-2024-1469-0001",
             "type": "documents",
             "attributes": {
@@ -5473,289 +5749,13 @@
             "links": {
                 "self": "https://api.regulations.gov/v4/documents/SEC-2024-1264-0001"
             }
-        },
-        {
-            "id": "SEC-2024-1261-0001",
-            "type": "documents",
-            "attributes": {
-                "documentType": "Notice",
-                "lastModifiedDate": "2024-09-10T12:17:18Z",
-                "highlightedContent": "",
-                "frDocNum": "2024-20325",
-                "withdrawn": false,
-                "agencyId": "SEC",
-                "commentEndDate": null,
-                "title": "Self-Regulatory Organizations; Proposed Rule Changes: Cboe C2 Exchange, Inc.; Cboe Exchange, Inc.; Cboe BYX Exchange, Inc., et al.",
-                "postedDate": "2024-09-10T04:00:00Z",
-                "docketId": null,
-                "subtype": null,
-                "commentStartDate": "2024-09-10T04:00:00Z",
-                "openForComment": false,
-                "objectId": "09000064866e0a56"
-            },
-            "links": {
-                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1261-0001"
-            }
-        },
-        {
-            "id": "SEC-2024-1266-0001",
-            "type": "documents",
-            "attributes": {
-                "documentType": "Notice",
-                "lastModifiedDate": "2024-09-10T12:19:09Z",
-                "highlightedContent": "",
-                "frDocNum": "2024-20327",
-                "withdrawn": false,
-                "agencyId": "SEC",
-                "commentEndDate": null,
-                "title": "Self-Regulatory Organizations; Proposed Rule Changes: Investors' Exchange LLC",
-                "postedDate": "2024-09-10T04:00:00Z",
-                "docketId": null,
-                "subtype": null,
-                "commentStartDate": "2024-09-10T04:00:00Z",
-                "openForComment": false,
-                "objectId": "09000064866e0c4c"
-            },
-            "links": {
-                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1266-0001"
-            }
-        },
-        {
-            "id": "SEC-2024-1267-0001",
-            "type": "documents",
-            "attributes": {
-                "documentType": "Notice",
-                "lastModifiedDate": "2024-09-10T12:19:28Z",
-                "highlightedContent": "",
-                "frDocNum": "2024-20324",
-                "withdrawn": false,
-                "agencyId": "SEC",
-                "commentEndDate": null,
-                "title": "Self-RegulatoryOrganizations; Proposed Rule Changes: BOX Exchange, LLC;",
-                "postedDate": "2024-09-10T04:00:00Z",
-                "docketId": null,
-                "subtype": null,
-                "commentStartDate": "2024-09-10T04:00:00Z",
-                "openForComment": false,
-                "objectId": "09000064866e0ca8"
-            },
-            "links": {
-                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1267-0001"
-            }
-        },
-        {
-            "id": "SEC-2021-1479-0002",
-            "type": "documents",
-            "attributes": {
-                "documentType": "Notice",
-                "lastModifiedDate": "2024-09-09T12:36:58Z",
-                "highlightedContent": "",
-                "frDocNum": "2024-20200",
-                "withdrawn": false,
-                "agencyId": "SEC",
-                "commentEndDate": null,
-                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
-                "postedDate": "2024-09-09T04:00:00Z",
-                "docketId": null,
-                "subtype": null,
-                "commentStartDate": "2024-09-09T04:00:00Z",
-                "openForComment": false,
-                "objectId": "09000064866cf759"
-            },
-            "links": {
-                "self": "https://api.regulations.gov/v4/documents/SEC-2021-1479-0002"
-            }
-        },
-        {
-            "id": "SEC-2024-1251-0001",
-            "type": "documents",
-            "attributes": {
-                "documentType": "Notice",
-                "lastModifiedDate": "2024-09-09T12:37:44Z",
-                "highlightedContent": "",
-                "frDocNum": "2024-20170",
-                "withdrawn": false,
-                "agencyId": "SEC",
-                "commentEndDate": null,
-                "title": "Self-Regulatory Organizations; Proposed Rule Changes: National Securities Clearing Corp.",
-                "postedDate": "2024-09-09T04:00:00Z",
-                "docketId": null,
-                "subtype": null,
-                "commentStartDate": "2024-09-09T04:00:00Z",
-                "openForComment": false,
-                "objectId": "09000064866cf7d8"
-            },
-            "links": {
-                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1251-0001"
-            }
-        },
-        {
-            "id": "SEC-2021-0893-0003",
-            "type": "documents",
-            "attributes": {
-                "documentType": "Notice",
-                "lastModifiedDate": "2024-09-09T12:38:27Z",
-                "highlightedContent": "",
-                "frDocNum": "2024-20199",
-                "withdrawn": false,
-                "agencyId": "SEC",
-                "commentEndDate": null,
-                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
-                "postedDate": "2024-09-09T04:00:00Z",
-                "docketId": null,
-                "subtype": null,
-                "commentStartDate": "2024-09-09T04:00:00Z",
-                "openForComment": false,
-                "objectId": "09000064866cf897"
-            },
-            "links": {
-                "self": "https://api.regulations.gov/v4/documents/SEC-2021-0893-0003"
-            }
-        },
-        {
-            "id": "SEC-2024-1252-0001",
-            "type": "documents",
-            "attributes": {
-                "documentType": "Notice",
-                "lastModifiedDate": "2024-09-09T12:38:00Z",
-                "highlightedContent": "",
-                "frDocNum": "2024-20427",
-                "withdrawn": false,
-                "agencyId": "SEC",
-                "commentEndDate": null,
-                "title": "Meetings; Sunshine Act",
-                "postedDate": "2024-09-09T04:00:00Z",
-                "docketId": null,
-                "subtype": null,
-                "commentStartDate": "2024-09-09T04:00:00Z",
-                "openForComment": false,
-                "objectId": "09000064866cf81a"
-            },
-            "links": {
-                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1252-0001"
-            }
-        },
-        {
-            "id": "SEC-2024-1254-0001",
-            "type": "documents",
-            "attributes": {
-                "documentType": "Notice",
-                "lastModifiedDate": "2024-09-09T12:38:25Z",
-                "highlightedContent": "",
-                "frDocNum": "2024-20166",
-                "withdrawn": false,
-                "agencyId": "SEC",
-                "commentEndDate": null,
-                "title": "Self-Regulatory Organizations; Proposed Rule Changes: MIAX Emerald, LLC",
-                "postedDate": "2024-09-09T04:00:00Z",
-                "docketId": null,
-                "subtype": null,
-                "commentStartDate": "2024-09-09T04:00:00Z",
-                "openForComment": false,
-                "objectId": "09000064866cf85c"
-            },
-            "links": {
-                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1254-0001"
-            }
-        },
-        {
-            "id": "SEC-2024-1250-0001",
-            "type": "documents",
-            "attributes": {
-                "documentType": "Notice",
-                "lastModifiedDate": "2024-09-09T12:36:03Z",
-                "highlightedContent": "",
-                "frDocNum": "2024-20169",
-                "withdrawn": false,
-                "agencyId": "SEC",
-                "commentEndDate": null,
-                "title": "Self-Regulatory Organizations; Proposed Rule Changes: NYSE Arca, Inc.",
-                "postedDate": "2024-09-09T04:00:00Z",
-                "docketId": null,
-                "subtype": null,
-                "commentStartDate": "2024-09-09T04:00:00Z",
-                "openForComment": false,
-                "objectId": "09000064866cf6d8"
-            },
-            "links": {
-                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1250-0001"
-            }
-        },
-        {
-            "id": "SEC-2024-1257-0001",
-            "type": "documents",
-            "attributes": {
-                "documentType": "Notice",
-                "lastModifiedDate": "2024-09-09T12:38:37Z",
-                "highlightedContent": "",
-                "frDocNum": "2024-20168",
-                "withdrawn": false,
-                "agencyId": "SEC",
-                "commentEndDate": null,
-                "title": "Self-Regulatory Organizations; Proposed Rule Changes: MIAX PEARL LLC",
-                "postedDate": "2024-09-09T04:00:00Z",
-                "docketId": null,
-                "subtype": null,
-                "commentStartDate": "2024-09-09T04:00:00Z",
-                "openForComment": false,
-                "objectId": "09000064866cf89e"
-            },
-            "links": {
-                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1257-0001"
-            }
-        },
-        {
-            "id": "SEC-2024-1253-0001",
-            "type": "documents",
-            "attributes": {
-                "documentType": "Notice",
-                "lastModifiedDate": "2024-09-09T12:38:01Z",
-                "highlightedContent": "",
-                "frDocNum": "2024-20373",
-                "withdrawn": false,
-                "agencyId": "SEC",
-                "commentEndDate": null,
-                "title": "Meetings; Sunshine Act",
-                "postedDate": "2024-09-09T04:00:00Z",
-                "docketId": null,
-                "subtype": null,
-                "commentStartDate": "2024-09-09T04:00:00Z",
-                "openForComment": false,
-                "objectId": "09000064866cf81b"
-            },
-            "links": {
-                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1253-0001"
-            }
-        },
-        {
-            "id": "SEC-2024-1258-0001",
-            "type": "documents",
-            "attributes": {
-                "documentType": "Notice",
-                "lastModifiedDate": "2024-09-09T12:38:47Z",
-                "highlightedContent": "",
-                "frDocNum": "2024-20171",
-                "withdrawn": false,
-                "agencyId": "SEC",
-                "commentEndDate": null,
-                "title": "Self-Regulatory Organizations; Proposed Rule Changes: MIAX PEARL LLC",
-                "postedDate": "2024-09-09T04:00:00Z",
-                "docketId": null,
-                "subtype": null,
-                "commentStartDate": "2024-09-09T04:00:00Z",
-                "openForComment": false,
-                "objectId": "09000064866cf8e3"
-            },
-            "links": {
-                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1258-0001"
-            }
         }
     ],
     "meta": {
         "aggregations": {
             "documentType": [
                 {
-                    "docCount": 3252,
+                    "docCount": 3264,
                     "label": "Notice"
                 },
                 {
@@ -5774,61 +5774,61 @@
                     "label": "true"
                 },
                 {
-                    "docCount": 3335,
+                    "docCount": 3347,
                     "label": "false"
                 }
             ],
             "agencyId": [
                 {
-                    "docCount": 44875,
+                    "docCount": 44908,
                     "value": "EPA"
                 },
                 {
-                    "docCount": 25411,
+                    "docCount": 25497,
                     "value": "FDA"
                 },
                 {
-                    "docCount": 16189,
+                    "docCount": 16228,
                     "value": "FAA"
                 },
                 {
-                    "docCount": 4399,
+                    "docCount": 4408,
                     "value": "DOT"
                 },
                 {
-                    "docCount": 3336,
+                    "docCount": 3348,
                     "value": "SEC"
                 },
                 {
-                    "docCount": 3088,
+                    "docCount": 3097,
                     "value": "FERC"
                 },
                 {
-                    "docCount": 2687,
+                    "docCount": 2688,
                     "value": "CPSC"
                 },
                 {
-                    "docCount": 2538,
+                    "docCount": 2545,
                     "value": "FMCSA"
                 },
                 {
-                    "docCount": 2118,
+                    "docCount": 2123,
                     "value": "FWS"
                 },
                 {
-                    "docCount": 1886,
+                    "docCount": 1889,
                     "value": "OSHA"
                 },
                 {
-                    "docCount": 1829,
+                    "docCount": 1835,
                     "value": "ITA"
                 },
                 {
-                    "docCount": 1746,
+                    "docCount": 1760,
                     "value": "FRA"
                 },
                 {
-                    "docCount": 1565,
+                    "docCount": 1570,
                     "value": "USCG"
                 },
                 {
@@ -5836,47 +5836,47 @@
                     "value": "MSHA"
                 },
                 {
-                    "docCount": 1387,
+                    "docCount": 1398,
                     "value": "MARAD"
                 },
                 {
-                    "docCount": 1267,
+                    "docCount": 1281,
                     "value": "NRC"
                 },
                 {
-                    "docCount": 1119,
-                    "value": "USCIS"
-                },
-                {
-                    "docCount": 1117,
-                    "value": "NOAA"
-                },
-                {
-                    "docCount": 1077,
+                    "docCount": 1158,
                     "value": "USPS"
                 },
                 {
-                    "docCount": 1071,
+                    "docCount": 1120,
+                    "value": "USCIS"
+                },
+                {
+                    "docCount": 1119,
+                    "value": "NOAA"
+                },
+                {
+                    "docCount": 1076,
                     "value": "PHMSA"
                 },
                 {
-                    "docCount": 1049,
+                    "docCount": 1068,
                     "value": "NHTSA"
                 },
                 {
-                    "docCount": 970,
+                    "docCount": 971,
                     "value": "FEMA"
                 },
                 {
-                    "docCount": 926,
+                    "docCount": 931,
                     "value": "FCC"
                 },
                 {
-                    "docCount": 889,
+                    "docCount": 891,
                     "value": "CMS"
                 },
                 {
-                    "docCount": 831,
+                    "docCount": 838,
                     "value": "VA"
                 },
                 {
@@ -5884,47 +5884,47 @@
                     "value": "ED"
                 },
                 {
-                    "docCount": 805,
+                    "docCount": 807,
                     "value": "ITC"
                 },
                 {
-                    "docCount": 636,
+                    "docCount": 640,
                     "value": "EERE"
                 },
                 {
-                    "docCount": 629,
+                    "docCount": 638,
                     "value": "NCUA"
                 },
                 {
-                    "docCount": 614,
+                    "docCount": 617,
                     "value": "DOS"
                 },
                 {
-                    "docCount": 608,
+                    "docCount": 609,
                     "value": "HUD"
                 },
                 {
-                    "docCount": 602,
+                    "docCount": 605,
                     "value": "FRS"
                 },
                 {
-                    "docCount": 524,
+                    "docCount": 528,
                     "value": "DOE"
                 },
                 {
-                    "docCount": 477,
+                    "docCount": 480,
                     "value": "CRC"
                 },
                 {
-                    "docCount": 445,
+                    "docCount": 451,
                     "value": "DOD"
                 },
                 {
-                    "docCount": 421,
+                    "docCount": 423,
                     "value": "APHIS"
                 },
                 {
-                    "docCount": 400,
+                    "docCount": 402,
                     "value": "OFAC"
                 },
                 {
@@ -5932,7 +5932,7 @@
                     "value": "NARA"
                 },
                 {
-                    "docCount": 355,
+                    "docCount": 356,
                     "value": "DOL"
                 },
                 {
@@ -5940,7 +5940,7 @@
                     "value": "USDA"
                 },
                 {
-                    "docCount": 340,
+                    "docCount": 344,
                     "value": "NSF"
                 },
                 {
@@ -5948,15 +5948,19 @@
                     "value": "DEA"
                 },
                 {
-                    "docCount": 296,
+                    "docCount": 297,
                     "value": "STB"
                 },
                 {
-                    "docCount": 280,
+                    "docCount": 287,
                     "value": "FHWA"
                 },
                 {
-                    "docCount": 267,
+                    "docCount": 271,
+                    "value": "CDC"
+                },
+                {
+                    "docCount": 269,
                     "value": "IRS"
                 },
                 {
@@ -5964,19 +5968,15 @@
                     "value": "BOEM"
                 },
                 {
-                    "docCount": 265,
-                    "value": "CDC"
-                },
-                {
                     "docCount": 252,
                     "value": "AMS"
                 },
                 {
-                    "docCount": 246,
+                    "docCount": 247,
                     "value": "FS"
                 },
                 {
-                    "docCount": 227,
+                    "docCount": 229,
                     "value": "GSA"
                 },
                 {
@@ -5989,6 +5989,10 @@
                 },
                 {
                     "docCount": 198,
+                    "value": "CFPB"
+                },
+                {
+                    "docCount": 198,
                     "value": "HHS"
                 },
                 {
@@ -5996,43 +6000,39 @@
                     "value": "OPM"
                 },
                 {
-                    "docCount": 196,
-                    "value": "CFPB"
-                },
-                {
-                    "docCount": 194,
+                    "docCount": 195,
                     "value": "CFTC"
                 },
                 {
-                    "docCount": 190,
+                    "docCount": 194,
                     "value": "FDIC"
                 },
                 {
-                    "docCount": 184,
+                    "docCount": 185,
                     "value": "PTO"
+                },
+                {
+                    "docCount": 183,
+                    "value": "CPPBSD"
                 },
                 {
                     "docCount": 181,
                     "value": "NASA"
                 },
                 {
-                    "docCount": 180,
-                    "value": "CPPBSD"
+                    "docCount": 179,
+                    "value": "FMC"
                 },
                 {
-                    "docCount": 178,
-                    "value": "FMC"
+                    "docCount": 172,
+                    "value": "FTA"
                 },
                 {
                     "docCount": 171,
                     "value": "DARS"
                 },
                 {
-                    "docCount": 171,
-                    "value": "FTA"
-                },
-                {
-                    "docCount": 156,
+                    "docCount": 157,
                     "value": "ARTS"
                 },
                 {
@@ -6044,7 +6044,7 @@
                     "value": "FAR"
                 },
                 {
-                    "docCount": 137,
+                    "docCount": 139,
                     "value": "BSC"
                 },
                 {
@@ -6052,7 +6052,7 @@
                     "value": "FEC"
                 },
                 {
-                    "docCount": 127,
+                    "docCount": 128,
                     "value": "FNS"
                 },
                 {
@@ -6065,31 +6065,31 @@
                 },
                 {
                     "docCount": 106,
+                    "value": "CISA"
+                },
+                {
+                    "docCount": 106,
                     "value": "SSA"
                 },
                 {
                     "docCount": 105,
-                    "value": "CISA"
+                    "value": "BIS"
                 },
                 {
                     "docCount": 105,
                     "value": "FSIS"
                 },
                 {
-                    "docCount": 104,
-                    "value": "BIS"
-                },
-                {
                     "docCount": 89,
                     "value": "EBSA"
                 },
                 {
-                    "docCount": 87,
-                    "value": "AID"
+                    "docCount": 89,
+                    "value": "USTR"
                 },
                 {
                     "docCount": 87,
-                    "value": "USTR"
+                    "value": "AID"
                 },
                 {
                     "docCount": 86,
@@ -6116,7 +6116,7 @@
                     "value": "RHS"
                 },
                 {
-                    "docCount": 73,
+                    "docCount": 74,
                     "value": "RUS"
                 },
                 {
@@ -6125,15 +6125,15 @@
                 },
                 {
                     "docCount": 71,
+                    "value": "USN"
+                },
+                {
+                    "docCount": 71,
                     "value": "WCPO"
                 },
                 {
-                    "docCount": 68,
+                    "docCount": 69,
                     "value": "RBS"
-                },
-                {
-                    "docCount": 68,
-                    "value": "USN"
                 },
                 {
                     "docCount": 66,
@@ -6144,11 +6144,11 @@
                     "value": "TREAS"
                 },
                 {
-                    "docCount": 61,
+                    "docCount": 62,
                     "value": "PBGC"
                 },
                 {
-                    "docCount": 60,
+                    "docCount": 61,
                     "value": "FINCEN"
                 },
                 {
@@ -6184,12 +6184,12 @@
                     "value": "DOI"
                 },
                 {
-                    "docCount": 46,
-                    "value": "BSEE"
+                    "docCount": 47,
+                    "value": "LSC"
                 },
                 {
                     "docCount": 46,
-                    "value": "LSC"
+                    "value": "BSEE"
                 },
                 {
                     "docCount": 46,
@@ -6201,15 +6201,15 @@
                 },
                 {
                     "docCount": 44,
+                    "value": "ICEB"
+                },
+                {
+                    "docCount": 44,
                     "value": "TVA"
                 },
                 {
                     "docCount": 43,
                     "value": "DOJ"
-                },
-                {
-                    "docCount": 43,
-                    "value": "ICEB"
                 },
                 {
                     "docCount": 42,
@@ -6232,7 +6232,7 @@
                     "value": "EEOC"
                 },
                 {
-                    "docCount": 35,
+                    "docCount": 36,
                     "value": "COLC"
                 },
                 {
@@ -6392,16 +6392,16 @@
                     "value": "USCC"
                 },
                 {
+                    "docCount": 15,
+                    "value": "SSS"
+                },
+                {
                     "docCount": 14,
                     "value": "DFC"
                 },
                 {
                     "docCount": 14,
                     "value": "FCIC"
-                },
-                {
-                    "docCount": 14,
-                    "value": "SSS"
                 },
                 {
                     "docCount": 14,
@@ -6493,6 +6493,10 @@
                 },
                 {
                     "docCount": 7,
+                    "value": "ADF"
+                },
+                {
+                    "docCount": 7,
                     "value": "ATF"
                 },
                 {
@@ -6502,10 +6506,6 @@
                 {
                     "docCount": 7,
                     "value": "NIFA"
-                },
-                {
-                    "docCount": 6,
-                    "value": "ADF"
                 },
                 {
                     "docCount": 6,
@@ -6537,6 +6537,10 @@
                 },
                 {
                     "docCount": 5,
+                    "value": "GPO"
+                },
+                {
+                    "docCount": 5,
                     "value": "NIH"
                 },
                 {
@@ -6562,10 +6566,6 @@
                 {
                     "docCount": 4,
                     "value": "GAPFAC"
-                },
-                {
-                    "docCount": 4,
-                    "value": "GPO"
                 },
                 {
                     "docCount": 4,
@@ -6711,65 +6711,77 @@
             "commentEndDate": [
                 {
                     "docCount": 1,
-                    "label": "Next 7 Days",
-                    "fromDate": "2024-10-17 00:00:00",
+                    "label": "Today",
+                    "fromDate": "2024-10-21 00:00:00",
+                    "toDate": "2024-10-21 23:59:59"
+                },
+                {
+                    "docCount": 1,
+                    "label": "Next 3 Days",
+                    "fromDate": "2024-10-21 00:00:00",
                     "toDate": "2024-10-23 23:59:59"
                 },
                 {
                     "docCount": 1,
+                    "label": "Next 7 Days",
+                    "fromDate": "2024-10-21 00:00:00",
+                    "toDate": "2024-10-27 23:59:59"
+                },
+                {
+                    "docCount": 1,
                     "label": "Next 15 Days",
-                    "fromDate": "2024-10-17 00:00:00",
-                    "toDate": "2024-10-31 23:59:59"
+                    "fromDate": "2024-10-21 00:00:00",
+                    "toDate": "2024-11-04 23:59:59"
                 },
                 {
                     "docCount": 1,
                     "label": "Next 30 Days",
-                    "fromDate": "2024-10-17 00:00:00",
-                    "toDate": "2024-11-15 23:59:59"
+                    "fromDate": "2024-10-21 00:00:00",
+                    "toDate": "2024-11-19 23:59:59"
                 },
                 {
                     "docCount": 1,
                     "label": "Next 90 Days",
-                    "fromDate": "2024-10-17 00:00:00",
-                    "toDate": "2025-01-14 23:59:59"
+                    "fromDate": "2024-10-21 00:00:00",
+                    "toDate": "2025-01-18 23:59:59"
                 }
             ],
             "postedDate": [
                 {
-                    "docCount": 10,
+                    "docCount": 11,
                     "label": "Today",
-                    "fromDate": "2024-10-17 00:00:00",
-                    "toDate": "2024-10-17 23:59:59"
+                    "fromDate": "2024-10-21 00:00:00",
+                    "toDate": "2024-10-21 23:59:59"
                 },
                 {
-                    "docCount": 25,
+                    "docCount": 11,
                     "label": "Last 3 Days",
-                    "fromDate": "2024-10-15 00:00:00",
-                    "toDate": "2024-10-17 23:59:59"
+                    "fromDate": "2024-10-19 00:00:00",
+                    "toDate": "2024-10-21 23:59:59"
                 },
                 {
-                    "docCount": 32,
+                    "docCount": 37,
                     "label": "Last 7 Days",
-                    "fromDate": "2024-10-11 00:00:00",
-                    "toDate": "2024-10-17 23:59:59"
+                    "fromDate": "2024-10-15 00:00:00",
+                    "toDate": "2024-10-21 23:59:59"
                 },
                 {
-                    "docCount": 66,
+                    "docCount": 71,
                     "label": "Last 15 Days",
-                    "fromDate": "2024-10-03 00:00:00",
-                    "toDate": "2024-10-17 23:59:59"
+                    "fromDate": "2024-10-07 00:00:00",
+                    "toDate": "2024-10-21 23:59:59"
                 },
                 {
-                    "docCount": 179,
+                    "docCount": 164,
                     "label": "Last 30 Days",
-                    "fromDate": "2024-09-18 00:00:00",
-                    "toDate": "2024-10-17 23:59:59"
+                    "fromDate": "2024-09-22 00:00:00",
+                    "toDate": "2024-10-21 23:59:59"
                 },
                 {
-                    "docCount": 566,
+                    "docCount": 567,
                     "label": "Last 90 Days",
-                    "fromDate": "2024-07-20 00:00:00",
-                    "toDate": "2024-10-17 23:59:59"
+                    "fromDate": "2024-07-24 00:00:00",
+                    "toDate": "2024-10-21 23:59:59"
                 }
             ]
         },
@@ -6790,7 +6802,7 @@
         "numberOfElements": 250,
         "pageNumber": 1,
         "pageSize": 250,
-        "totalElements": 3336,
+        "totalElements": 3348,
         "totalPages": 14,
         "firstPage": true,
         "lastPage": false

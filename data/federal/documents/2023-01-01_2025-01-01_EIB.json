@@ -1770,55 +1770,55 @@
             ],
             "agencyId": [
                 {
-                    "docCount": 44875,
+                    "docCount": 44908,
                     "value": "EPA"
                 },
                 {
-                    "docCount": 25410,
+                    "docCount": 25497,
                     "value": "FDA"
                 },
                 {
-                    "docCount": 16189,
+                    "docCount": 16228,
                     "value": "FAA"
                 },
                 {
-                    "docCount": 4399,
+                    "docCount": 4408,
                     "value": "DOT"
                 },
                 {
-                    "docCount": 3336,
+                    "docCount": 3348,
                     "value": "SEC"
                 },
                 {
-                    "docCount": 3088,
+                    "docCount": 3097,
                     "value": "FERC"
                 },
                 {
-                    "docCount": 2687,
+                    "docCount": 2688,
                     "value": "CPSC"
                 },
                 {
-                    "docCount": 2538,
+                    "docCount": 2545,
                     "value": "FMCSA"
                 },
                 {
-                    "docCount": 2118,
+                    "docCount": 2123,
                     "value": "FWS"
                 },
                 {
-                    "docCount": 1886,
+                    "docCount": 1889,
                     "value": "OSHA"
                 },
                 {
-                    "docCount": 1829,
+                    "docCount": 1835,
                     "value": "ITA"
                 },
                 {
-                    "docCount": 1746,
+                    "docCount": 1760,
                     "value": "FRA"
                 },
                 {
-                    "docCount": 1565,
+                    "docCount": 1570,
                     "value": "USCG"
                 },
                 {
@@ -1826,47 +1826,47 @@
                     "value": "MSHA"
                 },
                 {
-                    "docCount": 1387,
+                    "docCount": 1398,
                     "value": "MARAD"
                 },
                 {
-                    "docCount": 1267,
+                    "docCount": 1281,
                     "value": "NRC"
                 },
                 {
-                    "docCount": 1119,
-                    "value": "USCIS"
-                },
-                {
-                    "docCount": 1117,
-                    "value": "NOAA"
-                },
-                {
-                    "docCount": 1077,
+                    "docCount": 1158,
                     "value": "USPS"
                 },
                 {
-                    "docCount": 1071,
+                    "docCount": 1120,
+                    "value": "USCIS"
+                },
+                {
+                    "docCount": 1119,
+                    "value": "NOAA"
+                },
+                {
+                    "docCount": 1076,
                     "value": "PHMSA"
                 },
                 {
-                    "docCount": 1049,
+                    "docCount": 1068,
                     "value": "NHTSA"
                 },
                 {
-                    "docCount": 970,
+                    "docCount": 971,
                     "value": "FEMA"
                 },
                 {
-                    "docCount": 926,
+                    "docCount": 931,
                     "value": "FCC"
                 },
                 {
-                    "docCount": 889,
+                    "docCount": 891,
                     "value": "CMS"
                 },
                 {
-                    "docCount": 831,
+                    "docCount": 838,
                     "value": "VA"
                 },
                 {
@@ -1874,47 +1874,47 @@
                     "value": "ED"
                 },
                 {
-                    "docCount": 805,
+                    "docCount": 807,
                     "value": "ITC"
                 },
                 {
-                    "docCount": 636,
+                    "docCount": 640,
                     "value": "EERE"
                 },
                 {
-                    "docCount": 629,
+                    "docCount": 638,
                     "value": "NCUA"
                 },
                 {
-                    "docCount": 614,
+                    "docCount": 617,
                     "value": "DOS"
                 },
                 {
-                    "docCount": 608,
+                    "docCount": 609,
                     "value": "HUD"
                 },
                 {
-                    "docCount": 602,
+                    "docCount": 605,
                     "value": "FRS"
                 },
                 {
-                    "docCount": 524,
+                    "docCount": 528,
                     "value": "DOE"
                 },
                 {
-                    "docCount": 477,
+                    "docCount": 480,
                     "value": "CRC"
                 },
                 {
-                    "docCount": 445,
+                    "docCount": 451,
                     "value": "DOD"
                 },
                 {
-                    "docCount": 421,
+                    "docCount": 423,
                     "value": "APHIS"
                 },
                 {
-                    "docCount": 400,
+                    "docCount": 402,
                     "value": "OFAC"
                 },
                 {
@@ -1922,7 +1922,7 @@
                     "value": "NARA"
                 },
                 {
-                    "docCount": 355,
+                    "docCount": 356,
                     "value": "DOL"
                 },
                 {
@@ -1930,7 +1930,7 @@
                     "value": "USDA"
                 },
                 {
-                    "docCount": 340,
+                    "docCount": 344,
                     "value": "NSF"
                 },
                 {
@@ -1938,15 +1938,19 @@
                     "value": "DEA"
                 },
                 {
-                    "docCount": 296,
+                    "docCount": 297,
                     "value": "STB"
                 },
                 {
-                    "docCount": 280,
+                    "docCount": 287,
                     "value": "FHWA"
                 },
                 {
-                    "docCount": 267,
+                    "docCount": 271,
+                    "value": "CDC"
+                },
+                {
+                    "docCount": 269,
                     "value": "IRS"
                 },
                 {
@@ -1954,19 +1958,15 @@
                     "value": "BOEM"
                 },
                 {
-                    "docCount": 265,
-                    "value": "CDC"
-                },
-                {
                     "docCount": 252,
                     "value": "AMS"
                 },
                 {
-                    "docCount": 246,
+                    "docCount": 247,
                     "value": "FS"
                 },
                 {
-                    "docCount": 227,
+                    "docCount": 229,
                     "value": "GSA"
                 },
                 {
@@ -1979,6 +1979,10 @@
                 },
                 {
                     "docCount": 198,
+                    "value": "CFPB"
+                },
+                {
+                    "docCount": 198,
                     "value": "HHS"
                 },
                 {
@@ -1986,43 +1990,39 @@
                     "value": "OPM"
                 },
                 {
-                    "docCount": 196,
-                    "value": "CFPB"
-                },
-                {
-                    "docCount": 194,
+                    "docCount": 195,
                     "value": "CFTC"
                 },
                 {
-                    "docCount": 190,
+                    "docCount": 194,
                     "value": "FDIC"
                 },
                 {
-                    "docCount": 184,
+                    "docCount": 185,
                     "value": "PTO"
+                },
+                {
+                    "docCount": 183,
+                    "value": "CPPBSD"
                 },
                 {
                     "docCount": 181,
                     "value": "NASA"
                 },
                 {
-                    "docCount": 180,
-                    "value": "CPPBSD"
+                    "docCount": 179,
+                    "value": "FMC"
                 },
                 {
-                    "docCount": 178,
-                    "value": "FMC"
+                    "docCount": 172,
+                    "value": "FTA"
                 },
                 {
                     "docCount": 171,
                     "value": "DARS"
                 },
                 {
-                    "docCount": 171,
-                    "value": "FTA"
-                },
-                {
-                    "docCount": 156,
+                    "docCount": 157,
                     "value": "ARTS"
                 },
                 {
@@ -2034,7 +2034,7 @@
                     "value": "FAR"
                 },
                 {
-                    "docCount": 137,
+                    "docCount": 139,
                     "value": "BSC"
                 },
                 {
@@ -2042,7 +2042,7 @@
                     "value": "FEC"
                 },
                 {
-                    "docCount": 127,
+                    "docCount": 128,
                     "value": "FNS"
                 },
                 {
@@ -2055,31 +2055,31 @@
                 },
                 {
                     "docCount": 106,
+                    "value": "CISA"
+                },
+                {
+                    "docCount": 106,
                     "value": "SSA"
                 },
                 {
                     "docCount": 105,
-                    "value": "CISA"
+                    "value": "BIS"
                 },
                 {
                     "docCount": 105,
                     "value": "FSIS"
                 },
                 {
-                    "docCount": 104,
-                    "value": "BIS"
-                },
-                {
                     "docCount": 89,
                     "value": "EBSA"
                 },
                 {
-                    "docCount": 87,
-                    "value": "AID"
+                    "docCount": 89,
+                    "value": "USTR"
                 },
                 {
                     "docCount": 87,
-                    "value": "USTR"
+                    "value": "AID"
                 },
                 {
                     "docCount": 86,
@@ -2106,7 +2106,7 @@
                     "value": "RHS"
                 },
                 {
-                    "docCount": 73,
+                    "docCount": 74,
                     "value": "RUS"
                 },
                 {
@@ -2115,15 +2115,15 @@
                 },
                 {
                     "docCount": 71,
+                    "value": "USN"
+                },
+                {
+                    "docCount": 71,
                     "value": "WCPO"
                 },
                 {
-                    "docCount": 68,
+                    "docCount": 69,
                     "value": "RBS"
-                },
-                {
-                    "docCount": 68,
-                    "value": "USN"
                 },
                 {
                     "docCount": 66,
@@ -2134,11 +2134,11 @@
                     "value": "TREAS"
                 },
                 {
-                    "docCount": 61,
+                    "docCount": 62,
                     "value": "PBGC"
                 },
                 {
-                    "docCount": 60,
+                    "docCount": 61,
                     "value": "FINCEN"
                 },
                 {
@@ -2174,12 +2174,12 @@
                     "value": "DOI"
                 },
                 {
-                    "docCount": 46,
-                    "value": "BSEE"
+                    "docCount": 47,
+                    "value": "LSC"
                 },
                 {
                     "docCount": 46,
-                    "value": "LSC"
+                    "value": "BSEE"
                 },
                 {
                     "docCount": 46,
@@ -2191,15 +2191,15 @@
                 },
                 {
                     "docCount": 44,
+                    "value": "ICEB"
+                },
+                {
+                    "docCount": 44,
                     "value": "TVA"
                 },
                 {
                     "docCount": 43,
                     "value": "DOJ"
-                },
-                {
-                    "docCount": 43,
-                    "value": "ICEB"
                 },
                 {
                     "docCount": 42,
@@ -2222,7 +2222,7 @@
                     "value": "EEOC"
                 },
                 {
-                    "docCount": 35,
+                    "docCount": 36,
                     "value": "COLC"
                 },
                 {
@@ -2382,16 +2382,16 @@
                     "value": "USCC"
                 },
                 {
+                    "docCount": 15,
+                    "value": "SSS"
+                },
+                {
                     "docCount": 14,
                     "value": "DFC"
                 },
                 {
                     "docCount": 14,
                     "value": "FCIC"
-                },
-                {
-                    "docCount": 14,
-                    "value": "SSS"
                 },
                 {
                     "docCount": 14,
@@ -2483,6 +2483,10 @@
                 },
                 {
                     "docCount": 7,
+                    "value": "ADF"
+                },
+                {
+                    "docCount": 7,
                     "value": "ATF"
                 },
                 {
@@ -2492,10 +2496,6 @@
                 {
                     "docCount": 7,
                     "value": "NIFA"
-                },
-                {
-                    "docCount": 6,
-                    "value": "ADF"
                 },
                 {
                     "docCount": 6,
@@ -2527,6 +2527,10 @@
                 },
                 {
                     "docCount": 5,
+                    "value": "GPO"
+                },
+                {
+                    "docCount": 5,
                     "value": "NIH"
                 },
                 {
@@ -2552,10 +2556,6 @@
                 {
                     "docCount": 4,
                     "value": "GAPFAC"
-                },
-                {
-                    "docCount": 4,
-                    "value": "GPO"
                 },
                 {
                     "docCount": 4,
@@ -2700,30 +2700,24 @@
             ],
             "commentEndDate": [
                 {
-                    "docCount": 5,
+                    "docCount": 7,
                     "label": "Next 30 Days",
-                    "fromDate": "2024-10-17 00:00:00",
-                    "toDate": "2024-11-15 23:59:59"
+                    "fromDate": "2024-10-21 00:00:00",
+                    "toDate": "2024-11-19 23:59:59"
                 },
                 {
                     "docCount": 7,
                     "label": "Next 90 Days",
-                    "fromDate": "2024-10-17 00:00:00",
-                    "toDate": "2025-01-14 23:59:59"
+                    "fromDate": "2024-10-21 00:00:00",
+                    "toDate": "2025-01-18 23:59:59"
                 }
             ],
             "postedDate": [
                 {
-                    "docCount": 2,
-                    "label": "Last 30 Days",
-                    "fromDate": "2024-09-18 00:00:00",
-                    "toDate": "2024-10-17 23:59:59"
-                },
-                {
                     "docCount": 20,
                     "label": "Last 90 Days",
-                    "fromDate": "2024-07-20 00:00:00",
-                    "toDate": "2024-10-17 23:59:59"
+                    "fromDate": "2024-07-24 00:00:00",
+                    "toDate": "2024-10-21 23:59:59"
                 }
             ]
         },

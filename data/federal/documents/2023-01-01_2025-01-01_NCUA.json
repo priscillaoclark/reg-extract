@@ -1,6 +1,213 @@
 {
     "data": [
         {
+            "id": "NCUA-2024-0127-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-10-18T16:13:53Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": null,
+                "title": "Knoll Employees Credit Union - Member Notice",
+                "postedDate": "2024-10-18T04:00:00Z",
+                "docketId": "NCUA-2024-0127",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064867d7d2c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0127-0001"
+            }
+        },
+        {
+            "id": "NCUA-2024-0128-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-10-18T17:01:29Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": null,
+                "title": "Empower Credit Union - Member Notice",
+                "postedDate": "2024-10-18T04:00:00Z",
+                "docketId": "NCUA-2024-0128",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064867d7db3"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0128-0001"
+            }
+        },
+        {
+            "id": "NCUA-2024-0129-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-18T18:06:25Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": "2024-12-20T04:59:59Z",
+                "title": "Proposed Merger of NE PA Community Federal Credit Union located in Stroudsburg, PA with and into Utilities Employees Credit Union located in Wyomissing, PA.",
+                "postedDate": "2024-10-18T04:00:00Z",
+                "docketId": "NCUA-2024-0129",
+                "subtype": null,
+                "commentStartDate": "2024-10-18T04:00:00Z",
+                "openForComment": true,
+                "objectId": "09000064867d7b3e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0129-0002"
+            }
+        },
+        {
+            "id": "NCUA-2024-0129-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-10-18T18:05:15Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": null,
+                "title": "NE PA Community Federal Credit Union - Member Notice",
+                "postedDate": "2024-10-18T04:00:00Z",
+                "docketId": "NCUA-2024-0129",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064867d7b40"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0129-0001"
+            }
+        },
+        {
+            "id": "NCUA-2024-0128-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-18T17:02:30Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": "2024-12-17T04:59:59Z",
+                "title": "Proposed Merger of Empower Credit Union located in West Allis, WI with and into Educators Credit Union located in Mount Pleasant, WI.",
+                "postedDate": "2024-10-18T04:00:00Z",
+                "docketId": "NCUA-2024-0128",
+                "subtype": null,
+                "commentStartDate": "2024-10-18T04:00:00Z",
+                "openForComment": true,
+                "objectId": "09000064867d7db1"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0128-0002"
+            }
+        },
+        {
+            "id": "NCUA-2024-0130-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-18T18:19:20Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": "2025-01-09T04:59:59Z",
+                "title": "Proposed Merger of Synergy Partners Credit Union located in Chicago, IL with and into Credit Union 1 Credit Union located in Lombard, IL.",
+                "postedDate": "2024-10-18T04:00:00Z",
+                "docketId": "NCUA-2024-0130",
+                "subtype": null,
+                "commentStartDate": "2024-10-18T04:00:00Z",
+                "openForComment": true,
+                "objectId": "09000064867d7bb5"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0130-0002"
+            }
+        },
+        {
+            "id": "NCUA-2024-0130-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-10-18T18:17:59Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": null,
+                "title": "Synergy Partners Credit Union - Member Notice",
+                "postedDate": "2024-10-18T04:00:00Z",
+                "docketId": "NCUA-2024-0130",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064867d7bb6"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0130-0001"
+            }
+        },
+        {
+            "id": "NCUA_FRDOC_0001-0411",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-18T12:14:03Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-24092",
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": "2024-11-19T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2024-10-18T04:00:00Z",
+                "docketId": "NCUA_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-10-18T04:00:00Z",
+                "openForComment": true,
+                "objectId": "09000064867d746e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA_FRDOC_0001-0411"
+            }
+        },
+        {
+            "id": "NCUA-2024-0127-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-18T16:15:20Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": "2024-12-20T04:59:59Z",
+                "title": "Proposed Merger of Knoll Employees Credit Union located in East Greenville, PA with and into AAC Credit Union located in Grand Rapids, MI.",
+                "postedDate": "2024-10-18T04:00:00Z",
+                "docketId": "NCUA-2024-0127",
+                "subtype": null,
+                "commentStartDate": "2024-10-18T04:00:00Z",
+                "openForComment": true,
+                "objectId": "09000064867d7d1d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0127-0002"
+            }
+        },
+        {
             "id": "NCUA-2024-0126-0001",
             "type": "documents",
             "attributes": {
@@ -254,29 +461,6 @@
             }
         },
         {
-            "id": "NCUA-2024-0122-0002",
-            "type": "documents",
-            "attributes": {
-                "documentType": "Notice",
-                "lastModifiedDate": "2024-10-09T01:01:00Z",
-                "highlightedContent": "",
-                "frDocNum": null,
-                "withdrawn": false,
-                "agencyId": "NCUA",
-                "commentEndDate": "2024-11-27T04:59:59Z",
-                "title": "Proposed Merger of Heartland Federal Credit Union located in Omaha, NE with and into Omaha Federal Credit Union located in Omaha, NE.",
-                "postedDate": "2024-09-30T04:00:00Z",
-                "docketId": "NCUA-2024-0122",
-                "subtype": null,
-                "commentStartDate": "2024-09-30T04:00:00Z",
-                "openForComment": true,
-                "objectId": "09000064867a3aa6"
-            },
-            "links": {
-                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0122-0002"
-            }
-        },
-        {
             "id": "NCUA-2024-0122-0001",
             "type": "documents",
             "attributes": {
@@ -320,6 +504,29 @@
             },
             "links": {
                 "self": "https://api.regulations.gov/v4/documents/NCUA-2023-0082-0014"
+            }
+        },
+        {
+            "id": "NCUA-2024-0122-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-09T01:01:00Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "commentEndDate": "2024-11-27T04:59:59Z",
+                "title": "Proposed Merger of Heartland Federal Credit Union located in Omaha, NE with and into Omaha Federal Credit Union located in Omaha, NE.",
+                "postedDate": "2024-09-30T04:00:00Z",
+                "docketId": "NCUA-2024-0122",
+                "subtype": null,
+                "commentStartDate": "2024-09-30T04:00:00Z",
+                "openForComment": true,
+                "objectId": "09000064867a3aa6"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0122-0002"
             }
         },
         {
@@ -1385,7 +1592,7 @@
             "type": "documents",
             "attributes": {
                 "documentType": "Proposed Rule",
-                "lastModifiedDate": "2024-10-16T01:00:42Z",
+                "lastModifiedDate": "2024-10-21T01:00:55Z",
                 "highlightedContent": "",
                 "frDocNum": "2024-18415",
                 "withdrawn": false,
@@ -1465,7 +1672,7 @@
                 "docketId": "NCUA-2024-0098",
                 "subtype": null,
                 "commentStartDate": "2024-08-21T04:00:00Z",
-                "openForComment": true,
+                "openForComment": false,
                 "objectId": "090000648665abf9"
             },
             "links": {
@@ -1488,7 +1695,7 @@
                 "docketId": "NCUA-2024-0100",
                 "subtype": null,
                 "commentStartDate": "2024-08-21T04:00:00Z",
-                "openForComment": true,
+                "openForComment": false,
                 "objectId": "090000648665b154"
             },
             "links": {
@@ -1511,7 +1718,7 @@
                 "docketId": "NCUA-2024-0096",
                 "subtype": null,
                 "commentStartDate": "2024-08-21T04:00:00Z",
-                "openForComment": true,
+                "openForComment": false,
                 "objectId": "0900006486659a25"
             },
             "links": {
@@ -1891,7 +2098,7 @@
             "type": "documents",
             "attributes": {
                 "documentType": "Notice",
-                "lastModifiedDate": "2024-09-13T01:01:11Z",
+                "lastModifiedDate": "2024-10-18T01:00:58Z",
                 "highlightedContent": "",
                 "frDocNum": null,
                 "withdrawn": false,
@@ -1902,7 +2109,7 @@
                 "docketId": "NCUA-2024-0092",
                 "subtype": null,
                 "commentStartDate": "2024-08-09T04:00:00Z",
-                "openForComment": true,
+                "openForComment": false,
                 "objectId": "090000648662b205"
             },
             "links": {
@@ -5542,224 +5749,17 @@
             "links": {
                 "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0021-0002"
             }
-        },
-        {
-            "id": "NCUA-2024-0020-0001",
-            "type": "documents",
-            "attributes": {
-                "documentType": "Supporting & Related Material",
-                "lastModifiedDate": "2024-02-22T22:02:14Z",
-                "highlightedContent": "",
-                "frDocNum": null,
-                "withdrawn": false,
-                "agencyId": "NCUA",
-                "commentEndDate": null,
-                "title": "Lowland Credit Union - Member Notice",
-                "postedDate": "2024-02-22T05:00:00Z",
-                "docketId": "NCUA-2024-0020",
-                "subtype": null,
-                "commentStartDate": null,
-                "openForComment": false,
-                "objectId": "0900006486426db2"
-            },
-            "links": {
-                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0020-0001"
-            }
-        },
-        {
-            "id": "NCUA-2024-0020-0002",
-            "type": "documents",
-            "attributes": {
-                "documentType": "Notice",
-                "lastModifiedDate": "2024-02-22T22:03:37Z",
-                "highlightedContent": "",
-                "frDocNum": null,
-                "withdrawn": false,
-                "agencyId": "NCUA",
-                "commentEndDate": "2024-04-24T03:59:59Z",
-                "title": "Proposed Merger of Lowland Credit Union located in Morristown, TN with and into ORNL Federal Credit Union located in Oak Ridge, TN.",
-                "postedDate": "2024-02-22T05:00:00Z",
-                "docketId": "NCUA-2024-0020",
-                "subtype": null,
-                "commentStartDate": "2024-02-22T05:00:00Z",
-                "openForComment": false,
-                "objectId": "0900006486426db1"
-            },
-            "links": {
-                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0020-0002"
-            }
-        },
-        {
-            "id": "NCUA-2024-0019-0002",
-            "type": "documents",
-            "attributes": {
-                "documentType": "Notice",
-                "lastModifiedDate": "2024-02-26T18:12:37Z",
-                "highlightedContent": "",
-                "frDocNum": null,
-                "withdrawn": true,
-                "agencyId": "NCUA",
-                "commentEndDate": null,
-                "title": "Proposed Merger of Local 520 U.A. Federal Credit Union located in Harrisburg, PA with and into Hershey Federal Credit Union located in Hummelstown, PA.",
-                "postedDate": "2024-02-22T00:00:00Z",
-                "docketId": "NCUA-2024-0019",
-                "subtype": null,
-                "commentStartDate": null,
-                "openForComment": false,
-                "objectId": "0900006486426d8d"
-            },
-            "links": {
-                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0019-0002"
-            }
-        },
-        {
-            "id": "NCUA-2024-0019-0001",
-            "type": "documents",
-            "attributes": {
-                "documentType": "Supporting & Related Material",
-                "lastModifiedDate": "2024-02-26T18:12:57Z",
-                "highlightedContent": "",
-                "frDocNum": null,
-                "withdrawn": true,
-                "agencyId": "NCUA",
-                "commentEndDate": null,
-                "title": "Local 520 U A Federal Credit Union - Member Notice",
-                "postedDate": "2024-02-22T00:00:00Z",
-                "docketId": "NCUA-2024-0019",
-                "subtype": null,
-                "commentStartDate": null,
-                "openForComment": false,
-                "objectId": "0900006486426d8a"
-            },
-            "links": {
-                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0019-0001"
-            }
-        },
-        {
-            "id": "NCUA-2024-0018-0002",
-            "type": "documents",
-            "attributes": {
-                "documentType": "Notice",
-                "lastModifiedDate": "2024-02-20T19:07:57Z",
-                "highlightedContent": "",
-                "frDocNum": null,
-                "withdrawn": false,
-                "agencyId": "NCUA",
-                "commentEndDate": "2024-04-18T03:59:59Z",
-                "title": "Proposed Merger of Lincoln Sudbury Town Employees Federal Credit Union located in Sudbury, MA with and into St. Mary's Credit Union located in Marlborough, MA.",
-                "postedDate": "2024-02-20T05:00:00Z",
-                "docketId": "NCUA-2024-0018",
-                "subtype": null,
-                "commentStartDate": "2024-02-20T05:00:00Z",
-                "openForComment": false,
-                "objectId": "090000648641dc9f"
-            },
-            "links": {
-                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0018-0002"
-            }
-        },
-        {
-            "id": "NCUA-2024-0018-0001",
-            "type": "documents",
-            "attributes": {
-                "documentType": "Supporting & Related Material",
-                "lastModifiedDate": "2024-02-20T19:06:46Z",
-                "highlightedContent": "",
-                "frDocNum": null,
-                "withdrawn": false,
-                "agencyId": "NCUA",
-                "commentEndDate": null,
-                "title": "Lincoln Sudbury Town Employees Federal Credit Union - Member Notice",
-                "postedDate": "2024-02-20T05:00:00Z",
-                "docketId": "NCUA-2024-0018",
-                "subtype": null,
-                "commentStartDate": null,
-                "openForComment": false,
-                "objectId": "090000648641dca1"
-            },
-            "links": {
-                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0018-0001"
-            }
-        },
-        {
-            "id": "NCUA-2024-0017-0001",
-            "type": "documents",
-            "attributes": {
-                "documentType": "Supporting & Related Material",
-                "lastModifiedDate": "2024-02-14T17:33:43Z",
-                "highlightedContent": "",
-                "frDocNum": null,
-                "withdrawn": false,
-                "agencyId": "NCUA",
-                "commentEndDate": null,
-                "title": "Piney Hills Federal Credit Union - Member Notice",
-                "postedDate": "2024-02-14T05:00:00Z",
-                "docketId": "NCUA-2024-0017",
-                "subtype": null,
-                "commentStartDate": null,
-                "openForComment": false,
-                "objectId": "0900006486407b0f"
-            },
-            "links": {
-                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0017-0001"
-            }
-        },
-        {
-            "id": "NCUA-2024-0017-0002",
-            "type": "documents",
-            "attributes": {
-                "documentType": "Notice",
-                "lastModifiedDate": "2024-02-14T17:34:58Z",
-                "highlightedContent": "",
-                "frDocNum": null,
-                "withdrawn": false,
-                "agencyId": "NCUA",
-                "commentEndDate": "2024-04-19T03:59:59Z",
-                "title": "Piney Hills Federal Credit Union - Member Notice",
-                "postedDate": "2024-02-14T05:00:00Z",
-                "docketId": "NCUA-2024-0017",
-                "subtype": null,
-                "commentStartDate": "2024-02-14T05:00:00Z",
-                "openForComment": false,
-                "objectId": "0900006486407b0e"
-            },
-            "links": {
-                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0017-0002"
-            }
-        },
-        {
-            "id": "NCUA_FRDOC_0001-0378",
-            "type": "documents",
-            "attributes": {
-                "documentType": "Notice",
-                "lastModifiedDate": "2024-02-13T13:23:06Z",
-                "highlightedContent": "",
-                "frDocNum": "2024-02994",
-                "withdrawn": false,
-                "agencyId": "NCUA",
-                "commentEndDate": null,
-                "title": "Meetings; Sunshine Act",
-                "postedDate": "2024-02-13T05:00:00Z",
-                "docketId": "NCUA_FRDOC_0001",
-                "subtype": null,
-                "commentStartDate": "2024-02-13T05:00:00Z",
-                "openForComment": false,
-                "objectId": "0900006486404162"
-            },
-            "links": {
-                "self": "https://api.regulations.gov/v4/documents/NCUA_FRDOC_0001-0378"
-            }
         }
     ],
     "meta": {
         "aggregations": {
             "documentType": [
                 {
-                    "docCount": 328,
+                    "docCount": 333,
                     "label": "Notice"
                 },
                 {
-                    "docCount": 276,
+                    "docCount": 280,
                     "label": "Supporting & Related Material"
                 },
                 {
@@ -5774,65 +5774,65 @@
             "subtype": [],
             "withinCommentPeriod": [
                 {
-                    "docCount": 36,
+                    "docCount": 37,
                     "label": "true"
                 },
                 {
-                    "docCount": 593,
+                    "docCount": 601,
                     "label": "false"
                 }
             ],
             "agencyId": [
                 {
-                    "docCount": 44875,
+                    "docCount": 44908,
                     "value": "EPA"
                 },
                 {
-                    "docCount": 25410,
+                    "docCount": 25497,
                     "value": "FDA"
                 },
                 {
-                    "docCount": 16189,
+                    "docCount": 16228,
                     "value": "FAA"
                 },
                 {
-                    "docCount": 4399,
+                    "docCount": 4408,
                     "value": "DOT"
                 },
                 {
-                    "docCount": 3336,
+                    "docCount": 3348,
                     "value": "SEC"
                 },
                 {
-                    "docCount": 3088,
+                    "docCount": 3097,
                     "value": "FERC"
                 },
                 {
-                    "docCount": 2687,
+                    "docCount": 2688,
                     "value": "CPSC"
                 },
                 {
-                    "docCount": 2538,
+                    "docCount": 2545,
                     "value": "FMCSA"
                 },
                 {
-                    "docCount": 2118,
+                    "docCount": 2123,
                     "value": "FWS"
                 },
                 {
-                    "docCount": 1886,
+                    "docCount": 1889,
                     "value": "OSHA"
                 },
                 {
-                    "docCount": 1829,
+                    "docCount": 1835,
                     "value": "ITA"
                 },
                 {
-                    "docCount": 1746,
+                    "docCount": 1760,
                     "value": "FRA"
                 },
                 {
-                    "docCount": 1565,
+                    "docCount": 1570,
                     "value": "USCG"
                 },
                 {
@@ -5840,47 +5840,47 @@
                     "value": "MSHA"
                 },
                 {
-                    "docCount": 1387,
+                    "docCount": 1398,
                     "value": "MARAD"
                 },
                 {
-                    "docCount": 1267,
+                    "docCount": 1281,
                     "value": "NRC"
                 },
                 {
-                    "docCount": 1119,
-                    "value": "USCIS"
-                },
-                {
-                    "docCount": 1117,
-                    "value": "NOAA"
-                },
-                {
-                    "docCount": 1077,
+                    "docCount": 1158,
                     "value": "USPS"
                 },
                 {
-                    "docCount": 1071,
+                    "docCount": 1120,
+                    "value": "USCIS"
+                },
+                {
+                    "docCount": 1119,
+                    "value": "NOAA"
+                },
+                {
+                    "docCount": 1076,
                     "value": "PHMSA"
                 },
                 {
-                    "docCount": 1049,
+                    "docCount": 1068,
                     "value": "NHTSA"
                 },
                 {
-                    "docCount": 970,
+                    "docCount": 971,
                     "value": "FEMA"
                 },
                 {
-                    "docCount": 926,
+                    "docCount": 931,
                     "value": "FCC"
                 },
                 {
-                    "docCount": 889,
+                    "docCount": 891,
                     "value": "CMS"
                 },
                 {
-                    "docCount": 831,
+                    "docCount": 838,
                     "value": "VA"
                 },
                 {
@@ -5888,47 +5888,47 @@
                     "value": "ED"
                 },
                 {
-                    "docCount": 805,
+                    "docCount": 807,
                     "value": "ITC"
                 },
                 {
-                    "docCount": 636,
+                    "docCount": 640,
                     "value": "EERE"
                 },
                 {
-                    "docCount": 629,
+                    "docCount": 638,
                     "value": "NCUA"
                 },
                 {
-                    "docCount": 614,
+                    "docCount": 617,
                     "value": "DOS"
                 },
                 {
-                    "docCount": 608,
+                    "docCount": 609,
                     "value": "HUD"
                 },
                 {
-                    "docCount": 602,
+                    "docCount": 605,
                     "value": "FRS"
                 },
                 {
-                    "docCount": 524,
+                    "docCount": 528,
                     "value": "DOE"
                 },
                 {
-                    "docCount": 477,
+                    "docCount": 480,
                     "value": "CRC"
                 },
                 {
-                    "docCount": 445,
+                    "docCount": 451,
                     "value": "DOD"
                 },
                 {
-                    "docCount": 421,
+                    "docCount": 423,
                     "value": "APHIS"
                 },
                 {
-                    "docCount": 400,
+                    "docCount": 402,
                     "value": "OFAC"
                 },
                 {
@@ -5936,7 +5936,7 @@
                     "value": "NARA"
                 },
                 {
-                    "docCount": 355,
+                    "docCount": 356,
                     "value": "DOL"
                 },
                 {
@@ -5944,7 +5944,7 @@
                     "value": "USDA"
                 },
                 {
-                    "docCount": 340,
+                    "docCount": 344,
                     "value": "NSF"
                 },
                 {
@@ -5952,15 +5952,19 @@
                     "value": "DEA"
                 },
                 {
-                    "docCount": 296,
+                    "docCount": 297,
                     "value": "STB"
                 },
                 {
-                    "docCount": 280,
+                    "docCount": 287,
                     "value": "FHWA"
                 },
                 {
-                    "docCount": 267,
+                    "docCount": 271,
+                    "value": "CDC"
+                },
+                {
+                    "docCount": 269,
                     "value": "IRS"
                 },
                 {
@@ -5968,19 +5972,15 @@
                     "value": "BOEM"
                 },
                 {
-                    "docCount": 265,
-                    "value": "CDC"
-                },
-                {
                     "docCount": 252,
                     "value": "AMS"
                 },
                 {
-                    "docCount": 246,
+                    "docCount": 247,
                     "value": "FS"
                 },
                 {
-                    "docCount": 227,
+                    "docCount": 229,
                     "value": "GSA"
                 },
                 {
@@ -5993,6 +5993,10 @@
                 },
                 {
                     "docCount": 198,
+                    "value": "CFPB"
+                },
+                {
+                    "docCount": 198,
                     "value": "HHS"
                 },
                 {
@@ -6000,43 +6004,39 @@
                     "value": "OPM"
                 },
                 {
-                    "docCount": 196,
-                    "value": "CFPB"
-                },
-                {
-                    "docCount": 194,
+                    "docCount": 195,
                     "value": "CFTC"
                 },
                 {
-                    "docCount": 190,
+                    "docCount": 194,
                     "value": "FDIC"
                 },
                 {
-                    "docCount": 184,
+                    "docCount": 185,
                     "value": "PTO"
+                },
+                {
+                    "docCount": 183,
+                    "value": "CPPBSD"
                 },
                 {
                     "docCount": 181,
                     "value": "NASA"
                 },
                 {
-                    "docCount": 180,
-                    "value": "CPPBSD"
+                    "docCount": 179,
+                    "value": "FMC"
                 },
                 {
-                    "docCount": 178,
-                    "value": "FMC"
+                    "docCount": 172,
+                    "value": "FTA"
                 },
                 {
                     "docCount": 171,
                     "value": "DARS"
                 },
                 {
-                    "docCount": 171,
-                    "value": "FTA"
-                },
-                {
-                    "docCount": 156,
+                    "docCount": 157,
                     "value": "ARTS"
                 },
                 {
@@ -6048,7 +6048,7 @@
                     "value": "FAR"
                 },
                 {
-                    "docCount": 137,
+                    "docCount": 139,
                     "value": "BSC"
                 },
                 {
@@ -6056,7 +6056,7 @@
                     "value": "FEC"
                 },
                 {
-                    "docCount": 127,
+                    "docCount": 128,
                     "value": "FNS"
                 },
                 {
@@ -6069,31 +6069,31 @@
                 },
                 {
                     "docCount": 106,
+                    "value": "CISA"
+                },
+                {
+                    "docCount": 106,
                     "value": "SSA"
                 },
                 {
                     "docCount": 105,
-                    "value": "CISA"
+                    "value": "BIS"
                 },
                 {
                     "docCount": 105,
                     "value": "FSIS"
                 },
                 {
-                    "docCount": 104,
-                    "value": "BIS"
-                },
-                {
                     "docCount": 89,
                     "value": "EBSA"
                 },
                 {
-                    "docCount": 87,
-                    "value": "AID"
+                    "docCount": 89,
+                    "value": "USTR"
                 },
                 {
                     "docCount": 87,
-                    "value": "USTR"
+                    "value": "AID"
                 },
                 {
                     "docCount": 86,
@@ -6120,7 +6120,7 @@
                     "value": "RHS"
                 },
                 {
-                    "docCount": 73,
+                    "docCount": 74,
                     "value": "RUS"
                 },
                 {
@@ -6129,15 +6129,15 @@
                 },
                 {
                     "docCount": 71,
+                    "value": "USN"
+                },
+                {
+                    "docCount": 71,
                     "value": "WCPO"
                 },
                 {
-                    "docCount": 68,
+                    "docCount": 69,
                     "value": "RBS"
-                },
-                {
-                    "docCount": 68,
-                    "value": "USN"
                 },
                 {
                     "docCount": 66,
@@ -6148,11 +6148,11 @@
                     "value": "TREAS"
                 },
                 {
-                    "docCount": 61,
+                    "docCount": 62,
                     "value": "PBGC"
                 },
                 {
-                    "docCount": 60,
+                    "docCount": 61,
                     "value": "FINCEN"
                 },
                 {
@@ -6188,12 +6188,12 @@
                     "value": "DOI"
                 },
                 {
-                    "docCount": 46,
-                    "value": "BSEE"
+                    "docCount": 47,
+                    "value": "LSC"
                 },
                 {
                     "docCount": 46,
-                    "value": "LSC"
+                    "value": "BSEE"
                 },
                 {
                     "docCount": 46,
@@ -6205,15 +6205,15 @@
                 },
                 {
                     "docCount": 44,
+                    "value": "ICEB"
+                },
+                {
+                    "docCount": 44,
                     "value": "TVA"
                 },
                 {
                     "docCount": 43,
                     "value": "DOJ"
-                },
-                {
-                    "docCount": 43,
-                    "value": "ICEB"
                 },
                 {
                     "docCount": 42,
@@ -6236,7 +6236,7 @@
                     "value": "EEOC"
                 },
                 {
-                    "docCount": 35,
+                    "docCount": 36,
                     "value": "COLC"
                 },
                 {
@@ -6396,16 +6396,16 @@
                     "value": "USCC"
                 },
                 {
+                    "docCount": 15,
+                    "value": "SSS"
+                },
+                {
                     "docCount": 14,
                     "value": "DFC"
                 },
                 {
                     "docCount": 14,
                     "value": "FCIC"
-                },
-                {
-                    "docCount": 14,
-                    "value": "SSS"
                 },
                 {
                     "docCount": 14,
@@ -6497,6 +6497,10 @@
                 },
                 {
                     "docCount": 7,
+                    "value": "ADF"
+                },
+                {
+                    "docCount": 7,
                     "value": "ATF"
                 },
                 {
@@ -6506,10 +6510,6 @@
                 {
                     "docCount": 7,
                     "value": "NIFA"
-                },
-                {
-                    "docCount": 6,
-                    "value": "ADF"
                 },
                 {
                     "docCount": 6,
@@ -6541,6 +6541,10 @@
                 },
                 {
                     "docCount": 5,
+                    "value": "GPO"
+                },
+                {
+                    "docCount": 5,
                     "value": "NIH"
                 },
                 {
@@ -6566,10 +6570,6 @@
                 {
                     "docCount": 4,
                     "value": "GAPFAC"
-                },
-                {
-                    "docCount": 4,
-                    "value": "GPO"
                 },
                 {
                     "docCount": 4,
@@ -6714,72 +6714,66 @@
             ],
             "commentEndDate": [
                 {
-                    "docCount": 3,
+                    "docCount": 1,
                     "label": "Today",
-                    "fromDate": "2024-10-17 00:00:00",
-                    "toDate": "2024-10-17 23:59:59"
+                    "fromDate": "2024-10-21 00:00:00",
+                    "toDate": "2024-10-21 23:59:59"
                 },
                 {
                     "docCount": 3,
                     "label": "Next 3 Days",
-                    "fromDate": "2024-10-17 00:00:00",
-                    "toDate": "2024-10-19 23:59:59"
-                },
-                {
-                    "docCount": 7,
-                    "label": "Next 7 Days",
-                    "fromDate": "2024-10-17 00:00:00",
+                    "fromDate": "2024-10-21 00:00:00",
                     "toDate": "2024-10-23 23:59:59"
                 },
                 {
-                    "docCount": 17,
+                    "docCount": 6,
+                    "label": "Next 7 Days",
+                    "fromDate": "2024-10-21 00:00:00",
+                    "toDate": "2024-10-27 23:59:59"
+                },
+                {
+                    "docCount": 14,
                     "label": "Next 15 Days",
-                    "fromDate": "2024-10-17 00:00:00",
-                    "toDate": "2024-10-31 23:59:59"
+                    "fromDate": "2024-10-21 00:00:00",
+                    "toDate": "2024-11-04 23:59:59"
                 },
                 {
-                    "docCount": 23,
+                    "docCount": 22,
                     "label": "Next 30 Days",
-                    "fromDate": "2024-10-17 00:00:00",
-                    "toDate": "2024-11-15 23:59:59"
+                    "fromDate": "2024-10-21 00:00:00",
+                    "toDate": "2024-11-19 23:59:59"
                 },
                 {
-                    "docCount": 36,
+                    "docCount": 37,
                     "label": "Next 90 Days",
-                    "fromDate": "2024-10-17 00:00:00",
-                    "toDate": "2025-01-14 23:59:59"
+                    "fromDate": "2024-10-21 00:00:00",
+                    "toDate": "2025-01-18 23:59:59"
                 }
             ],
             "postedDate": [
                 {
-                    "docCount": 7,
-                    "label": "Last 3 Days",
-                    "fromDate": "2024-10-15 00:00:00",
-                    "toDate": "2024-10-17 23:59:59"
-                },
-                {
-                    "docCount": 7,
+                    "docCount": 16,
                     "label": "Last 7 Days",
-                    "fromDate": "2024-10-11 00:00:00",
-                    "toDate": "2024-10-17 23:59:59"
+                    "fromDate": "2024-10-15 00:00:00",
+                    "toDate": "2024-10-21 23:59:59"
                 },
                 {
-                    "docCount": 7,
+                    "docCount": 16,
                     "label": "Last 15 Days",
-                    "fromDate": "2024-10-03 00:00:00",
-                    "toDate": "2024-10-17 23:59:59"
+                    "fromDate": "2024-10-07 00:00:00",
+                    "toDate": "2024-10-21 23:59:59"
                 },
                 {
-                    "docCount": 27,
+                    "docCount": 32,
                     "label": "Last 30 Days",
-                    "fromDate": "2024-09-18 00:00:00",
-                    "toDate": "2024-10-17 23:59:59"
+                    "fromDate": "2024-09-22 00:00:00",
+                    "toDate": "2024-10-21 23:59:59"
                 },
                 {
-                    "docCount": 111,
+                    "docCount": 114,
                     "label": "Last 90 Days",
-                    "fromDate": "2024-07-20 00:00:00",
-                    "toDate": "2024-10-17 23:59:59"
+                    "fromDate": "2024-07-24 00:00:00",
+                    "toDate": "2024-10-21 23:59:59"
                 }
             ]
         },
@@ -6800,7 +6794,7 @@
         "numberOfElements": 250,
         "pageNumber": 1,
         "pageSize": 250,
-        "totalElements": 629,
+        "totalElements": 638,
         "totalPages": 3,
         "firstPage": true,
         "lastPage": false
