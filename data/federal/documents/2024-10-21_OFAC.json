@@ -1,0 +1,306 @@
+{
+    "data": [
+        {
+            "id": "OFAC_FRDOC_0001-1978",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-21T12:29:22Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-24221",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-10-21T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-10-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867db5d8"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1978"
+            }
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "documentType": [
+                {
+                    "docCount": 1,
+                    "label": "Notice"
+                }
+            ],
+            "subtype": [],
+            "withinCommentPeriod": [
+                {
+                    "docCount": 0,
+                    "label": "true"
+                },
+                {
+                    "docCount": 1,
+                    "label": "false"
+                }
+            ],
+            "agencyId": [
+                {
+                    "docCount": 38,
+                    "value": "FDA"
+                },
+                {
+                    "docCount": 29,
+                    "value": "FAA"
+                },
+                {
+                    "docCount": 11,
+                    "value": "SEC"
+                },
+                {
+                    "docCount": 6,
+                    "value": "CDC"
+                },
+                {
+                    "docCount": 6,
+                    "value": "MARAD"
+                },
+                {
+                    "docCount": 5,
+                    "value": "FRA"
+                },
+                {
+                    "docCount": 5,
+                    "value": "FWS"
+                },
+                {
+                    "docCount": 4,
+                    "value": "EPA"
+                },
+                {
+                    "docCount": 4,
+                    "value": "FDIC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "ITA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "CRC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "FCC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "FMCSA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "NCUA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "NRC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "OSHA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "APHIS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "BSC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "CMS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "DOT"
+                },
+                {
+                    "docCount": 2,
+                    "value": "EERE"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FERC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FRS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ITC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NHTSA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NOAA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NSF"
+                },
+                {
+                    "docCount": 2,
+                    "value": "USTR"
+                },
+                {
+                    "docCount": 2,
+                    "value": "VA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ARTS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CISA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "COLC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CPSC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DOE"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DOL"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DOS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FEMA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FHWA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FMC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "GSA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "HUD"
+                },
+                {
+                    "docCount": 1,
+                    "value": "IRS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "LSC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "OFAC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "PBGC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "PHMSA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "PTO"
+                },
+                {
+                    "docCount": 1,
+                    "value": "SSS"
+                }
+            ],
+            "commentEndDate": [],
+            "postedDate": [
+                {
+                    "docCount": 1,
+                    "label": "Today",
+                    "fromDate": "2024-10-21 00:00:00",
+                    "toDate": "2024-10-21 23:59:59"
+                },
+                {
+                    "docCount": 1,
+                    "label": "Last 3 Days",
+                    "fromDate": "2024-10-19 00:00:00",
+                    "toDate": "2024-10-21 23:59:59"
+                },
+                {
+                    "docCount": 3,
+                    "label": "Last 7 Days",
+                    "fromDate": "2024-10-15 00:00:00",
+                    "toDate": "2024-10-21 23:59:59"
+                },
+                {
+                    "docCount": 12,
+                    "label": "Last 15 Days",
+                    "fromDate": "2024-10-07 00:00:00",
+                    "toDate": "2024-10-21 23:59:59"
+                },
+                {
+                    "docCount": 21,
+                    "label": "Last 30 Days",
+                    "fromDate": "2024-09-22 00:00:00",
+                    "toDate": "2024-10-21 23:59:59"
+                },
+                {
+                    "docCount": 54,
+                    "label": "Last 90 Days",
+                    "fromDate": "2024-07-24 00:00:00",
+                    "toDate": "2024-10-21 23:59:59"
+                }
+            ]
+        },
+        "filters": {
+            "postedDate": {
+                "fromDate": "2024-10-21",
+                "toDate": "2024-10-21"
+            },
+            "agencyId": [
+                {
+                    "label": "OFAC",
+                    "value": "OFAC"
+                }
+            ]
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "numberOfElements": 1,
+        "pageNumber": 1,
+        "pageSize": 250,
+        "totalElements": 1,
+        "totalPages": 1,
+        "firstPage": true,
+        "lastPage": true
+    }
+}
