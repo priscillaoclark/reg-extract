@@ -1,0 +1,1629 @@
+{
+    "data": [
+        {
+            "id": "CCC_FRDOC_0001-0447",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-30T12:30:27Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-22384",
+                "withdrawn": false,
+                "agencyId": "CCC",
+                "commentEndDate": null,
+                "title": "Domestic Sugar Program: Fiscal Year 2024 Reassignment and FY25 Overall Sugar Marketing Allotment, Cane Sugar and Beet Sugar Marketing Allotments and Company Allocations",
+                "postedDate": "2024-09-30T04:00:00Z",
+                "docketId": "CCC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-09-30T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867a01fa"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CCC_FRDOC_0001-0447"
+            }
+        },
+        {
+            "id": "CCC_FRDOC_0001-0446",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-30T12:29:50Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-22346",
+                "withdrawn": false,
+                "agencyId": "CCC",
+                "commentEndDate": null,
+                "title": "Funds Availability: Organic Dairy Marketing Assistance Program 2024",
+                "postedDate": "2024-09-30T04:00:00Z",
+                "docketId": "CCC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-09-30T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867a012c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CCC_FRDOC_0001-0446"
+            }
+        },
+        {
+            "id": "CCC_FRDOC_0001-0445",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-08-02T12:14:41Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-17070",
+                "withdrawn": false,
+                "agencyId": "CCC",
+                "commentEndDate": null,
+                "title": "Domestic Sugar Program: 2023-Crop Sugar Marketing Allotments and Cane and Beet Processor Allocations",
+                "postedDate": "2024-08-02T04:00:00Z",
+                "docketId": "CCC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-08-02T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486614817"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CCC_FRDOC_0001-0445"
+            }
+        },
+        {
+            "id": "CCC-2024-0002-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-07-01T14:19:44Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-14412",
+                "withdrawn": false,
+                "agencyId": "CCC",
+                "commentEndDate": null,
+                "title": "Emergency Assistance for Livestock, Honeybees, and Farm-raised Fish Program",
+                "postedDate": "2024-07-01T04:00:00Z",
+                "docketId": "CCC-2024-0002",
+                "subtype": null,
+                "commentStartDate": "2024-07-01T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865d4fcb"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CCC-2024-0002-0001"
+            }
+        },
+        {
+            "id": "CCC_FRDOC_0001-0443",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-05-31T11:50:45Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-12001",
+                "withdrawn": false,
+                "agencyId": "CCC",
+                "commentEndDate": "2024-07-31T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Assignment of Payment; Joint Payment Authorization; and Request for Waiver",
+                "postedDate": "2024-05-31T04:00:00Z",
+                "docketId": "CCC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-05-31T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648658e3f9"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CCC_FRDOC_0001-0443"
+            }
+        },
+        {
+            "id": "CCC_FRDOC_0001-0442",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-05-09T20:27:21Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-10172",
+                "withdrawn": false,
+                "agencyId": "CCC",
+                "commentEndDate": null,
+                "title": "Funds Availability: Organic Certification Cost Share Program",
+                "postedDate": "2024-05-09T04:00:00Z",
+                "docketId": "CCC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-05-09T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648655328c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CCC_FRDOC_0001-0442"
+            }
+        },
+        {
+            "id": "CCC_FRDOC_0001-0441",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-04-16T12:24:11Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-08017",
+                "withdrawn": false,
+                "agencyId": "CCC",
+                "commentEndDate": "2024-06-18T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Representation for Commodity Credit Corporation and Farm Service Agency Loans and Authorization to File a Financing Statement",
+                "postedDate": "2024-04-16T04:00:00Z",
+                "docketId": "CCC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-04-16T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864da7fd"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CCC_FRDOC_0001-0441"
+            }
+        },
+        {
+            "id": "CCC_FRDOC_0001-0440",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-04-05T12:34:07Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-07204",
+                "withdrawn": false,
+                "agencyId": "CCC",
+                "commentEndDate": "2024-06-05T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2024-04-05T04:00:00Z",
+                "docketId": "CCC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-04-05T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864bc370"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CCC_FRDOC_0001-0440"
+            }
+        },
+        {
+            "id": "CCC-2023-0001-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2023-12-19T13:00:06Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-25015",
+                "withdrawn": false,
+                "agencyId": "CCC",
+                "commentEndDate": "2023-12-19T04:59:59Z",
+                "title": "Regional Agricultural Promotion Program",
+                "postedDate": "2023-11-17T05:00:00Z",
+                "docketId": "CCC-2023-0001",
+                "subtype": null,
+                "commentStartDate": "2023-11-17T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648628ca9b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CCC-2023-0001-0001"
+            }
+        },
+        {
+            "id": "CCC_FRDOC_0001-0437",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2023-10-13T12:11:39Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-22638",
+                "withdrawn": false,
+                "agencyId": "CCC",
+                "commentEndDate": null,
+                "title": "Domestic Sugar Program: FY 2023 Reassignment and FY 2024 Overall Sugar Marketing Allotment, Cane Sugar and Beet Sugar Marketing Allotments and Company Allocations",
+                "postedDate": "2023-10-13T04:00:00Z",
+                "docketId": "CCC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2023-10-13T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064860cde2f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CCC_FRDOC_0001-0437"
+            }
+        },
+        {
+            "id": "CCC_FRDOC_0001-0436",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2023-05-24T12:16:13Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-11030",
+                "withdrawn": false,
+                "agencyId": "CCC",
+                "commentEndDate": null,
+                "title": "Funding Availability: Organic Dairy Marketing Assistance Program",
+                "postedDate": "2023-05-24T04:00:00Z",
+                "docketId": "CCC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2023-05-24T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485a42616"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CCC_FRDOC_0001-0436"
+            }
+        },
+        {
+            "id": "CCC_FRDOC_0001-0435",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2023-04-11T12:16:52Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-07509",
+                "withdrawn": false,
+                "agencyId": "CCC",
+                "commentEndDate": null,
+                "title": "Domestic Sugar Program: 2023 Cane Sugar Marketing Allotments and Cane and Beet Processor Allocations",
+                "postedDate": "2023-04-11T04:00:00Z",
+                "docketId": "CCC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2023-04-11T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648592bec0"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CCC_FRDOC_0001-0435"
+            }
+        },
+        {
+            "id": "CCC_FRDOC_0001-0434",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2023-01-19T02:01:06Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-00005",
+                "withdrawn": false,
+                "agencyId": "CCC",
+                "commentEndDate": "2023-03-14T03:59:59Z",
+                "title": "Pandemic Assistance Programs and Agricultural Disaster Assistance Programs",
+                "postedDate": "2023-01-11T05:00:00Z",
+                "docketId": "CCC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2023-01-11T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064855e057d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CCC_FRDOC_0001-0434"
+            }
+        },
+        {
+            "id": "CCC_FRDOC_0001-0433",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2023-01-31T02:00:58Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-28106",
+                "withdrawn": false,
+                "agencyId": "CCC",
+                "commentEndDate": "2023-02-07T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Application for Payment of Amounts Due Persons Who Have Died, Disappeared, or Have Been Declared Incompetent; Correction",
+                "postedDate": "2022-12-27T05:00:00Z",
+                "docketId": "CCC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2022-12-27T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485556c9a"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CCC_FRDOC_0001-0433"
+            }
+        },
+        {
+            "id": "CCC_FRDOC_0001-0432",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-12-08T02:00:18Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-26446",
+                "withdrawn": false,
+                "agencyId": "CCC",
+                "commentEndDate": "2023-02-07T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Application for Payment of Amounts Due Persons Who Have Died, Disappeared, or Have Been Declared Incompetent",
+                "postedDate": "2022-12-06T05:00:00Z",
+                "docketId": "CCC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2022-12-06T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648551e24d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CCC_FRDOC_0001-0432"
+            }
+        },
+        {
+            "id": "CCC_FRDOC_0001-0431",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-09-30T11:43:25Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-21228",
+                "withdrawn": false,
+                "agencyId": "CCC",
+                "commentEndDate": null,
+                "title": "Domestic Sugar Program: Overall Sugar Marketing Allotment, Cane Sugar and Beet Sugar Marketing Allotments and Company Allocations",
+                "postedDate": "2022-09-30T04:00:00Z",
+                "docketId": "CCC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2022-09-30T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485389d9f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CCC_FRDOC_0001-0431"
+            }
+        },
+        {
+            "id": "CCC_FRDOC_0001-0430",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-08-31T11:41:09Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-18743",
+                "withdrawn": false,
+                "agencyId": "CCC",
+                "commentEndDate": null,
+                "title": "Food for Progress Program",
+                "postedDate": "2022-08-31T04:00:00Z",
+                "docketId": "CCC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2022-08-31T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485297c7f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CCC_FRDOC_0001-0430"
+            }
+        },
+        {
+            "id": "CCC_FRDOC_0001-0429",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-08-23T11:41:28Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-18123",
+                "withdrawn": false,
+                "agencyId": "CCC",
+                "commentEndDate": null,
+                "title": "Funding Opportunity: Higher Blends Infrastructure Incentive Program for Fiscal Year 2022",
+                "postedDate": "2022-08-23T04:00:00Z",
+                "docketId": "CCC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2022-08-23T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064852669f0"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CCC_FRDOC_0001-0429"
+            }
+        },
+        {
+            "id": "CCC_FRDOC_0001-0428",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-08-03T12:02:58Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-16542",
+                "withdrawn": false,
+                "agencyId": "CCC",
+                "commentEndDate": "2022-10-04T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-08-03T04:00:00Z",
+                "docketId": "CCC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2022-08-03T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485208ebb"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CCC_FRDOC_0001-0428"
+            }
+        },
+        {
+            "id": "CCC_FRDOC_0001-0427",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-07-08T12:26:37Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-14575",
+                "withdrawn": false,
+                "agencyId": "CCC",
+                "commentEndDate": "2022-09-07T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-07-08T04:00:00Z",
+                "docketId": "CCC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2022-07-08T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064851b64ad"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CCC_FRDOC_0001-0427"
+            }
+        },
+        {
+            "id": "CCC_FRDOC_0001-0426",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-06-08T12:02:21Z",
+                "highlightedContent": "",
+                "frDocNum": "C1-2022-10573",
+                "withdrawn": false,
+                "agencyId": "CCC",
+                "commentEndDate": null,
+                "title": "Notice of Request for Extension of Currently Approved Information Collection",
+                "postedDate": "2022-06-08T04:00:00Z",
+                "docketId": "CCC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2022-06-08T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648514d014"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CCC_FRDOC_0001-0426"
+            }
+        },
+        {
+            "id": "CCC_FRDOC_0001-0425",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-06-07T12:16:19Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-12274",
+                "withdrawn": false,
+                "agencyId": "CCC",
+                "commentEndDate": null,
+                "title": "Domestic Sugar Program: 2022-Crop Cane Sugar Marketing Allotments and Cane and Beet Processor Allocations",
+                "postedDate": "2022-06-07T04:00:00Z",
+                "docketId": "CCC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2022-06-07T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648514573a"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CCC_FRDOC_0001-0425"
+            }
+        },
+        {
+            "id": "CCC_FRDOC_0001-0423",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-05-17T12:02:11Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-10562",
+                "withdrawn": false,
+                "agencyId": "CCC",
+                "commentEndDate": "2022-07-19T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-05-17T04:00:00Z",
+                "docketId": "CCC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2022-05-17T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485083686"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CCC_FRDOC_0001-0423"
+            }
+        },
+        {
+            "id": "CCC_FRDOC_0001-0424",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-05-17T12:02:25Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-10573",
+                "withdrawn": false,
+                "agencyId": "CCC",
+                "commentEndDate": "2022-05-18T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2022-05-17T04:00:00Z",
+                "docketId": "CCC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2022-05-17T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064850836d1"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CCC_FRDOC_0001-0424"
+            }
+        },
+        {
+            "id": "CCC_FRDOC_0001-0422",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-04-06T12:14:00Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-07209",
+                "withdrawn": false,
+                "agencyId": "CCC",
+                "commentEndDate": null,
+                "title": "Emergency Assistance for Livestock, Honey Bees, and Farm-Raised Fish Program",
+                "postedDate": "2022-04-06T04:00:00Z",
+                "docketId": "CCC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2022-04-06T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484ffb2b5"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CCC_FRDOC_0001-0422"
+            }
+        },
+        {
+            "id": "CCC_FRDOC_0001-0421",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-02-28T13:17:58Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-04176",
+                "withdrawn": false,
+                "agencyId": "CCC",
+                "commentEndDate": "2022-04-30T03:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Partnerships for Climate-Smart Commodities",
+                "postedDate": "2022-02-28T05:00:00Z",
+                "docketId": "CCC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2022-02-28T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484fab4ce"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CCC_FRDOC_0001-0421"
+            }
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "documentType": [
+                {
+                    "docCount": 21,
+                    "label": "Notice"
+                },
+                {
+                    "docCount": 5,
+                    "label": "Rule"
+                }
+            ],
+            "subtype": [],
+            "withinCommentPeriod": [
+                {
+                    "docCount": 0,
+                    "label": "true"
+                },
+                {
+                    "docCount": 26,
+                    "label": "false"
+                }
+            ],
+            "agencyId": [
+                {
+                    "docCount": 72927,
+                    "value": "EPA"
+                },
+                {
+                    "docCount": 36213,
+                    "value": "FDA"
+                },
+                {
+                    "docCount": 21750,
+                    "value": "FAA"
+                },
+                {
+                    "docCount": 7033,
+                    "value": "DOT"
+                },
+                {
+                    "docCount": 5170,
+                    "value": "SEC"
+                },
+                {
+                    "docCount": 4667,
+                    "value": "FERC"
+                },
+                {
+                    "docCount": 3896,
+                    "value": "FMCSA"
+                },
+                {
+                    "docCount": 3094,
+                    "value": "FWS"
+                },
+                {
+                    "docCount": 2880,
+                    "value": "OSHA"
+                },
+                {
+                    "docCount": 2879,
+                    "value": "CPSC"
+                },
+                {
+                    "docCount": 2640,
+                    "value": "FRA"
+                },
+                {
+                    "docCount": 2630,
+                    "value": "USCG"
+                },
+                {
+                    "docCount": 2592,
+                    "value": "ITA"
+                },
+                {
+                    "docCount": 2239,
+                    "value": "MARAD"
+                },
+                {
+                    "docCount": 1915,
+                    "value": "PHMSA"
+                },
+                {
+                    "docCount": 1869,
+                    "value": "NRC"
+                },
+                {
+                    "docCount": 1653,
+                    "value": "NOAA"
+                },
+                {
+                    "docCount": 1615,
+                    "value": "MSHA"
+                },
+                {
+                    "docCount": 1504,
+                    "value": "USCIS"
+                },
+                {
+                    "docCount": 1465,
+                    "value": "NHTSA"
+                },
+                {
+                    "docCount": 1442,
+                    "value": "FEMA"
+                },
+                {
+                    "docCount": 1346,
+                    "value": "FCC"
+                },
+                {
+                    "docCount": 1272,
+                    "value": "ITC"
+                },
+                {
+                    "docCount": 1270,
+                    "value": "USPS"
+                },
+                {
+                    "docCount": 1267,
+                    "value": "ED"
+                },
+                {
+                    "docCount": 1245,
+                    "value": "EERE"
+                },
+                {
+                    "docCount": 1208,
+                    "value": "CMS"
+                },
+                {
+                    "docCount": 1205,
+                    "value": "VA"
+                },
+                {
+                    "docCount": 1023,
+                    "value": "NCUA"
+                },
+                {
+                    "docCount": 949,
+                    "value": "DOS"
+                },
+                {
+                    "docCount": 933,
+                    "value": "FRS"
+                },
+                {
+                    "docCount": 865,
+                    "value": "HUD"
+                },
+                {
+                    "docCount": 807,
+                    "value": "CRC"
+                },
+                {
+                    "docCount": 732,
+                    "value": "DOE"
+                },
+                {
+                    "docCount": 726,
+                    "value": "DOD"
+                },
+                {
+                    "docCount": 622,
+                    "value": "HHS"
+                },
+                {
+                    "docCount": 588,
+                    "value": "NARA"
+                },
+                {
+                    "docCount": 587,
+                    "value": "OFAC"
+                },
+                {
+                    "docCount": 575,
+                    "value": "APHIS"
+                },
+                {
+                    "docCount": 573,
+                    "value": "NSF"
+                },
+                {
+                    "docCount": 548,
+                    "value": "USDA"
+                },
+                {
+                    "docCount": 542,
+                    "value": "DOL"
+                },
+                {
+                    "docCount": 519,
+                    "value": "DEA"
+                },
+                {
+                    "docCount": 466,
+                    "value": "CDC"
+                },
+                {
+                    "docCount": 432,
+                    "value": "STB"
+                },
+                {
+                    "docCount": 422,
+                    "value": "FS"
+                },
+                {
+                    "docCount": 407,
+                    "value": "FHWA"
+                },
+                {
+                    "docCount": 367,
+                    "value": "BOEM"
+                },
+                {
+                    "docCount": 366,
+                    "value": "AMS"
+                },
+                {
+                    "docCount": 353,
+                    "value": "USCBP"
+                },
+                {
+                    "docCount": 347,
+                    "value": "IRS"
+                },
+                {
+                    "docCount": 334,
+                    "value": "CFPB"
+                },
+                {
+                    "docCount": 329,
+                    "value": "FTC"
+                },
+                {
+                    "docCount": 322,
+                    "value": "GSA"
+                },
+                {
+                    "docCount": 289,
+                    "value": "FDIC"
+                },
+                {
+                    "docCount": 285,
+                    "value": "OPM"
+                },
+                {
+                    "docCount": 284,
+                    "value": "CFTC"
+                },
+                {
+                    "docCount": 277,
+                    "value": "FMC"
+                },
+                {
+                    "docCount": 260,
+                    "value": "PTO"
+                },
+                {
+                    "docCount": 256,
+                    "value": "CPPBSD"
+                },
+                {
+                    "docCount": 245,
+                    "value": "FTA"
+                },
+                {
+                    "docCount": 236,
+                    "value": "FAR"
+                },
+                {
+                    "docCount": 234,
+                    "value": "DARS"
+                },
+                {
+                    "docCount": 225,
+                    "value": "ARTS"
+                },
+                {
+                    "docCount": 213,
+                    "value": "FEC"
+                },
+                {
+                    "docCount": 209,
+                    "value": "CNCS"
+                },
+                {
+                    "docCount": 190,
+                    "value": "NASA"
+                },
+                {
+                    "docCount": 188,
+                    "value": "DHS"
+                },
+                {
+                    "docCount": 186,
+                    "value": "FNS"
+                },
+                {
+                    "docCount": 171,
+                    "value": "SSA"
+                },
+                {
+                    "docCount": 168,
+                    "value": "OCC"
+                },
+                {
+                    "docCount": 165,
+                    "value": "BSC"
+                },
+                {
+                    "docCount": 146,
+                    "value": "USTR"
+                },
+                {
+                    "docCount": 145,
+                    "value": "FSIS"
+                },
+                {
+                    "docCount": 143,
+                    "value": "COE"
+                },
+                {
+                    "docCount": 142,
+                    "value": "BIS"
+                },
+                {
+                    "docCount": 138,
+                    "value": "NLRB"
+                },
+                {
+                    "docCount": 131,
+                    "value": "TTB"
+                },
+                {
+                    "docCount": 130,
+                    "value": "EBSA"
+                },
+                {
+                    "docCount": 130,
+                    "value": "USN"
+                },
+                {
+                    "docCount": 125,
+                    "value": "EIB"
+                },
+                {
+                    "docCount": 124,
+                    "value": "CISA"
+                },
+                {
+                    "docCount": 120,
+                    "value": "AID"
+                },
+                {
+                    "docCount": 120,
+                    "value": "RUS"
+                },
+                {
+                    "docCount": 115,
+                    "value": "OSM"
+                },
+                {
+                    "docCount": 113,
+                    "value": "RHS"
+                },
+                {
+                    "docCount": 110,
+                    "value": "TREAS"
+                },
+                {
+                    "docCount": 110,
+                    "value": "TSA"
+                },
+                {
+                    "docCount": 107,
+                    "value": "SRBC"
+                },
+                {
+                    "docCount": 104,
+                    "value": "RBS"
+                },
+                {
+                    "docCount": 101,
+                    "value": "OMB"
+                },
+                {
+                    "docCount": 98,
+                    "value": "PBGC"
+                },
+                {
+                    "docCount": 94,
+                    "value": "SBA"
+                },
+                {
+                    "docCount": 93,
+                    "value": "USA"
+                },
+                {
+                    "docCount": 90,
+                    "value": "WCPO"
+                },
+                {
+                    "docCount": 85,
+                    "value": "FISCAL"
+                },
+                {
+                    "docCount": 83,
+                    "value": "EAC"
+                },
+                {
+                    "docCount": 82,
+                    "value": "NRCS"
+                },
+                {
+                    "docCount": 80,
+                    "value": "DOI"
+                },
+                {
+                    "docCount": 79,
+                    "value": "IHS"
+                },
+                {
+                    "docCount": 78,
+                    "value": "ICEB"
+                },
+                {
+                    "docCount": 77,
+                    "value": "LSC"
+                },
+                {
+                    "docCount": 76,
+                    "value": "AHRQ"
+                },
+                {
+                    "docCount": 76,
+                    "value": "ETA"
+                },
+                {
+                    "docCount": 74,
+                    "value": "FINCEN"
+                },
+                {
+                    "docCount": 73,
+                    "value": "BLM"
+                },
+                {
+                    "docCount": 73,
+                    "value": "FHFA"
+                },
+                {
+                    "docCount": 73,
+                    "value": "USBC"
+                },
+                {
+                    "docCount": 69,
+                    "value": "BSEE"
+                },
+                {
+                    "docCount": 66,
+                    "value": "WHD"
+                },
+                {
+                    "docCount": 64,
+                    "value": "RRB"
+                },
+                {
+                    "docCount": 64,
+                    "value": "USC"
+                },
+                {
+                    "docCount": 63,
+                    "value": "TVA"
+                },
+                {
+                    "docCount": 61,
+                    "value": "FSA"
+                },
+                {
+                    "docCount": 58,
+                    "value": "NIGC"
+                },
+                {
+                    "docCount": 57,
+                    "value": "OSTP"
+                },
+                {
+                    "docCount": 55,
+                    "value": "DOJ"
+                },
+                {
+                    "docCount": 54,
+                    "value": "COLC"
+                },
+                {
+                    "docCount": 54,
+                    "value": "FCA"
+                },
+                {
+                    "docCount": 53,
+                    "value": "FAS"
+                },
+                {
+                    "docCount": 53,
+                    "value": "USAF"
+                },
+                {
+                    "docCount": 52,
+                    "value": "FRTIB"
+                },
+                {
+                    "docCount": 51,
+                    "value": "PRC"
+                },
+                {
+                    "docCount": 50,
+                    "value": "EEOC"
+                },
+                {
+                    "docCount": 49,
+                    "value": "CEQ"
+                },
+                {
+                    "docCount": 49,
+                    "value": "CRB"
+                },
+                {
+                    "docCount": 48,
+                    "value": "WAPA"
+                },
+                {
+                    "docCount": 47,
+                    "value": "ASC"
+                },
+                {
+                    "docCount": 45,
+                    "value": "FMCS"
+                },
+                {
+                    "docCount": 39,
+                    "value": "ACF"
+                },
+                {
+                    "docCount": 39,
+                    "value": "ATSDR"
+                },
+                {
+                    "docCount": 39,
+                    "value": "FASAB"
+                },
+                {
+                    "docCount": 39,
+                    "value": "NASS"
+                },
+                {
+                    "docCount": 38,
+                    "value": "NEIGHBOR"
+                },
+                {
+                    "docCount": 38,
+                    "value": "NPS"
+                },
+                {
+                    "docCount": 37,
+                    "value": "NTSB"
+                },
+                {
+                    "docCount": 36,
+                    "value": "BIA"
+                },
+                {
+                    "docCount": 36,
+                    "value": "MCC"
+                },
+                {
+                    "docCount": 36,
+                    "value": "MSHFRC"
+                },
+                {
+                    "docCount": 35,
+                    "value": "EIA"
+                },
+                {
+                    "docCount": 34,
+                    "value": "GEO"
+                },
+                {
+                    "docCount": 34,
+                    "value": "PC"
+                },
+                {
+                    "docCount": 32,
+                    "value": "OFCCP"
+                },
+                {
+                    "docCount": 31,
+                    "value": "ATBCB"
+                },
+                {
+                    "docCount": 31,
+                    "value": "NNSA"
+                },
+                {
+                    "docCount": 30,
+                    "value": "ONRR"
+                },
+                {
+                    "docCount": 27,
+                    "value": "DFC"
+                },
+                {
+                    "docCount": 27,
+                    "value": "FCIC"
+                },
+                {
+                    "docCount": 26,
+                    "value": "CCC"
+                },
+                {
+                    "docCount": 26,
+                    "value": "IAF"
+                },
+                {
+                    "docCount": 25,
+                    "value": "USCC"
+                },
+                {
+                    "docCount": 24,
+                    "value": "GAO"
+                },
+                {
+                    "docCount": 23,
+                    "value": "DOC"
+                },
+                {
+                    "docCount": 22,
+                    "value": "FLRA"
+                },
+                {
+                    "docCount": 20,
+                    "value": "NTIA"
+                },
+                {
+                    "docCount": 19,
+                    "value": "COFA"
+                },
+                {
+                    "docCount": 19,
+                    "value": "DNFSB"
+                },
+                {
+                    "docCount": 18,
+                    "value": "DRBC"
+                },
+                {
+                    "docCount": 18,
+                    "value": "FCSIC"
+                },
+                {
+                    "docCount": 18,
+                    "value": "MSPB"
+                },
+                {
+                    "docCount": 18,
+                    "value": "USJC"
+                },
+                {
+                    "docCount": 17,
+                    "value": "ACUS"
+                },
+                {
+                    "docCount": 17,
+                    "value": "CSB"
+                },
+                {
+                    "docCount": 17,
+                    "value": "NIFA"
+                },
+                {
+                    "docCount": 17,
+                    "value": "NIST"
+                },
+                {
+                    "docCount": 17,
+                    "value": "SSS"
+                },
+                {
+                    "docCount": 17,
+                    "value": "USSC"
+                },
+                {
+                    "docCount": 16,
+                    "value": "JBEA"
+                },
+                {
+                    "docCount": 14,
+                    "value": "ODNI"
+                },
+                {
+                    "docCount": 13,
+                    "value": "FSOC"
+                },
+                {
+                    "docCount": 13,
+                    "value": "SJI"
+                },
+                {
+                    "docCount": 13,
+                    "value": "SLSDC"
+                },
+                {
+                    "docCount": 12,
+                    "value": "FIRSTNET"
+                },
+                {
+                    "docCount": 12,
+                    "value": "USIP"
+                },
+                {
+                    "docCount": 11,
+                    "value": "ATF"
+                },
+                {
+                    "docCount": 11,
+                    "value": "CITA"
+                },
+                {
+                    "docCount": 11,
+                    "value": "EOIR"
+                },
+                {
+                    "docCount": 11,
+                    "value": "HHSIG"
+                },
+                {
+                    "docCount": 11,
+                    "value": "MKU"
+                },
+                {
+                    "docCount": 11,
+                    "value": "NCD"
+                },
+                {
+                    "docCount": 10,
+                    "value": "ARS"
+                },
+                {
+                    "docCount": 10,
+                    "value": "BOP"
+                },
+                {
+                    "docCount": 10,
+                    "value": "HPAC"
+                },
+                {
+                    "docCount": 10,
+                    "value": "USAGM"
+                },
+                {
+                    "docCount": 9,
+                    "value": "SWPA"
+                },
+                {
+                    "docCount": 8,
+                    "value": "ADF"
+                },
+                {
+                    "docCount": 8,
+                    "value": "EAB"
+                },
+                {
+                    "docCount": 8,
+                    "value": "NWTRB"
+                },
+                {
+                    "docCount": 8,
+                    "value": "RITA"
+                },
+                {
+                    "docCount": 7,
+                    "value": "ACL"
+                },
+                {
+                    "docCount": 7,
+                    "value": "BPA"
+                },
+                {
+                    "docCount": 7,
+                    "value": "CIGIE"
+                },
+                {
+                    "docCount": 7,
+                    "value": "DC"
+                },
+                {
+                    "docCount": 7,
+                    "value": "GCERC"
+                },
+                {
+                    "docCount": 7,
+                    "value": "NIH"
+                },
+                {
+                    "docCount": 7,
+                    "value": "SAMHSA"
+                },
+                {
+                    "docCount": 6,
+                    "value": "CDFI"
+                },
+                {
+                    "docCount": 6,
+                    "value": "CSOSA"
+                },
+                {
+                    "docCount": 6,
+                    "value": "GAPFAC"
+                },
+                {
+                    "docCount": 6,
+                    "value": "GPO"
+                },
+                {
+                    "docCount": 6,
+                    "value": "ONDCP"
+                },
+                {
+                    "docCount": 5,
+                    "value": "CIA"
+                },
+                {
+                    "docCount": 5,
+                    "value": "FPPO"
+                },
+                {
+                    "docCount": 5,
+                    "value": "HRSA"
+                },
+                {
+                    "docCount": 5,
+                    "value": "OSHRC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "ABMC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "ERS"
+                },
+                {
+                    "docCount": 4,
+                    "value": "MMC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "ONCD"
+                },
+                {
+                    "docCount": 4,
+                    "value": "OSC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "RISC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "RMA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "IPEC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "NSPC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "OFPP"
+                },
+                {
+                    "docCount": 3,
+                    "value": "OFR"
+                },
+                {
+                    "docCount": 3,
+                    "value": "PCLOB"
+                },
+                {
+                    "docCount": 3,
+                    "value": "PT"
+                },
+                {
+                    "docCount": 3,
+                    "value": "SS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ACFR"
+                },
+                {
+                    "docCount": 2,
+                    "value": "BLS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "BOR"
+                },
+                {
+                    "docCount": 2,
+                    "value": "EOP"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FBI"
+                },
+                {
+                    "docCount": 2,
+                    "value": "IAIA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "LMSO"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NAL"
+                },
+                {
+                    "docCount": 2,
+                    "value": "OJP"
+                },
+                {
+                    "docCount": 2,
+                    "value": "PBRB"
+                },
+                {
+                    "docCount": 2,
+                    "value": "PHS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "USDAIG"
+                },
+                {
+                    "docCount": 2,
+                    "value": "USMINT"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ERULE"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FPAC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FR"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FTZB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "LOC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "MBDA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NMB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "PACIFIC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USPC"
+                }
+            ],
+            "commentEndDate": [],
+            "postedDate": [
+                {
+                    "docCount": 2,
+                    "label": "Last 30 Days",
+                    "fromDate": "2024-09-23 00:00:00",
+                    "toDate": "2024-10-22 23:59:59"
+                },
+                {
+                    "docCount": 3,
+                    "label": "Last 90 Days",
+                    "fromDate": "2024-07-25 00:00:00",
+                    "toDate": "2024-10-22 23:59:59"
+                }
+            ]
+        },
+        "filters": {
+            "postedDate": {
+                "fromDate": "2022-01-01",
+                "toDate": "2024-10-01"
+            },
+            "agencyId": [
+                {
+                    "label": "CCC",
+                    "value": "CCC"
+                }
+            ]
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "numberOfElements": 26,
+        "pageNumber": 1,
+        "pageSize": 250,
+        "totalElements": 26,
+        "totalPages": 1,
+        "firstPage": true,
+        "lastPage": true
+    }
+}

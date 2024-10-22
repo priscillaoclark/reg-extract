@@ -81,8 +81,8 @@ def load_json_to_mongodb(json_data, collection):
 
 def extract_federal_history():
     # Date range for search
-    startDate = '2023-01-01'
-    endDate = '2025-01-01'
+    startDate = '2021-01-01'
+    endDate = '2024-10-01'
     search_term = None
     document_id = None
     docket_id = None

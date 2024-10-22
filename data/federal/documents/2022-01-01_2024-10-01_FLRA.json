@@ -1,0 +1,1528 @@
+{
+    "data": [
+        {
+            "id": "FLRA-2024-0005-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-07-16T12:05:34Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-15606",
+                "withdrawn": false,
+                "agencyId": "FLRA",
+                "commentEndDate": null,
+                "title": "Opportunity to Submit Amici Curiae Briefs in a Representation Proceeding",
+                "postedDate": "2024-07-16T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-07-16T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865f1859"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FLRA-2024-0005-0001"
+            }
+        },
+        {
+            "id": "FLRA-2024-0004-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-03-26T12:41:24Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-06370",
+                "withdrawn": false,
+                "agencyId": "FLRA",
+                "commentEndDate": null,
+                "title": "Procedures of the Panel",
+                "postedDate": "2024-03-26T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-03-26T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648649891a"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FLRA-2024-0004-0001"
+            }
+        },
+        {
+            "id": "FLRA-2024-0003-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2024-02-16T13:16:08Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-03210",
+                "withdrawn": false,
+                "agencyId": "FLRA",
+                "commentEndDate": "2024-03-19T03:59:59Z",
+                "title": "Procedures of the Panel: Miscellaneous Requirements",
+                "postedDate": "2024-02-16T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-02-16T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648640b5da"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FLRA-2024-0003-0001"
+            }
+        },
+        {
+            "id": "FLRA-2024-0002-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-02-15T13:12:11Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-02912",
+                "withdrawn": false,
+                "agencyId": "FLRA",
+                "commentEndDate": null,
+                "title": "Changes in Filing Addresses and Procedures",
+                "postedDate": "2024-02-15T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-02-15T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486408e23"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FLRA-2024-0002-0001"
+            }
+        },
+        {
+            "id": "FLRA-2024-0001-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-01-08T13:28:21Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-00104",
+                "withdrawn": false,
+                "agencyId": "FLRA",
+                "commentEndDate": null,
+                "title": "Privacy Act; Systems of Records",
+                "postedDate": "2024-01-08T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-01-08T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486384560"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FLRA-2024-0001-0001"
+            }
+        },
+        {
+            "id": "FLRA-2023-0015-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2023-12-27T13:21:30Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-28553",
+                "withdrawn": false,
+                "agencyId": "FLRA",
+                "commentEndDate": null,
+                "title": "Privacy Act; Systems of Records",
+                "postedDate": "2023-12-27T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-12-27T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648635c4e1"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FLRA-2023-0015-0001"
+            }
+        },
+        {
+            "id": "FLRA-2023-0014-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2023-12-04T13:44:37Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-26516",
+                "withdrawn": false,
+                "agencyId": "FLRA",
+                "commentEndDate": null,
+                "title": "Privacy",
+                "postedDate": "2023-12-04T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-12-04T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064862e3654"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FLRA-2023-0014-0001"
+            }
+        },
+        {
+            "id": "FLRA-2023-0013-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2023-11-17T13:57:34Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-25300",
+                "withdrawn": false,
+                "agencyId": "FLRA",
+                "commentEndDate": null,
+                "title": "Miscellaneous and General Requirements",
+                "postedDate": "2023-11-17T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-11-17T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648628cc16"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FLRA-2023-0013-0001"
+            }
+        },
+        {
+            "id": "FLRA-2023-0012-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2023-11-16T16:45:49Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-25329",
+                "withdrawn": false,
+                "agencyId": "FLRA",
+                "commentEndDate": null,
+                "title": "Performance Review Board Members",
+                "postedDate": "2023-11-16T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-11-16T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486287889"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FLRA-2023-0012-0001"
+            }
+        },
+        {
+            "id": "FLRA-2023-0011-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2023-11-14T13:51:53Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-24820",
+                "withdrawn": false,
+                "agencyId": "FLRA",
+                "commentEndDate": null,
+                "title": "Negotiability Proceedings; Correction",
+                "postedDate": "2023-11-14T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-11-14T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648626ddae"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FLRA-2023-0011-0001"
+            }
+        },
+        {
+            "id": "FLRA-2023-0010-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2023-10-18T12:21:57Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-22975",
+                "withdrawn": false,
+                "agencyId": "FLRA",
+                "commentEndDate": null,
+                "title": "Negotiability Proceedings; Correction",
+                "postedDate": "2023-10-18T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-10-18T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064861042f9"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FLRA-2023-0010-0001"
+            }
+        },
+        {
+            "id": "FLRA-2023-0009-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2023-10-12T12:14:13Z",
+                "highlightedContent": "",
+                "frDocNum": "C2-2023-19269",
+                "withdrawn": false,
+                "agencyId": "FLRA",
+                "commentEndDate": null,
+                "title": "Negotiability Proceedings",
+                "postedDate": "2023-10-12T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-10-12T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064860b973c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FLRA-2023-0009-0001"
+            }
+        },
+        {
+            "id": "FLRA-2023-0008-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2023-10-11T12:07:19Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-22439",
+                "withdrawn": false,
+                "agencyId": "FLRA",
+                "commentEndDate": "2023-11-14T04:59:59Z",
+                "title": "Privacy",
+                "postedDate": "2023-10-11T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-10-11T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064860a5e66"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FLRA-2023-0008-0001"
+            }
+        },
+        {
+            "id": "FLRA-2023-0007-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2023-10-10T13:42:23Z",
+                "highlightedContent": "",
+                "frDocNum": "C1-2023-19269",
+                "withdrawn": false,
+                "agencyId": "FLRA",
+                "commentEndDate": null,
+                "title": "Negotiability Proceedings",
+                "postedDate": "2023-10-10T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-10-10T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486098b5f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FLRA-2023-0007-0001"
+            }
+        },
+        {
+            "id": "FLRA-2023-0006-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2023-09-29T12:59:58Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-20909",
+                "withdrawn": false,
+                "agencyId": "FLRA",
+                "commentEndDate": null,
+                "title": "Availability of Official Information",
+                "postedDate": "2023-09-29T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-09-29T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648600f2ee"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FLRA-2023-0006-0001"
+            }
+        },
+        {
+            "id": "FLRA-2023-0005-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2023-09-29T12:57:25Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-21447",
+                "withdrawn": false,
+                "agencyId": "FLRA",
+                "commentEndDate": "2023-10-31T03:59:59Z",
+                "title": "Miscellaneous and General Requirements",
+                "postedDate": "2023-09-29T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-09-29T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648600f0f8"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FLRA-2023-0005-0001"
+            }
+        },
+        {
+            "id": "FLRA-2023-0004-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2023-09-26T12:18:10Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-20892",
+                "withdrawn": false,
+                "agencyId": "FLRA",
+                "commentEndDate": null,
+                "title": "Miscellaneous and General Requirements",
+                "postedDate": "2023-09-26T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-09-26T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485ff56c2"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FLRA-2023-0004-0001"
+            }
+        },
+        {
+            "id": "FLRA-2023-0003-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2023-09-12T11:50:40Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-19269",
+                "withdrawn": false,
+                "agencyId": "FLRA",
+                "commentEndDate": null,
+                "title": "Negotiability Proceedings",
+                "postedDate": "2023-09-12T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-09-12T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485f871e2"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FLRA-2023-0003-0001"
+            }
+        },
+        {
+            "id": "FLRA-2023-0002-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2023-07-12T13:19:52Z",
+                "highlightedContent": "",
+                "frDocNum": "C1-2023-14399",
+                "withdrawn": false,
+                "agencyId": "FLRA",
+                "commentEndDate": null,
+                "title": "Miscellaneous and General Requirements",
+                "postedDate": "2023-07-12T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-07-12T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485c8bdc3"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FLRA-2023-0002-0001"
+            }
+        },
+        {
+            "id": "FLRA-2023-0001-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2023-07-10T14:10:09Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-14399",
+                "withdrawn": false,
+                "agencyId": "FLRA",
+                "commentEndDate": "2023-08-11T03:59:59Z",
+                "title": "Miscellaneous and General Requirements",
+                "postedDate": "2023-07-10T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2023-07-10T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485c7e492"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FLRA-2023-0001-0001"
+            }
+        },
+        {
+            "id": "FLRA-2022-0002-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2022-12-21T12:39:03Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-27495",
+                "withdrawn": false,
+                "agencyId": "FLRA",
+                "commentEndDate": "2023-01-21T04:59:59Z",
+                "title": "Miscellaneous and General Requirements",
+                "postedDate": "2022-12-21T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2022-12-21T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648554850b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FLRA-2022-0002-0001"
+            }
+        },
+        {
+            "id": "FLRA-2022-0001-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-07-25T11:58:13Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-15863",
+                "withdrawn": false,
+                "agencyId": "FLRA",
+                "commentEndDate": null,
+                "title": "Opportunity To Submit Amici Curiae Briefs in a Representation Proceeding Pending Before the Federal Labor Relations Authority",
+                "postedDate": "2022-07-25T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2022-07-25T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064851e54e8"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FLRA-2022-0001-0001"
+            }
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "documentType": [
+                {
+                    "docCount": 13,
+                    "label": "Rule"
+                },
+                {
+                    "docCount": 5,
+                    "label": "Notice"
+                },
+                {
+                    "docCount": 4,
+                    "label": "Proposed Rule"
+                }
+            ],
+            "subtype": [],
+            "withinCommentPeriod": [
+                {
+                    "docCount": 0,
+                    "label": "true"
+                },
+                {
+                    "docCount": 22,
+                    "label": "false"
+                }
+            ],
+            "agencyId": [
+                {
+                    "docCount": 72927,
+                    "value": "EPA"
+                },
+                {
+                    "docCount": 36213,
+                    "value": "FDA"
+                },
+                {
+                    "docCount": 21750,
+                    "value": "FAA"
+                },
+                {
+                    "docCount": 7033,
+                    "value": "DOT"
+                },
+                {
+                    "docCount": 5170,
+                    "value": "SEC"
+                },
+                {
+                    "docCount": 4667,
+                    "value": "FERC"
+                },
+                {
+                    "docCount": 3896,
+                    "value": "FMCSA"
+                },
+                {
+                    "docCount": 3094,
+                    "value": "FWS"
+                },
+                {
+                    "docCount": 2880,
+                    "value": "OSHA"
+                },
+                {
+                    "docCount": 2879,
+                    "value": "CPSC"
+                },
+                {
+                    "docCount": 2640,
+                    "value": "FRA"
+                },
+                {
+                    "docCount": 2630,
+                    "value": "USCG"
+                },
+                {
+                    "docCount": 2592,
+                    "value": "ITA"
+                },
+                {
+                    "docCount": 2239,
+                    "value": "MARAD"
+                },
+                {
+                    "docCount": 1915,
+                    "value": "PHMSA"
+                },
+                {
+                    "docCount": 1869,
+                    "value": "NRC"
+                },
+                {
+                    "docCount": 1653,
+                    "value": "NOAA"
+                },
+                {
+                    "docCount": 1615,
+                    "value": "MSHA"
+                },
+                {
+                    "docCount": 1504,
+                    "value": "USCIS"
+                },
+                {
+                    "docCount": 1465,
+                    "value": "NHTSA"
+                },
+                {
+                    "docCount": 1442,
+                    "value": "FEMA"
+                },
+                {
+                    "docCount": 1346,
+                    "value": "FCC"
+                },
+                {
+                    "docCount": 1272,
+                    "value": "ITC"
+                },
+                {
+                    "docCount": 1270,
+                    "value": "USPS"
+                },
+                {
+                    "docCount": 1267,
+                    "value": "ED"
+                },
+                {
+                    "docCount": 1245,
+                    "value": "EERE"
+                },
+                {
+                    "docCount": 1208,
+                    "value": "CMS"
+                },
+                {
+                    "docCount": 1205,
+                    "value": "VA"
+                },
+                {
+                    "docCount": 1023,
+                    "value": "NCUA"
+                },
+                {
+                    "docCount": 949,
+                    "value": "DOS"
+                },
+                {
+                    "docCount": 933,
+                    "value": "FRS"
+                },
+                {
+                    "docCount": 865,
+                    "value": "HUD"
+                },
+                {
+                    "docCount": 807,
+                    "value": "CRC"
+                },
+                {
+                    "docCount": 732,
+                    "value": "DOE"
+                },
+                {
+                    "docCount": 726,
+                    "value": "DOD"
+                },
+                {
+                    "docCount": 622,
+                    "value": "HHS"
+                },
+                {
+                    "docCount": 588,
+                    "value": "NARA"
+                },
+                {
+                    "docCount": 587,
+                    "value": "OFAC"
+                },
+                {
+                    "docCount": 575,
+                    "value": "APHIS"
+                },
+                {
+                    "docCount": 573,
+                    "value": "NSF"
+                },
+                {
+                    "docCount": 548,
+                    "value": "USDA"
+                },
+                {
+                    "docCount": 542,
+                    "value": "DOL"
+                },
+                {
+                    "docCount": 519,
+                    "value": "DEA"
+                },
+                {
+                    "docCount": 466,
+                    "value": "CDC"
+                },
+                {
+                    "docCount": 432,
+                    "value": "STB"
+                },
+                {
+                    "docCount": 422,
+                    "value": "FS"
+                },
+                {
+                    "docCount": 407,
+                    "value": "FHWA"
+                },
+                {
+                    "docCount": 367,
+                    "value": "BOEM"
+                },
+                {
+                    "docCount": 366,
+                    "value": "AMS"
+                },
+                {
+                    "docCount": 353,
+                    "value": "USCBP"
+                },
+                {
+                    "docCount": 347,
+                    "value": "IRS"
+                },
+                {
+                    "docCount": 334,
+                    "value": "CFPB"
+                },
+                {
+                    "docCount": 329,
+                    "value": "FTC"
+                },
+                {
+                    "docCount": 322,
+                    "value": "GSA"
+                },
+                {
+                    "docCount": 289,
+                    "value": "FDIC"
+                },
+                {
+                    "docCount": 285,
+                    "value": "OPM"
+                },
+                {
+                    "docCount": 284,
+                    "value": "CFTC"
+                },
+                {
+                    "docCount": 277,
+                    "value": "FMC"
+                },
+                {
+                    "docCount": 260,
+                    "value": "PTO"
+                },
+                {
+                    "docCount": 256,
+                    "value": "CPPBSD"
+                },
+                {
+                    "docCount": 245,
+                    "value": "FTA"
+                },
+                {
+                    "docCount": 236,
+                    "value": "FAR"
+                },
+                {
+                    "docCount": 234,
+                    "value": "DARS"
+                },
+                {
+                    "docCount": 225,
+                    "value": "ARTS"
+                },
+                {
+                    "docCount": 213,
+                    "value": "FEC"
+                },
+                {
+                    "docCount": 209,
+                    "value": "CNCS"
+                },
+                {
+                    "docCount": 190,
+                    "value": "NASA"
+                },
+                {
+                    "docCount": 188,
+                    "value": "DHS"
+                },
+                {
+                    "docCount": 186,
+                    "value": "FNS"
+                },
+                {
+                    "docCount": 171,
+                    "value": "SSA"
+                },
+                {
+                    "docCount": 168,
+                    "value": "OCC"
+                },
+                {
+                    "docCount": 165,
+                    "value": "BSC"
+                },
+                {
+                    "docCount": 146,
+                    "value": "USTR"
+                },
+                {
+                    "docCount": 145,
+                    "value": "FSIS"
+                },
+                {
+                    "docCount": 143,
+                    "value": "COE"
+                },
+                {
+                    "docCount": 142,
+                    "value": "BIS"
+                },
+                {
+                    "docCount": 138,
+                    "value": "NLRB"
+                },
+                {
+                    "docCount": 131,
+                    "value": "TTB"
+                },
+                {
+                    "docCount": 130,
+                    "value": "EBSA"
+                },
+                {
+                    "docCount": 130,
+                    "value": "USN"
+                },
+                {
+                    "docCount": 125,
+                    "value": "EIB"
+                },
+                {
+                    "docCount": 124,
+                    "value": "CISA"
+                },
+                {
+                    "docCount": 120,
+                    "value": "AID"
+                },
+                {
+                    "docCount": 120,
+                    "value": "RUS"
+                },
+                {
+                    "docCount": 115,
+                    "value": "OSM"
+                },
+                {
+                    "docCount": 113,
+                    "value": "RHS"
+                },
+                {
+                    "docCount": 110,
+                    "value": "TREAS"
+                },
+                {
+                    "docCount": 110,
+                    "value": "TSA"
+                },
+                {
+                    "docCount": 107,
+                    "value": "SRBC"
+                },
+                {
+                    "docCount": 104,
+                    "value": "RBS"
+                },
+                {
+                    "docCount": 101,
+                    "value": "OMB"
+                },
+                {
+                    "docCount": 98,
+                    "value": "PBGC"
+                },
+                {
+                    "docCount": 94,
+                    "value": "SBA"
+                },
+                {
+                    "docCount": 93,
+                    "value": "USA"
+                },
+                {
+                    "docCount": 90,
+                    "value": "WCPO"
+                },
+                {
+                    "docCount": 85,
+                    "value": "FISCAL"
+                },
+                {
+                    "docCount": 83,
+                    "value": "EAC"
+                },
+                {
+                    "docCount": 82,
+                    "value": "NRCS"
+                },
+                {
+                    "docCount": 80,
+                    "value": "DOI"
+                },
+                {
+                    "docCount": 79,
+                    "value": "IHS"
+                },
+                {
+                    "docCount": 78,
+                    "value": "ICEB"
+                },
+                {
+                    "docCount": 77,
+                    "value": "LSC"
+                },
+                {
+                    "docCount": 76,
+                    "value": "AHRQ"
+                },
+                {
+                    "docCount": 76,
+                    "value": "ETA"
+                },
+                {
+                    "docCount": 74,
+                    "value": "FINCEN"
+                },
+                {
+                    "docCount": 73,
+                    "value": "BLM"
+                },
+                {
+                    "docCount": 73,
+                    "value": "FHFA"
+                },
+                {
+                    "docCount": 73,
+                    "value": "USBC"
+                },
+                {
+                    "docCount": 69,
+                    "value": "BSEE"
+                },
+                {
+                    "docCount": 66,
+                    "value": "WHD"
+                },
+                {
+                    "docCount": 64,
+                    "value": "RRB"
+                },
+                {
+                    "docCount": 64,
+                    "value": "USC"
+                },
+                {
+                    "docCount": 63,
+                    "value": "TVA"
+                },
+                {
+                    "docCount": 61,
+                    "value": "FSA"
+                },
+                {
+                    "docCount": 58,
+                    "value": "NIGC"
+                },
+                {
+                    "docCount": 57,
+                    "value": "OSTP"
+                },
+                {
+                    "docCount": 55,
+                    "value": "DOJ"
+                },
+                {
+                    "docCount": 54,
+                    "value": "COLC"
+                },
+                {
+                    "docCount": 54,
+                    "value": "FCA"
+                },
+                {
+                    "docCount": 53,
+                    "value": "FAS"
+                },
+                {
+                    "docCount": 53,
+                    "value": "USAF"
+                },
+                {
+                    "docCount": 52,
+                    "value": "FRTIB"
+                },
+                {
+                    "docCount": 51,
+                    "value": "PRC"
+                },
+                {
+                    "docCount": 50,
+                    "value": "EEOC"
+                },
+                {
+                    "docCount": 49,
+                    "value": "CEQ"
+                },
+                {
+                    "docCount": 49,
+                    "value": "CRB"
+                },
+                {
+                    "docCount": 48,
+                    "value": "WAPA"
+                },
+                {
+                    "docCount": 47,
+                    "value": "ASC"
+                },
+                {
+                    "docCount": 45,
+                    "value": "FMCS"
+                },
+                {
+                    "docCount": 39,
+                    "value": "ACF"
+                },
+                {
+                    "docCount": 39,
+                    "value": "ATSDR"
+                },
+                {
+                    "docCount": 39,
+                    "value": "FASAB"
+                },
+                {
+                    "docCount": 39,
+                    "value": "NASS"
+                },
+                {
+                    "docCount": 38,
+                    "value": "NEIGHBOR"
+                },
+                {
+                    "docCount": 38,
+                    "value": "NPS"
+                },
+                {
+                    "docCount": 37,
+                    "value": "NTSB"
+                },
+                {
+                    "docCount": 36,
+                    "value": "BIA"
+                },
+                {
+                    "docCount": 36,
+                    "value": "MCC"
+                },
+                {
+                    "docCount": 36,
+                    "value": "MSHFRC"
+                },
+                {
+                    "docCount": 35,
+                    "value": "EIA"
+                },
+                {
+                    "docCount": 34,
+                    "value": "GEO"
+                },
+                {
+                    "docCount": 34,
+                    "value": "PC"
+                },
+                {
+                    "docCount": 32,
+                    "value": "OFCCP"
+                },
+                {
+                    "docCount": 31,
+                    "value": "ATBCB"
+                },
+                {
+                    "docCount": 31,
+                    "value": "NNSA"
+                },
+                {
+                    "docCount": 30,
+                    "value": "ONRR"
+                },
+                {
+                    "docCount": 27,
+                    "value": "DFC"
+                },
+                {
+                    "docCount": 27,
+                    "value": "FCIC"
+                },
+                {
+                    "docCount": 26,
+                    "value": "CCC"
+                },
+                {
+                    "docCount": 26,
+                    "value": "IAF"
+                },
+                {
+                    "docCount": 25,
+                    "value": "USCC"
+                },
+                {
+                    "docCount": 24,
+                    "value": "GAO"
+                },
+                {
+                    "docCount": 23,
+                    "value": "DOC"
+                },
+                {
+                    "docCount": 22,
+                    "value": "FLRA"
+                },
+                {
+                    "docCount": 20,
+                    "value": "NTIA"
+                },
+                {
+                    "docCount": 19,
+                    "value": "COFA"
+                },
+                {
+                    "docCount": 19,
+                    "value": "DNFSB"
+                },
+                {
+                    "docCount": 18,
+                    "value": "DRBC"
+                },
+                {
+                    "docCount": 18,
+                    "value": "FCSIC"
+                },
+                {
+                    "docCount": 18,
+                    "value": "MSPB"
+                },
+                {
+                    "docCount": 18,
+                    "value": "USJC"
+                },
+                {
+                    "docCount": 17,
+                    "value": "ACUS"
+                },
+                {
+                    "docCount": 17,
+                    "value": "CSB"
+                },
+                {
+                    "docCount": 17,
+                    "value": "NIFA"
+                },
+                {
+                    "docCount": 17,
+                    "value": "NIST"
+                },
+                {
+                    "docCount": 17,
+                    "value": "SSS"
+                },
+                {
+                    "docCount": 17,
+                    "value": "USSC"
+                },
+                {
+                    "docCount": 16,
+                    "value": "JBEA"
+                },
+                {
+                    "docCount": 14,
+                    "value": "ODNI"
+                },
+                {
+                    "docCount": 13,
+                    "value": "FSOC"
+                },
+                {
+                    "docCount": 13,
+                    "value": "SJI"
+                },
+                {
+                    "docCount": 13,
+                    "value": "SLSDC"
+                },
+                {
+                    "docCount": 12,
+                    "value": "FIRSTNET"
+                },
+                {
+                    "docCount": 12,
+                    "value": "USIP"
+                },
+                {
+                    "docCount": 11,
+                    "value": "ATF"
+                },
+                {
+                    "docCount": 11,
+                    "value": "CITA"
+                },
+                {
+                    "docCount": 11,
+                    "value": "EOIR"
+                },
+                {
+                    "docCount": 11,
+                    "value": "HHSIG"
+                },
+                {
+                    "docCount": 11,
+                    "value": "MKU"
+                },
+                {
+                    "docCount": 11,
+                    "value": "NCD"
+                },
+                {
+                    "docCount": 10,
+                    "value": "ARS"
+                },
+                {
+                    "docCount": 10,
+                    "value": "BOP"
+                },
+                {
+                    "docCount": 10,
+                    "value": "HPAC"
+                },
+                {
+                    "docCount": 10,
+                    "value": "USAGM"
+                },
+                {
+                    "docCount": 9,
+                    "value": "SWPA"
+                },
+                {
+                    "docCount": 8,
+                    "value": "ADF"
+                },
+                {
+                    "docCount": 8,
+                    "value": "EAB"
+                },
+                {
+                    "docCount": 8,
+                    "value": "NWTRB"
+                },
+                {
+                    "docCount": 8,
+                    "value": "RITA"
+                },
+                {
+                    "docCount": 7,
+                    "value": "ACL"
+                },
+                {
+                    "docCount": 7,
+                    "value": "BPA"
+                },
+                {
+                    "docCount": 7,
+                    "value": "CIGIE"
+                },
+                {
+                    "docCount": 7,
+                    "value": "DC"
+                },
+                {
+                    "docCount": 7,
+                    "value": "GCERC"
+                },
+                {
+                    "docCount": 7,
+                    "value": "NIH"
+                },
+                {
+                    "docCount": 7,
+                    "value": "SAMHSA"
+                },
+                {
+                    "docCount": 6,
+                    "value": "CDFI"
+                },
+                {
+                    "docCount": 6,
+                    "value": "CSOSA"
+                },
+                {
+                    "docCount": 6,
+                    "value": "GAPFAC"
+                },
+                {
+                    "docCount": 6,
+                    "value": "GPO"
+                },
+                {
+                    "docCount": 6,
+                    "value": "ONDCP"
+                },
+                {
+                    "docCount": 5,
+                    "value": "CIA"
+                },
+                {
+                    "docCount": 5,
+                    "value": "FPPO"
+                },
+                {
+                    "docCount": 5,
+                    "value": "HRSA"
+                },
+                {
+                    "docCount": 5,
+                    "value": "OSHRC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "ABMC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "ERS"
+                },
+                {
+                    "docCount": 4,
+                    "value": "MMC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "ONCD"
+                },
+                {
+                    "docCount": 4,
+                    "value": "OSC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "RISC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "RMA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "IPEC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "NSPC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "OFPP"
+                },
+                {
+                    "docCount": 3,
+                    "value": "OFR"
+                },
+                {
+                    "docCount": 3,
+                    "value": "PCLOB"
+                },
+                {
+                    "docCount": 3,
+                    "value": "PT"
+                },
+                {
+                    "docCount": 3,
+                    "value": "SS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ACFR"
+                },
+                {
+                    "docCount": 2,
+                    "value": "BLS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "BOR"
+                },
+                {
+                    "docCount": 2,
+                    "value": "EOP"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FBI"
+                },
+                {
+                    "docCount": 2,
+                    "value": "IAIA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "LMSO"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NAL"
+                },
+                {
+                    "docCount": 2,
+                    "value": "OJP"
+                },
+                {
+                    "docCount": 2,
+                    "value": "PBRB"
+                },
+                {
+                    "docCount": 2,
+                    "value": "PHS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "USDAIG"
+                },
+                {
+                    "docCount": 2,
+                    "value": "USMINT"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ERULE"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FPAC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FR"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FTZB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "LOC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "MBDA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NMB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "PACIFIC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USPC"
+                }
+            ],
+            "commentEndDate": [],
+            "postedDate": []
+        },
+        "filters": {
+            "postedDate": {
+                "fromDate": "2022-01-01",
+                "toDate": "2024-10-01"
+            },
+            "agencyId": [
+                {
+                    "label": "FLRA",
+                    "value": "FLRA"
+                }
+            ]
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "numberOfElements": 22,
+        "pageNumber": 1,
+        "pageSize": 250,
+        "totalElements": 22,
+        "totalPages": 1,
+        "firstPage": true,
+        "lastPage": true
+    }
+}

@@ -4,6 +4,7 @@ import json
 from datetime import datetime, timedelta
 from pymongo import MongoClient
 from pymongo.server_api import ServerApi
+from testing._03_mongodb import get_documents
 #from testing.parse_doc import summarize_attachments
 
 # Get the API key from the .env file
@@ -111,6 +112,10 @@ def extract_federal():
     # Convert the list of agencies to a list of agency IDs
     agency_ids = [agency['agency_id'] for agency in agencies]
 
+    # Get documents already in the database and convert IDs to a list
+    loaded = get_documents()
+    loaded_ids = loaded['doc_id'].tolist()
+
     for agency_id in agency_ids:
         response = search_documents(startDate=startDate, endDate=endDate, document_type=document_id, docket_id=docket_id, search_term=search_term, agency_id=agency_id)
         if response:
@@ -120,48 +125,46 @@ def extract_federal():
                 print(f"No documents found for {agency_id}")
             else:
                 print(f"{len(document_ids)} documents found for {agency_id}")
-                save_json(response, f"data/federal/documents/{startDate}_{agency_id}.json")
+                save_json(response, f"data/federal/documents/{startDate}_{endDate}_{agency_id}.json")
                 #load_json_to_mongodb(response, collection_1)
 
                 # Save the details for each document to a separate JSON file and load into MongoDB
                 for doc_id in document_ids:
-                    details = get_document_details(doc_id)
-                    if details:
-                        # save_json(details, f"data/federal/document_details/{startDate}_{doc_id}.json")
-                        load_json_to_mongodb(details, collection)
-                       
+                    # Check to see if document already exists in mongodb
+                    if doc_id in loaded_ids:
+                        print(f"Document {doc_id} already exists - skipping Mongodb upload.")
+                    else:
+                        details = get_document_details(doc_id)
+                        if details:
+                            # save_json(details, f"data/federal/document_details/{startDate}_{doc_id}.json")
+                            try: 
+                                print(f"Loading document {doc_id}...")
+                                load_json_to_mongodb(details, collection)
+                            except Exception as e:
+                                print(f"Error loading document {doc_id}: {e}")
+                        
                 # Download the htm file listed in the link in fileFormats
                 try:
                     for doc_id in document_ids:
-                        details = get_document_details(doc_id)
-                        if details:
-                            if details['data']['attributes'] and 'fileFormats' in details['data']['attributes']:
-                                for attachment in details['data']['attributes']['fileFormats']:
-                                    if attachment['fileUrl'].endswith('.htm'):
-                                        response = requests.get(attachment['fileUrl'])
-                                        output_file_html = f"data/federal/attachments/{doc_id}.htm"
-                                        with open(output_file_html, 'wb') as f:
-                                            f.write(response.content)
-                                        #try:
-                                            #summarize_attachments(output_file_html)
-                                        #except Exception as e:
-                                            #print(f"Error summarizing attachments for {doc_id}: {e}")
-                                            #continue
-                                    """if attachment['fileUrl'].endswith('.pdf'):
-                                        response = requests.get(attachment['fileUrl'])
-                                        output_file_pdf = f"data/federal/attachments/{doc_id}.pdf"
-                                        with open(output_file_pdf, 'wb') as f:
-                                            f.write(response.content)
-                                        try:
-                                            summarize_attachments(output_file_pdf)
-                                        except Exception as e:
-                                            print(f"Error summarizing attachments for {doc_id}: {e}")
-                                            continue"""
+                        if doc_id in loaded_ids:
+                            print(f"Document {doc_id} already exists - skipping attachment download.")
+                        else:
+                            details = get_document_details(doc_id)
+                            if details:
+                                if details['data']['attributes'] and 'fileFormats' in details['data']['attributes']:
+                                    for attachment in details['data']['attributes']['fileFormats']:
+                                        if attachment['fileUrl'].endswith('.htm'):
+                                            print(f"Downloading attachment for {doc_id}...")
+                                            response = requests.get(attachment['fileUrl'])
+                                            with open(f"data/federal/attachments/{doc_id}.htm", 'wb') as f:
+                                                f.write(response.content)
+                                else:
+                                    print(f"No fileFormats found for {doc_id}")
                 except Exception as e:
                     print(f"Error downloading attachments for {agency_id}: {e}")
                 
             # List the number of documents returned for each agency to a log file
-            with open(f"data/federal/logs/{startDate}_log.txt", "a") as f:
+            with open(f"data/federal/logs/{startDate}_{endDate}_log.txt", "a") as f:
                 f.write(f"{agency_id}: {len(document_ids)}\n")
                 f.write("---\n")
 

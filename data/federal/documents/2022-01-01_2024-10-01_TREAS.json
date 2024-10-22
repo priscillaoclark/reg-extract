@@ -1,0 +1,3588 @@
+{
+    "data": [
+        {
+            "id": "TREAS-DO-2024-0015-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-09-19T13:20:14Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2024-10-22T03:59:59Z",
+                "title": "Privacy Act of 1974 System of Records Notice Outbound Investment Security Program Notification System",
+                "postedDate": "2024-09-19T04:00:00Z",
+                "docketId": "TREAS-DO-2024-0015",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2024-09-19T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648674d8f4"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2024-0015-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2024-0014-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2024-10-22T01:00:49Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-21278",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2024-10-22T03:59:59Z",
+                "title": "Privacy Act Exemptions",
+                "postedDate": "2024-09-19T04:00:00Z",
+                "docketId": "TREAS-DO-2024-0014",
+                "subtype": "Notice of Proposed Rulemaking (NPRM)",
+                "commentStartDate": "2024-09-19T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648674cc6d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2024-0014-0001"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0468",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-09-10T12:17:51Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-20388",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Import Restrictions: Archaeological and Ethnological Material of Yemen",
+                "postedDate": "2024-09-10T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-09-10T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064866e0afd"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0468"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0467",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-09-10T12:17:26Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-20385",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Emergency Import Restrictions: Categories of Archaeological and Ethnological Material of Ukraine",
+                "postedDate": "2024-09-10T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-09-10T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064866e0a9d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0467"
+            }
+        },
+        {
+            "id": "TREAS-DO-2024-0008-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2024-10-22T01:00:39Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-18415",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2024-10-22T03:59:59Z",
+                "title": "Financial Data Transparency Act Joint Data Standards",
+                "postedDate": "2024-08-22T04:00:00Z",
+                "docketId": "TREAS-DO-2024-0008",
+                "subtype": "Notice of Proposed Rulemaking (NPRM)",
+                "commentStartDate": "2024-08-22T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648665b434"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2024-0008-0001"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0465",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2024-08-16T12:31:50Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-16461",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Semiannual Agenda",
+                "postedDate": "2024-08-16T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-08-16T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648664daaa"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0465"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0464",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-08-12T11:58:31Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-17892",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Import Restrictions: Certain Archaeological Material of Algeria",
+                "postedDate": "2024-08-12T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-08-12T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486633dbe"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0464"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0463",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-07-22T12:16:47Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-16037",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Import Restrictions: Archaeological and Ethnological Material of Tunisia",
+                "postedDate": "2024-07-22T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-07-22T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865fd9d3"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0463"
+            }
+        },
+        {
+            "id": "TREAS-DO-2024-0010-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2024-08-22T01:02:03Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-15221",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2024-08-20T03:59:59Z",
+                "title": "Definition of Military Installation and the List of Military Installations in Regulations Pertaining to Certain Transactions by Foreign Persons Involving Real Estate in the United States",
+                "postedDate": "2024-07-19T04:00:00Z",
+                "docketId": "TREAS-DO-2024-0010",
+                "subtype": "Notice of Proposed Rulemaking (NPRM)",
+                "commentStartDate": "2024-07-19T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865fa93b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2024-0010-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2024-0012-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2024-09-04T01:00:50Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-13923",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2024-08-05T03:59:59Z",
+                "title": "U.S. Investments in Certain National Security Technologies and Products in Countries of Concern",
+                "postedDate": "2024-07-05T04:00:00Z",
+                "docketId": "TREAS-DO-2024-0012",
+                "subtype": "Notice of Proposed Rulemaking (NPRM)",
+                "commentStartDate": "2024-07-05T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865dc620"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2024-0012-0001"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0460",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-06-24T12:23:49Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-13329",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Enforcement of Copyrights and the Digital Millennium Copyright Act",
+                "postedDate": "2024-06-24T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-06-24T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865c52da"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0460"
+            }
+        },
+        {
+            "id": "TREAS-DO-2024-0011-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-08-15T01:01:12Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2024-08-13T03:59:59Z",
+                "title": "Request for Information on Uses, Opportunities, and Risks of Artificial Intelligence in the Financial Services \nSector",
+                "postedDate": "2024-06-12T04:00:00Z",
+                "docketId": "TREAS-DO-2024-0011",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2024-06-12T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865b0eb8"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2024-0011-0001"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0459",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-05-22T12:17:58Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-11177",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Import Restrictions Imposed on Archaeological and Ethnological Material from Ecuador: Correction",
+                "postedDate": "2024-05-22T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-05-22T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865792c2"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0459"
+            }
+        },
+        {
+            "id": "TREAS-DO-2024-0003-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2024-05-15T01:01:19Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-09696",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2024-06-14T03:59:59Z",
+                "title": "Privacy Act; Exempting a System of Records from Certain Requirements",
+                "postedDate": "2024-05-14T04:00:00Z",
+                "docketId": "TREAS-DO-2024-0003",
+                "subtype": "Notice of Proposed Rulemaking (NPRM)",
+                "commentStartDate": "2024-05-14T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486562fed"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2024-0003-0002"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0457",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-05-06T12:31:02Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-08999",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Ongoing Data Collection of Non-Centrally Cleared Bilateral Transactions in the U.S. Repurchase Agreement Market",
+                "postedDate": "2024-05-06T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-05-06T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486542656"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0457"
+            }
+        },
+        {
+            "id": "TREAS-DO-2024-0003-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-05-03T16:15:20Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2024-06-04T03:59:59Z",
+                "title": "Privacy Act System of Records IRS 34.018",
+                "postedDate": "2024-05-03T04:00:00Z",
+                "docketId": "TREAS-DO-2024-0003",
+                "subtype": "Privacy Act System of Records",
+                "commentStartDate": "2024-05-03T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064865322f5"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2024-0003-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2024-0007-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-05-04T01:00:47Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2024-05-23T03:59:59Z",
+                "title": "Privacy Act of 1974 System of Records Notice NLEAD",
+                "postedDate": "2024-04-22T04:00:00Z",
+                "docketId": "TREAS-DO-2024-0007",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2024-04-22T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864e399a"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2024-0007-0001"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0455",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-04-15T12:41:08Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-07274",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Patient Protection and Affordable Care Act, HHS Notice of Benefit and Payment Parameters for 2025; Updating Section 1332 Waiver Public Notice Procedures; Medicaid; Consumer Operated and Oriented Plan Program; and Basic Health Program",
+                "postedDate": "2024-04-15T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-04-15T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864d4ef0"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0455"
+            }
+        },
+        {
+            "id": "TREAS-DO-2024-0006-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2024-05-17T01:03:26Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-07693",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2024-05-16T03:59:59Z",
+                "title": "Amendments to Penalty Provisions, Provision of Information, Negotiation of Mitigation Agreements, and Other Procedures Pertaining to Certain Investments in the United States by Foreign Persons and Certain Transactions by Foreign Persons Involving Real Estate in the United States",
+                "postedDate": "2024-04-15T04:00:00Z",
+                "docketId": "TREAS-DO-2024-0006",
+                "subtype": "Notice of Proposed Rulemaking (NPRM)",
+                "commentStartDate": "2024-04-15T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864d4fe6"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2024-0006-0001"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0454",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-04-10T12:07:35Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-07244",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Imposition of Import Restrictions on Archaeological and Ethnological Material of Pakistan",
+                "postedDate": "2024-04-10T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-04-10T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064864c55b0"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0454"
+            }
+        },
+        {
+            "id": "TREAS-TRIP-2024-0005-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-05-04T01:04:19Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2024-05-04T03:59:59Z",
+                "title": "2024 Report on the Effectiveness of the Terrorism Risk Insurance Program",
+                "postedDate": "2024-03-19T04:00:00Z",
+                "docketId": "TREAS-TRIP-2024-0005",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2024-03-19T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486485575"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-TRIP-2024-0005-0001"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0453",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-03-20T12:36:00Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-04713",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Investigations of Claims of Evasion of Antidumping and Countervailing Duties",
+                "postedDate": "2024-03-18T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-03-18T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486481138"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0453"
+            }
+        },
+        {
+            "id": "TREAS-DO-2024-0004-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-03-15T16:56:34Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2024-04-16T03:59:59Z",
+                "title": "Privacy Act of 1974 System of Records Notice OIG",
+                "postedDate": "2024-03-15T04:00:00Z",
+                "docketId": "TREAS-DO-2024-0004",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2024-03-15T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648647d95f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2024-0004-0001"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0452",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-03-12T12:17:37Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-05345",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Extension of Import Restrictions Imposed on Archaeological and Ecclesiastical Ethnological Material from Honduras",
+                "postedDate": "2024-03-12T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-03-12T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486474647"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0452"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0451",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-03-06T13:03:33Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-04711",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Refund of Alcohol Excise Tax",
+                "postedDate": "2024-03-06T05:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-03-06T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648646487f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0451"
+            }
+        },
+        {
+            "id": "TREAS-DO-2024-0002-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-02-27T02:00:58Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2024-02-27T04:59:59Z",
+                "title": "Privacy Act of 1974  System of Records ODCP",
+                "postedDate": "2024-02-21T05:00:00Z",
+                "docketId": "TREAS-DO-2024-0002",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2024-02-21T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486420b90"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2024-0002-0001"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0450",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2024-02-09T14:50:19Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-00445",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Semiannual Agenda",
+                "postedDate": "2024-02-09T05:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-02-09T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064863f7e12"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0450"
+            }
+        },
+        {
+            "id": "TREAS-DO-2022-0009-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-02-07T21:37:04Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2024-02-14T04:59:59Z",
+                "title": "Agency Information Collection Activity SSBCI",
+                "postedDate": "2024-02-07T05:00:00Z",
+                "docketId": "TREAS-DO-2022-0009",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2024-02-07T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064863f1368"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2022-0009-0002"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0449",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-01-25T13:31:23Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-01409",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Civil Monetary Penalty Inflation Adjustment",
+                "postedDate": "2024-01-25T05:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-01-25T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064863c2532"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0449"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0448",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-01-16T14:06:45Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-00689",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Import Restrictions: Archaeological and Ecclesiastical Ethnological Materials of Bulgaria",
+                "postedDate": "2024-01-16T05:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-01-16T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648639e920"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0448"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0447",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-01-11T13:07:28Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-00394",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Import Restrictions: Certain Archaeological Material from China",
+                "postedDate": "2024-01-11T05:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-01-11T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648639233e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0447"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0446",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2023-12-26T13:23:04Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-27299",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Privacy Act Regulations; Correction",
+                "postedDate": "2023-12-26T05:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2023-12-26T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486359e5e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0446"
+            }
+        },
+        {
+            "id": "TREAS-DO-2023-0014-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-02-22T02:01:01Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2024-02-21T04:59:59Z",
+                "title": "Request for Information on Financial  Inclusion",
+                "postedDate": "2023-12-22T05:00:00Z",
+                "docketId": "TREAS-DO-2023-0014",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2023-12-22T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486350fc5"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2023-0014-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2024-0001-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2024-01-17T14:06:03Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-25576",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2024-01-09T04:59:59Z",
+                "title": "Patient Protection and Affordable Care Act, Notice of Benefit and Payment Parameters for 2025; Updating Waiver Public Notice Procedures; Medicaid; Consumer Operated and Oriented Plan Program; and Basic Health Program",
+                "postedDate": "2023-11-24T05:00:00Z",
+                "docketId": "TREAS-DO-2024-0001",
+                "subtype": "Notice of Proposed Rulemaking (NPRM)",
+                "commentStartDate": "2023-11-24T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064862abda7"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2024-0001-0001"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0444",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2023-11-22T14:14:40Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-25681",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Privacy Act; Exemptions",
+                "postedDate": "2023-11-22T05:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2023-11-22T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064862a5ae7"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0444"
+            }
+        },
+        {
+            "id": "TREAS-DO-2023-0013-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2023-12-22T02:00:57Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-25067",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2023-12-21T04:59:59Z",
+                "title": "Coronavirus State and Local Fiscal Recovery Funds",
+                "postedDate": "2023-11-20T05:00:00Z",
+                "docketId": "TREAS-DO-2023-0013",
+                "subtype": "Interim Final Rule",
+                "commentStartDate": "2023-11-20T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486296258"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2023-0013-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2023-0012-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2023-11-02T10:37:52Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2023-12-05T04:59:59Z",
+                "title": "Privacy Act System of Records Notice .017",
+                "postedDate": "2023-11-02T04:00:00Z",
+                "docketId": "TREAS-DO-2023-0012",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2023-11-02T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064861ce704"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2023-0012-0001"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0442",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2023-10-23T11:51:55Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-23305",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2023-12-23T04:59:59Z",
+                "title": "Elimination of Debit Voucher Interest Accruing Before the Issuance of a Bill",
+                "postedDate": "2023-10-23T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2023-10-23T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064861237f8"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0442"
+            }
+        },
+        {
+            "id": "TREAS-DO-2022-0011-0015",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2023-10-11T10:20:25Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2023-12-05T04:59:59Z",
+                "title": "Agency Information Collection Activities Capital Projects Fund",
+                "postedDate": "2023-10-11T04:00:00Z",
+                "docketId": "TREAS-DO-2022-0011",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2023-10-11T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648609e760"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2022-0011-0015"
+            }
+        },
+        {
+            "id": "TREAS-DO-2023-0011-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2023-11-21T02:00:39Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-17446",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2023-11-21T04:59:59Z",
+                "title": "Coronavirus State and Local Fiscal Recovery Funds",
+                "postedDate": "2023-09-20T04:00:00Z",
+                "docketId": "TREAS-DO-2023-0011",
+                "subtype": "Interim Final Rule",
+                "commentStartDate": "2023-09-20T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485fd5856"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2023-0011-0001"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0440",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2023-09-19T12:11:04Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-20335",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Import Restrictions Imposed: Archaeological and Ethnological Material of Cambodia; Extension and Amendment",
+                "postedDate": "2023-09-19T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2023-09-19T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485fcf7c0"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0440"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0439",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2023-09-14T11:59:02Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-19815",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Privacy Act; Systems of Records",
+                "postedDate": "2023-09-14T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2023-09-14T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485fa0bcd"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0439"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0438",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2023-09-13T11:38:55Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-19768",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Import Restrictions on Ethnological Material of Peru",
+                "postedDate": "2023-09-13T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2023-09-13T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485f9497b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0438"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0437",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2023-08-23T12:16:13Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-17678",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Provisions Pertaining to Certain Transactions by Foreign Persons Involving Real Estate in the United States",
+                "postedDate": "2023-08-23T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2023-08-23T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485ed8cfd"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0437"
+            }
+        },
+        {
+            "id": "TREAS-TRIP-2023-0010-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2023-08-17T11:31:37Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2023-10-17T03:59:59Z",
+                "title": "Claims Processing and Other Purposes Under the Terrorism Risk Insurance Program (Extension of Currently Approved Data Collections Under OMB No. 1505\u20130200)",
+                "postedDate": "2023-08-17T04:00:00Z",
+                "docketId": "TREAS-TRIP-2023-0010",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2023-08-17T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485e66ac2"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-TRIP-2023-0010-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2023-0009-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2023-10-04T01:03:39Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-17164",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2023-09-29T03:59:59Z",
+                "title": "U.S. Investments in Certain National Security Technologies and Products in Countries of Concern",
+                "postedDate": "2023-08-14T04:00:00Z",
+                "docketId": "TREAS-DO-2023-0009",
+                "subtype": "Advance Notice of Proposed Rulemaking (ANPRM)",
+                "commentStartDate": "2023-08-14T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485e33528"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2023-0009-0001"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0435",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2023-07-27T13:07:25Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-14550",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Semiannual Agenda",
+                "postedDate": "2023-07-27T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2023-07-27T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485d5d34f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0435"
+            }
+        },
+        {
+            "id": "TREAS-DO-2023-0008-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2023-09-13T01:03:07Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2023-09-12T03:59:59Z",
+                "title": "Request for Information Regarding Medical Payment Products",
+                "postedDate": "2023-07-12T04:00:00Z",
+                "docketId": "TREAS-DO-2023-0008",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2023-07-12T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485c87f75"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2023-0008-0001"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0434",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2023-07-06T12:10:13Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-14204",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Distinctive Paper and Distinctive Counterfeit Deterrents for United States Federal Reserve Notes",
+                "postedDate": "2023-07-06T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2023-07-06T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485c6c03a"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0434"
+            }
+        },
+        {
+            "id": "TREAS-DO-2023-0007-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2023-06-16T10:42:06Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2023-07-18T03:59:59Z",
+                "title": "Privacy Act of 1974 System of Records erulemaking",
+                "postedDate": "2023-06-16T04:00:00Z",
+                "docketId": "TREAS-DO-2023-0007",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2023-06-16T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485b2813b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2023-0007-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2023-0006-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2023-06-28T01:01:30Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-09259",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2023-06-06T03:59:59Z",
+                "title": "Provisions Pertaining to Certain Transactions by Foreign Persons Involving Real Estate in the United States",
+                "postedDate": "2023-05-05T04:00:00Z",
+                "docketId": "TREAS-DO-2023-0006",
+                "subtype": "Notice of Proposed Rulemaking (NPRM)",
+                "commentStartDate": "2023-05-05T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064859d319d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2023-0006-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2023-0005-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2023-05-16T01:00:59Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2023-05-23T03:59:59Z",
+                "title": "Privacy Act System of Records Notice",
+                "postedDate": "2023-04-21T04:00:00Z",
+                "docketId": "TREAS-DO-2023-0005",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2023-04-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064859702bb"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2023-0005-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2022-0013-0041",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2023-05-10T01:00:41Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2023-05-09T03:59:59Z",
+                "title": "Federal Register Notice - Emergency Capital Investment Program Initial Supplemental Report and Quarterly Supplemental Report; Correction",
+                "postedDate": "2023-04-18T04:00:00Z",
+                "docketId": "TREAS-DO-2022-0013",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2023-04-18T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648595643c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2022-0013-0041"
+            }
+        },
+        {
+            "id": "TREAS-TRIP-2023-0004-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2023-05-13T01:00:50Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2023-05-13T03:59:59Z",
+                "title": "Comments in Aid of Analyses of the Terrorism Risk Insurance Program",
+                "postedDate": "2023-03-28T04:00:00Z",
+                "docketId": "TREAS-TRIP-2023-0004",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2023-03-28T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648587a306"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-TRIP-2023-0004-0001"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0432",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2023-03-21T12:15:29Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-05769",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Inflation Adjustment of Civil Monetary Penalties",
+                "postedDate": "2023-03-21T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2023-03-21T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648580f21c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0432"
+            }
+        },
+        {
+            "id": "TREAS-DO-2023-0003-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2023-02-27T16:31:16Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2023-03-30T03:59:59Z",
+                "title": "Privacy Act of 1974 System of Records Notice SSBCI",
+                "postedDate": "2023-02-27T05:00:00Z",
+                "docketId": "TREAS-DO-2023-0003",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2023-02-27T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648571dc1e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2023-0003-0001"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0430",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2023-02-23T13:00:19Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-03727",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Import Restrictions on Archaeological and Ethnological Materials of Libya",
+                "postedDate": "2023-02-23T05:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2023-02-23T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064856f278a"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0430"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0431",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2023-02-23T13:00:53Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-03729",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Import Restrictions Imposed on Certain Archaeological Material of Belize",
+                "postedDate": "2023-02-23T05:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2023-02-23T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064856f27d8"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0431"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0429",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2023-02-22T21:44:25Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-02032",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Semiannual Agenda and Regulatory Plan",
+                "postedDate": "2023-02-22T05:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2023-02-22T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064856ee28a"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0429"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0428",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2023-02-13T13:00:23Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-02533",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Determination Regarding Excepted Foreign States",
+                "postedDate": "2023-02-13T05:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2023-02-13T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485685679"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0428"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0427",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2023-02-13T12:58:56Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-02531",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Determination Regarding Excepted Real Estate Foreign States",
+                "postedDate": "2023-02-13T05:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2023-02-13T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485685672"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0427"
+            }
+        },
+        {
+            "id": "TREAS-DO-2023-0002-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2023-01-18T13:27:21Z",
+                "highlightedContent": "",
+                "frDocNum": "2023-00854",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2023-03-21T03:59:59Z",
+                "title": "Distinctive Paper and Distinctive Counterfeit Deterrents for United States Federal Reserve Notes",
+                "postedDate": "2023-01-18T05:00:00Z",
+                "docketId": "TREAS-DO-2023-0002",
+                "subtype": "Notice of Proposed Rulemaking (NPRM)",
+                "commentStartDate": "2023-01-18T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064855f5585"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2023-0002-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2023-0001-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2023-03-12T01:34:20Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-28615",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2023-03-11T04:59:59Z",
+                "title": "Collection of Non-Centrally Cleared Bilateral Transactions in the U.S. Repurchase Agreement Market",
+                "postedDate": "2023-01-09T05:00:00Z",
+                "docketId": "TREAS-DO-2023-0001",
+                "subtype": "Notice of Proposed Rulemaking (NPRM)",
+                "commentStartDate": "2023-01-09T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064855c2541"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2023-0001-0001"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0424",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-12-30T13:04:07Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-28375",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2023-03-03T04:59:59Z",
+                "title": "Refund of Alcohol Excise Tax",
+                "postedDate": "2022-12-30T05:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2022-12-30T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485564b44"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0424"
+            }
+        },
+        {
+            "id": "TREAS-DO-2022-0023-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-12-19T23:26:34Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2023-01-19T04:59:59Z",
+                "title": "Privacy Act of 1974 System of Records Notice December 19 2022",
+                "postedDate": "2022-12-19T05:00:00Z",
+                "docketId": "TREAS-DO-2022-0023",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2022-12-19T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648554350d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2022-0023-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2022-0020-0013",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-11-23T12:48:13Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Opportunities and Challenges in Federal Community Investment Programs; Extension of comment period",
+                "postedDate": "2022-11-23T05:00:00Z",
+                "docketId": "TREAS-DO-2022-0020",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2022-11-23T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064854fe186"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2022-0020-0013"
+            }
+        },
+        {
+            "id": "TREAS-DO-2022-0022-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-12-15T02:00:59Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2022-12-17T04:59:59Z",
+                "title": "Privacy Act System of Records Notice",
+                "postedDate": "2022-11-16T05:00:00Z",
+                "docketId": "TREAS-DO-2022-0022",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2022-11-16T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064854b4e2d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2022-0022-0001"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0423",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-11-15T13:21:53Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-23329",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Rules of Origin for Goods Imported into the United States",
+                "postedDate": "2022-11-15T05:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2022-11-15T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064854b0c64"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0423"
+            }
+        },
+        {
+            "id": "TREAS-DO-2022-0019-0008",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-11-09T12:21:31Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Comment extension notice",
+                "postedDate": "2022-11-09T05:00:00Z",
+                "docketId": "TREAS-DO-2022-0019",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2022-11-09T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648549c0b6"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2022-0019-0008"
+            }
+        },
+        {
+            "id": "TREAS-DO-2022-0011-0013",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-11-14T12:51:40Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "DRAFT - CPF State Terr FAS Reporting Guidance Version 1.1 revised",
+                "postedDate": "2022-11-08T05:00:00Z",
+                "docketId": "TREAS-DO-2022-0011",
+                "subtype": "Form",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "090000648549ba1d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2022-0011-0013"
+            }
+        },
+        {
+            "id": "TREAS-DO-2022-0011-0012",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-11-14T12:51:38Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "DRAFT CPF Tribal Guidance",
+                "postedDate": "2022-11-08T05:00:00Z",
+                "docketId": "TREAS-DO-2022-0011",
+                "subtype": "Form",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "090000648549ba1b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2022-0011-0012"
+            }
+        },
+        {
+            "id": "TREAS-DO-2022-0011-0011",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-11-09T02:01:11Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2023-01-04T04:59:59Z",
+                "title": "Proposed Collection Comment Request Capital Proects Fund Compliance Reporting",
+                "postedDate": "2022-11-08T05:00:00Z",
+                "docketId": "TREAS-DO-2022-0011",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2022-11-08T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648549b568"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2022-0011-0011"
+            }
+        },
+        {
+            "id": "TREAS-DO-2022-0021-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-12-22T02:01:03Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2022-12-21T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Federal Insurance Office Climate-Related Financial Risk Data Collection",
+                "postedDate": "2022-10-27T04:00:00Z",
+                "docketId": "TREAS-DO-2022-0021",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2022-10-27T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485466015"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2022-0021-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2022-0017-0007",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-10-20T10:41:46Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "SSBCI RFI Comment Period Extension",
+                "postedDate": "2022-10-20T04:00:00Z",
+                "docketId": "TREAS-DO-2022-0017",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2022-10-20T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485435f7d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2022-0017-0007"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0422",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-10-20T11:43:12Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-22723",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Privacy Act",
+                "postedDate": "2022-10-20T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2022-10-20T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648543b060"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0422"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0420",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-10-18T11:45:20Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-22151",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Elimination of Customs Broker District Permit Fee",
+                "postedDate": "2022-10-18T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2022-10-18T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485415a81"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0420"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0421",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-10-18T11:45:22Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-22445",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Modernization of the Customs Broker Regulations",
+                "postedDate": "2022-10-18T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2022-10-18T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485415a82"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0421"
+            }
+        },
+        {
+            "id": "TREAS-DO-2022-0020-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-12-22T14:01:42Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2022-12-20T04:59:59Z",
+                "title": "Opportunities and Challenges in Federal Community Investment Programs",
+                "postedDate": "2022-10-04T04:00:00Z",
+                "docketId": "TREAS-DO-2022-0020",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2022-10-04T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064853a6779"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2022-0020-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2022-0019-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2023-06-23T01:01:07Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2022-12-15T04:59:59Z",
+                "title": "Potential Federal Insurance Response to Catastrophic Cyber Incidents",
+                "postedDate": "2022-09-29T04:00:00Z",
+                "docketId": "TREAS-DO-2022-0019",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2022-09-29T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648538055b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2022-0019-0001"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0419",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-09-28T11:43:00Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-20958",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Extension of Import Restrictions on Archaeological and Ecclesiastical Ethnological Materials From Guatemala",
+                "postedDate": "2022-09-28T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2022-09-28T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485379013"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0419"
+            }
+        },
+        {
+            "id": "TREAS-DO-2022-0018-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-11-05T01:00:15Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2022-11-04T03:59:59Z",
+                "title": "Ensuring Responsible Development of Digital Assets Request for Comment",
+                "postedDate": "2022-09-20T04:00:00Z",
+                "docketId": "TREAS-DO-2022-0018",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2022-09-20T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648532ff6d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2022-0018-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2022-0017-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-11-05T01:00:27Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2022-11-04T03:59:59Z",
+                "title": "Request for Information; State Small Business Credit Initiative Technical Assistance",
+                "postedDate": "2022-09-20T04:00:00Z",
+                "docketId": "TREAS-DO-2022-0017",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2022-09-20T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648532ff6e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2022-0017-0001"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0418",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-09-19T11:46:50Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-20314",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Import Restrictions on Archaeological and Ethnological Materials from Mali",
+                "postedDate": "2022-09-19T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2022-09-19T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648532801e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0418"
+            }
+        },
+        {
+            "id": "TREAS-DO-2022-0016-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-09-16T14:56:49Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2022-11-16T04:59:59Z",
+                "title": "Emergency Capital Investment Program 1505-0267",
+                "postedDate": "2022-09-16T04:00:00Z",
+                "docketId": "TREAS-DO-2022-0016",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2022-09-16T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006485318478"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2022-0016-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2022-0015-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2022-09-17T01:01:01Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-13285",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2022-09-24T03:59:59Z",
+                "title": "Privacy Act Regulations",
+                "postedDate": "2022-07-25T04:00:00Z",
+                "docketId": "TREAS-DO-2022-0015",
+                "subtype": "Notice of Proposed Rulemaking (NPRM)",
+                "commentStartDate": "2022-07-25T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064851e5433"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2022-0015-0001"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0416",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-07-18T11:55:43Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-15398",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Extension and Amendment of Import Restrictions on Archaeological and Ethnological Material from Cyprus",
+                "postedDate": "2022-07-18T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2022-07-18T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064851cfada"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0416"
+            }
+        },
+        {
+            "id": "TREAS-DO-2022-0013-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-08-31T01:01:10Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2022-08-30T03:59:59Z",
+                "title": "Agency Information Collection Activities; Emergency Capital  Investment Program Reporting",
+                "postedDate": "2022-07-15T04:00:00Z",
+                "docketId": "TREAS-DO-2022-0013",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2022-07-15T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064851cde14"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2022-0013-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2022-0014-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-08-10T01:00:53Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2022-08-09T03:59:59Z",
+                "title": "Ensuring Responsible Development of Digital Assets",
+                "postedDate": "2022-07-08T04:00:00Z",
+                "docketId": "TREAS-DO-2022-0014",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2022-07-08T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064851b5d95"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2022-0014-0001"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0415",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-07-07T12:04:16Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-13409",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Sale and Issue of Marketable Book-Entry Treasury Bills, Notes, and Bonds",
+                "postedDate": "2022-07-07T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2022-07-07T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064851b4371"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0415"
+            }
+        },
+        {
+            "id": "TREAS-DO-2022-0012-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-10-13T01:01:06Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2022-08-27T03:59:59Z",
+                "title": "Notice Seeking Public Comment on Additional Transparency for Secondary Market Transactions of Treasury Securities",
+                "postedDate": "2022-06-27T04:00:00Z",
+                "docketId": "TREAS-DO-2022-0012",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2022-06-27T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064851a2b2c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2022-0012-0001"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0414",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-06-08T12:03:24Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-12299",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Import Restrictions Imposed on Certain Archaeological Artifacts and Ethnological Material from Peru",
+                "postedDate": "2022-06-08T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2022-06-08T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648514d236"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0414"
+            }
+        },
+        {
+            "id": "TREAS-DO-2022-0011-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-05-27T01:00:43Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2022-05-26T03:59:59Z",
+                "title": "Agency Information Collection Activities Capital Projects Fund Compliance Reporting",
+                "postedDate": "2022-05-10T04:00:00Z",
+                "docketId": "TREAS-DO-2022-0011",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2022-05-10T04:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648506592e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2022-0011-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2022-0011-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-05-12T18:06:57Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "CPF Reporting Guidance Draft for Comment",
+                "postedDate": "2022-05-10T04:00:00Z",
+                "docketId": "TREAS-DO-2022-0011",
+                "subtype": "Form",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006485065930"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2022-0011-0002"
+            }
+        },
+        {
+            "id": "TREAS-DO-2022-0008-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-04-01T15:30:39Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Federal Register Notice - HAF 2022-04-01 2022-06705",
+                "postedDate": "2022-04-01T04:00:00Z",
+                "docketId": "TREAS-DO-2022-0008",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2022-04-01T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484ff2bc9"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2022-0008-0002"
+            }
+        },
+        {
+            "id": "TREAS-DO-2022-0009-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-04-01T16:15:43Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2022-06-01T03:59:59Z",
+                "title": "FR Notice - SSBCI 2022-03-30 2022-06701",
+                "postedDate": "2022-04-01T04:00:00Z",
+                "docketId": "TREAS-DO-2022-0009",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2022-04-01T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484ff3906"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2022-0009-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2022-0008-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2022-04-01T15:27:31Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "DRAFT HAF Guidance on Participant Compliance and Reporting Responsibilities (Quarterly & Annual)",
+                "postedDate": "2022-04-01T04:00:00Z",
+                "docketId": "TREAS-DO-2022-0008",
+                "subtype": "Form",
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006484ff2bcb"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2022-0008-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2022-0007-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-03-31T22:14:39Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Homeowner Assistance Fund",
+                "postedDate": "2022-03-31T04:00:00Z",
+                "docketId": "TREAS-DO-2022-0007",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2022-03-31T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484fe3998"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2022-0007-0001"
+            }
+        },
+        {
+            "id": "TREAS-TRIP-2022-0010-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-05-28T01:00:32Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2022-05-17T03:59:59Z",
+                "title": "2022 Report on the Effectiveness of the Terrorism Risk Insurance Program",
+                "postedDate": "2022-03-30T04:00:00Z",
+                "docketId": "TREAS-TRIP-2022-0010",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2022-03-30T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484fecd82"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-TRIP-2022-0010-0001"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0413",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-03-17T12:10:50Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-05685",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Imposition of Import Restrictions on Categories of Archaeological and Ethnological Material of Albania",
+                "postedDate": "2022-03-17T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2022-03-17T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484fce25d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0413"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0412",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-03-17T12:10:47Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-05681",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Import Restrictions Imposed on Categories of Archaeological and Ethnological Material of Nigeria",
+                "postedDate": "2022-03-17T04:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2022-03-17T04:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484fce20c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0412"
+            }
+        },
+        {
+            "id": "TREAS-DO-2022-0005-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-04-12T01:00:46Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-04843",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2022-04-12T03:59:59Z",
+                "title": "State Small Business Credit Initiative: Demographics-Related Reporting Requirements",
+                "postedDate": "2022-03-10T05:00:00Z",
+                "docketId": "TREAS-DO-2022-0005",
+                "subtype": "Interim Final Rule",
+                "commentStartDate": "2022-03-10T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484fc278f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2022-0005-0001"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0410",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-02-24T13:18:22Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-03608",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Program Fraud Civil Remedies",
+                "postedDate": "2022-02-24T05:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2022-02-24T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484f9f60f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0410"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0409",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-02-22T13:15:13Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-03663",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Emergency Import Restrictions Imposed on Archaeological and Ethnological Material of Afghanistan",
+                "postedDate": "2022-02-22T05:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2022-02-22T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484f9a71b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0409"
+            }
+        },
+        {
+            "id": "TREAS-DO-2022-0003-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-03-23T01:00:48Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2022-03-23T03:59:59Z",
+                "title": "Equal Employment Opportunity (EEO) Complaint Forms",
+                "postedDate": "2022-02-02T05:00:00Z",
+                "docketId": "TREAS-DO-2022-0003",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2022-02-02T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484f4e499"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2022-0003-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2022-0001-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-02-02T19:06:22Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2022-03-22T03:59:59Z",
+                "title": "Small Business Lending Funds Quarterly Supplemental Report",
+                "postedDate": "2022-02-02T05:00:00Z",
+                "docketId": "TREAS-DO-2022-0001",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2022-02-02T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484f4e41b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2022-0001-0001"
+            }
+        },
+        {
+            "id": "TREAS-DO-2022-0002-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2022-02-02T19:04:56Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": "2022-03-30T03:59:59Z",
+                "title": "Determinations Regarding Certain Nonbank Financial Companies",
+                "postedDate": "2022-01-28T05:00:00Z",
+                "docketId": "TREAS-DO-2022-0002",
+                "subtype": "Request for Comments",
+                "commentStartDate": "2022-01-28T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484f42ccb"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2022-0002-0001"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0408",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-01-27T12:46:14Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-00292",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Coronavirus State and Local FiscalRecovery Funds",
+                "postedDate": "2022-01-27T05:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2022-01-27T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484f3bb72"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0408"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0407",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-01-07T12:42:51Z",
+                "highlightedContent": "",
+                "frDocNum": "2022-00234",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Determination Regarding Excepted Real Estate Foreign States",
+                "postedDate": "2022-01-07T05:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2022-01-07T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484f120e0"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0407"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0405",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-01-06T12:50:11Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-28599",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Certain Investments in the United States by Foreign Persons and Certain Transactions by Foreign Persons Involving Real Estate in the United States",
+                "postedDate": "2022-01-06T05:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2022-01-06T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484f0b3f1"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0405"
+            }
+        },
+        {
+            "id": "TREAS_FRDOC_0001-0406",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2022-01-06T12:51:00Z",
+                "highlightedContent": "",
+                "frDocNum": "2021-28598",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "commentEndDate": null,
+                "title": "Determination Regarding Excepted Foreign States",
+                "postedDate": "2022-01-06T05:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2022-01-06T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006484f11d01"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0406"
+            }
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "documentType": [
+                {
+                    "docCount": 48,
+                    "label": "Rule"
+                },
+                {
+                    "docCount": 41,
+                    "label": "Notice"
+                },
+                {
+                    "docCount": 17,
+                    "label": "Proposed Rule"
+                },
+                {
+                    "docCount": 4,
+                    "label": "Supporting & Related Material"
+                }
+            ],
+            "subtype": [
+                {
+                    "docCount": 40,
+                    "label": "Request for Comments"
+                },
+                {
+                    "docCount": 11,
+                    "label": "Notice of Proposed Rulemaking (NPRM)"
+                },
+                {
+                    "docCount": 4,
+                    "label": "Form"
+                },
+                {
+                    "docCount": 3,
+                    "label": "Interim Final Rule"
+                },
+                {
+                    "docCount": 1,
+                    "label": "Advance Notice of Proposed Rulemaking (ANPRM)"
+                },
+                {
+                    "docCount": 1,
+                    "label": "Privacy Act System of Records"
+                }
+            ],
+            "withinCommentPeriod": [
+                {
+                    "docCount": 0,
+                    "label": "true"
+                },
+                {
+                    "docCount": 110,
+                    "label": "false"
+                }
+            ],
+            "agencyId": [
+                {
+                    "docCount": 72927,
+                    "value": "EPA"
+                },
+                {
+                    "docCount": 36213,
+                    "value": "FDA"
+                },
+                {
+                    "docCount": 21750,
+                    "value": "FAA"
+                },
+                {
+                    "docCount": 7033,
+                    "value": "DOT"
+                },
+                {
+                    "docCount": 5170,
+                    "value": "SEC"
+                },
+                {
+                    "docCount": 4667,
+                    "value": "FERC"
+                },
+                {
+                    "docCount": 3896,
+                    "value": "FMCSA"
+                },
+                {
+                    "docCount": 3094,
+                    "value": "FWS"
+                },
+                {
+                    "docCount": 2880,
+                    "value": "OSHA"
+                },
+                {
+                    "docCount": 2879,
+                    "value": "CPSC"
+                },
+                {
+                    "docCount": 2640,
+                    "value": "FRA"
+                },
+                {
+                    "docCount": 2630,
+                    "value": "USCG"
+                },
+                {
+                    "docCount": 2592,
+                    "value": "ITA"
+                },
+                {
+                    "docCount": 2239,
+                    "value": "MARAD"
+                },
+                {
+                    "docCount": 1915,
+                    "value": "PHMSA"
+                },
+                {
+                    "docCount": 1869,
+                    "value": "NRC"
+                },
+                {
+                    "docCount": 1653,
+                    "value": "NOAA"
+                },
+                {
+                    "docCount": 1615,
+                    "value": "MSHA"
+                },
+                {
+                    "docCount": 1504,
+                    "value": "USCIS"
+                },
+                {
+                    "docCount": 1465,
+                    "value": "NHTSA"
+                },
+                {
+                    "docCount": 1442,
+                    "value": "FEMA"
+                },
+                {
+                    "docCount": 1346,
+                    "value": "FCC"
+                },
+                {
+                    "docCount": 1272,
+                    "value": "ITC"
+                },
+                {
+                    "docCount": 1270,
+                    "value": "USPS"
+                },
+                {
+                    "docCount": 1267,
+                    "value": "ED"
+                },
+                {
+                    "docCount": 1245,
+                    "value": "EERE"
+                },
+                {
+                    "docCount": 1208,
+                    "value": "CMS"
+                },
+                {
+                    "docCount": 1205,
+                    "value": "VA"
+                },
+                {
+                    "docCount": 1023,
+                    "value": "NCUA"
+                },
+                {
+                    "docCount": 949,
+                    "value": "DOS"
+                },
+                {
+                    "docCount": 933,
+                    "value": "FRS"
+                },
+                {
+                    "docCount": 865,
+                    "value": "HUD"
+                },
+                {
+                    "docCount": 807,
+                    "value": "CRC"
+                },
+                {
+                    "docCount": 732,
+                    "value": "DOE"
+                },
+                {
+                    "docCount": 726,
+                    "value": "DOD"
+                },
+                {
+                    "docCount": 622,
+                    "value": "HHS"
+                },
+                {
+                    "docCount": 588,
+                    "value": "NARA"
+                },
+                {
+                    "docCount": 587,
+                    "value": "OFAC"
+                },
+                {
+                    "docCount": 575,
+                    "value": "APHIS"
+                },
+                {
+                    "docCount": 573,
+                    "value": "NSF"
+                },
+                {
+                    "docCount": 548,
+                    "value": "USDA"
+                },
+                {
+                    "docCount": 542,
+                    "value": "DOL"
+                },
+                {
+                    "docCount": 519,
+                    "value": "DEA"
+                },
+                {
+                    "docCount": 466,
+                    "value": "CDC"
+                },
+                {
+                    "docCount": 432,
+                    "value": "STB"
+                },
+                {
+                    "docCount": 422,
+                    "value": "FS"
+                },
+                {
+                    "docCount": 407,
+                    "value": "FHWA"
+                },
+                {
+                    "docCount": 367,
+                    "value": "BOEM"
+                },
+                {
+                    "docCount": 366,
+                    "value": "AMS"
+                },
+                {
+                    "docCount": 353,
+                    "value": "USCBP"
+                },
+                {
+                    "docCount": 347,
+                    "value": "IRS"
+                },
+                {
+                    "docCount": 334,
+                    "value": "CFPB"
+                },
+                {
+                    "docCount": 329,
+                    "value": "FTC"
+                },
+                {
+                    "docCount": 322,
+                    "value": "GSA"
+                },
+                {
+                    "docCount": 289,
+                    "value": "FDIC"
+                },
+                {
+                    "docCount": 285,
+                    "value": "OPM"
+                },
+                {
+                    "docCount": 284,
+                    "value": "CFTC"
+                },
+                {
+                    "docCount": 277,
+                    "value": "FMC"
+                },
+                {
+                    "docCount": 260,
+                    "value": "PTO"
+                },
+                {
+                    "docCount": 256,
+                    "value": "CPPBSD"
+                },
+                {
+                    "docCount": 245,
+                    "value": "FTA"
+                },
+                {
+                    "docCount": 236,
+                    "value": "FAR"
+                },
+                {
+                    "docCount": 234,
+                    "value": "DARS"
+                },
+                {
+                    "docCount": 225,
+                    "value": "ARTS"
+                },
+                {
+                    "docCount": 213,
+                    "value": "FEC"
+                },
+                {
+                    "docCount": 209,
+                    "value": "CNCS"
+                },
+                {
+                    "docCount": 190,
+                    "value": "NASA"
+                },
+                {
+                    "docCount": 188,
+                    "value": "DHS"
+                },
+                {
+                    "docCount": 186,
+                    "value": "FNS"
+                },
+                {
+                    "docCount": 171,
+                    "value": "SSA"
+                },
+                {
+                    "docCount": 168,
+                    "value": "OCC"
+                },
+                {
+                    "docCount": 165,
+                    "value": "BSC"
+                },
+                {
+                    "docCount": 146,
+                    "value": "USTR"
+                },
+                {
+                    "docCount": 145,
+                    "value": "FSIS"
+                },
+                {
+                    "docCount": 143,
+                    "value": "COE"
+                },
+                {
+                    "docCount": 142,
+                    "value": "BIS"
+                },
+                {
+                    "docCount": 138,
+                    "value": "NLRB"
+                },
+                {
+                    "docCount": 131,
+                    "value": "TTB"
+                },
+                {
+                    "docCount": 130,
+                    "value": "EBSA"
+                },
+                {
+                    "docCount": 130,
+                    "value": "USN"
+                },
+                {
+                    "docCount": 125,
+                    "value": "EIB"
+                },
+                {
+                    "docCount": 124,
+                    "value": "CISA"
+                },
+                {
+                    "docCount": 120,
+                    "value": "AID"
+                },
+                {
+                    "docCount": 120,
+                    "value": "RUS"
+                },
+                {
+                    "docCount": 115,
+                    "value": "OSM"
+                },
+                {
+                    "docCount": 113,
+                    "value": "RHS"
+                },
+                {
+                    "docCount": 110,
+                    "value": "TREAS"
+                },
+                {
+                    "docCount": 110,
+                    "value": "TSA"
+                },
+                {
+                    "docCount": 107,
+                    "value": "SRBC"
+                },
+                {
+                    "docCount": 104,
+                    "value": "RBS"
+                },
+                {
+                    "docCount": 101,
+                    "value": "OMB"
+                },
+                {
+                    "docCount": 98,
+                    "value": "PBGC"
+                },
+                {
+                    "docCount": 94,
+                    "value": "SBA"
+                },
+                {
+                    "docCount": 93,
+                    "value": "USA"
+                },
+                {
+                    "docCount": 90,
+                    "value": "WCPO"
+                },
+                {
+                    "docCount": 85,
+                    "value": "FISCAL"
+                },
+                {
+                    "docCount": 83,
+                    "value": "EAC"
+                },
+                {
+                    "docCount": 82,
+                    "value": "NRCS"
+                },
+                {
+                    "docCount": 80,
+                    "value": "DOI"
+                },
+                {
+                    "docCount": 79,
+                    "value": "IHS"
+                },
+                {
+                    "docCount": 78,
+                    "value": "ICEB"
+                },
+                {
+                    "docCount": 77,
+                    "value": "LSC"
+                },
+                {
+                    "docCount": 76,
+                    "value": "AHRQ"
+                },
+                {
+                    "docCount": 76,
+                    "value": "ETA"
+                },
+                {
+                    "docCount": 74,
+                    "value": "FINCEN"
+                },
+                {
+                    "docCount": 73,
+                    "value": "BLM"
+                },
+                {
+                    "docCount": 73,
+                    "value": "FHFA"
+                },
+                {
+                    "docCount": 73,
+                    "value": "USBC"
+                },
+                {
+                    "docCount": 69,
+                    "value": "BSEE"
+                },
+                {
+                    "docCount": 66,
+                    "value": "WHD"
+                },
+                {
+                    "docCount": 64,
+                    "value": "RRB"
+                },
+                {
+                    "docCount": 64,
+                    "value": "USC"
+                },
+                {
+                    "docCount": 63,
+                    "value": "TVA"
+                },
+                {
+                    "docCount": 61,
+                    "value": "FSA"
+                },
+                {
+                    "docCount": 58,
+                    "value": "NIGC"
+                },
+                {
+                    "docCount": 57,
+                    "value": "OSTP"
+                },
+                {
+                    "docCount": 55,
+                    "value": "DOJ"
+                },
+                {
+                    "docCount": 54,
+                    "value": "COLC"
+                },
+                {
+                    "docCount": 54,
+                    "value": "FCA"
+                },
+                {
+                    "docCount": 53,
+                    "value": "FAS"
+                },
+                {
+                    "docCount": 53,
+                    "value": "USAF"
+                },
+                {
+                    "docCount": 52,
+                    "value": "FRTIB"
+                },
+                {
+                    "docCount": 51,
+                    "value": "PRC"
+                },
+                {
+                    "docCount": 50,
+                    "value": "EEOC"
+                },
+                {
+                    "docCount": 49,
+                    "value": "CEQ"
+                },
+                {
+                    "docCount": 49,
+                    "value": "CRB"
+                },
+                {
+                    "docCount": 48,
+                    "value": "WAPA"
+                },
+                {
+                    "docCount": 47,
+                    "value": "ASC"
+                },
+                {
+                    "docCount": 45,
+                    "value": "FMCS"
+                },
+                {
+                    "docCount": 39,
+                    "value": "ACF"
+                },
+                {
+                    "docCount": 39,
+                    "value": "ATSDR"
+                },
+                {
+                    "docCount": 39,
+                    "value": "FASAB"
+                },
+                {
+                    "docCount": 39,
+                    "value": "NASS"
+                },
+                {
+                    "docCount": 38,
+                    "value": "NEIGHBOR"
+                },
+                {
+                    "docCount": 38,
+                    "value": "NPS"
+                },
+                {
+                    "docCount": 37,
+                    "value": "NTSB"
+                },
+                {
+                    "docCount": 36,
+                    "value": "BIA"
+                },
+                {
+                    "docCount": 36,
+                    "value": "MCC"
+                },
+                {
+                    "docCount": 36,
+                    "value": "MSHFRC"
+                },
+                {
+                    "docCount": 35,
+                    "value": "EIA"
+                },
+                {
+                    "docCount": 34,
+                    "value": "GEO"
+                },
+                {
+                    "docCount": 34,
+                    "value": "PC"
+                },
+                {
+                    "docCount": 32,
+                    "value": "OFCCP"
+                },
+                {
+                    "docCount": 31,
+                    "value": "ATBCB"
+                },
+                {
+                    "docCount": 31,
+                    "value": "NNSA"
+                },
+                {
+                    "docCount": 30,
+                    "value": "ONRR"
+                },
+                {
+                    "docCount": 27,
+                    "value": "DFC"
+                },
+                {
+                    "docCount": 27,
+                    "value": "FCIC"
+                },
+                {
+                    "docCount": 26,
+                    "value": "CCC"
+                },
+                {
+                    "docCount": 26,
+                    "value": "IAF"
+                },
+                {
+                    "docCount": 25,
+                    "value": "USCC"
+                },
+                {
+                    "docCount": 24,
+                    "value": "GAO"
+                },
+                {
+                    "docCount": 23,
+                    "value": "DOC"
+                },
+                {
+                    "docCount": 22,
+                    "value": "FLRA"
+                },
+                {
+                    "docCount": 20,
+                    "value": "NTIA"
+                },
+                {
+                    "docCount": 19,
+                    "value": "COFA"
+                },
+                {
+                    "docCount": 19,
+                    "value": "DNFSB"
+                },
+                {
+                    "docCount": 18,
+                    "value": "DRBC"
+                },
+                {
+                    "docCount": 18,
+                    "value": "FCSIC"
+                },
+                {
+                    "docCount": 18,
+                    "value": "MSPB"
+                },
+                {
+                    "docCount": 18,
+                    "value": "USJC"
+                },
+                {
+                    "docCount": 17,
+                    "value": "ACUS"
+                },
+                {
+                    "docCount": 17,
+                    "value": "CSB"
+                },
+                {
+                    "docCount": 17,
+                    "value": "NIFA"
+                },
+                {
+                    "docCount": 17,
+                    "value": "NIST"
+                },
+                {
+                    "docCount": 17,
+                    "value": "SSS"
+                },
+                {
+                    "docCount": 17,
+                    "value": "USSC"
+                },
+                {
+                    "docCount": 16,
+                    "value": "JBEA"
+                },
+                {
+                    "docCount": 14,
+                    "value": "ODNI"
+                },
+                {
+                    "docCount": 13,
+                    "value": "FSOC"
+                },
+                {
+                    "docCount": 13,
+                    "value": "SJI"
+                },
+                {
+                    "docCount": 13,
+                    "value": "SLSDC"
+                },
+                {
+                    "docCount": 12,
+                    "value": "FIRSTNET"
+                },
+                {
+                    "docCount": 12,
+                    "value": "USIP"
+                },
+                {
+                    "docCount": 11,
+                    "value": "ATF"
+                },
+                {
+                    "docCount": 11,
+                    "value": "CITA"
+                },
+                {
+                    "docCount": 11,
+                    "value": "EOIR"
+                },
+                {
+                    "docCount": 11,
+                    "value": "HHSIG"
+                },
+                {
+                    "docCount": 11,
+                    "value": "MKU"
+                },
+                {
+                    "docCount": 11,
+                    "value": "NCD"
+                },
+                {
+                    "docCount": 10,
+                    "value": "ARS"
+                },
+                {
+                    "docCount": 10,
+                    "value": "BOP"
+                },
+                {
+                    "docCount": 10,
+                    "value": "HPAC"
+                },
+                {
+                    "docCount": 10,
+                    "value": "USAGM"
+                },
+                {
+                    "docCount": 9,
+                    "value": "SWPA"
+                },
+                {
+                    "docCount": 8,
+                    "value": "ADF"
+                },
+                {
+                    "docCount": 8,
+                    "value": "EAB"
+                },
+                {
+                    "docCount": 8,
+                    "value": "NWTRB"
+                },
+                {
+                    "docCount": 8,
+                    "value": "RITA"
+                },
+                {
+                    "docCount": 7,
+                    "value": "ACL"
+                },
+                {
+                    "docCount": 7,
+                    "value": "BPA"
+                },
+                {
+                    "docCount": 7,
+                    "value": "CIGIE"
+                },
+                {
+                    "docCount": 7,
+                    "value": "DC"
+                },
+                {
+                    "docCount": 7,
+                    "value": "GCERC"
+                },
+                {
+                    "docCount": 7,
+                    "value": "NIH"
+                },
+                {
+                    "docCount": 7,
+                    "value": "SAMHSA"
+                },
+                {
+                    "docCount": 6,
+                    "value": "CDFI"
+                },
+                {
+                    "docCount": 6,
+                    "value": "CSOSA"
+                },
+                {
+                    "docCount": 6,
+                    "value": "GAPFAC"
+                },
+                {
+                    "docCount": 6,
+                    "value": "GPO"
+                },
+                {
+                    "docCount": 6,
+                    "value": "ONDCP"
+                },
+                {
+                    "docCount": 5,
+                    "value": "CIA"
+                },
+                {
+                    "docCount": 5,
+                    "value": "FPPO"
+                },
+                {
+                    "docCount": 5,
+                    "value": "HRSA"
+                },
+                {
+                    "docCount": 5,
+                    "value": "OSHRC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "ABMC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "ERS"
+                },
+                {
+                    "docCount": 4,
+                    "value": "MMC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "ONCD"
+                },
+                {
+                    "docCount": 4,
+                    "value": "OSC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "RISC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "RMA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "IPEC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "NSPC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "OFPP"
+                },
+                {
+                    "docCount": 3,
+                    "value": "OFR"
+                },
+                {
+                    "docCount": 3,
+                    "value": "PCLOB"
+                },
+                {
+                    "docCount": 3,
+                    "value": "PT"
+                },
+                {
+                    "docCount": 3,
+                    "value": "SS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ACFR"
+                },
+                {
+                    "docCount": 2,
+                    "value": "BLS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "BOR"
+                },
+                {
+                    "docCount": 2,
+                    "value": "EOP"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FBI"
+                },
+                {
+                    "docCount": 2,
+                    "value": "IAIA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "LMSO"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NAL"
+                },
+                {
+                    "docCount": 2,
+                    "value": "OJP"
+                },
+                {
+                    "docCount": 2,
+                    "value": "PBRB"
+                },
+                {
+                    "docCount": 2,
+                    "value": "PHS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "USDAIG"
+                },
+                {
+                    "docCount": 2,
+                    "value": "USMINT"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ERULE"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FPAC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FR"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FTZB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "LOC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "MBDA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NMB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "PACIFIC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USPC"
+                }
+            ],
+            "commentEndDate": [],
+            "postedDate": [
+                {
+                    "docCount": 7,
+                    "label": "Last 90 Days",
+                    "fromDate": "2024-07-25 00:00:00",
+                    "toDate": "2024-10-22 23:59:59"
+                }
+            ]
+        },
+        "filters": {
+            "postedDate": {
+                "fromDate": "2022-01-01",
+                "toDate": "2024-10-01"
+            },
+            "agencyId": [
+                {
+                    "label": "TREAS",
+                    "value": "TREAS"
+                }
+            ]
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "numberOfElements": 110,
+        "pageNumber": 1,
+        "pageSize": 250,
+        "totalElements": 110,
+        "totalPages": 1,
+        "firstPage": true,
+        "lastPage": true
+    }
+}

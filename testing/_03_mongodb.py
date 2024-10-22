@@ -64,6 +64,8 @@ def get_documents():
             "commentEndDate": doc.get('data').get('attributes').get('commentEndDate'),
             "frDocNum": doc.get('data').get('attributes').get('frDocNum'),
             "objectId": doc.get('data').get('attributes').get('objectId'),
+            "topics": doc.get('data').get('attributes').get('topics'),
+            "files": doc.get('data').get('attributes').get('fileFormats'),
         }
         
         # Check if the document already exists in the list
@@ -78,4 +80,14 @@ def get_documents():
 df = get_documents()
 print(df.head())
 print(df.shape)
+
+# Parse the file formats to multiple columns
+df = df.explode('files')
+df_files = df[df['files'].notna()]
+df_files = pd.DataFrame(df_files['files'].tolist(), index=df_files.doc_id)
+print(df_files.head())
+print(df_files.shape)
 """
+
+
+
