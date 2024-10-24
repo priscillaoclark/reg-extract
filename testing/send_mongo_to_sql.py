@@ -31,7 +31,7 @@ def send_mongo_to_sql(data):
     except Exception as e:
         print(f"Error creating Supabase client: {e}")
 
-    # Check for existing documents in the federal_documents table
+    # Check for existing documents in the federal_documents_attachments table
     response_2 = supabase.table("federal_documents_attachments").select("fileUrl").execute().data
     # Count rows in the federal_documents table
     print(len(response_2))
