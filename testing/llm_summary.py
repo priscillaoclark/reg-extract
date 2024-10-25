@@ -38,8 +38,7 @@ def summarize_with_assistant(assistant_id, text_to_summarize, api_key):
     summary = messages.data[0].content[0].text.value
     return summary
 
-def get_ai_summaries(data):
-        assistant_id = "asst_NbCGwXBaXWbRQr683B9fT0H3"
+def get_ai_summaries(data, assistant_id):
         
         # Clear existing environment variables
         for key in list(os.environ.keys()):
