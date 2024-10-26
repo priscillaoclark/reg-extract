@@ -32,6 +32,10 @@ numpy==2.1.2
 openai==1.52.0
 packaging==24.1
 pandas==2.2.3
+pinecone==5.3.1
+pinecone-client==5.0.1
+pinecone-plugin-inference==1.1.0
+pinecone-plugin-interface==0.0.7
 postgrest==0.17.2
 propcache==0.2.0
 pydantic==2.9.2
