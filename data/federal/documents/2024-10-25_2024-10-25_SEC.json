@@ -1,0 +1,485 @@
+{
+    "data": [
+        {
+            "id": "SEC-2024-1506-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-25T11:44:53Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-24798",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "commentEndDate": null,
+                "title": "Self-Regulatory Organizations; Proposed Rule Changes: Cboe EDGX Exchange, Inc.",
+                "postedDate": "2024-10-25T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-10-25T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867e36b6"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1506-0001"
+            }
+        },
+        {
+            "id": "SEC-2024-1510-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-25T11:46:22Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-24827",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "commentEndDate": null,
+                "title": "Application: FS Credit Opportunities Corp., et al.",
+                "postedDate": "2024-10-25T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-10-25T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867e3818"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1510-0001"
+            }
+        },
+        {
+            "id": "SEC-2024-1507-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-25T11:45:34Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-24825",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "commentEndDate": null,
+                "title": "Application: AGL Private Credit Income Fund, et al.",
+                "postedDate": "2024-10-25T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-10-25T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867e3757"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1507-0001"
+            }
+        },
+        {
+            "id": "SEC-2024-1509-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-25T11:45:53Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-24813",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "commentEndDate": null,
+                "title": "Application: Green Impact Exchange, LLC",
+                "postedDate": "2024-10-25T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-10-25T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867e379d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1509-0001"
+            }
+        },
+        {
+            "id": "SEC-2024-1503-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-25T11:43:39Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-24826",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "commentEndDate": null,
+                "title": "Application: Elevation Series Trust and TrueMark Investments, LLC",
+                "postedDate": "2024-10-25T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-10-25T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867e3577"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1503-0001"
+            }
+        },
+        {
+            "id": "SEC-2024-1504-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-25T11:44:05Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-24797",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "commentEndDate": null,
+                "title": "Self-Regulatory Organizations; Proposed Rule Changes: Cboe EDGA Exchange, Inc.",
+                "postedDate": "2024-10-25T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-10-25T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867e35cf"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1504-0001"
+            }
+        },
+        {
+            "id": "SEC-2024-1505-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-25T11:44:44Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-24800",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "commentEndDate": null,
+                "title": "Self-Regulatory Organizations; Proposed Rule Changes: Cboe BYX Exchange, Inc.",
+                "postedDate": "2024-10-25T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-10-25T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867e3673"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1505-0001"
+            }
+        },
+        {
+            "id": "SEC-2024-1508-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-25T11:45:49Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-24799",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "commentEndDate": null,
+                "title": "Self-Regulatory Organizations; Proposed Rule Changes: Cboe BZX Exchange, Inc.",
+                "postedDate": "2024-10-25T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-10-25T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867e379a"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1508-0001"
+            }
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "documentType": [
+                {
+                    "docCount": 8,
+                    "label": "Notice"
+                }
+            ],
+            "subtype": [],
+            "withinCommentPeriod": [
+                {
+                    "docCount": 0,
+                    "label": "true"
+                },
+                {
+                    "docCount": 8,
+                    "label": "false"
+                }
+            ],
+            "agencyId": [
+                {
+                    "docCount": 56,
+                    "value": "EPA"
+                },
+                {
+                    "docCount": 40,
+                    "value": "FDA"
+                },
+                {
+                    "docCount": 35,
+                    "value": "FMCSA"
+                },
+                {
+                    "docCount": 28,
+                    "value": "DOT"
+                },
+                {
+                    "docCount": 21,
+                    "value": "FAA"
+                },
+                {
+                    "docCount": 12,
+                    "value": "FERC"
+                },
+                {
+                    "docCount": 9,
+                    "value": "OSHA"
+                },
+                {
+                    "docCount": 8,
+                    "value": "SEC"
+                },
+                {
+                    "docCount": 7,
+                    "value": "FCC"
+                },
+                {
+                    "docCount": 5,
+                    "value": "FWS"
+                },
+                {
+                    "docCount": 4,
+                    "value": "EERE"
+                },
+                {
+                    "docCount": 4,
+                    "value": "USCG"
+                },
+                {
+                    "docCount": 3,
+                    "value": "CFTC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "CPSC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "NRC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "VA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "CDC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "CPPBSD"
+                },
+                {
+                    "docCount": 2,
+                    "value": "CRC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "DOE"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FDIC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FNS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ITC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "USDA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "AID"
+                },
+                {
+                    "docCount": 1,
+                    "value": "AMS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BIA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BOEM"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BSEE"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CFPB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CISA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CMS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DEA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DHS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DOL"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FEC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FEMA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FHWA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FRS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FTC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "HHS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "HUD"
+                },
+                {
+                    "docCount": 1,
+                    "value": "IRS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NARA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NASA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NHTSA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NSF"
+                },
+                {
+                    "docCount": 1,
+                    "value": "PTO"
+                },
+                {
+                    "docCount": 1,
+                    "value": "RHS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "RRB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "RUS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "SBA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "SSA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "TSA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USCIS"
+                }
+            ],
+            "commentEndDate": [],
+            "postedDate": [
+                {
+                    "docCount": 13,
+                    "label": "Last 3 Days",
+                    "fromDate": "2024-10-24 00:00:00",
+                    "toDate": "2024-10-26 23:59:59"
+                },
+                {
+                    "docCount": 35,
+                    "label": "Last 7 Days",
+                    "fromDate": "2024-10-20 00:00:00",
+                    "toDate": "2024-10-26 23:59:59"
+                },
+                {
+                    "docCount": 61,
+                    "label": "Last 15 Days",
+                    "fromDate": "2024-10-12 00:00:00",
+                    "toDate": "2024-10-26 23:59:59"
+                },
+                {
+                    "docCount": 128,
+                    "label": "Last 30 Days",
+                    "fromDate": "2024-09-27 00:00:00",
+                    "toDate": "2024-10-26 23:59:59"
+                },
+                {
+                    "docCount": 570,
+                    "label": "Last 90 Days",
+                    "fromDate": "2024-07-29 00:00:00",
+                    "toDate": "2024-10-26 23:59:59"
+                }
+            ]
+        },
+        "filters": {
+            "postedDate": {
+                "fromDate": "2024-10-25",
+                "toDate": "2024-10-25"
+            },
+            "agencyId": [
+                {
+                    "label": "SEC",
+                    "value": "SEC"
+                }
+            ]
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "numberOfElements": 8,
+        "pageNumber": 1,
+        "pageSize": 250,
+        "totalElements": 8,
+        "totalPages": 1,
+        "firstPage": true,
+        "lastPage": true
+    }
+}
