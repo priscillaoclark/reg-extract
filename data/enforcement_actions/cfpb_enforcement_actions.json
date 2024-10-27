@@ -1,5 +1,78 @@
 [
   {
+    "title": "Goldman Sachs Bank USA",
+    "link": "https://www.consumerfinance.gov/enforcement/actions/goldman-sachs-bank-usa/",
+    "date": "2024-10-23T00:00:00",
+    "summary": "On October 23, 2024, the Bureau issued an order against Goldman Sachs Bank USA.",
+    "description": "On October 23, 2024, the Bureau issued an order against Goldman Sachs Bank USA (Goldman). In December 2017, Goldman and Apple Inc. entered an agreement to offer Apple Card, a credit card integrated with Apple software that offers both market-rate APRs and interest-free financing for qualifying Apple products. Goldman agreed to extend the credit offered through Apple Card and to investigate disputes submitted by consumers. Apple designed the consumer-facing interfaces that consumers used to manage Apple Card accounts on Apple devices and developed the creative approach and design of Apple Card advertisements. Despite warnings to Goldman\u2019s board on August 16, 2019 that the Apple Card disputes system was \u201cnot fully ready\u201d due to technological issues, Goldman and Apple introduced the Apple card four days later on August 20, 2019. The Bureau found that Goldman violated the Truth in Lending Act and Regulation Z by failing to send acknowledgement notices and resolution letters within the required periods; making adverse reports to consumer reporting agencies regarding amounts disputed in billing error notices prior to completing the requirements for billing error resolution; failing to conduct reasonable investigations for disputes that qualified as billing error notices; and holding consumers liable for amounts at issue in claims of unauthorized use before conducting a reasonable investigation. The Bureau also found that Goldman violated the Consumer Financial Protection Act of 2010 by engaging in unfair acts or practices through its delay in resolving transaction disputes. Separately, in December 2019, Goldman and Apple introduced Apple Card Monthly Installments (ACMI), which allowed Apple Card users to finance the purchase of certain Apple devices directly from Apple through the payment of interest-free monthly installments. The Bureau found that Goldman engaged in deceptive acts or practices by misleading consumers to expect that purchases of Apple devices would automatically be enrolled in ACMI, and by misleading consumers enrolled in ACMI about the application of refunds to Apple Card accounts with both ACMI and non-ACMI balances. The order requires Goldman to pay $19.8 million in redress to consumers and a $45 million civil money penalty and to come into compliance with the law.",
+    "related_documents": [
+      {
+        "text": "Consent Order",
+        "link": "https://files.consumerfinance.gov/f/documents/cfpb_goldman-sachs-bank-usa-consent-order_2024-10.pdf"
+      },
+      {
+        "text": "Stipulation",
+        "link": "https://files.consumerfinance.gov/f/documents/cfpb_goldman-sachs-bank-usa-stipulation_2024-10.pdf"
+      },
+      {
+        "text": "CFPB Orders Apple and Goldman Sachs to Pay Over $89 Million for Apple Card Failures",
+        "link": "/about-us/newsroom/cfpb-orders-apple-and-goldman-sachs-to-pay-over-89-million-for-apple-card-failures/"
+      },
+      {
+        "text": "View case filings",
+        "link": "/administrative-adjudication-proceedings/administrative-adjudication-docket/goldman-sachs-bank-usa/"
+      }
+    ],
+    "press_release": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-orders-apple-and-goldman-sachs-to-pay-over-89-million-for-apple-card-failures/",
+    "case_docket": "https://www.consumerfinance.gov/administrative-adjudication-proceedings/administrative-adjudication-docket/goldman-sachs-bank-usa/",
+    "forum": [
+      "Administrative Proceeding"
+    ],
+    "docket_number": "2024-CFPB-0011",
+    "initial_filing_date": "OCT 23, 2024",
+    "status": "Post Order/Post Judgment",
+    "products": [
+      "Credit Cards",
+      "Furnishing"
+    ]
+  },
+  {
+    "title": "Apple Inc.",
+    "link": "https://www.consumerfinance.gov/enforcement/actions/apple-inc/",
+    "date": "2024-10-23T00:00:00",
+    "summary": "On October 23, 2024, the Bureau issued an order against Apple Inc.",
+    "description": "On October 23, 2024, the Bureau issued an order against Apple Inc. In December 2017 Apple and Goldman Sachs Bank USA (Goldman) entered an agreement to offer Apple Card, a credit card integrated with Apple software that offers both market-rate APRs and interest-free financing for qualifying Apple products. Goldman agreed to extend the credit offered through Apple Card and to investigate disputes submitted by consumers. Apple designed the consumer-facing interfaces that consumers used to manage Apple Card accounts on Apple devices, including the \u201cReport an Issue\u201d functionality in the \u201cWallet\u201d application that allowed consumers to dispute Apple Card transactions using the \u201cMessages\u201d application, and developed the creative approach and design of Apple Card advertisements. Despite warnings to Goldman\u2019s board on August 16, 2019 that the Apple Card disputes system was \u201cnot fully ready\u201d due to technological issues, Goldman and Apple introduced the Apple card four days later on August 20, 2019. The Bureau found that Apple engaged in unfair acts or practices by failing to send transaction disputes to Goldman in violation of the CFPA. Separately, in December 2019, Goldman and Apple introduced Apple Card Monthly Installments (ACMI), which allowed Apple Card users to finance the purchase of certain Apple devices directly from Apple through the payment of interest-free monthly installments. The Bureau found that Apple engaged in deceptive acts or practices by misleading consumers to expect that purchases of Apple devices would automatically be enrolled in ACMI. The Bureau also found that Apple engaged in abusive acts or practices through its material interference with consumers\u2019 understanding of ACMI enrollment by not even displaying the ACMI option in certain circumstances. The order requires Apple to pay a $25 million civil money penalty and to come into compliance with the law.",
+    "related_documents": [
+      {
+        "text": "Consent Order",
+        "link": "https://files.consumerfinance.gov/f/documents/cfpb_apple-inc-consent-order_2024-10.pdf"
+      },
+      {
+        "text": "Stipulation",
+        "link": "https://files.consumerfinance.gov/f/documents/cfpb_apple-inc-stipulation_2024-10.pdf"
+      },
+      {
+        "text": "CFPB Orders Apple and Goldman Sachs to Pay Over $89 Million for Apple Card Failures",
+        "link": "/about-us/newsroom/cfpb-orders-apple-and-goldman-sachs-to-pay-over-89-million-for-apple-card-failures/"
+      },
+      {
+        "text": "View case filings",
+        "link": "/administrative-adjudication-proceedings/administrative-adjudication-docket/apple-inc/"
+      }
+    ],
+    "press_release": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-orders-apple-and-goldman-sachs-to-pay-over-89-million-for-apple-card-failures/",
+    "case_docket": "https://www.consumerfinance.gov/administrative-adjudication-proceedings/administrative-adjudication-docket/apple-inc/",
+    "forum": [
+      "Administrative Proceeding"
+    ],
+    "docket_number": "2024-CFPB-0012",
+    "initial_filing_date": "OCT 23, 2024",
+    "status": "Post Order/Post Judgment",
+    "products": [
+      "Credit Cards"
+    ]
+  },
+  {
     "title": "Climb Credit, Inc.; Climb Investco, LLC; Climb GS Loan Fund 2018-1, LLC; 1/0 Holdco LLC; and 1/0 Capital LLC",
     "link": "https://www.consumerfinance.gov/enforcement/actions/climb-credit-inc-et-al/",
     "date": "2024-10-17T00:00:00",
