@@ -38,7 +38,7 @@ def get_document_metadata(file_name):
         print("Supabase client created successfully.")
     except Exception as e:
         print(f"Error creating Supabase client: {e}")
-
+        
     # Check for existing documents in the federal_documents_attachments table
     response = supabase.table("federal_documents").select("*").execute().data
     # Convert the response data to a pandas DataFrame
@@ -94,6 +94,7 @@ def upload_file_and_get_embeddings(file_path):
 
     for i, chunk in enumerate(chunks):
         try:
+            print(f"Generating embeddings for chunk {i+1} of '{file_name}'...")
             embeddings = get_embeddings(chunk)
             vectors.append({
                 "id": f"{file_name}_vec{i+1}",

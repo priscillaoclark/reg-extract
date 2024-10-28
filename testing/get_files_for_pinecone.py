@@ -57,7 +57,7 @@ def get_files_for_pinecone():
     # Create a combined list of fileUrls
     fileUrls = df_htm['fileUrl'].tolist() + df_pdf['fileUrl'].tolist()
     #print(len(fileUrls))
-    fileUrls = fileUrls[:20]
+    fileUrls = fileUrls[:100]
     print("Number of files:", len(fileUrls))
     
     # Limit to 5 files for testing
