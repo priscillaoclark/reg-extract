@@ -3,13 +3,18 @@ import json
 from pinecone import Pinecone, ServerlessSpec
 from openai import OpenAI
 from PyPDF2 import PdfReader
+from get_files_for_pinecone import get_files_for_pinecone
+from bs4 import BeautifulSoup
+from supabase import create_client, Client
+from dotenv import load_dotenv
+import pandas as pd
 
 def get_embeddings(text):
     # Initialize OpenAI
     OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
     client = OpenAI(api_key=OPENAI_API_KEY)
     
-    response = client.embeddings.create(input=text, model="text-embedding-ada-002")
+    response = client.embeddings.create(input=text, model="text-embedding-3-small")
     return response.data[0].embedding
 
 def chunk_text(text, chunk_size=3000, overlap=200):
@@ -21,11 +26,38 @@ def chunk_text(text, chunk_size=3000, overlap=200):
         start += chunk_size - overlap
     return chunks
 
+def get_document_metadata(file_name):
+    # Load environment variables from .env file
+    load_dotenv()
+
+    try:
+        # Supabase credentials
+        url = os.getenv("SUPABASE_URL")
+        key = os.getenv("SUPABASE_SERVICE_KEY")
+        supabase: Client = create_client(url, key)
+        print("Supabase client created successfully.")
+    except Exception as e:
+        print(f"Error creating Supabase client: {e}")
+
+    # Check for existing documents in the federal_documents_attachments table
+    response = supabase.table("federal_documents").select("*").execute().data
+    # Convert the response data to a pandas DataFrame
+    df = pd.DataFrame(response)
+    # Filter the DataFrame for the specified file name
+    df_file = df[df['doc_id'] == file_name]
+    # Get postedDate and documentType
+    postedDate = df_file['postedDate'].values[0]
+    documentType = df_file['documentType'].values[0]
+    
+    return postedDate, documentType
+    
 def upload_file_and_get_embeddings(file_path):
     # Determine file extension and read content accordingly
     file_name = os.path.basename(file_path).split('/')[-1].split('.')[0]
     extension = os.path.basename(file_path).split('.')[-1]
     agency = file_name[:4].replace("_", "").replace("-", "")
+    
+    postedDate, documentType = get_document_metadata(file_name)
 
     if extension == "pdf":
         # Read PDF content
@@ -43,6 +75,15 @@ def upload_file_and_get_embeddings(file_path):
         try:
             with open(file_path, 'r') as file:
                 content = file.read()
+                # Remove html tags and special characters
+                # Remove HTML tags
+                soup = BeautifulSoup(content, "html.parser")
+                content = soup.get_text()
+
+                # Remove special characters and extra whitespace
+                content = content.replace("\n", " ").replace("\r", " ").replace("\t", " ")
+                content = " ".join(content.split())
+                
         except Exception as e:
             print(f"Error reading text file '{file_name}': {e}")
             return []
@@ -57,7 +98,7 @@ def upload_file_and_get_embeddings(file_path):
             vectors.append({
                 "id": f"{file_name}_vec{i+1}",
                 "values": embeddings,
-                "metadata": {"filename": file_name, "extension": extension, "agency": agency}
+                "metadata": {"filename": file_name, "extension": extension, "agency": agency, "text": chunk, "postedDate": postedDate, "documentType": documentType}
             })
         except Exception as e:
             print(f"Error generating embeddings for chunk {i+1} of '{file_name}': {e}")
@@ -119,9 +160,12 @@ def upsert_pinecone(file_path):
         print(f"Error upserting data for '{file_name}': {e}")
 
 # Process all files in a directory
-directory = "/Users/bluebird/develop/reg_extract/data/federal/attachments/testing"
+#directory = "/Users/bluebird/develop/reg_extract/data/federal/attachments/testing"
+directory = "/Users/bluebird/develop/reg_extract/data/federal/attachments"
 
-for filename in os.listdir(directory):
+files = get_files_for_pinecone()
+
+for filename in files:
     file_path = os.path.join(directory, filename)
     try:
         if filename.endswith((".htm", ".pdf")):
@@ -132,23 +176,3 @@ for filename in os.listdir(directory):
     except Exception as e:
         print(f"Error processing file '{filename}': {e}")
         continue
-
-"""
-def delete_all_vectors():
-    # Initialize Pinecone
-    try:
-        PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
-        pc = Pinecone(api_key=PINECONE_API_KEY)
-        
-        # Connect to the index
-        index_name = "test-index"
-        index = pc.Index(index_name)
-        
-        # Delete all vectors in the specified namespace
-        namespace = "federal-documents"
-        index.delete(namespace=namespace, delete_all=True)
-        print(f"All vectors in namespace '{namespace}' have been deleted from the '{index_name}' index.")
-    except Exception as e:
-        print(f"Error deleting vectors: {e}")
-
-delete_all_vectors()"""

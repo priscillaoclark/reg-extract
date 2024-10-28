@@ -1,9 +1,10 @@
-#from _03_mongodb import get_documents
+from _03_mongodb import get_documents
 import pandas as pd
 # Connect to supabase
 from supabase import create_client, Client
 from dotenv import load_dotenv
 import os
+
 
 def send_mongo_to_sql(data):
     df = data
@@ -102,5 +103,5 @@ def send_mongo_to_sql(data):
         except Exception as e:
             print(f"Error inserting document {row['doc_id']}: {e}")
 
-#df = get_documents()
-#send_mongo_to_sql(df)
+df = get_documents()
+send_mongo_to_sql(df)
