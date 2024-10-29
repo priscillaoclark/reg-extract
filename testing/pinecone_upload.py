@@ -177,3 +177,8 @@ for filename in files:
     except Exception as e:
         print(f"Error processing file '{filename}': {e}")
         continue
+    
+#SEC-2024-0257-0001
+#SEC-2024-0041-0001
+#SEC-2024-0473-0001
+#FRS-2024-0027-0001

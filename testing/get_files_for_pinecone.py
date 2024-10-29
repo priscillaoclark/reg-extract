@@ -25,6 +25,7 @@ def get_files_for_pinecone():
     # Convert the response data to a pandas DataFrame
     df = pd.DataFrame(response)
     df_files = pd.DataFrame(response_2)
+    #print(df_files.columns)
 
     # Join the two DataFrames on the doc_id column
     df_merged = pd.merge(df, df_files, on='doc_id', how='inner')
@@ -38,29 +39,33 @@ def get_files_for_pinecone():
     # Filter out notices
     df_merged_2024_files = df_merged_2024_files[~df_merged_2024_files['documentType'].str.contains("Notice")]
 
-    # Count the number of documents in the filtered DataFrame
-    #print(df_merged_2024_files.shape)
-    #print(df_merged_2024_files.head())
-
     # Add htm files to a new DataFrame
     df_htm = df_merged_2024_files[df_merged_2024_files['format'] == 'htm']
+    # Convert size to int
+    df_htm.loc[:, 'size'] = df_htm['size'].astype(int)
+    # Sort by size
+    df_htm = df_htm.sort_values('size', ascending=True)
     # Convert the fileUrl to just the filename
-    df_htm['fileUrl'] = df_htm['fileUrl'].str.split('/').str[-2] + '.htm'
+    df_htm.loc[:, 'fileUrl'] = df_htm['fileUrl'].str.split('/').str[-2] + '.htm'
+    # See size of htm files
+    #print(df_htm['size'].head())
+    
     # Add pdf files if the doc_id is not in the htm DataFrame
     df_pdf = df_merged_2024_files[~df_merged_2024_files['doc_id'].isin(df_htm['doc_id'])]
-    df_pdf['fileUrl'] = df_pdf['fileUrl'].str.split('/').str[-2] + '.pdf'
-
-    # Print the number of htm and pdf files
-    #print(df_htm.shape)
-    #print(df_pdf.shape)
+    # Convert size to int
+    df_pdf.loc[:, 'size'] = df_pdf['size'].astype(int)
+    # Sort by size
+    df_pdf = df_pdf.sort_values('size', ascending=True)
+    df_pdf.loc[:, 'fileUrl'] = df_pdf['fileUrl'].str.split('/').str[-2] + '.pdf'
+    #print(df_pdf['size'].head())
 
     # Create a combined list of fileUrls
     fileUrls = df_htm['fileUrl'].tolist() + df_pdf['fileUrl'].tolist()
-    #print(len(fileUrls))
-    fileUrls = fileUrls[:100]
+    fileUrls = fileUrls[:300]
     print("Number of files:", len(fileUrls))
     
     # Limit to 5 files for testing
     return fileUrls
 
-    #return fileUrls
+# Call the function to get the list of fileUrls
+#fileUrls = get_files_for_pinecone()
