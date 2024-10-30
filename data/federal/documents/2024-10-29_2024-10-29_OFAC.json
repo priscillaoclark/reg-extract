@@ -1,0 +1,275 @@
+{
+    "data": [
+        {
+            "id": "OFAC_FRDOC_0001-1984",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-29T11:43:15Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-25068",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-10-29T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-10-29T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867ea80a"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1984"
+            }
+        },
+        {
+            "id": "OFAC_FRDOC_0001-1985",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-29T11:43:33Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-25121",
+                "withdrawn": false,
+                "agencyId": "OFAC",
+                "commentEndDate": null,
+                "title": "Sanctions Action",
+                "postedDate": "2024-10-29T04:00:00Z",
+                "docketId": "OFAC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-10-29T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867ea85b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1985"
+            }
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "documentType": [
+                {
+                    "docCount": 2,
+                    "label": "Notice"
+                }
+            ],
+            "subtype": [],
+            "withinCommentPeriod": [
+                {
+                    "docCount": 0,
+                    "label": "true"
+                },
+                {
+                    "docCount": 2,
+                    "label": "false"
+                }
+            ],
+            "agencyId": [
+                {
+                    "docCount": 33,
+                    "value": "FAA"
+                },
+                {
+                    "docCount": 13,
+                    "value": "SEC"
+                },
+                {
+                    "docCount": 9,
+                    "value": "FWS"
+                },
+                {
+                    "docCount": 9,
+                    "value": "NARA"
+                },
+                {
+                    "docCount": 7,
+                    "value": "FRS"
+                },
+                {
+                    "docCount": 5,
+                    "value": "EPA"
+                },
+                {
+                    "docCount": 5,
+                    "value": "NRC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "FDA"
+                },
+                {
+                    "docCount": 4,
+                    "value": "FRA"
+                },
+                {
+                    "docCount": 4,
+                    "value": "NHTSA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "APHIS"
+                },
+                {
+                    "docCount": 3,
+                    "value": "ED"
+                },
+                {
+                    "docCount": 2,
+                    "value": "CISA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "CRC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "DOD"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FCC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ITA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NCUA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NOAA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "OFAC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "USCG"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BSEE"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CNCS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DOJ"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DOL"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DOT"
+                },
+                {
+                    "docCount": 1,
+                    "value": "EEOC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FMCS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ITC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NASA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NCD"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NLRB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "OFCCP"
+                },
+                {
+                    "docCount": 1,
+                    "value": "PHMSA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "TTB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USTR"
+                }
+            ],
+            "commentEndDate": [],
+            "postedDate": [
+                {
+                    "docCount": 2,
+                    "label": "Last 3 Days",
+                    "fromDate": "2024-10-28 00:00:00",
+                    "toDate": "2024-10-30 23:59:59"
+                },
+                {
+                    "docCount": 5,
+                    "label": "Last 7 Days",
+                    "fromDate": "2024-10-24 00:00:00",
+                    "toDate": "2024-10-30 23:59:59"
+                },
+                {
+                    "docCount": 10,
+                    "label": "Last 15 Days",
+                    "fromDate": "2024-10-16 00:00:00",
+                    "toDate": "2024-10-30 23:59:59"
+                },
+                {
+                    "docCount": 23,
+                    "label": "Last 30 Days",
+                    "fromDate": "2024-10-01 00:00:00",
+                    "toDate": "2024-10-30 23:59:59"
+                },
+                {
+                    "docCount": 56,
+                    "label": "Last 90 Days",
+                    "fromDate": "2024-08-02 00:00:00",
+                    "toDate": "2024-10-30 23:59:59"
+                }
+            ]
+        },
+        "filters": {
+            "postedDate": {
+                "fromDate": "2024-10-29",
+                "toDate": "2024-10-29"
+            },
+            "agencyId": [
+                {
+                    "label": "OFAC",
+                    "value": "OFAC"
+                }
+            ]
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "numberOfElements": 2,
+        "pageNumber": 1,
+        "pageSize": 250,
+        "totalElements": 2,
+        "totalPages": 1,
+        "firstPage": true,
+        "lastPage": true
+    }
+}

@@ -1,0 +1,397 @@
+{
+    "data": [
+        {
+            "id": "FRS-2024-0288-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-29T11:44:31Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-25118",
+                "withdrawn": false,
+                "agencyId": "FRS",
+                "commentEndDate": null,
+                "title": "Change in Bank Control: Acquisitions of Shares of a Bank or Bank Holding Company",
+                "postedDate": "2024-10-29T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-10-29T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867ea950"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FRS-2024-0288-0001"
+            }
+        },
+        {
+            "id": "FRS-2024-0283-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-29T11:43:23Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-25043",
+                "withdrawn": false,
+                "agencyId": "FRS",
+                "commentEndDate": "2024-12-31T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2024-10-29T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-10-29T04:00:00Z",
+                "openForComment": true,
+                "objectId": "09000064867ea80e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FRS-2024-0283-0001"
+            }
+        },
+        {
+            "id": "FRS-2024-0286-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-29T11:43:45Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-25041",
+                "withdrawn": false,
+                "agencyId": "FRS",
+                "commentEndDate": "2024-12-31T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2024-10-29T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-10-29T04:00:00Z",
+                "openForComment": true,
+                "objectId": "09000064867ea8b1"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FRS-2024-0286-0001"
+            }
+        },
+        {
+            "id": "FRS-2024-0287-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-29T11:44:23Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-25039",
+                "withdrawn": false,
+                "agencyId": "FRS",
+                "commentEndDate": null,
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2024-10-29T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-10-29T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867ea94c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FRS-2024-0287-0001"
+            }
+        },
+        {
+            "id": "FRS-2024-0285-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-29T11:43:32Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-25119",
+                "withdrawn": false,
+                "agencyId": "FRS",
+                "commentEndDate": null,
+                "title": "Formations of, Acquisitions by, and Mergers of Bank Holding Companies",
+                "postedDate": "2024-10-29T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-10-29T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867ea85a"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FRS-2024-0285-0001"
+            }
+        },
+        {
+            "id": "FRS-2024-0282-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-29T11:42:30Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-25044",
+                "withdrawn": false,
+                "agencyId": "FRS",
+                "commentEndDate": null,
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2024-10-29T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-10-29T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867ea767"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FRS-2024-0282-0001"
+            }
+        },
+        {
+            "id": "FRS-2024-0284-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-10-29T11:43:28Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-25040",
+                "withdrawn": false,
+                "agencyId": "FRS",
+                "commentEndDate": null,
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2024-10-29T04:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-10-29T04:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064867ea858"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FRS-2024-0284-0001"
+            }
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "documentType": [
+                {
+                    "docCount": 7,
+                    "label": "Notice"
+                }
+            ],
+            "subtype": [],
+            "withinCommentPeriod": [
+                {
+                    "docCount": 2,
+                    "label": "true"
+                },
+                {
+                    "docCount": 5,
+                    "label": "false"
+                }
+            ],
+            "agencyId": [
+                {
+                    "docCount": 33,
+                    "value": "FAA"
+                },
+                {
+                    "docCount": 13,
+                    "value": "SEC"
+                },
+                {
+                    "docCount": 9,
+                    "value": "FWS"
+                },
+                {
+                    "docCount": 9,
+                    "value": "NARA"
+                },
+                {
+                    "docCount": 7,
+                    "value": "FRS"
+                },
+                {
+                    "docCount": 5,
+                    "value": "EPA"
+                },
+                {
+                    "docCount": 5,
+                    "value": "NRC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "FDA"
+                },
+                {
+                    "docCount": 4,
+                    "value": "FRA"
+                },
+                {
+                    "docCount": 4,
+                    "value": "NHTSA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "APHIS"
+                },
+                {
+                    "docCount": 3,
+                    "value": "ED"
+                },
+                {
+                    "docCount": 2,
+                    "value": "CISA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "CRC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "DOD"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FCC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ITA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NCUA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NOAA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "OFAC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "USCG"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BSEE"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CNCS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DOJ"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DOL"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DOT"
+                },
+                {
+                    "docCount": 1,
+                    "value": "EEOC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FMCS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ITC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NASA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NCD"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NLRB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "OFCCP"
+                },
+                {
+                    "docCount": 1,
+                    "value": "PHMSA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "TTB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USTR"
+                }
+            ],
+            "commentEndDate": [
+                {
+                    "docCount": 2,
+                    "label": "Next 90 Days",
+                    "fromDate": "2024-10-30 00:00:00",
+                    "toDate": "2025-01-27 23:59:59"
+                }
+            ],
+            "postedDate": [
+                {
+                    "docCount": 7,
+                    "label": "Last 3 Days",
+                    "fromDate": "2024-10-28 00:00:00",
+                    "toDate": "2024-10-30 23:59:59"
+                },
+                {
+                    "docCount": 8,
+                    "label": "Last 7 Days",
+                    "fromDate": "2024-10-24 00:00:00",
+                    "toDate": "2024-10-30 23:59:59"
+                },
+                {
+                    "docCount": 15,
+                    "label": "Last 15 Days",
+                    "fromDate": "2024-10-16 00:00:00",
+                    "toDate": "2024-10-30 23:59:59"
+                },
+                {
+                    "docCount": 39,
+                    "label": "Last 30 Days",
+                    "fromDate": "2024-10-01 00:00:00",
+                    "toDate": "2024-10-30 23:59:59"
+                },
+                {
+                    "docCount": 85,
+                    "label": "Last 90 Days",
+                    "fromDate": "2024-08-02 00:00:00",
+                    "toDate": "2024-10-30 23:59:59"
+                }
+            ]
+        },
+        "filters": {
+            "postedDate": {
+                "fromDate": "2024-10-29",
+                "toDate": "2024-10-29"
+            },
+            "agencyId": [
+                {
+                    "label": "FRS",
+                    "value": "FRS"
+                }
+            ]
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "numberOfElements": 7,
+        "pageNumber": 1,
+        "pageSize": 250,
+        "totalElements": 7,
+        "totalPages": 1,
+        "firstPage": true,
+        "lastPage": true
+    }
+}
