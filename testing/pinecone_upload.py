@@ -152,13 +152,21 @@ def upsert_pinecone(file_path):
     except Exception as e:
         print(f"Error uploading file and getting embeddings for '{file_name}': {e}")
         return
-
-    # Upsert data into Pinecone
-    try:
-        index.upsert(vectors=vectors, namespace="federal-documents")
-        print(f"File '{file_name}' successfully upserted into Pinecone.")
-    except Exception as e:
-        print(f"Error upserting data for '{file_name}': {e}")
+    # If there are more than 150 vectors, split into batches of 200
+    if len(vectors) > 150:
+        for i in range(0, len(vectors), 150):
+            try:
+                index.upsert(vectors=vectors[i:i+150], namespace="federal-documents")
+                print(f"Batch {i//150 + 1} of vectors for '{file_name}' successfully upserted into Pinecone.")
+            except Exception as e:
+                print(f"Error upserting data for '{file_name}': {e}")
+    else:
+        # Upsert data into Pinecone
+        try:
+            index.upsert(vectors=vectors, namespace="federal-documents")
+            print(f"File '{file_name}' successfully upserted into Pinecone.")
+        except Exception as e:
+            print(f"Error upserting data for '{file_name}': {e}")
 
 # Process all files in a directory
 #directory = "/Users/bluebird/develop/reg_extract/data/federal/attachments/testing"
