@@ -25,39 +25,11 @@ def chunk_text(text, chunk_size=3000, overlap=200):
         chunks.append(text[start:end])
         start += chunk_size - overlap
     return chunks
-
-def get_document_metadata(file_name):
-    # Load environment variables from .env file
-    load_dotenv()
-
-    try:
-        # Supabase credentials
-        url = os.getenv("SUPABASE_URL")
-        key = os.getenv("SUPABASE_SERVICE_KEY")
-        supabase: Client = create_client(url, key)
-        print("Supabase client created successfully.")
-    except Exception as e:
-        print(f"Error creating Supabase client: {e}")
-        
-    # Check for existing documents in the federal_documents_attachments table
-    response = supabase.table("federal_documents").select("*").execute().data
-    # Convert the response data to a pandas DataFrame
-    df = pd.DataFrame(response)
-    # Filter the DataFrame for the specified file name
-    df_file = df[df['doc_id'] == file_name]
-    # Get postedDate and documentType
-    postedDate = df_file['postedDate'].values[0]
-    documentType = df_file['documentType'].values[0]
-    
-    return postedDate, documentType
     
 def upload_file_and_get_embeddings(file_path):
     # Determine file extension and read content accordingly
     file_name = os.path.basename(file_path).split('/')[-1].split('.')[0]
     extension = os.path.basename(file_path).split('.')[-1]
-    agency = file_name[:4].replace("_", "").replace("-", "")
-    
-    postedDate, documentType = get_document_metadata(file_name)
 
     if extension == "pdf":
         # Read PDF content
@@ -99,7 +71,7 @@ def upload_file_and_get_embeddings(file_path):
             vectors.append({
                 "id": f"{file_name}_vec{i+1}",
                 "values": embeddings,
-                "metadata": {"filename": file_name, "extension": extension, "agency": agency, "text": chunk, "postedDate": postedDate, "documentType": documentType}
+                "metadata": {"filename": file_name, "extension": extension}
             })
         except Exception as e:
             print(f"Error generating embeddings for chunk {i+1} of '{file_name}': {e}")
@@ -113,7 +85,7 @@ def upsert_pinecone(file_path):
         pc = Pinecone(api_key=PINECONE_API_KEY)
         
         # Create or connect to an index
-        index_name = "test-index"
+        index_name = "major-regs"
         if index_name not in pc.list_indexes().names():
             pc.create_index(
                 name=index_name, 
@@ -170,9 +142,10 @@ def upsert_pinecone(file_path):
 
 # Process all files in a directory
 #directory = "/Users/bluebird/develop/reg_extract/data/federal/attachments/testing"
-directory = "/Users/bluebird/develop/reg_extract/data/federal/attachments"
+directory = "/Users/bluebird/develop/reg_extract/data/regs"
 
-files = get_files_for_pinecone()
+# Get all files in the directory
+files = os.listdir(directory)
 
 for filename in files:
     file_path = os.path.join(directory, filename)
@@ -185,4 +158,3 @@ for filename in files:
     except Exception as e:
         print(f"Error processing file '{filename}': {e}")
         continue
-
