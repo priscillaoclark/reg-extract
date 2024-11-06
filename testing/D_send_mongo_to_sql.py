@@ -53,10 +53,7 @@ def send_mongo_to_sql(data):
             "doc_id": index,
             "fileUrl": row['fileUrl'],
             "format": row['format'],
-            "size": row['size'],
-            "ai_summary_short": "TBD",
-            "ai_summary_long": "TBD",
-            "keywords": "TBD",
+            "size": row['size']
         }
         
         try:

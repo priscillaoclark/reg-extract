@@ -1,5 +1,41 @@
 [
   {
+    "title": "VyStar Credit Union",
+    "link": "https://www.consumerfinance.gov/enforcement/actions/vystar-credit-union/",
+    "date": "2024-10-31T00:00:00",
+    "summary": "On October 31, 2024, the Bureau issued an order against Vystar Credit Union.",
+    "description": "On October 31, 2024, the Bureau issued an order against VyStar Credit Union (VyStar), a Jacksonville, Florida based credit union with approximately 850,000 members with deposit accounts. VyStar membership is open to, among others, those living or working in the 49 contiguous counties of Central to North Florida, 29 Georgia counties, and past and present military members and their families. In May 2022, VyStar attempted to launch a new online and mobile banking platform with a new and untested provider. The new system crashed upon launch because VyStar brought it online prematurely and failed to establish or follow critical processes to ensure its success. The online and mobile banking platform was taken offline soon after the conversion; and initially when it returned, it lacked key banking services, some of which were not restored for months. The outage and subsequent limited functionality of the banking platform impacted VyStar members in significant ways, including the assessment of fees for failures to make timely payments, restricted access to their funds, and the inability to effectively manage their accounts. These significant problems were foreseeable and avoidable. VyStar failed to have adequate system development, implementation, and release controls in place; maintained policies and procedures that were deficient, out of date, and not followed by senior management; and was deficient in its service provider oversight. VyStar pushed the conversion process through too quickly, despite warning signs from its own development team, to meet an unrealistic deadline, which caused VyStar to take on unnecessary risk of harm to its members. The Bureau found that VyStar\u2019s planning and implementation of the conversion constituted an unfair practice in violation of the Consumer Financial Protection Act of 2010 that caused financial and non-financial harm to VyStar\u2019s members, including fees, costs, and inconvenience. The order requires VyStar to come into compliance with the law, establish a governance committee to ensure proper management of projects involving consumer facing banking systems, ensure that all consumers owed redress have been paid, and pay a $1.5 million civil money penalty.",
+    "related_documents": [
+      {
+        "text": "Consent Order",
+        "link": "https://files.consumerfinance.gov/f/documents/cfpb-vystar-credit-union-consent-order_2024-10.pdf"
+      },
+      {
+        "text": "Stipulation",
+        "link": "https://files.consumerfinance.gov/f/documents/cfpb-vystar-credit-union-stipulation_2024-10.pdf"
+      },
+      {
+        "text": "CFPB Orders VyStar Credit Union to Pay $1.5 Million for Illegally Stranding Consumers from Accessing Their Money and Accounts",
+        "link": "/about-us/newsroom/cfpb-orders-vystar-credit-union-to-pay-1-5-million-for-illegally-stranding-consumers-from-accessing-their-money-and-accounts/"
+      },
+      {
+        "text": "View case filings",
+        "link": "/administrative-adjudication-proceedings/administrative-adjudication-docket/vystar-credit-union/"
+      }
+    ],
+    "press_release": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-orders-vystar-credit-union-to-pay-1-5-million-for-illegally-stranding-consumers-from-accessing-their-money-and-accounts/",
+    "case_docket": "https://www.consumerfinance.gov/administrative-adjudication-proceedings/administrative-adjudication-docket/vystar-credit-union/",
+    "forum": [
+      "Administrative Proceeding"
+    ],
+    "docket_number": "2024-CFPB-0013",
+    "initial_filing_date": "OCT 31, 2024",
+    "status": "Post Order/Post Judgment",
+    "products": [
+      "Deposits"
+    ]
+  },
+  {
     "title": "Goldman Sachs Bank USA",
     "link": "https://www.consumerfinance.gov/enforcement/actions/goldman-sachs-bank-usa/",
     "date": "2024-10-23T00:00:00",
@@ -2748,7 +2784,7 @@
     "link": "https://www.consumerfinance.gov/enforcement/actions/townstone-financial-inc-and-barry-sturner/",
     "date": "2020-07-15T00:00:00",
     "summary": "On July 15, 2020, the Bureau filed a lawsuit against Townstone Financial, Inc., a nonbank retail-mortgage creditor and broker based in Chicago. Illinois. The Bureau alleges that Townstone violated the Equal Credit Opportunity Act (ECOA); its implementing regulation, Regulation B; and the Consumer Financial Protection Act (CFPA).",
-    "description": "On July 15, 2020, the Bureau filed a lawsuit against Townstone Financial, Inc., a nonbank retail-mortgage creditor and broker based in Chicago, Illinois. The Bureau alleges that Townstone violated the Equal Credit Opportunity Act (ECOA); its implementing regulation, Regulation B; and the Consumer Financial Protection Act (CFPA). For years, Townstone drew almost no applications for properties in majority-African-American neighborhoods located in the Chicago-Naperville-Elgin Metropolitan Statistical Area (Chicago MSA) and few applications from African Americans throughout the Chicago MSA. The Bureau alleges that Townstone engaged in discriminatory acts or practices, including making statements during its weekly radio shows and podcasts through which it marketed its services, that discouraged prospective African-American applicants from applying for mortgage loans; discouraged prospective applicants living in African-American neighborhoods in the Chicago MSA from applying for mortgage loans; and discouraged prospective applicants living in other areas from applying for mortgage loans for properties located in African-American neighborhoods in the Chicago MSA. On November 25, 2020, the Bureau filed an amended complaint, which added as a defendant Barry Sturner, Townstone\u2019s cofounder, sole owner, and sole director, as the fraudulent transferee of more than $2.4 million from Townstone. The Bureau\u2019s amended complaint seeks an injunction against Townstone, as well as damages, redress to consumers, the imposition of a civil money penalty, and other relief. The defendants filed a motion to dismiss the amended complaint on February 8, 2021, which the court granted on February 3, 2023. The Bureau appealed, and, on July 11, 2024, the Seventh Circuit held that \u201can analysis of the text of the ECOA as a whole makes clear that the text prohibits not only outright discrimination against applicants for credit, but also the discouragement of prospective applicants for credit\u201d and that \u201cRegulation B\u2019s prohibition on the discouragement of prospective applications is consistent with the plain text of the ECOA.\u201d The court reversed the decision of the district court and remanded the case for further proceedings.",
+    "description": "On July 15, 2020, the Bureau filed a lawsuit against Townstone Financial, Inc., a nonbank retail-mortgage creditor and broker based in Chicago, Illinois. The Bureau alleges that Townstone violated the Equal Credit Opportunity Act (ECOA); its implementing regulation, Regulation B; and the Consumer Financial Protection Act (CFPA). For years, Townstone drew almost no applications for properties in majority-African-American neighborhoods located in the Chicago-Naperville-Elgin Metropolitan Statistical Area (Chicago MSA) and few applications from African Americans throughout the Chicago MSA. The Bureau alleges that Townstone engaged in discriminatory acts or practices, including making statements during its weekly radio shows and podcasts through which it marketed its services, that discouraged prospective African-American applicants from applying for mortgage loans; discouraged prospective applicants living in African-American neighborhoods in the Chicago MSA from applying for mortgage loans; and discouraged prospective applicants living in other areas from applying for mortgage loans for properties located in African-American neighborhoods in the Chicago MSA. On November 25, 2020, the Bureau filed an amended complaint, which added as a defendant Barry Sturner, Townstone\u2019s cofounder, sole owner, and sole director, as the fraudulent transferee of more than $2.4 million from Townstone. The defendants filed a motion to dismiss the amended complaint on February 8, 2021, which the court granted on February 3, 2023. The Bureau appealed, and, on July 11, 2024, the Seventh Circuit held that \u201can analysis of the text of the ECOA as a whole makes clear that the text prohibits not only outright discrimination against applicants for credit, but also the discouragement of prospective applicants for credit\u201d and that \u201cRegulation B\u2019s prohibition on the discouragement of prospective applications is consistent with the plain text of the ECOA.\u201d The court reversed the district court\u2019s decision and remanded the case for further proceedings. On November 1, 2024, the Bureau filed a proposed stipulated final judgment and order against Townstone, which, if approved by the court, would prohibit Townstone from engaging in any acts or practices that violate ECOA in connection with offering or providing mortgage loans. It would also require Townstone to maintain a compliance management system and policies and procedures designed to ensure and test compliance with ECOA, provide ongoing education and training for employees, and pay a $105,000 civil money penalty. The Bureau also filed a stipulation of dismissal of its claim against Sturner.",
     "related_documents": [
       {
         "text": "Complaint",
@@ -2767,8 +2803,20 @@
         "link": "https://files.consumerfinance.gov/f/documents/cfpb_townstone-financial-appellate-court-opinion_2024-07.pdf"
       },
       {
+        "text": "Stipulated Final Judgment and Order",
+        "link": "https://files.consumerfinance.gov/f/documents/cfpb_stipulated-final-judgment-and-order_2024-11.pdf"
+      },
+      {
+        "text": "Stipulated Dismissal - Sturner",
+        "link": "https://files.consumerfinance.gov/f/documents/cfpb_stipulated-dismissal-sturner_2024-11.pdf"
+      },
+      {
         "text": "Consumer Financial Protection Bureau Files Suit Against Mortgage Creditor for Discriminatory Mortgage-Lending Practices",
         "link": "/about-us/newsroom/cfpb-files-suit-against-mortgage-creditor-discriminatory-mortgage-lending-practices/"
+      },
+      {
+        "text": "CFPB Takes Action to Address Townstone Financial\u2019s Unlawful Redlining",
+        "link": "/about-us/newsroom/cfpb-takes-action-to-address-townstone-financials-unlawful-redlining/"
       }
     ],
     "press_release": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-files-suit-against-mortgage-creditor-discriminatory-mortgage-lending-practices/",
@@ -3261,7 +3309,7 @@
     "link": "https://www.consumerfinance.gov/enforcement/actions/maxitransfers-corporation/",
     "date": "2019-08-27T00:00:00",
     "summary": "On August 27, 2019, the CFPB settled with Maxitransfers Corporation, which provides remittance transfer services that allow...",
-    "description": "On August 27, 2019, the Consumer Financial Protection Bureau announced a settlement with Maxitransfers Corporation (Maxi), which provides remittance transfer services that allow consumers to send money overseas electronically. From October 2013 until May 2017, Maxi sent approximately 14.5 million remittance transfers for U.S. consumers. The Bureau found that for each transfer, Maxi failed to provide certain consumer protection disclosures and did not maintain all of the policies and procedures required under the \u201cRemittance Transfer Rule\u201d of the Electronic Fund Transfer Act (\u201cEFTA\u201d). Maxi also violated the Consumer Financial Protection Act of 2010 (\u201cCFPA\u201d) by stating to consumers that it was not responsible for errors made by its third-party payment agents when in factunder the Remittance Transfer Rule a provider is liable for any violation by an agent when such agent acts for the provider. The consent order requires Maxi to pay a civil money penalty of $500,000 and prohibits Maxi from stating that it is not responsible for the acts of its agents. The consent order also requires Maxi to take steps to improve its compliance management to prevent future violations of the CFPA, EFTA, and the Remittance Transfer Rule.",
+    "description": "On August 27, 2019, the Consumer Financial Protection Bureau announced a settlement with Maxitransfers Corporation (Maxi), which provides remittance transfer services that allow consumers to send money overseas electronically. From October 2013 until May 2017, Maxi sent approximately 14.5 million remittance transfers for U.S. consumers. The Bureau found that for each transfer, Maxi failed to provide certain consumer protection disclosures and did not maintain all of the policies and procedures required under the \u201cRemittance Transfer Rule\u201d of the Electronic Fund Transfer Act (\u201cEFTA\u201d). Maxi also violated the Consumer Financial Protection Act of 2010 (\u201cCFPA\u201d) by stating to consumers that it was not responsible for errors made by its third-party payment agents when in fact under the Remittance Transfer Rule a provider is liable for any violation by an agent when such agent acts for the provider. The consent order requires Maxi to pay a civil money penalty of $500,000 and prohibits Maxi from stating that it is not responsible for the acts of its agents. The consent order also requires Maxi to take steps to improve its compliance management to prevent future violations of the CFPA, EFTA, and the Remittance Transfer Rule.",
     "related_documents": [],
     "press_release": "",
     "case_docket": "",
@@ -3270,7 +3318,7 @@
     ],
     "docket_number": "2019-BCFP-0008",
     "initial_filing_date": "AUG 27, 2019",
-    "status": "Post Order/Post Judgment",
+    "status": "Expired/Terminated/Dismissed",
     "products": [
       "Remittances"
     ]
