@@ -1,0 +1,284 @@
+{
+    "data": [
+        {
+            "id": "NCUA-2024-0138-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-11-06T16:34:13Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "allowLateComment": false,
+                "commentEndDate": "2024-12-31T04:59:59Z",
+                "title": "Proposed Merger of Mississippi Central Federal Credit Union located in Morton, MS with and into Magnolia Federal Credit Union located in Jackson, MS.",
+                "postedDate": "2024-11-06T05:00:00Z",
+                "docketId": "NCUA-2024-0138",
+                "subtype": null,
+                "commentStartDate": "2024-11-06T05:00:00Z",
+                "openForComment": true,
+                "objectId": "09000064868007e2"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0138-0002"
+            }
+        },
+        {
+            "id": "NCUA-2024-0138-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-11-06T16:31:58Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Mississippi Central Federal Credit Union - Member Notice",
+                "postedDate": "2024-11-06T05:00:00Z",
+                "docketId": "NCUA-2024-0138",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "09000064868007e3"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0138-0001"
+            }
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "documentType": [
+                {
+                    "docCount": 1,
+                    "label": "Notice"
+                },
+                {
+                    "docCount": 1,
+                    "label": "Supporting & Related Material"
+                }
+            ],
+            "subtype": [],
+            "withinCommentPeriod": [
+                {
+                    "docCount": 1,
+                    "label": "true"
+                },
+                {
+                    "docCount": 1,
+                    "label": "false"
+                }
+            ],
+            "agencyId": [
+                {
+                    "docCount": 52,
+                    "value": "FDA"
+                },
+                {
+                    "docCount": 23,
+                    "value": "FAA"
+                },
+                {
+                    "docCount": 22,
+                    "value": "DOJ"
+                },
+                {
+                    "docCount": 13,
+                    "value": "EPA"
+                },
+                {
+                    "docCount": 9,
+                    "value": "SEC"
+                },
+                {
+                    "docCount": 8,
+                    "value": "DOT"
+                },
+                {
+                    "docCount": 7,
+                    "value": "APHIS"
+                },
+                {
+                    "docCount": 5,
+                    "value": "USCG"
+                },
+                {
+                    "docCount": 4,
+                    "value": "CDC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "CMS"
+                },
+                {
+                    "docCount": 4,
+                    "value": "GSA"
+                },
+                {
+                    "docCount": 4,
+                    "value": "ITA"
+                },
+                {
+                    "docCount": 4,
+                    "value": "NHTSA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "ITC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ATSDR"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FCC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FHWA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FRS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NARA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NCUA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NSF"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ACF"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BIS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CPPBSD"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CRC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FMC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FMCSA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FRA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "MSHA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "MSHFRC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "OSHA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "SSA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "TTB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USPS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "WCPO"
+                }
+            ],
+            "commentEndDate": [
+                {
+                    "docCount": 1,
+                    "label": "Next 90 Days",
+                    "fromDate": "2024-11-07 00:00:00",
+                    "toDate": "2025-02-04 23:59:59"
+                }
+            ],
+            "postedDate": [
+                {
+                    "docCount": 2,
+                    "label": "Last 3 Days",
+                    "fromDate": "2024-11-05 00:00:00",
+                    "toDate": "2024-11-07 23:59:59"
+                },
+                {
+                    "docCount": 10,
+                    "label": "Last 7 Days",
+                    "fromDate": "2024-11-01 00:00:00",
+                    "toDate": "2024-11-07 23:59:59"
+                },
+                {
+                    "docCount": 27,
+                    "label": "Last 15 Days",
+                    "fromDate": "2024-10-24 00:00:00",
+                    "toDate": "2024-11-07 23:59:59"
+                },
+                {
+                    "docCount": 48,
+                    "label": "Last 30 Days",
+                    "fromDate": "2024-10-09 00:00:00",
+                    "toDate": "2024-11-07 23:59:59"
+                },
+                {
+                    "docCount": 121,
+                    "label": "Last 90 Days",
+                    "fromDate": "2024-08-10 00:00:00",
+                    "toDate": "2024-11-07 23:59:59"
+                }
+            ]
+        },
+        "filters": {
+            "postedDate": {
+                "fromDate": "2024-11-06",
+                "toDate": "2024-11-06"
+            },
+            "agencyId": [
+                {
+                    "label": "NCUA",
+                    "value": "NCUA"
+                }
+            ]
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "numberOfElements": 2,
+        "pageNumber": 1,
+        "pageSize": 250,
+        "totalElements": 2,
+        "totalPages": 1,
+        "firstPage": true,
+        "lastPage": true
+    }
+}
