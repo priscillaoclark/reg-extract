@@ -85,7 +85,7 @@ def upsert_pinecone(file_path):
         pc = Pinecone(api_key=PINECONE_API_KEY)
         
         # Create or connect to an index
-        index_name = "major-regs"
+        index_name = "test-index"
         if index_name not in pc.list_indexes().names():
             pc.create_index(
                 name=index_name, 
@@ -107,7 +107,7 @@ def upsert_pinecone(file_path):
 
     # Check if vectors with this filename prefix already exist in Pinecone
     try:
-        existing_vector = index.fetch(ids=[unique_id_prefix + "1"], namespace="federal-documents")
+        existing_vector = index.fetch(ids=[unique_id_prefix + "1"], namespace="major-regs")
         if existing_vector.vectors:
             print(f"File '{file_name}' already exists in the Pinecone index. Skipping.")
             return
@@ -128,14 +128,14 @@ def upsert_pinecone(file_path):
     if len(vectors) > 150:
         for i in range(0, len(vectors), 150):
             try:
-                index.upsert(vectors=vectors[i:i+150], namespace="federal-documents")
+                index.upsert(vectors=vectors[i:i+150], namespace="major-regs")
                 print(f"Batch {i//150 + 1} of vectors for '{file_name}' successfully upserted into Pinecone.")
             except Exception as e:
                 print(f"Error upserting data for '{file_name}': {e}")
     else:
         # Upsert data into Pinecone
         try:
-            index.upsert(vectors=vectors, namespace="federal-documents")
+            index.upsert(vectors=vectors, namespace="major-regs")
             print(f"File '{file_name}' successfully upserted into Pinecone.")
         except Exception as e:
             print(f"Error upserting data for '{file_name}': {e}")
