@@ -1,0 +1,320 @@
+{
+    "data": [
+        {
+            "id": "NCUA-2024-0145-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-11-07T21:24:39Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "allowLateComment": false,
+                "commentEndDate": "2024-12-24T04:59:59Z",
+                "title": "Proposed Merger of Ouachita Valley Health System Federal Credit Union located in Camden, AR with and into River Valley Community Federal Credit Union located in Camden, AR.",
+                "postedDate": "2024-11-07T05:00:00Z",
+                "docketId": "NCUA-2024-0145",
+                "subtype": null,
+                "commentStartDate": "2024-11-07T05:00:00Z",
+                "openForComment": true,
+                "objectId": "0900006486806d87"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0145-0002"
+            }
+        },
+        {
+            "id": "NCUA-2024-0144-0003",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-11-07T15:33:56Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Tucson Old Pueblo Credit Union - Member Notice",
+                "postedDate": "2024-11-07T05:00:00Z",
+                "docketId": "NCUA-2024-0144",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006486803ba3"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0144-0003"
+            }
+        },
+        {
+            "id": "NCUA-2024-0145-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-11-07T21:24:00Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Ouachita Valley Health System Federal Credit Union - Member Notice",
+                "postedDate": "2024-11-07T05:00:00Z",
+                "docketId": "NCUA-2024-0145",
+                "subtype": null,
+                "commentStartDate": null,
+                "openForComment": false,
+                "objectId": "0900006486806d88"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA-2024-0145-0001"
+            }
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "documentType": [
+                {
+                    "docCount": 2,
+                    "label": "Supporting & Related Material"
+                },
+                {
+                    "docCount": 1,
+                    "label": "Notice"
+                }
+            ],
+            "subtype": [],
+            "withinCommentPeriod": [
+                {
+                    "docCount": 1,
+                    "label": "true"
+                },
+                {
+                    "docCount": 2,
+                    "label": "false"
+                }
+            ],
+            "agencyId": [
+                {
+                    "docCount": 46,
+                    "value": "FDA"
+                },
+                {
+                    "docCount": 38,
+                    "value": "FAA"
+                },
+                {
+                    "docCount": 24,
+                    "value": "EPA"
+                },
+                {
+                    "docCount": 14,
+                    "value": "FERC"
+                },
+                {
+                    "docCount": 11,
+                    "value": "FWS"
+                },
+                {
+                    "docCount": 10,
+                    "value": "NHTSA"
+                },
+                {
+                    "docCount": 6,
+                    "value": "PHMSA"
+                },
+                {
+                    "docCount": 5,
+                    "value": "SEC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "TSA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "ED"
+                },
+                {
+                    "docCount": 3,
+                    "value": "FHWA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "FMCSA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "NCUA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "VA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "CMS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "DOE"
+                },
+                {
+                    "docCount": 2,
+                    "value": "DOS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "DOT"
+                },
+                {
+                    "docCount": 2,
+                    "value": "EIB"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FEMA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FRA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ITA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "LSC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NOAA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "OSHA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "USCG"
+                },
+                {
+                    "docCount": 1,
+                    "value": "APHIS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ARCTIC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BIS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CFTC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CNCS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FCC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FEC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FNS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ITC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "OMB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "STB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "TREAS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "TVA"
+                }
+            ],
+            "commentEndDate": [
+                {
+                    "docCount": 1,
+                    "label": "Next 90 Days",
+                    "fromDate": "2024-11-08 00:00:00",
+                    "toDate": "2025-02-05 23:59:59"
+                }
+            ],
+            "postedDate": [
+                {
+                    "docCount": 5,
+                    "label": "Last 3 Days",
+                    "fromDate": "2024-11-06 00:00:00",
+                    "toDate": "2024-11-08 23:59:59"
+                },
+                {
+                    "docCount": 13,
+                    "label": "Last 7 Days",
+                    "fromDate": "2024-11-02 00:00:00",
+                    "toDate": "2024-11-08 23:59:59"
+                },
+                {
+                    "docCount": 23,
+                    "label": "Last 15 Days",
+                    "fromDate": "2024-10-25 00:00:00",
+                    "toDate": "2024-11-08 23:59:59"
+                },
+                {
+                    "docCount": 51,
+                    "label": "Last 30 Days",
+                    "fromDate": "2024-10-10 00:00:00",
+                    "toDate": "2024-11-08 23:59:59"
+                },
+                {
+                    "docCount": 124,
+                    "label": "Last 90 Days",
+                    "fromDate": "2024-08-11 00:00:00",
+                    "toDate": "2024-11-08 23:59:59"
+                }
+            ]
+        },
+        "filters": {
+            "postedDate": {
+                "fromDate": "2024-11-07",
+                "toDate": "2024-11-07"
+            },
+            "agencyId": [
+                {
+                    "label": "NCUA",
+                    "value": "NCUA"
+                }
+            ]
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "numberOfElements": 3,
+        "pageNumber": 1,
+        "pageSize": 250,
+        "totalElements": 3,
+        "totalPages": 1,
+        "firstPage": true,
+        "lastPage": true
+    }
+}
