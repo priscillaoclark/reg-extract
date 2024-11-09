@@ -1,0 +1,497 @@
+{
+    "data": [
+        {
+            "id": "SEC-2021-1045-0004",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-11-08T13:11:04Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-25925",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2024-11-08T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-11-08T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486809591"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2021-1045-0004"
+            }
+        },
+        {
+            "id": "SEC-2018-1895-0005",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-11-08T13:10:43Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-25920",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2024-11-08T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-11-08T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486809509"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2018-1895-0005"
+            }
+        },
+        {
+            "id": "SEC-2024-1589-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-11-08T13:09:57Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-25961",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Application: KOR Reporting, Inc.; Approval",
+                "postedDate": "2024-11-08T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-11-08T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648680947a"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1589-0001"
+            }
+        },
+        {
+            "id": "SEC-2021-1046-0003",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-11-08T13:08:27Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-25923",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Municipal Securities Disclosure",
+                "postedDate": "2024-11-08T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-11-08T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486809326"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2021-1046-0003"
+            }
+        },
+        {
+            "id": "SEC-2013-0313-0004",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-11-08T13:08:30Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-25924",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2024-11-08T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-11-08T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486809327"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2013-0313-0004"
+            }
+        },
+        {
+            "id": "SEC-2021-1566-0004",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-11-08T13:08:56Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-25921",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2024-11-08T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-11-08T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486809362"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2021-1566-0004"
+            }
+        },
+        {
+            "id": "SEC-2024-1590-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-11-08T13:10:02Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-25929",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Self-Regulatory Organizations; Proposed Rule Changes: Cboe BZX Exchange, Inc.",
+                "postedDate": "2024-11-08T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-11-08T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648680947d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1590-0001"
+            }
+        },
+        {
+            "id": "SEC-2021-1581-0004",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-11-08T13:09:56Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-25922",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2024-11-08T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-11-08T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486809479"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2021-1581-0004"
+            }
+        },
+        {
+            "id": "SEC-2024-1591-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-11-08T13:10:59Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-25928",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Self-Regulatory Organizations; Proposed Rule Changes: Cboe Exchange, Inc.",
+                "postedDate": "2024-11-08T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-11-08T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648680954d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1591-0001"
+            }
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "documentType": [
+                {
+                    "docCount": 9,
+                    "label": "Notice"
+                }
+            ],
+            "subtype": [],
+            "withinCommentPeriod": [
+                {
+                    "docCount": 0,
+                    "label": "true"
+                },
+                {
+                    "docCount": 9,
+                    "label": "false"
+                }
+            ],
+            "agencyId": [
+                {
+                    "docCount": 993,
+                    "value": "FDA"
+                },
+                {
+                    "docCount": 52,
+                    "value": "EPA"
+                },
+                {
+                    "docCount": 23,
+                    "value": "FWS"
+                },
+                {
+                    "docCount": 12,
+                    "value": "FERC"
+                },
+                {
+                    "docCount": 9,
+                    "value": "DOT"
+                },
+                {
+                    "docCount": 9,
+                    "value": "SEC"
+                },
+                {
+                    "docCount": 7,
+                    "value": "ITA"
+                },
+                {
+                    "docCount": 7,
+                    "value": "NHTSA"
+                },
+                {
+                    "docCount": 6,
+                    "value": "ATSDR"
+                },
+                {
+                    "docCount": 6,
+                    "value": "FAA"
+                },
+                {
+                    "docCount": 5,
+                    "value": "FCC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "DOD"
+                },
+                {
+                    "docCount": 4,
+                    "value": "MARAD"
+                },
+                {
+                    "docCount": 4,
+                    "value": "USCG"
+                },
+                {
+                    "docCount": 3,
+                    "value": "CDC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "CMS"
+                },
+                {
+                    "docCount": 3,
+                    "value": "ED"
+                },
+                {
+                    "docCount": 3,
+                    "value": "FMCSA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "FS"
+                },
+                {
+                    "docCount": 3,
+                    "value": "STB"
+                },
+                {
+                    "docCount": 3,
+                    "value": "USN"
+                },
+                {
+                    "docCount": 2,
+                    "value": "APHIS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "CPPBSD"
+                },
+                {
+                    "docCount": 2,
+                    "value": "IRS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ITC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NRC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NSF"
+                },
+                {
+                    "docCount": 2,
+                    "value": "RITA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "USAF"
+                },
+                {
+                    "docCount": 2,
+                    "value": "VA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "AMS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BOEM"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CFTC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CPSC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DHS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "EBSA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "EERE"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FDIC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FEMA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "GSA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "HPAC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "LSC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NARA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NOAA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NRCS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "PTO"
+                },
+                {
+                    "docCount": 1,
+                    "value": "RRB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "RUS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USPS"
+                }
+            ],
+            "commentEndDate": [],
+            "postedDate": [
+                {
+                    "docCount": 14,
+                    "label": "Last 3 Days",
+                    "fromDate": "2024-11-07 00:00:00",
+                    "toDate": "2024-11-09 23:59:59"
+                },
+                {
+                    "docCount": 47,
+                    "label": "Last 7 Days",
+                    "fromDate": "2024-11-03 00:00:00",
+                    "toDate": "2024-11-09 23:59:59"
+                },
+                {
+                    "docCount": 91,
+                    "label": "Last 15 Days",
+                    "fromDate": "2024-10-26 00:00:00",
+                    "toDate": "2024-11-09 23:59:59"
+                },
+                {
+                    "docCount": 159,
+                    "label": "Last 30 Days",
+                    "fromDate": "2024-10-11 00:00:00",
+                    "toDate": "2024-11-09 23:59:59"
+                },
+                {
+                    "docCount": 575,
+                    "label": "Last 90 Days",
+                    "fromDate": "2024-08-12 00:00:00",
+                    "toDate": "2024-11-09 23:59:59"
+                }
+            ]
+        },
+        "filters": {
+            "postedDate": {
+                "fromDate": "2024-11-08",
+                "toDate": "2024-11-08"
+            },
+            "agencyId": [
+                {
+                    "label": "SEC",
+                    "value": "SEC"
+                }
+            ]
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "numberOfElements": 9,
+        "pageNumber": 1,
+        "pageSize": 250,
+        "totalElements": 9,
+        "totalPages": 1,
+        "firstPage": true,
+        "lastPage": true
+    }
+}

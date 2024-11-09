@@ -1,0 +1,305 @@
+{
+    "data": [
+        {
+            "id": "CFTC-2024-0084-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-11-08T13:10:38Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-25933",
+                "withdrawn": false,
+                "agencyId": "CFTC",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Hearings, Meetings, Proceedings, etc.: Global Markets Advisory Committee",
+                "postedDate": "2024-11-08T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-11-08T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486809507"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFTC-2024-0084-0001"
+            }
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "documentType": [
+                {
+                    "docCount": 1,
+                    "label": "Notice"
+                }
+            ],
+            "subtype": [],
+            "withinCommentPeriod": [
+                {
+                    "docCount": 0,
+                    "label": "true"
+                },
+                {
+                    "docCount": 1,
+                    "label": "false"
+                }
+            ],
+            "agencyId": [
+                {
+                    "docCount": 993,
+                    "value": "FDA"
+                },
+                {
+                    "docCount": 52,
+                    "value": "EPA"
+                },
+                {
+                    "docCount": 23,
+                    "value": "FWS"
+                },
+                {
+                    "docCount": 12,
+                    "value": "FERC"
+                },
+                {
+                    "docCount": 9,
+                    "value": "DOT"
+                },
+                {
+                    "docCount": 9,
+                    "value": "SEC"
+                },
+                {
+                    "docCount": 7,
+                    "value": "ITA"
+                },
+                {
+                    "docCount": 7,
+                    "value": "NHTSA"
+                },
+                {
+                    "docCount": 6,
+                    "value": "ATSDR"
+                },
+                {
+                    "docCount": 6,
+                    "value": "FAA"
+                },
+                {
+                    "docCount": 5,
+                    "value": "FCC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "DOD"
+                },
+                {
+                    "docCount": 4,
+                    "value": "MARAD"
+                },
+                {
+                    "docCount": 4,
+                    "value": "USCG"
+                },
+                {
+                    "docCount": 3,
+                    "value": "CDC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "CMS"
+                },
+                {
+                    "docCount": 3,
+                    "value": "ED"
+                },
+                {
+                    "docCount": 3,
+                    "value": "FMCSA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "FS"
+                },
+                {
+                    "docCount": 3,
+                    "value": "STB"
+                },
+                {
+                    "docCount": 3,
+                    "value": "USN"
+                },
+                {
+                    "docCount": 2,
+                    "value": "APHIS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "CPPBSD"
+                },
+                {
+                    "docCount": 2,
+                    "value": "IRS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ITC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NRC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NSF"
+                },
+                {
+                    "docCount": 2,
+                    "value": "RITA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "USAF"
+                },
+                {
+                    "docCount": 2,
+                    "value": "VA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "AMS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BOEM"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CFTC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CPSC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DHS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "EBSA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "EERE"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FDIC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FEMA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "GSA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "HPAC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "LSC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NARA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NOAA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NRCS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "PTO"
+                },
+                {
+                    "docCount": 1,
+                    "value": "RRB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "RUS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USPS"
+                }
+            ],
+            "commentEndDate": [],
+            "postedDate": [
+                {
+                    "docCount": 2,
+                    "label": "Last 3 Days",
+                    "fromDate": "2024-11-07 00:00:00",
+                    "toDate": "2024-11-09 23:59:59"
+                },
+                {
+                    "docCount": 3,
+                    "label": "Last 7 Days",
+                    "fromDate": "2024-11-03 00:00:00",
+                    "toDate": "2024-11-09 23:59:59"
+                },
+                {
+                    "docCount": 3,
+                    "label": "Last 15 Days",
+                    "fromDate": "2024-10-26 00:00:00",
+                    "toDate": "2024-11-09 23:59:59"
+                },
+                {
+                    "docCount": 9,
+                    "label": "Last 30 Days",
+                    "fromDate": "2024-10-11 00:00:00",
+                    "toDate": "2024-11-09 23:59:59"
+                },
+                {
+                    "docCount": 26,
+                    "label": "Last 90 Days",
+                    "fromDate": "2024-08-12 00:00:00",
+                    "toDate": "2024-11-09 23:59:59"
+                }
+            ]
+        },
+        "filters": {
+            "postedDate": {
+                "fromDate": "2024-11-08",
+                "toDate": "2024-11-08"
+            },
+            "agencyId": [
+                {
+                    "label": "CFTC",
+                    "value": "CFTC"
+                }
+            ]
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "numberOfElements": 1,
+        "pageNumber": 1,
+        "pageSize": 250,
+        "totalElements": 1,
+        "totalPages": 1,
+        "firstPage": true,
+        "lastPage": true
+    }
+}
