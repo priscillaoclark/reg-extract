@@ -137,7 +137,7 @@ def upsert_pinecone(file_path):
     try:
         existing_vector = index.fetch(ids=[unique_id_prefix + "1"], namespace="federal-documents")
         if existing_vector.vectors:
-            print(f"File '{file_name}' already exists in the Pinecone index. Skipping.")
+            #print(f"File '{file_name}' already exists in the Pinecone index. Skipping.")
             return
     except Exception as e:
         print(f"Error fetching vector by ID for '{file_name}': {e}")

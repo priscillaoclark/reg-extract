@@ -37,7 +37,7 @@ def get_files_for_pinecone():
     df_merged_2024_files = df_merged_2024[df_merged_2024['fileUrl'].notna()]
 
     # Filter out notices
-    df_merged_2024_files = df_merged_2024_files[~df_merged_2024_files['documentType'].str.contains("Notice")]
+    #df_merged_2024_files = df_merged_2024_files[~df_merged_2024_files['documentType'].str.contains("Notice")]
 
     # Add htm files to a new DataFrame
     df_htm = df_merged_2024_files[df_merged_2024_files['format'] == 'htm']
