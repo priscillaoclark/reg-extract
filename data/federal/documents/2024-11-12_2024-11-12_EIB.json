@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "id": "EIB_FRDOC_0001-0786",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-11-12T13:11:20Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-26163",
+                "withdrawn": false,
+                "agencyId": "EIB",
+                "allowLateComment": false,
+                "commentEndDate": "2025-01-14T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Application for Exporter Short Term Single Buyer Insurance",
+                "postedDate": "2024-11-12T05:00:00Z",
+                "docketId": "EIB_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-11-12T05:00:00Z",
+                "openForComment": true,
+                "objectId": "090000648680e577"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/EIB_FRDOC_0001-0786"
+            }
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "documentType": [
+                {
+                    "docCount": 1,
+                    "label": "Notice"
+                }
+            ],
+            "subtype": [],
+            "withinCommentPeriod": [
+                {
+                    "docCount": 1,
+                    "label": "true"
+                },
+                {
+                    "docCount": 0,
+                    "label": "false"
+                }
+            ],
+            "agencyId": [
+                {
+                    "docCount": 272,
+                    "value": "FDA"
+                },
+                {
+                    "docCount": 171,
+                    "value": "EPA"
+                },
+                {
+                    "docCount": 57,
+                    "value": "FAA"
+                },
+                {
+                    "docCount": 17,
+                    "value": "ITA"
+                },
+                {
+                    "docCount": 7,
+                    "value": "SEC"
+                },
+                {
+                    "docCount": 6,
+                    "value": "DOT"
+                },
+                {
+                    "docCount": 6,
+                    "value": "USCIS"
+                },
+                {
+                    "docCount": 5,
+                    "value": "VA"
+                },
+                {
+                    "docCount": 4,
+                    "value": "FAR"
+                },
+                {
+                    "docCount": 4,
+                    "value": "FERC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "NCUA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "CMS"
+                },
+                {
+                    "docCount": 3,
+                    "value": "NRC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FMCSA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FRS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ITC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "MSHA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "OFAC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "TSA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BOEM"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CFPB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DOE"
+                },
+                {
+                    "docCount": 1,
+                    "value": "EIB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FCC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FEC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FHWA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FMCS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FTC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "SJI"
+                },
+                {
+                    "docCount": 1,
+                    "value": "SLSDC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "SSA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "SWPA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "WAPA"
+                }
+            ],
+            "commentEndDate": [
+                {
+                    "docCount": 1,
+                    "label": "Next 90 Days",
+                    "fromDate": "2024-11-13 00:00:00",
+                    "toDate": "2025-02-10 23:59:59"
+                }
+            ],
+            "postedDate": [
+                {
+                    "docCount": 1,
+                    "label": "Last 3 Days",
+                    "fromDate": "2024-11-11 00:00:00",
+                    "toDate": "2024-11-13 23:59:59"
+                },
+                {
+                    "docCount": 3,
+                    "label": "Last 7 Days",
+                    "fromDate": "2024-11-07 00:00:00",
+                    "toDate": "2024-11-13 23:59:59"
+                },
+                {
+                    "docCount": 5,
+                    "label": "Last 15 Days",
+                    "fromDate": "2024-10-30 00:00:00",
+                    "toDate": "2024-11-13 23:59:59"
+                },
+                {
+                    "docCount": 5,
+                    "label": "Last 30 Days",
+                    "fromDate": "2024-10-15 00:00:00",
+                    "toDate": "2024-11-13 23:59:59"
+                },
+                {
+                    "docCount": 22,
+                    "label": "Last 90 Days",
+                    "fromDate": "2024-08-16 00:00:00",
+                    "toDate": "2024-11-13 23:59:59"
+                }
+            ]
+        },
+        "filters": {
+            "postedDate": {
+                "fromDate": "2024-11-12",
+                "toDate": "2024-11-12"
+            },
+            "agencyId": [
+                {
+                    "label": "EIB",
+                    "value": "EIB"
+                }
+            ]
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "numberOfElements": 1,
+        "pageNumber": 1,
+        "pageSize": 250,
+        "totalElements": 1,
+        "totalPages": 1,
+        "firstPage": true,
+        "lastPage": true
+    }
+}
