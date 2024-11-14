@@ -1,0 +1,290 @@
+{
+    "data": [
+        {
+            "id": "NCUA_FRDOC_0001-0416",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-11-13T13:37:00Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-26319",
+                "withdrawn": false,
+                "agencyId": "NCUA",
+                "allowLateComment": false,
+                "commentEndDate": "2024-12-14T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2024-11-13T05:00:00Z",
+                "docketId": "NCUA_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-11-13T05:00:00Z",
+                "openForComment": true,
+                "objectId": "090000648681266c"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/NCUA_FRDOC_0001-0416"
+            }
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "documentType": [
+                {
+                    "docCount": 1,
+                    "label": "Notice"
+                }
+            ],
+            "subtype": [],
+            "withinCommentPeriod": [
+                {
+                    "docCount": 1,
+                    "label": "true"
+                },
+                {
+                    "docCount": 0,
+                    "label": "false"
+                }
+            ],
+            "agencyId": [
+                {
+                    "docCount": 121,
+                    "value": "EPA"
+                },
+                {
+                    "docCount": 68,
+                    "value": "FAA"
+                },
+                {
+                    "docCount": 52,
+                    "value": "FDA"
+                },
+                {
+                    "docCount": 41,
+                    "value": "USPS"
+                },
+                {
+                    "docCount": 13,
+                    "value": "ITA"
+                },
+                {
+                    "docCount": 12,
+                    "value": "NARA"
+                },
+                {
+                    "docCount": 7,
+                    "value": "DOT"
+                },
+                {
+                    "docCount": 7,
+                    "value": "VA"
+                },
+                {
+                    "docCount": 6,
+                    "value": "FCC"
+                },
+                {
+                    "docCount": 6,
+                    "value": "SEC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "FWS"
+                },
+                {
+                    "docCount": 4,
+                    "value": "SRBC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "BPA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "GSA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "HUD"
+                },
+                {
+                    "docCount": 3,
+                    "value": "NHTSA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "NOAA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ARTS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FMCSA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FRA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "APHIS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CNCS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "COFA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CRC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DARS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DOD"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DOE"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DOL"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DOS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "EIB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FHWA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FINCEN"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "HHS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NASA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NCUA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NRCS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "OCC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "OFAC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "OPM"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USCG"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USDA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USSC"
+                }
+            ],
+            "commentEndDate": [
+                {
+                    "docCount": 1,
+                    "label": "Next 30 Days",
+                    "fromDate": "2024-11-14 00:00:00",
+                    "toDate": "2024-12-13 23:59:59"
+                },
+                {
+                    "docCount": 1,
+                    "label": "Next 90 Days",
+                    "fromDate": "2024-11-14 00:00:00",
+                    "toDate": "2025-02-11 23:59:59"
+                }
+            ],
+            "postedDate": [
+                {
+                    "docCount": 5,
+                    "label": "Last 3 Days",
+                    "fromDate": "2024-11-12 00:00:00",
+                    "toDate": "2024-11-14 23:59:59"
+                },
+                {
+                    "docCount": 5,
+                    "label": "Last 7 Days",
+                    "fromDate": "2024-11-08 00:00:00",
+                    "toDate": "2024-11-14 23:59:59"
+                },
+                {
+                    "docCount": 23,
+                    "label": "Last 15 Days",
+                    "fromDate": "2024-10-31 00:00:00",
+                    "toDate": "2024-11-14 23:59:59"
+                },
+                {
+                    "docCount": 53,
+                    "label": "Last 30 Days",
+                    "fromDate": "2024-10-16 00:00:00",
+                    "toDate": "2024-11-14 23:59:59"
+                },
+                {
+                    "docCount": 122,
+                    "label": "Last 90 Days",
+                    "fromDate": "2024-08-17 00:00:00",
+                    "toDate": "2024-11-14 23:59:59"
+                }
+            ]
+        },
+        "filters": {
+            "postedDate": {
+                "fromDate": "2024-11-13",
+                "toDate": "2024-11-13"
+            },
+            "agencyId": [
+                {
+                    "label": "NCUA",
+                    "value": "NCUA"
+                }
+            ]
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "numberOfElements": 1,
+        "pageNumber": 1,
+        "pageSize": 250,
+        "totalElements": 1,
+        "totalPages": 1,
+        "firstPage": true,
+        "lastPage": true
+    }
+}
