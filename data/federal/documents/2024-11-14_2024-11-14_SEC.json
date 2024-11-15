@@ -1,0 +1,741 @@
+{
+    "data": [
+        {
+            "id": "SEC-2024-1624-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-11-14T13:04:06Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-26410",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Self-Regulatory Organizations; Proposed Rule Changes: Nasdaq GEMX, LLC",
+                "postedDate": "2024-11-14T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-11-14T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064868154cb"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1624-0001"
+            }
+        },
+        {
+            "id": "SEC-2024-1605-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-11-14T13:01:17Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-26406",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Self-Regulatory Organizations; Proposed Rule Changes: MIAX PEARL, LLC",
+                "postedDate": "2024-11-14T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-11-14T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064868148a4"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1605-0001"
+            }
+        },
+        {
+            "id": "SEC-2024-1608-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-11-14T13:02:04Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-26414",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Self-Regulatory Organizations; Proposed Rule Changes: Cboe EDGA Exchange, Inc.",
+                "postedDate": "2024-11-14T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-11-14T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064868151a9"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1608-0001"
+            }
+        },
+        {
+            "id": "SEC-2024-1618-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-11-14T13:03:00Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-26421",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Self-Regulatory Organizations; Proposed Rule Changes: Investors Exchange LLC",
+                "postedDate": "2024-11-14T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-11-14T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486815358"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1618-0001"
+            }
+        },
+        {
+            "id": "SEC-2024-1611-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-11-14T13:02:24Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-26413",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Self-Regulatory Organizations; Proposed Rule Changes: The Options Clearing Corp.",
+                "postedDate": "2024-11-14T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-11-14T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648681520e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1611-0001"
+            }
+        },
+        {
+            "id": "SEC-2024-1613-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-11-14T13:02:39Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-26409",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Self-Regulatory Organizations; Proposed Rule Changes: Nasdaq PHLX, LLC",
+                "postedDate": "2024-11-14T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-11-14T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486815283"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1613-0001"
+            }
+        },
+        {
+            "id": "SEC-2024-1617-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-11-14T13:02:54Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-26519",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Self-Regulatory Organizations; Proposed Rule Changes: Fixed Income Clearing Corp.",
+                "postedDate": "2024-11-14T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-11-14T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064868152ea"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1617-0001"
+            }
+        },
+        {
+            "id": "SEC-2024-1607-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-11-14T13:01:59Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-26415",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Self-Regulatory Organizations; Proposed Rule Changes: NYSE American, LLC",
+                "postedDate": "2024-11-14T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-11-14T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648681514d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1607-0001"
+            }
+        },
+        {
+            "id": "SEC-2024-1612-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-11-14T13:02:33Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-26420",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Self-Regulatory Organizations; Proposed Rule Changes: Financial Industry Regulatory Authority, Inc.",
+                "postedDate": "2024-11-14T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-11-14T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648681527f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1612-0001"
+            }
+        },
+        {
+            "id": "SEC-2024-1625-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-11-14T13:04:20Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-26408",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Self-Regulatory Organizations; Proposed Rule Changes: The Nasdaq Stock Market LLC",
+                "postedDate": "2024-11-14T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-11-14T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486815527"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1625-0001"
+            }
+        },
+        {
+            "id": "SEC-2024-1616-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-11-14T13:02:52Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-26533",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Self-Regulatory Organizations; Proposed Rule Changes: NYSE American, LLC",
+                "postedDate": "2024-11-14T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-11-14T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064868152e8"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1616-0001"
+            }
+        },
+        {
+            "id": "SEC-2024-1609-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-11-14T13:02:21Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-26417",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Self-Regulatory Organizations; Proposed Rule Changes: NYSE Arca, Inc.",
+                "postedDate": "2024-11-14T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-11-14T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648681520b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1609-0001"
+            }
+        },
+        {
+            "id": "SEC-2024-1622-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-11-14T13:03:59Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-26194",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Self-Regulatory Organizations; Proposed Rule Changes: Cboe BZX Exchange, Inc.",
+                "postedDate": "2024-11-14T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-11-14T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486815481"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1622-0001"
+            }
+        },
+        {
+            "id": "SEC-2024-1619-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-11-14T13:03:07Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-26407",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Self-Regulatory Organizations; Proposed Rule Changes: BOX Exchange, LLC",
+                "postedDate": "2024-11-14T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-11-14T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648681535d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1619-0001"
+            }
+        },
+        {
+            "id": "SEC-2024-1614-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-11-14T13:02:45Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-26418",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Self-Regulatory Organizations; Proposed Rule Changes: NYSE Arca, Inc.",
+                "postedDate": "2024-11-14T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-11-14T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064868152e2"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1614-0001"
+            }
+        },
+        {
+            "id": "SEC-2024-1621-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-11-14T13:03:54Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-26412",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Self-Regulatory Organizations; Proposed Rule Changes: Nasdaq BX, Inc.",
+                "postedDate": "2024-11-14T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-11-14T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648681547e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1621-0001"
+            }
+        },
+        {
+            "id": "SEC-2024-1620-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-11-14T13:03:17Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-26416",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Self-Regulatory Organizations; Proposed Rule Changes: MEMX, LLC",
+                "postedDate": "2024-11-14T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-11-14T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064868153c4"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1620-0001"
+            }
+        },
+        {
+            "id": "SEC-2024-1610-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-11-14T13:02:23Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-26532",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Self-Regulatory Organizations; Proposed Rule Changes: Nasdaq ISE, LLC",
+                "postedDate": "2024-11-14T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-11-14T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648681520d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1610-0001"
+            }
+        },
+        {
+            "id": "SEC-2024-1606-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-11-14T13:01:49Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-26531",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Self-Regulatory Organizations; Proposed Rule Changes: Fixed Income Clearing Corp.",
+                "postedDate": "2024-11-14T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-11-14T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486815147"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1606-0001"
+            }
+        },
+        {
+            "id": "SEC-2024-1623-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-11-14T13:04:02Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-26411",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Self-Regulatory Organizations; Proposed Rule Changes: Nasdaq ISE, LLC",
+                "postedDate": "2024-11-14T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-11-14T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064868154c9"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1623-0001"
+            }
+        },
+        {
+            "id": "SEC-2024-1615-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-11-14T13:02:50Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-26419",
+                "withdrawn": false,
+                "agencyId": "SEC",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Self-Regulatory Organizations; Proposed Rule Changes: Nasdaq MRX, LLC",
+                "postedDate": "2024-11-14T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-11-14T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064868152e6"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/SEC-2024-1615-0001"
+            }
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "documentType": [
+                {
+                    "docCount": 21,
+                    "label": "Notice"
+                }
+            ],
+            "subtype": [],
+            "withinCommentPeriod": [
+                {
+                    "docCount": 0,
+                    "label": "true"
+                },
+                {
+                    "docCount": 21,
+                    "label": "false"
+                }
+            ],
+            "agencyId": [
+                {
+                    "docCount": 64,
+                    "value": "EPA"
+                },
+                {
+                    "docCount": 60,
+                    "value": "USPS"
+                },
+                {
+                    "docCount": 48,
+                    "value": "FDA"
+                },
+                {
+                    "docCount": 21,
+                    "value": "SEC"
+                },
+                {
+                    "docCount": 13,
+                    "value": "FAA"
+                },
+                {
+                    "docCount": 12,
+                    "value": "FERC"
+                },
+                {
+                    "docCount": 10,
+                    "value": "USCIS"
+                },
+                {
+                    "docCount": 9,
+                    "value": "FRA"
+                },
+                {
+                    "docCount": 9,
+                    "value": "ITA"
+                },
+                {
+                    "docCount": 7,
+                    "value": "MSHA"
+                },
+                {
+                    "docCount": 5,
+                    "value": "DOT"
+                },
+                {
+                    "docCount": 5,
+                    "value": "FMCSA"
+                },
+                {
+                    "docCount": 5,
+                    "value": "USCG"
+                },
+                {
+                    "docCount": 3,
+                    "value": "CMS"
+                },
+                {
+                    "docCount": 3,
+                    "value": "ED"
+                },
+                {
+                    "docCount": 3,
+                    "value": "NASA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "NHTSA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "PHMSA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ARTS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FRS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NRC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "OFAC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "VA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BLM"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BOEM"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BSEE"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DOL"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FDIC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FMC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FSIS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FTA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FTC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "HUD"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ITC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "LSC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NSF"
+                },
+                {
+                    "docCount": 1,
+                    "value": "RBS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "STB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "WCPO"
+                }
+            ],
+            "commentEndDate": [],
+            "postedDate": [
+                {
+                    "docCount": 27,
+                    "label": "Last 3 Days",
+                    "fromDate": "2024-11-13 00:00:00",
+                    "toDate": "2024-11-15 23:59:59"
+                },
+                {
+                    "docCount": 34,
+                    "label": "Last 7 Days",
+                    "fromDate": "2024-11-09 00:00:00",
+                    "toDate": "2024-11-15 23:59:59"
+                },
+                {
+                    "docCount": 87,
+                    "label": "Last 15 Days",
+                    "fromDate": "2024-11-01 00:00:00",
+                    "toDate": "2024-11-15 23:59:59"
+                },
+                {
+                    "docCount": 171,
+                    "label": "Last 30 Days",
+                    "fromDate": "2024-10-17 00:00:00",
+                    "toDate": "2024-11-15 23:59:59"
+                },
+                {
+                    "docCount": 567,
+                    "label": "Last 90 Days",
+                    "fromDate": "2024-08-18 00:00:00",
+                    "toDate": "2024-11-15 23:59:59"
+                }
+            ]
+        },
+        "filters": {
+            "postedDate": {
+                "fromDate": "2024-11-14",
+                "toDate": "2024-11-14"
+            },
+            "agencyId": [
+                {
+                    "label": "SEC",
+                    "value": "SEC"
+                }
+            ]
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "numberOfElements": 21,
+        "pageNumber": 1,
+        "pageSize": 250,
+        "totalElements": 21,
+        "totalPages": 1,
+        "firstPage": true,
+        "lastPage": true
+    }
+}
