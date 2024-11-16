@@ -1,0 +1,277 @@
+{
+    "data": [
+        {
+            "id": "TREAS_FRDOC_0001-0472",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-11-15T12:47:04Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-25422",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "U.S. Investments in Certain National Security Technologies and Products in Countries of Concern",
+                "postedDate": "2024-11-15T05:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-11-15T05:00:00Z",
+                "openForComment": false,
+                "objectId": "0900006486817b9f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0472"
+            }
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "documentType": [
+                {
+                    "docCount": 1,
+                    "label": "Rule"
+                }
+            ],
+            "subtype": [],
+            "withinCommentPeriod": [
+                {
+                    "docCount": 0,
+                    "label": "true"
+                },
+                {
+                    "docCount": 1,
+                    "label": "false"
+                }
+            ],
+            "agencyId": [
+                {
+                    "docCount": 252,
+                    "value": "EPA"
+                },
+                {
+                    "docCount": 83,
+                    "value": "USPS"
+                },
+                {
+                    "docCount": 26,
+                    "value": "FDA"
+                },
+                {
+                    "docCount": 15,
+                    "value": "FAA"
+                },
+                {
+                    "docCount": 5,
+                    "value": "DARS"
+                },
+                {
+                    "docCount": 5,
+                    "value": "EIB"
+                },
+                {
+                    "docCount": 5,
+                    "value": "FRS"
+                },
+                {
+                    "docCount": 4,
+                    "value": "CPPBSD"
+                },
+                {
+                    "docCount": 4,
+                    "value": "DOT"
+                },
+                {
+                    "docCount": 4,
+                    "value": "ED"
+                },
+                {
+                    "docCount": 4,
+                    "value": "OFAC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "STB"
+                },
+                {
+                    "docCount": 3,
+                    "value": "FERC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "FMCSA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "NHTSA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "NSF"
+                },
+                {
+                    "docCount": 3,
+                    "value": "PHMSA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "USCG"
+                },
+                {
+                    "docCount": 2,
+                    "value": "BOEM"
+                },
+                {
+                    "docCount": 2,
+                    "value": "DOE"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FHWA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FTC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "GSA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ITA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NRC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "OSHA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "RHS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "VA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "AID"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FEMA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FMC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FRA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FWS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "MARAD"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NARA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NOAA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NRCS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "PBGC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "RBS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "RUS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "TREAS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "TSA"
+                }
+            ],
+            "commentEndDate": [],
+            "postedDate": [
+                {
+                    "docCount": 1,
+                    "label": "Last 3 Days",
+                    "fromDate": "2024-11-14 00:00:00",
+                    "toDate": "2024-11-16 23:59:59"
+                },
+                {
+                    "docCount": 1,
+                    "label": "Last 7 Days",
+                    "fromDate": "2024-11-10 00:00:00",
+                    "toDate": "2024-11-16 23:59:59"
+                },
+                {
+                    "docCount": 2,
+                    "label": "Last 15 Days",
+                    "fromDate": "2024-11-02 00:00:00",
+                    "toDate": "2024-11-16 23:59:59"
+                },
+                {
+                    "docCount": 3,
+                    "label": "Last 30 Days",
+                    "fromDate": "2024-10-18 00:00:00",
+                    "toDate": "2024-11-16 23:59:59"
+                },
+                {
+                    "docCount": 8,
+                    "label": "Last 90 Days",
+                    "fromDate": "2024-08-19 00:00:00",
+                    "toDate": "2024-11-16 23:59:59"
+                }
+            ]
+        },
+        "filters": {
+            "postedDate": {
+                "fromDate": "2024-11-15",
+                "toDate": "2024-11-15"
+            },
+            "agencyId": [
+                {
+                    "label": "TREAS",
+                    "value": "TREAS"
+                }
+            ]
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "numberOfElements": 1,
+        "pageNumber": 1,
+        "pageSize": 250,
+        "totalElements": 1,
+        "totalPages": 1,
+        "firstPage": true,
+        "lastPage": true
+    }
+}
