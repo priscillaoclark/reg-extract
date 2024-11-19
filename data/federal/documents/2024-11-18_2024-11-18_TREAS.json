@@ -1,0 +1,297 @@
+{
+    "data": [
+        {
+            "id": "TREAS_FRDOC_0001-0473",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-11-18T13:27:58Z",
+                "highlightedContent": "",
+                "frDocNum": "C1-2024-25773",
+                "withdrawn": false,
+                "agencyId": "TREAS",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Definition of Military Installation and the List of Military Installations in the Regulations Pertaining to Certain Transactions by Foreign Persons Involving Real Estate in the United States",
+                "postedDate": "2024-11-18T05:00:00Z",
+                "docketId": "TREAS_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-11-18T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648681fb7f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0473"
+            }
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "documentType": [
+                {
+                    "docCount": 1,
+                    "label": "Rule"
+                }
+            ],
+            "subtype": [],
+            "withinCommentPeriod": [
+                {
+                    "docCount": 0,
+                    "label": "true"
+                },
+                {
+                    "docCount": 1,
+                    "label": "false"
+                }
+            ],
+            "agencyId": [
+                {
+                    "docCount": 141,
+                    "value": "EPA"
+                },
+                {
+                    "docCount": 40,
+                    "value": "FDA"
+                },
+                {
+                    "docCount": 27,
+                    "value": "FMCSA"
+                },
+                {
+                    "docCount": 17,
+                    "value": "SEC"
+                },
+                {
+                    "docCount": 15,
+                    "value": "FAA"
+                },
+                {
+                    "docCount": 13,
+                    "value": "MSHA"
+                },
+                {
+                    "docCount": 12,
+                    "value": "DOT"
+                },
+                {
+                    "docCount": 7,
+                    "value": "ITA"
+                },
+                {
+                    "docCount": 6,
+                    "value": "FERC"
+                },
+                {
+                    "docCount": 5,
+                    "value": "USCG"
+                },
+                {
+                    "docCount": 4,
+                    "value": "FHWA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "FRA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "ITC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "NOAA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "OSHA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "VA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FNS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FTA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NCUA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NRC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "PHMSA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "AMS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ARTS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ASC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BSEE"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CDC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CFPB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CMS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CPSC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DOE"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ETA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FCC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FMC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FRTIB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FTC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "GCERC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "HHS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "HUD"
+                },
+                {
+                    "docCount": 1,
+                    "value": "MARAD"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NSF"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ONRR"
+                },
+                {
+                    "docCount": 1,
+                    "value": "PTO"
+                },
+                {
+                    "docCount": 1,
+                    "value": "RRB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "STB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "TREAS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USAGM"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USBC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USDA"
+                }
+            ],
+            "commentEndDate": [],
+            "postedDate": [
+                {
+                    "docCount": 1,
+                    "label": "Last 3 Days",
+                    "fromDate": "2024-11-17 00:00:00",
+                    "toDate": "2024-11-19 23:59:59"
+                },
+                {
+                    "docCount": 2,
+                    "label": "Last 7 Days",
+                    "fromDate": "2024-11-13 00:00:00",
+                    "toDate": "2024-11-19 23:59:59"
+                },
+                {
+                    "docCount": 3,
+                    "label": "Last 15 Days",
+                    "fromDate": "2024-11-05 00:00:00",
+                    "toDate": "2024-11-19 23:59:59"
+                },
+                {
+                    "docCount": 4,
+                    "label": "Last 30 Days",
+                    "fromDate": "2024-10-21 00:00:00",
+                    "toDate": "2024-11-19 23:59:59"
+                },
+                {
+                    "docCount": 9,
+                    "label": "Last 90 Days",
+                    "fromDate": "2024-08-22 00:00:00",
+                    "toDate": "2024-11-19 23:59:59"
+                }
+            ]
+        },
+        "filters": {
+            "postedDate": {
+                "fromDate": "2024-11-18",
+                "toDate": "2024-11-18"
+            },
+            "agencyId": [
+                {
+                    "label": "TREAS",
+                    "value": "TREAS"
+                }
+            ]
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "numberOfElements": 1,
+        "pageNumber": 1,
+        "pageSize": 250,
+        "totalElements": 1,
+        "totalPages": 1,
+        "firstPage": true,
+        "lastPage": true
+    }
+}
