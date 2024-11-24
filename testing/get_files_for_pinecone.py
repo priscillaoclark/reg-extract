@@ -31,13 +31,13 @@ def get_files_for_pinecone():
     df_merged = pd.merge(df, df_files, on='doc_id', how='inner')
 
     # Filter the merged DataFrame for postedDate after 2023
-    df_merged_2024 = df_merged[df_merged['postedDate'] >= '2024-01-01']
+    df_merged_2024 = df_merged[df_merged['postedDate'] >= '2024-11-01']
 
     # Filter the merged DataFrame for documents with a fileUrl
     df_merged_2024_files = df_merged_2024[df_merged_2024['fileUrl'].notna()]
 
     # Filter out notices
-    df_merged_2024_files = df_merged_2024_files[~df_merged_2024_files['documentType'].str.contains("Notice")]
+    #df_merged_2024_files = df_merged_2024_files[~df_merged_2024_files['documentType'].str.contains("Notice")]
 
     # Add htm files to a new DataFrame
     df_htm = df_merged_2024_files[df_merged_2024_files['format'] == 'htm']
