@@ -1,0 +1,305 @@
+{
+    "data": [
+        {
+            "id": "CFPB-2024-0001-0029",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-11-29T13:44:04Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-27978",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Updates to Supervision and Enforcement Procedures",
+                "postedDate": "2024-11-29T05:00:00Z",
+                "docketId": "CFPB-2024-0001",
+                "subtype": null,
+                "commentStartDate": "2024-11-29T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648683ee79"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0001-0029"
+            }
+        },
+        {
+            "id": "CFPB-2024-0001-0031",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-11-29T13:50:41Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-27695",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Fair Credit Reporting Act Disclosures",
+                "postedDate": "2024-11-29T05:00:00Z",
+                "docketId": "CFPB-2024-0001",
+                "subtype": null,
+                "commentStartDate": "2024-11-29T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648683f00b"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0001-0031"
+            }
+        },
+        {
+            "id": "CFPB-2024-0001-0030",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-11-29T13:49:15Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-27791",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Debt Collection Practices (Regulation F): Deceptive and Unfair Collection of Medical Debt",
+                "postedDate": "2024-11-29T05:00:00Z",
+                "docketId": "CFPB-2024-0001",
+                "subtype": null,
+                "commentStartDate": "2024-11-29T05:00:00Z",
+                "openForComment": false,
+                "objectId": "090000648683f158"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0001-0030"
+            }
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "documentType": [
+                {
+                    "docCount": 3,
+                    "label": "Rule"
+                }
+            ],
+            "subtype": [],
+            "withinCommentPeriod": [
+                {
+                    "docCount": 0,
+                    "label": "true"
+                },
+                {
+                    "docCount": 3,
+                    "label": "false"
+                }
+            ],
+            "agencyId": [
+                {
+                    "docCount": 79,
+                    "value": "EPA"
+                },
+                {
+                    "docCount": 70,
+                    "value": "USPS"
+                },
+                {
+                    "docCount": 26,
+                    "value": "FAA"
+                },
+                {
+                    "docCount": 17,
+                    "value": "FDA"
+                },
+                {
+                    "docCount": 16,
+                    "value": "SEC"
+                },
+                {
+                    "docCount": 14,
+                    "value": "FWS"
+                },
+                {
+                    "docCount": 13,
+                    "value": "FERC"
+                },
+                {
+                    "docCount": 8,
+                    "value": "DOT"
+                },
+                {
+                    "docCount": 6,
+                    "value": "EERE"
+                },
+                {
+                    "docCount": 5,
+                    "value": "APHIS"
+                },
+                {
+                    "docCount": 5,
+                    "value": "ITA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "CFPB"
+                },
+                {
+                    "docCount": 3,
+                    "value": "DOS"
+                },
+                {
+                    "docCount": 3,
+                    "value": "FRA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "CPPBSD"
+                },
+                {
+                    "docCount": 2,
+                    "value": "CRB"
+                },
+                {
+                    "docCount": 2,
+                    "value": "DEA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FAR"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ITC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "PHMSA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "VA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ARS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BIS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CMS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CPSC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DOD"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DOE"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FCA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FEC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "HHSIG"
+                },
+                {
+                    "docCount": 1,
+                    "value": "HUD"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NCUA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NOAA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NRC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "OSHA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USN"
+                },
+                {
+                    "docCount": 1,
+                    "value": "WCPO"
+                }
+            ],
+            "commentEndDate": [],
+            "postedDate": [
+                {
+                    "docCount": 3,
+                    "label": "Last 3 Days",
+                    "fromDate": "2024-11-28 00:00:00",
+                    "toDate": "2024-11-30 23:59:59"
+                },
+                {
+                    "docCount": 3,
+                    "label": "Last 7 Days",
+                    "fromDate": "2024-11-24 00:00:00",
+                    "toDate": "2024-11-30 23:59:59"
+                },
+                {
+                    "docCount": 4,
+                    "label": "Last 15 Days",
+                    "fromDate": "2024-11-16 00:00:00",
+                    "toDate": "2024-11-30 23:59:59"
+                },
+                {
+                    "docCount": 5,
+                    "label": "Last 30 Days",
+                    "fromDate": "2024-11-01 00:00:00",
+                    "toDate": "2024-11-30 23:59:59"
+                },
+                {
+                    "docCount": 26,
+                    "label": "Last 90 Days",
+                    "fromDate": "2024-09-02 00:00:00",
+                    "toDate": "2024-11-30 23:59:59"
+                }
+            ]
+        },
+        "filters": {
+            "postedDate": {
+                "fromDate": "2024-11-29",
+                "toDate": "2024-11-29"
+            },
+            "agencyId": [
+                {
+                    "label": "CFPB",
+                    "value": "CFPB"
+                }
+            ]
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "numberOfElements": 3,
+        "pageNumber": 1,
+        "pageSize": 250,
+        "totalElements": 3,
+        "totalPages": 1,
+        "firstPage": true,
+        "lastPage": true
+    }
+}
