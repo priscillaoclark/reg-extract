@@ -1,0 +1,293 @@
+{
+    "data": [
+        {
+            "id": "CFPB-2024-0001-0032",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Rule",
+                "lastModifiedDate": "2024-12-02T14:19:09Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-27553",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComment": false,
+                "commentEndDate": null,
+                "title": "Truth in Lending (Regulation Z): Annual Threshold Adjustments (Credit Cards, HOEPA, and Qualified Mortgages)",
+                "postedDate": "2024-12-02T05:00:00Z",
+                "docketId": "CFPB-2024-0001",
+                "subtype": null,
+                "commentStartDate": "2024-12-02T05:00:00Z",
+                "openForComment": false,
+                "objectId": "09000064868438b5"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0001-0032"
+            }
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "documentType": [
+                {
+                    "docCount": 1,
+                    "label": "Rule"
+                }
+            ],
+            "subtype": [],
+            "withinCommentPeriod": [
+                {
+                    "docCount": 0,
+                    "label": "true"
+                },
+                {
+                    "docCount": 1,
+                    "label": "false"
+                }
+            ],
+            "agencyId": [
+                {
+                    "docCount": 240,
+                    "value": "EPA"
+                },
+                {
+                    "docCount": 41,
+                    "value": "FDA"
+                },
+                {
+                    "docCount": 33,
+                    "value": "FAA"
+                },
+                {
+                    "docCount": 24,
+                    "value": "SEC"
+                },
+                {
+                    "docCount": 7,
+                    "value": "ITA"
+                },
+                {
+                    "docCount": 6,
+                    "value": "FERC"
+                },
+                {
+                    "docCount": 5,
+                    "value": "DOT"
+                },
+                {
+                    "docCount": 4,
+                    "value": "FCC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "ITC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "NCUA"
+                },
+                {
+                    "docCount": 4,
+                    "value": "NSF"
+                },
+                {
+                    "docCount": 3,
+                    "value": "AMS"
+                },
+                {
+                    "docCount": 3,
+                    "value": "FMCSA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "FRA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "NHTSA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "OFAC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "CMS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "DOE"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FHWA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FWS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "IRS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NOAA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "USDA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "VA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "APHIS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ARTS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BOEM"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CFPB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ETA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FMC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FRS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "HHS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "HHSIG"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ICEB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "MSHA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NASS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NRC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "OCC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "OPM"
+                },
+                {
+                    "docCount": 1,
+                    "value": "OSHA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "RHS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "RUS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "SSA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "TSA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "TTB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USAGM"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USCIS"
+                }
+            ],
+            "commentEndDate": [],
+            "postedDate": [
+                {
+                    "docCount": 1,
+                    "label": "Last 3 Days",
+                    "fromDate": "2024-12-01 00:00:00",
+                    "toDate": "2024-12-03 23:59:59"
+                },
+                {
+                    "docCount": 4,
+                    "label": "Last 7 Days",
+                    "fromDate": "2024-11-27 00:00:00",
+                    "toDate": "2024-12-03 23:59:59"
+                },
+                {
+                    "docCount": 4,
+                    "label": "Last 15 Days",
+                    "fromDate": "2024-11-19 00:00:00",
+                    "toDate": "2024-12-03 23:59:59"
+                },
+                {
+                    "docCount": 6,
+                    "label": "Last 30 Days",
+                    "fromDate": "2024-11-04 00:00:00",
+                    "toDate": "2024-12-03 23:59:59"
+                },
+                {
+                    "docCount": 26,
+                    "label": "Last 90 Days",
+                    "fromDate": "2024-09-05 00:00:00",
+                    "toDate": "2024-12-03 23:59:59"
+                }
+            ]
+        },
+        "filters": {
+            "postedDate": {
+                "fromDate": "2024-12-02",
+                "toDate": "2024-12-02"
+            },
+            "agencyId": [
+                {
+                    "label": "CFPB",
+                    "value": "CFPB"
+                }
+            ]
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "numberOfElements": 1,
+        "pageNumber": 1,
+        "pageSize": 250,
+        "totalElements": 1,
+        "totalPages": 1,
+        "firstPage": true,
+        "lastPage": true
+    }
+}
