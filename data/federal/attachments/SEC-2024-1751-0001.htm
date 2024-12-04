@@ -1,0 +1,595 @@
+<html>
+<head>
+<title>Federal Register, Volume 89 Issue 232 (Tuesday, December 3, 2024)</title>
+</head>
+<body><pre>
+[Federal Register Volume 89, Number 232 (Tuesday, December 3, 2024)]
+[Notices]
+[Pages 95846-95851]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2024-28342]
+
+
+-----------------------------------------------------------------------
+
+SECURITIES AND EXCHANGE COMMISSION
+
+[Release No. 34-101774; File No. SR-C2-2024-021]
+
+
+Self-Regulatory Organizations; Cboe C2 Exchange, Inc.; Notice of 
+Filing and Immediate Effectiveness of a Proposed Rule Change To Adopt 
+New Functionality Relating to the Processing of Auction Responses
+
+November 27, 2024.
+    Pursuant to Section 19(b)(1) of the Securities Exchange Act of 1934 
+(the ``Act''),\1\ and Rule 19b-4 thereunder,\2\ notice is hereby given 
+that on November 18, 2024, Cboe C2 Exchange, Inc. (the ``Exchange'' or 
+``C2'') filed with the
+
+[[Page 95847]]
+
+Securities and Exchange Commission (the ``Commission'') the proposed 
+rule change as described in Items I and II below, which Items have been 
+prepared by the Exchange. The Exchange filed the proposal as a ``non-
+controversial'' proposed rule change pursuant to Section 
+19(b)(3)(A)(iii) of the Act \3\ and Rule 19b-4(f)(6) thereunder.\4\ The 
+Commission is publishing this notice to solicit comments on the 
+proposed rule change from interested persons.
+---------------------------------------------------------------------------
+
+    \1\ 15 U.S.C. 78s(b)(1).
+    \2\ 17 CFR 240.19b-4.
+    \3\ 15 U.S.C. 78s(b)(3)(A)(iii).
+    \4\ 17 CFR 240.19b-4(f)(6).
+---------------------------------------------------------------------------
+
+I. Self-Regulatory Organization's Statement of the Terms of Substance 
+of the Proposed Rule Change
+
+    Cboe C2 Exchange, Inc. (the ``Exchange'' or ``C2'') proposes to 
+adopt new functionality relating to the processing of auction 
+responses. The text of the proposed rule change is provided in Exhibit 
+5.
+    The text of the proposed rule change is also available on the 
+Exchange's website (<a href="https://markets.cboe.com/us/options/regulation/rule_filings/ctwo/">https://markets.cboe.com/us/options/regulation/rule_filings/ctwo/</a>), at the Exchange's Office of the Secretary, and at 
+the Commission's Public Reference Room.
+
+II. Self-Regulatory Organization's Statement of the Purpose of, and 
+Statutory Basis for, the Proposed Rule Change
+
+    In its filing with the Commission, the Exchange included statements 
+concerning the purpose of and basis for the proposed rule change and 
+discussed any comments it received on the proposed rule change. The 
+text of these statements may be examined at the places specified in 
+Item IV below. The Exchange has prepared summaries, set forth in 
+sections A, B, and C below, of the most significant aspects of such 
+statements.
+
+A. Self-Regulatory Organization's Statement of the Purpose of, and 
+Statutory Basis for, the Proposed Rule Change
+
+1. Purpose
+    The Exchange currently offers an auction mechanism which provides 
+price improvement opportunities for eligible orders. Particularly, the 
+Exchange offers the Complex Order Auction (``COA'').\5\ The Exchange 
+notes that eligible orders (``auctioned order'') are electronically 
+exposed for an Exchange-determined period (referred to herein as 
+``auction response period'') in accordance with the applicable Exchange 
+Rule, during which time Users may submit responses (referred to herein 
+as ``auction responses'' or ``auction response messages'') to an 
+auction message. An auction response may only execute in the auction 
+and is cancelled if it does not execute during an auction. If an 
+auction response is unable to be processed by the System during the 
+auction response period, that auction response is unable to receive any 
+execution opportunity or provide liquidity (and possible price 
+improvement) on the Exchange.\6\
+---------------------------------------------------------------------------
+
+    \5\ See Rule 5.33(d).
+    \6\ The Exchange notes that its review of auction responses 
+during August 2024 indicated that approximately 0.19% of auction 
+responses had no opportunity to execute in their respective 
+auctions, notwithstanding being submitted within the auction 
+response period.
+---------------------------------------------------------------------------
+
+    By way of further background, Trading Permit Holders (``TPHs'') may 
+submit auction responses via logical port connectivity.\7\ Each logical 
+port corresponds to a single running order handler application.\8\ Each 
+order handler application processes the messages it receives from the 
+connected TPH. This processing includes determining whether the message 
+contains the required information to enter the System and where to send 
+that message within the System (i.e., to which matching engine). 
+Messages are sent from an order handler application to a matching 
+engine via User Datagram Protocol (``UDP''). The Exchange has multiple 
+matching engines, each of which controls the book for one or more 
+classes of options listed for trading on the Exchange. The Exchange may 
+run multiple matching engine applications on a single server. Once at a 
+matching engine, the message is received at a server Network Interface 
+Card (``NIC''), which timestamps each message upon arrival and places 
+it in a queue. Currently, each matching engine processes all messages 
+it receives from a single queue from the NIC and prioritizes the 
+processing of all message traffic, including auction responses, in the 
+order in which the NIC received each message (i.e., in time priority).
+---------------------------------------------------------------------------
+
+    \7\ A User connects to the Exchange using a logical port 
+available through an API, such as the industry-standard FIX or BOE 
+protocol. Logical ports represent a technical port established by 
+the Exchange within the Exchange's trading system for the delivery 
+and/or receipt of trading messages, including orders, cancels, and 
+auction responses.
+    \8\ The Exchange has numerous order handlers and uses an 
+algorithm to determine at random which ports connect to which order 
+handlers This algorithm attempts to spread out a single TPH's ports 
+across order handlers as well as balance the number of ports that 
+connect to a single order handler.
+---------------------------------------------------------------------------
+
+    Auction response messages historically have waited in the same 
+queue as all other order and quote message traffic. As such, if an 
+auction response is submitted at a time where there is a deep queue of 
+other message traffic such as mass cancellation messages or other 
+orders and quotes, it is possible that the auction response may not be 
+``processed'' by the System in sufficient time (i.e., prior to the end 
+of the auction response period).\9\ Particularly, the queued auction 
+response may not be able to participate in the applicable auction 
+mechanism because the System had unprocessed (queued) messages at the 
+time of the auction execution despite the fact that the User submitted 
+the auction response prior to the end of the auction response period. 
+Auctioned orders may therefore be missing out on potential price 
+improvement that may have otherwise resulted if queued timely auction 
+response(s) were able to participate in the auction.
+---------------------------------------------------------------------------
+
+    \9\ For example, it currently takes the Exchange's system an 
+approximate average of 13 microseconds to process a single order/
+quote or auction response message and, on average, approximately 35 
+microseconds to process a mass cancel message. As such, under the 
+current system, an auction response that is entered after a mass 
+cancel message is more likely to be detrimentally delayed as 
+compared to a mass cancel message that is entered after an auction 
+response (i.e., a 35 microsecond ``wait time'' versus a 13 
+microsecond ``wait time'').
+---------------------------------------------------------------------------
+
+    The Exchange proposes to adopt new functionality under Rule 5.25, 
+new subparagraph (c), which would apply to the Exchange's auction 
+mechanism (i.e., COA) to increase the likelihood that timely submitted 
+auction responses may participate in the auction, even during periods 
+of high message traffic. Under the proposed functionality, at the time 
+an auction response period ends, the System will continue to process 
+its inbound queue for any messages that were received by the System 
+before the end of the auction period (including auction messages) for 
+up to an Exchange-determined period of time, not to exceed 100 
+milliseconds (which the Exchange may determine on a class-by-class 
+basis which would apply to all auction mechanisms and which would be 
+announced with reasonable advanced notice via Exchange Notice). That 
+is, any auction responses that were in the queue before the conclusion 
+of the auction (as identified by the NIC timestamp on the message) 
+would be processed as long as the Exchange-determined time on a class-
+by-class basis (not to exceed 100 milliseconds) is not exceeded. Only 
+auction messages received prior to the execution of the applicable 
+auction are eligible to be processed for that auction. The applicable 
+auction will execute once all messages, including auction responses, 
+received before the end time of the auction response period have been 
+processed or the Exchange-determined
+
+[[Page 95848]]
+
+maximum time limit of up to 100 milliseconds has elapsed, whichever 
+occurs first. This continuation of processing the queue for an 
+additional amount of time for messages that were received before the 
+end of the auction allows for auction responses that would otherwise 
+have been canceled due to the conclusion of the auction response period 
+to still have an opportunity to participate in the auction. This 
+provides such responses with increased opportunities to participate in 
+the auction, even during periods of high message traffic, thereby 
+potentially providing customers with additional opportunities for price 
+improvement, while still providing a processing cut off time to ensure 
+auction executions aren't unduly delayed.
+    By way of an example, if an auction with an auction response period 
+set to 100 milliseconds were to start at 9:00:00 a.m., only auction 
+responses that were able to be processed by the System by the 
+conclusion of the auction at 9:00:100 would participate in the auction. 
+Accordingly, if, for example, an auction response that was submitted at 
+9:00:090 (within the auction time response period), is still in the 
+message queue at 9:00:100, that response under the current System 
+functionality would be canceled and not eligible to participate in the 
+auction. Under the proposal, at 9:00:100, because the System continues 
+to process all messages timestamped before 9:00:100, that same auction 
+response submitted at 9:00:090 would not automatically be canceled but 
+rather included in the auction as long as it was able to be processed 
+within an additional 50 milliseconds, which is the additional 
+processing time set by the Exchange and announced to market 
+participants with reasonable advance notice via Exchange Notice for 
+that class in this example. Once that auction response is up for 
+processing (because the System processes messages sequentially in time 
+order sequence), the response will be able to participate in the 
+auction so long as it's processed by 9:00:150, notwithstanding such 
+processing would occur after the 100-millisecond auction response 
+period has concluded. Any auction responses for the pending auction 
+that are still pending after the execution of the auction would be 
+canceled.\10\ The Exchange notes that using the same example, if an 
+auction response was submitted at 9:00:120, it would not be eligible 
+for processing because the timestamp would identify it as being 
+submitted outside the auction response period which was otherwise set 
+to conclude at 9:00:100.
+---------------------------------------------------------------------------
+
+    \10\ If, for example, the System processed all messages received 
+before 9:00:100 by 9:00:110, then the auction would execute at 
+9:00:110 (i.e., the System does not need to wait until 9:00:150 to 
+execute an auction if all messages submitted prior to the end time 
+of the auction have been processed).
+---------------------------------------------------------------------------
+
+    The Exchange believes the proposed rule change will result in 
+increased execution opportunities for liquidity providers that submit 
+auction responses and enhance the potential for price improvement for 
+orders submitted to COA to the benefit of investors and public 
+interest. Indeed, the Exchange believes the proposed functionality will 
+increase the possibility that timely submitted auction responses are 
+processed by the Exchange and have an opportunity for execution in the 
+Exchange's auction mechanism, even if there is a deep pending message 
+queue. The Exchange believes the proposed maximum amount of additional 
+time for processing (i.e., 100 milliseconds) is both an adequate amount 
+of time to provide pending auction responses with such execution 
+opportunity, but also an amount minimal enough that impact to other 
+message traffic, if any, would be de minimis. The Exchange also notes 
+that it previously discussed the proposed maximum amount with market 
+participants who indicated that 100 milliseconds was acceptable to 
+them. The Exchange anticipates that in the vast majority of cases, the 
+additional time needed after the conclusion of auction response period, 
+if any, to process all pending auction responses will be shorter than 
+the maximum 100 milliseconds. To the extent the Exchange determines a 
+lesser amount of time would be sufficient, the Exchange could implement 
+an additional amount of time for processing auction responses that is 
+less than 100 milliseconds, which time would be announced with 
+reasonable advance notice to market participants via Exchange Notice. 
+Additionally, all message traffic (including auction responses) will 
+continue to be processed in time-priority.
+    The Exchange also believes the proposal will continue to allow the 
+Exchange to set the auction response period to an amount of time that 
+provides TPHs submitting responses with sufficient time to respond to, 
+compete for, and provide price improvement for orders, but also 
+continues to provide auctioned orders with quick executions that may 
+reduce market and execution risk. Further, the Exchange believes some 
+market participants choose to submit auction responses towards the end 
+of an auction response period to better ensure the response is at a 
+price that the market participant is willing to trade given the market 
+at the time the auction response period concludes. As such, merely 
+extending the auction response period in each auction would not itself 
+prevent auction responses from continuing to miss the auction 
+notwithstanding being timely submitted.
+    Moreover, the Exchange notes that it recently adopted the same 
+functionality on its affiliated exchanges, Cboe Exchange, Inc (``Cboe 
+Options'') and Cboe EDGX Exchange, Inc. (``EDGX Options'').\11\
+---------------------------------------------------------------------------
+
+    \11\ See Securities Exchange Act Release No. 97738 (June 15, 
+2023) 88 FR 40878 (June 22, 2023) (SR-CBOE-2022-051) (Order Granting 
+Accelerated Approval of Proposed Rule Change as Modified by 
+Amendment Nos. 1 and 2 Relating to the Processing of Auction 
+Responses). See also Securities Exchange Act Release No. 101434 
+(October 25, 2024) 89 FR 86856 (October 31, 2024) (SR-CboeEDGX-2024-
+067).
+---------------------------------------------------------------------------
+
+Implementation
+    The Exchange will announce via Exchange Notice the implementation 
+date of implement the proposed rule change, which shall be no later 
+than 60 days after the operative date of this rule filing.
+2. Statutory Basis
+    The Exchange believes the proposed rule change is consistent with 
+the Securities Exchange Act of 1934 (the ``Act'') and the rules and 
+regulations thereunder applicable to the Exchange and, in particular, 
+the requirements of Section 6(b) of the Act.\12\ Specifically, the 
+Exchange believes the proposed rule change is consistent with the 
+Section 6(b)(5) \13\ requirements that the rules of an exchange be 
+designed to prevent fraudulent and manipulative acts and practices, to 
+promote just and equitable principles of trade, to foster cooperation 
+and coordination with persons engaged in regulating, clearing, 
+settling, processing information with respect to, and facilitating 
+transactions in securities, to remove impediments to and perfect the 
+mechanism of a free and open market and a national market system, and, 
+in general, to protect investors and the public interest. Additionally, 
+the Exchange believes the proposed rule change is consistent with the 
+Section 6(b)(5) \14\ requirement that the rules of an exchange not be 
+designed to permit unfair discrimination between customers, issuers, 
+brokers, or dealers.
+---------------------------------------------------------------------------
+
+    \12\ 15 U.S.C. 78f(b).
+    \13\ 15 U.S.C. 78f(b)(5).
+    \14\ Id.
+---------------------------------------------------------------------------
+
+    In particular, the Exchange believes modifying its System to allow 
+it to potentially process more, if not all, timely submitted auction 
+responses may provide further opportunities for auctioned orders to 
+receive price
+
+[[Page 95849]]
+
+improvement, which removes impediments to a free and open market and 
+ultimately protects and benefits investors. In particular, the proposed 
+rule change will continue to provide investors with timely processing 
+of their options quote and order messages, while providing investors 
+who submit auction orders with additional auction liquidity. Indeed, 
+the proposed rule change may allow more investors additional 
+opportunities to receive price improvement through an auction 
+mechanism. Additionally, because the proposed functionality may provide 
+liquidity providers that submit auction responses with additional 
+execution opportunities in auctions, the Exchange believes they may be 
+further encouraged to submit more auction responses, which may 
+contribute to a deeper, more liquid auction process that provides 
+investors with additional price improvement opportunities.
+    The Exchange believes the proposed rule change will result in 
+increased execution opportunities for liquidity providers that submit 
+auction responses and enhance the potential for price improvement for 
+orders submitted to each mechanism to the benefit of investors and 
+public interest. As described above, the Exchange believes the proposed 
+functionality will increase the possibility that timely submitted 
+auction responses are processed by the Exchange and have an opportunity 
+for execution in the Exchange's auction mechanism, even if there is a 
+deep pending message queue. The Exchange believes the proposed maximum 
+amount of additional time for processing (i.e., 100 milliseconds) is 
+both an adequate amount of time to provide pending auction responses 
+with such execution opportunity, but also an amount minimal enough that 
+impact to other message traffic, if any, would be de minimis. The 
+Exchange also discussed the proposed maximum amount of time with market 
+participants who indicated that 100 milliseconds was acceptable to 
+them. As represented above, the Exchange anticipates that in the vast 
+majority of cases, the additional time needed after the conclusion of 
+auction response period, if any, to process all pending auction 
+responses will be shorter than the maximum 100 milliseconds. To the 
+extent the Exchange determines a lesser amount of time would be 
+sufficient, the Exchange could implement an additional amount of time 
+for processing auction responses that is less than 100 milliseconds, 
+which time would be announced with reasonable advance notice to market 
+participants via Exchange Notice. Additionally, all message traffic 
+(including auction responses) will continue to be processed in time-
+priority.
+    While the Exchange may increase the length of the auction response 
+period to accommodate more auction responses, the Exchange believes the 
+proposed functionality better addresses the issue of missed auction 
+responses. Particularly, the Exchange believes the proposed rule change 
+will accommodate more auction responses while also mitigating market 
+risk that may accompany a longer auction period by setting the length 
+of an auction response period to a timeframe that allows an adequate 
+amount of time for TPHs to respond to an auction message and provides 
+the auctioned order with fast executions. Additionally, the Exchange 
+believes TPHs may wait until the end of an auction response period 
+regardless of how long the Exchange sets it to in order to ensure they 
+are comfortable with the price the response may execute at the 
+conclusion of such auction. As such, extending the auction response 
+period in each auction would not itself prevent auction responses from 
+continuing to miss the auction notwithstanding being timely submitted.
+    The Exchange believes adopting the proposed functionality for 
+auction responses would also better provide customers with additional 
+opportunities for price improvements with little to no impact to non-
+auction response message traffic. Currently, auction responses account 
+for an incredibly small fraction of message traffic submitted to the 
+Exchange. Indeed, based on the Exchange's analysis in August 2024, 
+auction response messages accounted for a mere 0.07% of all message 
+traffic submitted to the Exchange. The Exchange believe the processing 
+of such a small amount of message traffic, even after the conclusion of 
+an auction response period, would therefore have de minimis, if any, 
+impact on the processing of non-auction response messages waiting in 
+the queue. The Exchange also notes that all messages are currently 
+processed one at a time by the System. Therefore, the System still 
+needs to ``process'' all pending auction responses, regardless of 
+whether that processing involves canceling the pending auction response 
+because it wasn't processed in time to participate in the auction or 
+actually processing the response to participate in the auction. Either 
+way, the non-auction response messages will still have to wait for 
+processing of any pending responses ahead of it. Conversely, the 
+current system may cause investors to miss out on opportunities to 
+receive price improvement through the Exchange's auction mechanism as 
+the System is configured to cancel pending auction responses that 
+``miss'' the auction execution, even if such responses were timely 
+submitted but not processed due to the System being otherwise occupied 
+processing messages in queue ahead of it. The Exchange therefore 
+believes its proposal will make it more likely that the System 
+processes timely submitted auction responses and includes them in its 
+auction mechanism, thus providing them with more opportunities to 
+execute against auctioned orders, even during periods of high message 
+traffic.
+    The Exchange believes the proposed rule change is not designed to 
+permit unfair discrimination between market participants as all market 
+participants are allowed to submit auction responses. Additionally, the 
+Exchange believes it's reasonable to adopt the proposed functionality 
+for auction responses as compared to other messages because auction 
+responses are submitted only for the purpose of executing (and possibly 
+providing price improvement) in auctions with short durations, whereas 
+other messages are generally submitted to rest in or execute against 
+the book (and generally not used to submit liquidity into auctions). As 
+discussed above, the Exchange believes the benefits that result from 
+the adoption of the proposed functionality for auction responses would 
+outweigh any potential negative impact to other message traffic, 
+including customer orders, which have an incredibly low chance of being 
+affected by the proposed change as discussed above and which continue 
+to receive priority allocation in any event.
+
+B. Self-Regulatory Organization's Statement on Burden on Competition
+
+    The Exchange does not believe that the proposed rule change will 
+impose any burden on competition that is not necessary or appropriate 
+in furtherance of the purposes of the Act. The Exchange does not 
+believe that the proposed changes will impose any burden on intra-
+market competition that is not necessary or appropriate in furtherance 
+of the purposes of the Act, as the proposed rule change would apply 
+equally to all TPHs that submit auction responses. As noted above, all 
+market participants are able to submit auction responses. Additionally, 
+the Exchange believes the adoption of the proposed functionality for 
+auction responses would have little to no impact on non-auction 
+response message traffic. As discussed, auction response messages 
+account for an incredibly
+
+[[Page 95850]]
+
+small fraction of message traffic submitted to the Exchange. The 
+Exchange therefore believes the processing of such a small amount of 
+message traffic by using the functionality would have a de minimis, if 
+any, impact on the processing of non-auction response messages. 
+Moreover, the Exchange believes it's reasonable to adopt the proposed 
+functionality for auction responses as compared to other messages 
+because auction responses are submitted only for the purpose of 
+executing (and possibly providing price improvement) in auctions with 
+short durations, whereas other messages are generally submitted to rest 
+in or execute against the book (and generally not used to submit 
+liquidity into auctions). Lastly, the Exchange does not believe the 
+proposed rule change will impose any burden on inter-market competition 
+that is not necessary or appropriate in furtherance of the purposes of 
+the Act, as the proposed change affects how the System processes 
+auction responses that may only participate in auctions that occur on 
+the Exchange.
+
+C. Self-Regulatory Organization's Statement on Comments on the Proposed 
+Rule Change Received From Members, Participants, or Others
+
+    The Exchange neither solicited nor received comments on the 
+proposed rule change.
+
+III. Date of Effectiveness of the Proposed Rule Change and Timing for 
+Commission Action
+
+    The Exchange designates that the proposed rule change effects a 
+change that (i) does not significantly affect the protection of 
+investors or the public interest; (ii) does not impose any significant 
+burden on competition; and (iii) by its terms, does not become 
+operative for 30 days after the date of the filing, or such shorter 
+time as the Commission may designate if consistent with the protection 
+of investors and the public interest. Additionally, the Exchange has 
+given the Commission written notice of its intent to file the proposed 
+rule change, along with a brief description and text of the proposed 
+rule change, at least five business days prior to the date of filing of 
+the proposed rule change, or such shorter time as designated by the 
+Commission.
+    As described above, the Exchange has observed a number of auction 
+responses missing opportunities to execute auctions, notwithstanding 
+being timely submitted within the auction response period. The Exchange 
+believes adopting the proposed functionality for auction responses 
+would better provide market participants with additional opportunities 
+for price improvements with very little, if any, impact to non-auction 
+response message traffic, thereby removing impediments to a free and 
+open market and ultimately protecting and benefiting investors. 
+Additionally, because the proposed functionality may provide liquidity 
+providers that submit auction responses with additional execution 
+opportunities in auctions, the Exchange believes they may be further 
+encouraged to submit more auction responses, which may contribute to a 
+deeper, more liquid auction process that provides investors with 
+additional price improvement opportunities.
+    The Exchange also believes the proposed rule change does not impose 
+any significant burden on competition, as the proposed functionality 
+would apply equally to all TPHs that submit auction responses and as 
+the proposed change only affects how the Exchange's System processes 
+auction responses that participate in auctions that occur only on the 
+Exchange.
+    Finally, the Exchange does not believe the proposed functionality 
+raises any novel legal or regulatory issues as the Exchange's affiliate 
+Cboe Options currently maintains the same timestamping functionality, 
+which was reviewed and approved by the Commission prior to its 
+implementation and the same functionality was recently adopted on the 
+Exchange's affiliate and EDGX Options, which was also reviewed by the 
+Commission.\15\
+---------------------------------------------------------------------------
+
+    \15\ Supra note 11.
+---------------------------------------------------------------------------
+
+    For the foregoing reasons, this rule filing qualifies as a ``non-
+controversial'' rule change under Rule 19b-4(f)(6), which renders the 
+proposed rule change effective upon filing with the Commission. At any 
+time within 60 days of the filing of this proposed rule change, the 
+Commission summarily may temporarily suspend such rule change if it 
+appears to the Commission that such action is necessary or appropriate 
+in the public interest, for the protection of investors, or otherwise 
+in furtherance of the purposes of the Act. If the Commission takes such 
+action, the Commission will institute proceedings to determine whether 
+the proposed rule change should be approved or disapproved. The 
+Exchange respectfully requests that the Commission waive the 30-day 
+operative delay period after which a proposed rule change under Rule 
+19b-4(f)(6) becomes effective. The Exchange believes waiver of the 
+operative delay will benefit investors because it will permit the 
+proposed rule change to be operative as soon as practicable. As 
+previously noted, the Exchange's affiliate, Cboe Options recently 
+received Commission approval of a substantively identical functionality 
+and the Exchange's affiliate EDGX Options also recently adopted the 
+same functionality.\16\ Moreover, no comments to either of those 
+filings were submitted during the respective public comment periods. 
+Therefore, given that the Commission has noticed for public comment 
+substantively identical filings and received no comments to such 
+filings, the Exchange believes an operative delay is not necessary for 
+this filing. Additionally, waiver of the operative delay will permit 
+the Exchange to implement the proposed functionality as soon as 
+possible, which will benefit investors as the System will potentially 
+process more, if not all, timely submitted auction responses, thereby 
+provide further opportunities for auctioned orders to receive price 
+improvement, which removes impediments to a free and open market and 
+ultimately protects and benefits investors.
+---------------------------------------------------------------------------
+
+    \16\ Supra note 11.
+---------------------------------------------------------------------------
+
+IV. Solicitation of Comments
+
+    Interested persons are invited to submit written data, views and 
+arguments concerning the foregoing, including whether the proposed rule 
+change is consistent with the Act. Comments may be submitted by any of 
+the following methods:
+
+Electronic Comments
+
+    <bullet> Use the Commission's internet comment form (<a href="http://www.sec.gov/rules/sro.shtml">http://www.sec.gov/rules/sro.shtml</a>); or
+    <bullet> Send an email to <a href="/cdn-cgi/l/email-protection#3d4f485158105e5250505853494e7d4e585e135a524b"><span class="__cf_email__" data-cfemail="592b2c353c743a3634343c372d2a192a3c3a773e362f">[email&#160;protected]</span></a>. Please include 
+file number SR-C2-2024-021 on the subject line.
+
+Paper Comments
+
+    <bullet> Send paper comments in triplicate to Secretary, Securities 
+and Exchange Commission, 100 F Street NE, Washington, DC 20549-1090.
+
+All submissions should refer to file number SR-C2-2024-021. This file 
+number should be included on the subject line if email is used. To help 
+the Commission process and review your comments more efficiently, 
+please use only one method. The Commission will post all comments on 
+the Commission's internet website (<a href="http://www.sec.gov/rules/sro.shtml">http://www.sec.gov/rules/sro.shtml</a>). 
+Copies of the submission, all subsequent amendments, all written 
+statements with respect to the proposed rule change that are filed with 
+the Commission, and all written communications relating to the proposed 
+rule change between the
+
+[[Page 95851]]
+
+Commission and any person, other than those that may be withheld from 
+the public in accordance with the provisions of 5 U.S.C. 552, will be 
+available for website viewing and printing in the Commission's Public 
+Reference Room, 100 F Street NE, Washington, DC 20549, on official 
+business days between the hours of 10 a.m. and 3 p.m. Copies of the 
+filing also will be available for inspection and copying at the 
+principal office of the Exchange. Do not include personal identifiable 
+information in submissions; you should submit only information that you 
+wish to make available publicly. We may redact in part or withhold 
+entirely from publication submitted material that is obscene or subject 
+to copyright protection. All submissions should refer to file number 
+SR-C2-2024-021 and should be submitted on or before December 24, 2024.
+
+    For the Commission, by the Division of Trading and Markets, 
+pursuant to delegated authority.\17\
+---------------------------------------------------------------------------
+
+    \17\ 17 CFR 200.30-3(a)(12).
+---------------------------------------------------------------------------
+
+Stephanie J. Fouse,
+Assistant Secretary.
+[FR Doc. 2024-28342 Filed 12-2-24; 8:45 am]
+BILLING CODE 8011-01-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>
