@@ -1,0 +1,254 @@
+{
+    "data": [
+        {
+            "id": "CFPB-2024-0056-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-12-04T14:22:40Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-28375",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComment": false,
+                "commentEndDate": "2025-01-04T04:59:59Z",
+                "title": "Survey Screening Questions",
+                "postedDate": "2024-12-04T05:00:00Z",
+                "docketId": "CFPB-2024-0056",
+                "subtype": null,
+                "commentStartDate": "2024-12-04T05:00:00Z",
+                "openForComment": true,
+                "objectId": "0900006486848775"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0056-0001"
+            }
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "documentType": [
+                {
+                    "docCount": 1,
+                    "label": "Notice"
+                }
+            ],
+            "subtype": [],
+            "withinCommentPeriod": [
+                {
+                    "docCount": 1,
+                    "label": "true"
+                },
+                {
+                    "docCount": 0,
+                    "label": "false"
+                }
+            ],
+            "agencyId": [
+                {
+                    "docCount": 77,
+                    "value": "EPA"
+                },
+                {
+                    "docCount": 32,
+                    "value": "FAA"
+                },
+                {
+                    "docCount": 28,
+                    "value": "FDA"
+                },
+                {
+                    "docCount": 21,
+                    "value": "FMCSA"
+                },
+                {
+                    "docCount": 16,
+                    "value": "DOT"
+                },
+                {
+                    "docCount": 8,
+                    "value": "FERC"
+                },
+                {
+                    "docCount": 8,
+                    "value": "ITA"
+                },
+                {
+                    "docCount": 8,
+                    "value": "NHTSA"
+                },
+                {
+                    "docCount": 7,
+                    "value": "FCC"
+                },
+                {
+                    "docCount": 5,
+                    "value": "IRS"
+                },
+                {
+                    "docCount": 5,
+                    "value": "USCG"
+                },
+                {
+                    "docCount": 3,
+                    "value": "NOAA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ACF"
+                },
+                {
+                    "docCount": 1,
+                    "value": "AMS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BIS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CFPB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CMS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CPSC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FHWA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FMC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FSIS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "HHS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "HUD"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ITC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NCUA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NIH"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NPS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NSF"
+                },
+                {
+                    "docCount": 1,
+                    "value": "PTO"
+                },
+                {
+                    "docCount": 1,
+                    "value": "RHS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "SBA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "SEC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USCBP"
+                },
+                {
+                    "docCount": 1,
+                    "value": "WHD"
+                }
+            ],
+            "commentEndDate": [
+                {
+                    "docCount": 1,
+                    "label": "Next 30 Days",
+                    "fromDate": "2024-12-05 00:00:00",
+                    "toDate": "2025-01-03 23:59:59"
+                },
+                {
+                    "docCount": 1,
+                    "label": "Next 90 Days",
+                    "fromDate": "2024-12-05 00:00:00",
+                    "toDate": "2025-03-04 23:59:59"
+                }
+            ],
+            "postedDate": [
+                {
+                    "docCount": 1,
+                    "label": "Last 3 Days",
+                    "fromDate": "2024-12-03 00:00:00",
+                    "toDate": "2024-12-05 23:59:59"
+                },
+                {
+                    "docCount": 5,
+                    "label": "Last 7 Days",
+                    "fromDate": "2024-11-29 00:00:00",
+                    "toDate": "2024-12-05 23:59:59"
+                },
+                {
+                    "docCount": 5,
+                    "label": "Last 15 Days",
+                    "fromDate": "2024-11-21 00:00:00",
+                    "toDate": "2024-12-05 23:59:59"
+                },
+                {
+                    "docCount": 7,
+                    "label": "Last 30 Days",
+                    "fromDate": "2024-11-06 00:00:00",
+                    "toDate": "2024-12-05 23:59:59"
+                },
+                {
+                    "docCount": 26,
+                    "label": "Last 90 Days",
+                    "fromDate": "2024-09-07 00:00:00",
+                    "toDate": "2024-12-05 23:59:59"
+                }
+            ]
+        },
+        "filters": {
+            "postedDate": {
+                "fromDate": "2024-12-04",
+                "toDate": "2024-12-04"
+            },
+            "agencyId": [
+                {
+                    "label": "CFPB",
+                    "value": "CFPB"
+                }
+            ]
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "numberOfElements": 1,
+        "pageNumber": 1,
+        "pageSize": 250,
+        "totalElements": 1,
+        "totalPages": 1,
+        "firstPage": true,
+        "lastPage": true
+    }
+}
