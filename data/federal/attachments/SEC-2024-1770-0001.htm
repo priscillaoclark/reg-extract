@@ -1,0 +1,973 @@
+<html>
+<head>
+<title>Federal Register, Volume 89 Issue 235 (Friday, December 6, 2024)</title>
+</head>
+<body><pre>
+[Federal Register Volume 89, Number 235 (Friday, December 6, 2024)]
+[Notices]
+[Pages 97131-97138]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2024-28538]
+
+
+-----------------------------------------------------------------------
+
+SECURITIES AND EXCHANGE COMMISSION
+
+[Release No. 34-101780; File No. SR-OCC-2024-016]
+
+
+Self-Regulatory Organizations; The Options Clearing Corporation; 
+Notice of Filing of Proposed Rule Change by The Options Clearing 
+Corporation Concerning Enhancements to the System for Theoretical 
+Analysis and Numerical Simulations (``STANS'') and OCC's Comprehensive 
+Stress Testing (``CST'') Methodology, To Better Capture the Risks 
+Associated With Short-Dated Options
+
+December 2, 2024.
+    Pursuant to Section 19(b)(1) of the Securities Exchange Act of 1934 
+(``Exchange Act'' or ``Act''),\1\ and Rule 19b-4 thereunder,\2\ notice 
+is hereby given that on November 22, 2024, The Options Clearing 
+Corporation (``OCC'') filed with the Securities and Exchange Commission 
+(``SEC'') the proposed rule change as described in Items I, II, and III 
+below, which Items have been prepared primarily by OCC. The Commission 
+is publishing this notice to solicit comments on the proposed rule 
+change from interested persons.
+---------------------------------------------------------------------------
+
+    \1\ 15 U.S.C. 78s(b)(1).
+    \2\ 17 CFR 240.19b-4.
+---------------------------------------------------------------------------
+
+I. Clearing Agency's Statement of the Terms of Substance of the 
+Proposed Rule Change
+
+    This proposed rule change Pursuant to the provisions of Section 
+19(b)(1) of the Securities Exchange Act of 1934 (``Exchange Act'' or 
+``Act''),\3\ and Rule 19b-4 thereunder,\4\ The Options Clearing 
+Corporation (``OCC'') is filing with the Securities and Exchange 
+Commission (``Commission'') a proposed rule change in connection with 
+enhancements to the modeling approach for implied volatility components 
+within OCC's margin methodology, the System for Theoretical Analysis 
+and Numerical Simulations (``STANS'') and OCC's Comprehensive Stress 
+Testing (``CST'') methodology, to better capture the risks associated 
+with short-dated options. Specifically, this proposed rule change 
+would, as described below: (1) align the day-count convention between 
+option price smoothing and implied volatility scenario generation, and 
+(2) extend the term structure of the implied volatility shocks to cover 
+implied volatility risk associated with options of less than one-month 
+expiration.
+---------------------------------------------------------------------------
+
+    \3\ 15 U.S.C. 78s(b)(1).
+    \4\ 17 CFR 240.19b-4.
+---------------------------------------------------------------------------
+
+    The proposed changes to OCC's STANS Methodology Description \5\ and 
+Comprehensive Stress Testing & Clearing Fund Methodology, and Liquidity 
+Risk Management Description \6\ (``CST Methodology Description'') are 
+contained in Exhibits 5A and 5B, to File No. SR-OCC-2024-016, 
+respectively. Material proposed to be added is marked by underlining 
+and material proposed to be deleted is marked with strikethrough text. 
+Within the documents, new, revised, and deleted text related to the 
+proposed rule change have been incorporated in section 2.1.3 (Implied 
+Volatilities Scenarios) and 2.1.4 (S&P 500 Implied Volatilities 
+Scenarios) of the STANS Methodology Description and section 3.3.2 
+(Volatility Shock Model) of the
+
+[[Page 97132]]
+
+CST Methodology Description. The proposed rule change does not require 
+any changes to the text of OCC's By-Laws or Rules. All terms with 
+initial capitalization that are not otherwise defined herein have the 
+same meaning as set forth in the OCC By-Laws and Rules.\7\
+---------------------------------------------------------------------------
+
+    \5\ OCC has filed the STANS Methodology Description and 
+amendments thereto with the Commission. See Exchange Act Release 
+Nos. 100528 (July 15, 2024), 89 FR 58836 (July 19, 2024) (SR-OCC-
+2024-008); 98101 (Aug. 10, 2023), 88 FR 55775 (Aug. 16, 2023) (SR-
+OCC-2022-012); 95319 (July 19, 2022), 87 FR 44167 (July 25, 2022) 
+(SR-OCC-2022-001); 93371 (Oct. 18, 2021), 86 FR 58704 (Oct. 22, 
+2021) (SR-OCC-2021-011); 91833 (May 10, 2021), 86 FR 26586 (May 14, 
+2021) (SR-OCC-2021-005); 91079 (Feb. 8, 2021), 86 FR 9410 (Feb. 12, 
+2021) (SR-OCC-2020-016). OCC makes its STANS Methodology Description 
+available to Clearing Members. An overview of the STANS methodology 
+is on OCC's public website: <a href="https://www.theocc.com/Risk-Management/Margin-Methodology">https://www.theocc.com/Risk-Management/Margin-Methodology</a>.
+    \6\ OCC has filed the CST Methodology Description and amendments 
+thereto with the Commission. See Exchange Act Release Nos. 100455 
+(July 2, 2024), 89 FR 56452 (July 9, 2024) (SR-OCC-2024-006); 90827 
+(Dec. 30, 2020), 86 FR 659 (Jan. 6, 2021) (SR-OCC-2020-015); 89014 
+(June 4, 2020), 85 FR 35446 (June 10, 2020) (SR-OCC-2020-003); 87718 
+(Dec. 11, 2019), 84 FR 68992 (Dec. 17, 2019) (SR-OCC-2019-010); 
+87717 (Dec. 11, 2019), 84 FR 68985 (Dec. 17, 2019) (SR-OCC-2019-
+009); 83735 (July 27, 2018), 83 FR 37855 (Aug. 2, 2018) (SR-OCC-
+2018-008).
+    \7\ OCC's By-Laws and Rules can be found on OCC's public 
+website: <a href="https://www.theocc.com/Company-Information/Documents-and-Archives/By-Laws-and-Rules">https://www.theocc.com/Company-Information/Documents-and-Archives/By-Laws-and-Rules</a>.
+---------------------------------------------------------------------------
+
+II. Clearing Agency's Statement of the Purpose of, and Statutory Basis 
+for, the Proposed Rule Change
+
+    In its filing with the Commission, OCC included statements 
+concerning the purpose of and basis for the proposed rule change and 
+discussed any comments it received on the proposed rule change. The 
+text of these statements may be examined at the places specified in 
+Item IV below. OCC has prepared summaries, set forth in sections (A), 
+(B), and (C) below, of the most significant aspects of these 
+statements.
+
+(A) Clearing Agency's Statement of the Purpose of, and Statutory Basis 
+for, the Proposed Rule Change
+
+    OCC is the sole clearing agency for standardized equity options 
+listed on national securities exchanges registered with the Commission. 
+In its role as a clearing agency, OCC acts as a central counterparty 
+(``CCP''), guarantying all contracts it clears. That is, OCC becomes 
+the buyer to every seller and the seller to every buyer, which exposes 
+OCC to risk because OCC is obligated to perform even when one of its 
+members defaults. These risks include: (i) credit risk, which is the 
+risk that OCC would not maintain sufficient financial resources to 
+cover exposures; and (ii) liquidity risk, which is the risk that OCC 
+would not have sufficient liquid resources to meet payment obligations 
+when due.
+    OCC manages its credit and liquidity risks through various 
+safeguards to ensure that it has sufficient financial resources in both 
+form and amount in the event of a Clearing Member failure. To begin 
+with, OCC periodically collects margin collateral from its Clearing 
+Members, which is designed to cover the credit exposures they 
+individually present to OCC with a high degree of confidence. OCC also 
+maintains a Clearing Fund, which is a mutualized pool of financial 
+resources to which each Clearing Member is required to contribute to 
+ensure that OCC maintains sufficient qualifying liquid resources to 
+manage its liquidity risk, and to address the tail risk that the margin 
+collateral OCC collects from each Clearing Member might be insufficient 
+to cover OCC's credit exposure to a defaulting member in extreme but 
+plausible market conditions. In general, OCC performs daily stress 
+testing of its financial resources using scenarios designed to assess 
+whether the resources collected are adequate and inform the size of 
+OCC's financial resources (``Sizing Scenarios'') and measure the 
+potential exposures Clearing Members may present to OCC to determine 
+whether calls for additional collateral in either margin or in the 
+Clearing Fund would be needed (``Sufficiency Scenarios''). Clearing 
+Member margin amounts are collected based on calculations obtained from 
+STANS, while Clearing Fund contributions are default scenario-based 
+amounts generated by the CST methodology.
+    Clearing Member portfolios contain a mix of products and positions 
+in options of various tenors, as well as other cleared positions (e.g., 
+futures, stock loans) and collateral (e.g., valued securities, delivery 
+obligations, US treasuries, Canadian Government bonds, and cash). Over 
+the past several years, the options markets in particular have 
+experienced a significant increase in the trading of short-dated 
+options (``SDOs''), which refer to option contracts with a maturity of 
+less than or equal to one month to expiration.\8\ However, the increase 
+in the volume of SDO trading and the larger concentration of SDO 
+positions held from hedging and speculation activities present unique 
+challenges to the risk management framework.
+---------------------------------------------------------------------------
+
+    \8\ See, e.g., Cboe, The Rise of SPX & 0DTE Options (July 27, 
+2023), available at <a href="https://go.cboe.com/l/77532/2023-07-27/ffc83k">https://go.cboe.com/l/77532/2023-07-27/ffc83k</a>.
+---------------------------------------------------------------------------
+
+    For these reasons, OCC carried out a study to examine the specific 
+risks posed by SDOs (the ``Study'') \9\ including risks posed by the 
+increase to volatility due to the feedback between options and equity 
+hedging activity. OCC also analyzed the valuation of SDOs and option 
+scenario pricing in OCC's 2-day margin period of risk (``MPOR'') \10\ 
+and assessed the margin risk of portfolios dominated by SDOs through 
+sensitivity analysis of realized P&L and risk coverage metrics. OCC 
+concluded from the Study that valuation of SDOs and options scenario 
+pricing in the 2-day MPOR was in general reasonable, but that 
+opportunities exist to improve model performance for Clearing Member 
+portfolios dominated by SDOs. Moreover, a reasonableness analysis of 
+the mark-to market pricing and theoretical price simulation of SDOs in 
+the MPOR indicated that certain existing margin model assumptions 
+having a direct impact on SDO risk coverage needed further enhancement 
+and update.
+---------------------------------------------------------------------------
+
+    \9\ OCC has included the Study as confidential Exhibit 3A to 
+File No. SR-OCC-2024-016.
+    \10\ OCC collects its credit resources with an assumption of a 
+two-day MPOR (i.e., two days after the last good margin collection) 
+and potential liquidity obligations are evaluated using the same 
+concept and assuming the liquidation processes details in OCC's 
+Default Management Policy.
+---------------------------------------------------------------------------
+
+    Specifically, the Study referred to a difference between option 
+price smoothing \11\ that uses calendar day convention, and implied 
+volatility \12\ simulation that uses trading day convention. The usage 
+of two day count conventions \13\ results in differences in implied 
+volatility, especially when non-trading days make up a large portion of 
+the time-to-expiration (e.g., on Fridays for options that expire the 
+following Monday). In this regard, SDOs are far more sensitive to 
+differences in day-count convention than contracts with longer 
+expiries. In addition, OCC's model for simulating the theoretical 
+prices assumes that the implied volatility shocks of the one-month 
+tenor (``1M'') are sufficient to cover the implied volatility changes 
+for SDO tenors.\14\ However, empirical results indicate that the 
+implied volatility changes from SDOs can be much larger than those for 
+options with one month to expiration.\15\
+---------------------------------------------------------------------------
+
+    \11\ The smoothing algorithm is the process that OCC uses to 
+estimate fair values for plain vanilla listed options based on 
+closing bid and ask price quotes. See Exchange Act Release No. 86731 
+(Aug. 22, 2019), 84 FR 45188, 45189 (Aug. 28, 2019) (File No. SR-
+OCC-2019-005).
+    \12\ Generally speaking, the implied volatility of an option is 
+a measure of the expected future volatility of the option's 
+underlying security at expiration, which is reflected in the current 
+option premium in the market.
+    \13\ The term ``day count convention'' refers to a standardized 
+methodology for calculating the number of days between two dates. 
+Both calendar and business day conventions are used by OCC in STANS 
+and CST calculations.
+    \14\ The ``tenor'' of an option is the amount of time remaining 
+to its expiration or maturity.
+    \15\ OCC has observed that the day-over-day at the money implied 
+volatility changes for the 1W tenor are approximately twice that of 
+the 1M tenor on certain risk factors such as SPX, RUT, QQQ, AAPL, 
+TSLA.
+---------------------------------------------------------------------------
+
+    OCC proposes to improve the theoretical price simulation of SDOs 
+and enhance the modeling of the implied volatility risk associated with 
+SDOs by: (1) aligning the day-count convention used between option 
+price smoothing and its models for simulating implied volatility, and 
+(2) extending the term structure \16\ to cover implied volatility risk 
+associated with options expiring in less than one-month. The
+
+[[Page 97133]]
+
+proposed changes will be introduced to the Implied Volatilities 
+Scenarios Model and S&P 500 Implied Volatility Simulation Model in 
+STANS and the Volatility Shock component in CST. The impact of the 
+proposed enhancements on Clearing Member margin and on CST is presented 
+further below.
+---------------------------------------------------------------------------
+
+    \16\ The ``term structure'' of implied volatility is the curve 
+that depicts the relationship between the implied volatilities of 
+options with different expiration (or maturity) dates on the same 
+underlying. Expiration and maturity are used interchangeably but 
+reflect the same meaning.
+---------------------------------------------------------------------------
+
+1. Purpose
+Background
+    OCC's risk framework includes its STANS methodology used to 
+calculate Clearing Member margin amounts, and its CST methodology used 
+to stress test Clearing Member portfolios in order to determine the 
+appropriate size of the Clearing Fund and allocate portions to Clearing 
+Members commensurate with the risk they present to OCC.
+STANS Overview
+    STANS is OCC's proprietary risk management system for calculating 
+Clearing Member margin requirements. The STANS methodology utilizes 
+large-scale Monte Carlo simulations to forecast price and volatility 
+movements in determining a Clearing Member's margin requirement.\17\ 
+OCC uses a smoothing algorithm to generate theoretical prices and 
+volatilities for option contracts based on the fair value for plain 
+vanilla listed options from closing bid and ask price quotes.\18\ OCC 
+does this by first filtering out certain poor-quality quotes on 
+contracts based on certain conditions and estimates the forward prices 
+of the securities underlying these options. OCC then generates the 
+theoretical option prices based on the filtered bid and ask quotes and 
+constructs a volatility surface \19\ using the smoothed prices to 
+approximate option contract prices. The output of the Smoothing 
+Algorithm, consisting of various theoretical option contract prices and 
+volatilities, is then used downstream as a starting point to simulate 
+variations in implied volatility for option contracts.
+---------------------------------------------------------------------------
+
+    \17\ See OCC Rule 601.
+    \18\ See Exchange Act Release No. 86731 (Aug. 22, 2019), 84 FR 
+45188 (Aug. 28, 2019) (SR-OCC-2019-005).
+    \19\ The ``volatility surface'' refers to a three-dimensional 
+plot of the implied volatilities of the various options on the same 
+stock reflecting time to maturity, and different strike prices for 
+the option.
+---------------------------------------------------------------------------
+
+    Using the Black-Scholes options pricing model, the implied 
+volatility is the standard deviation of the underlying asset price 
+necessary to arrive at the market price of an option of a given strike, 
+time to maturity, underlying asset price and the current discount 
+interest rate. In effect, the implied volatility is responsible for 
+that portion of the premium that cannot be explained by the current 
+intrinsic value of the option (i.e., the difference between the price 
+of the underlying and the exercise price of the option), discounted to 
+reflect its time value. OCC considers variations in implied volatility 
+within STANS to ensure that the anticipated cost of liquidating options 
+positions in an account recognizes the possibility that the implied 
+volatility could change during the two-business day liquidation time 
+horizon and lead to corresponding changes in the market prices of the 
+options. Specifically, OCC models variations in implied volatility 
+using its (1) Implied Volatilities Scenarios Model for non-S&P 500 
+based products, and (2) S&P 500 Implied Volatility Simulation Model for 
+products in the S&P 500 group.\20\
+---------------------------------------------------------------------------
+
+    \20\ See generally Exchange Act Release No. 95319, supra note 3, 
+at 44168-69.
+---------------------------------------------------------------------------
+
+Implied Volatilities Scenarios Model
+    Using its current Implied Volatilities Scenarios Model, OCC models 
+the variations in implied volatility used to re-price non-S&P 500 based 
+options within STANS. Variations in implied volatility are modeled 
+through a volatility surface by incorporating certain risk factors 
+(i.e., implied volatility pivot points) based on a range of tenors and 
+option deltas \21\ into the models in STANS. These implied volatility 
+pivot points consist of three tenors of one month, three months and one 
+year, and three deltas of 0.25, 0.5, and 0.75, resulting in nine 
+implied volatility risk factors.\22\ These pivot points are chosen such 
+that their combination allows the model to capture changes in level, 
+skew (i.e., strike price), convexity, and term structure of the implied 
+volatility surface.\23\
+---------------------------------------------------------------------------
+
+    \21\ The ``delta'' of an option represents the sensitivity of 
+the option price with respect to the price of the underlying 
+security.
+    \22\ See Exchange Act Release No. 94165 (Feb. 7, 2022), 87 FR 
+8072, 8073 (Feb. 11, 2022) (SR-OCC-2022-001).
+    \23\ Id.
+---------------------------------------------------------------------------
+
+    The Implied Volatility Scenarios Model has certain limitations 
+related to SDOs. First, the underlying prices and implied volatilities 
+generated from the Smoothing Algorithm, which are an input to the 
+Implied Volatility Scenarios Model, are generated using a calendar day 
+convention, which is not consistent with the trading day convention 
+used in the calibration of the model parameters. The misalignment in 
+day-count conventions may result in over- or under-estimation of option 
+prices based on the implied volatility scenarios. SDOs are more 
+sensitive to day-count convention alignment than contracts with longer 
+expirations due to the proportionally larger difference in time to 
+expiry between the trading day convention and calendar day convention 
+for shorter dated tenors.
+    Second, the model imposes a flat term structure on SDOs, which 
+forces the use of the implied volatility shock from the 1M tenor on all 
+option contracts expiring in less than one month. Because the term 
+structure for the Implied Volatilities Scenarios Model starts at the 1M 
+tenor, the current model is not consistent with the observed dynamics 
+of the underlying assets and the implied volatility surface for SDOs. 
+This may lead to inadequate coverage for portfolios with concentrations 
+in SDOs.
+S&P 500 Implied Volatility Simulation Model
+    OCC uses the S&P 500 Implied Volatility Simulation Model for the 
+S&P 500 product group.\24\ The purpose of the S&P 500 Implied 
+Volatility Simulation Model is to establish a consistent and robust 
+framework for implied volatility simulation and provide natural offsets 
+for volatility products with similar characteristics to S&P 500 implied 
+volatility. The output of the S&P 500 Implied Volatility Simulation 
+Model is used by OCC's options pricing model, as well as the Volatility 
+Index Futures Model. The S&P 500 Implied Volatility Simulation Model is 
+a Monte Carlo simulation model that captures the risk dynamics in the 
+S&P 500 implied volatility surface utilizing standardized log-moneyness 
+\25\ and a fixed number of key tenors as well as skew to generate an 
+S&P 500 1M at-the-money (``ATM'') risk factor.\26\ OCC then uses the 
+generated implied volatility scenarios to produce option prices in 
+margin estimation and stress testing.\27\
+---------------------------------------------------------------------------
+
+    \24\ See generally Exchange Act Release No. 95319, supra note 3, 
+at 44168-69.
+    \25\ The term ``moneyness'' of an option refers to the 
+relationship between the strike price and the price of the option 
+underlying.
+    \26\ See Exchange Act Release No. 94165, supra note 20, at 8075.
+    \27\ Id.
+---------------------------------------------------------------------------
+
+    The S&P 500 Implied Volatility Simulation Model has certain 
+limitations related to SDOs. Like the Implied Volatilities Scenarios 
+Model discussed above, the S&P 500 Implied Volatility Simulation Model 
+uses a trading day convention in the calibration of the model, which is 
+not consistent with the calendar day convention used in the generation 
+of the input from the Smoothing Algorithm. As for the Implied 
+Volatilities Scenarios Model, this misalignment may result in
+
+[[Page 97134]]
+
+over- or under-estimation of option prices, particularly for SDOs. 
+Second, the S&P 500 Implied Volatility Simulation Model uses a fixed 
+number of key tenors beginning with the 1M tenor. Because the term 
+structure for the S&P 500 Implied Volatility Simulation Model starts at 
+the 1M tenor, the current model is not consistent with the observed 
+dynamics of the underlying assets and the implied volatility surface 
+for SDOs, which may lead to inadequate coverage for portfolios with 
+concentrations in SDOs.
+CST Overview
+    As described in the CST Methodology Description, OCC uses CST to 
+analyze the adequacy of its financial resources in extreme but 
+plausible scenarios. It enables OCC to better manage its risks by 
+promoting OCC's ability to thoroughly monitor its potential exposure 
+under varied sets of stressed market scenarios and provides it with the 
+ability to review the sufficiency of its financial resources. Moreover, 
+the methodology includes stress tests designed to size and monitor the 
+sufficiency of both prefunded credit and liquidity resources. OCC 
+relies upon a set of stress scenarios constructed pursuant to the CST 
+Methodology Description, including both Sizing and Sufficiency 
+scenarios.
+    CST is a scenario-based, one-factor risk model with four principal 
+elements.\28\ First, a set of risk drivers is selected based on the 
+portfolio exposures of all Clearing Members in the aggregate.\29\ 
+Second, each individual underlying security from the portfolio of a 
+Clearing Member is mapped to a key risk driver, to estimate the 
+sensitivity for the beta \30\ of the security with respect to the 
+corresponding risk driver.\31\ Third, stress scenarios are generated by 
+assigning a stress shock to each of the risk drivers, which drives the 
+shock of an individual underlying security.\32\ Fourth, the aggregate 
+risk exposure or shortfall of each portfolio is generated for each 
+stress scenario for each Clearing Member and the Clearing Member Group 
+level.\33\ The CST methodology consists of several component models, 
+including the Volatility Shocks, the VIX Futures Prices Shocks, and 
+Idiosyncratic Scenarios models.
+---------------------------------------------------------------------------
+
+    \28\ See Exchange Act Release No. 83406 (Jun 11, 2018), 83 FR 
+28018, 28022 (June 15, 2018) (SR-OCC-2018-008).
+    \29\ Id.
+    \30\ The ``beta'' of a security is the sensitivity of the price 
+of the security relative to the price of the security.
+    \31\ Exchange Act Release No. 83406, supra note 26, at 28022.
+    \32\ Id.
+    \33\ Id.
+---------------------------------------------------------------------------
+
+Volatility Shocks
+    The Volatility Shocks model component of the CST methodology 
+provides a method to generate implied volatility in a stress scenario 
+for all individual option products that are cleared by OCC.\34\ This 
+model component is used to shock any option product cleared by OCC. 
+Shocked implied volatility is needed at the product, expiration, and 
+strike level to evaluate individual option implied volatilities in 
+stressed market conditions, which is then used to determine options 
+prices and calculate the profit and loss of Clearing Member accounts in 
+stress scenarios. For all systemic stress scenarios,\35\ the Cboe 
+Volatility Index (``VIX'') is used as the main risk driver in 
+determining shocked implied volatility.\36\
+---------------------------------------------------------------------------
+
+    \34\ See generally id. at 28023.
+    \35\ The term ``systemic stress scenarios'' are scenarios 
+designed to the capture risk to OCC in an extreme event impacting 
+all positions driven by risk drivers.
+    \36\ Exchange Act Release No. 83406, supra note 26, at 28023.
+---------------------------------------------------------------------------
+
+    Two methods are used to generate strike-level shocked implied 
+volatility from VIX shocks: (1) an approach for equity products, 
+including equity ETFs, indexes and futures that have the S&P 500 Index 
+(``SPX'') as the risk driver; and (2) an approach used for options on 
+all risk factors that do not have SPX as a risk driver. The term 
+structure of SPX-driven implied volatilities is based on volatility 
+betas versus VIX, while a standardized log-moneyness metric is used to 
+model the implied volatility curves.\37\ For non-SPX driven risk 
+factors, the implied volatility shocks are based on historical 
+volatility beta regressed directly against the VIX.\38\
+---------------------------------------------------------------------------
+
+    \37\ Id.
+    \38\ Id.
+---------------------------------------------------------------------------
+
+    The Volatility Shocks component of CST has certain limitations 
+related to SDOs. First, like the STANS models discussed above, the 
+Volatility Shocks component uses a trading day convention in the 
+calibration of model parameters, which is not consistent with the 
+calendar day convention used by the Smoothing Algorithm. As discussed 
+above, this misalignment may result in over- or under-estimation of 
+option prices, particularly for SDOs. Second, Volatility Shock imposes 
+a flat term structure for SDOs when calculating shocked implied 
+volatility, which is not consistent with the observed dynamics of the 
+underlying assets and the implied volatility surface for SDOs. These 
+limitations may result in inadequate shocks for SDOs.
+VIX Futures Price Shocks
+    The VIX is an index for measuring implied volatility based on 
+options on the SPX with approximately 30 days to expiration. OCC 
+derives VIX futures prices shocks from SPX volatility betas and VIX 
+index shocks using the VIX Futures Price Shocks component of CST.\39\ 
+The term structure of the VIX futures prices shocks is modeled from 
+that of the SPX ATM implied volatility shocks. OCC first determines the 
+term structure of the SPX volatility beta, by running regression of the 
+2-day returns of SPX ATM implied volatility with respect to the 2-day 
+returns of the VIX index for different expirations, ranging from 1M to 
+twelve months (``12M'').\40\ Through linear interpolation on the term 
+structure curve of SPX volatility beta OCC determines the volatility 
+beta at the VIX futures expiration and 30 days after, which are the 
+basis to calculate VIX futures price shocks. As a final step a 
+constraint is then applied to ensure that the VIX futures price shocks 
+do not exceed the VIX index shock.
+---------------------------------------------------------------------------
+
+    \39\ See Exchange Act Release No. 87386 (Oct. 23, 2019), 84 FR 
+57911, 57913-14 (Oct. 29, 2019) (SR-OCC-2019-009).
+    \40\ See id. at 57916 n. 29 and accompanying text.
+---------------------------------------------------------------------------
+
+    Like the Volatility Shocks model, the VIX Futures Price Shocks 
+component imposes a flat term structure for SDOs when calculating 
+shocked implied volatility, which is not consistent with the observed 
+dynamics of the underlying assets and the implied volatility surface 
+for SDOs. This limitation of the VIX Futures Price Shocks model may 
+result in inadequate shocks for SDOs.\41\
+---------------------------------------------------------------------------
+
+    \41\ Unlike the other model discussed herein, the VIX Futures 
+Price Shocks model uses the SPX volatility beta with extended tenors 
+less than 1 month from the Volatility Shocks model component and 
+Dynamic VIX Calibration model component as inputs, and day-count 
+convention alignment is not within the scope for this model 
+component.
+---------------------------------------------------------------------------
+
+Idiosyncratic Scenarios
+    OCC uses Idiosyncratic Scenarios to generate and capture the risk 
+from extreme non-systemic events that may impact OCC's financial 
+resources.\42\ Specifically, OCC captures the risk of extreme non-
+systemic market moves on single name equity securities (non-ETF, non-
+Index) through individual up and down shocks (assuming all other 
+products are unchanged). Single-name equities are classified into large 
+and small capitalization (cap) for the price shocks. Four types of 
+idiosyncratic moves are constructed based on the
+
+[[Page 97135]]
+
+market capitalization and direction of the price shock: large cap up, 
+large cap down, small cap up and small cap down.\43\ A fixed price 
+shock for each of the four scenarios is calibrated from historical 
+price return data such that probability of idiosyncratic moves is 
+comparable to systemic scenarios and probability in all four scenarios 
+is approximately equal. Based on price shocks, ATM implied volatility 
+shocks are calibrated for each of the four scenarios.\44\
+---------------------------------------------------------------------------
+
+    \42\ See generally Exchange Act Release No. 87386, supra note 
+37, at 57913.
+    \43\ Id.
+    \44\ Id.
+---------------------------------------------------------------------------
+
+    The Idiosyncratic Scenarios component of CST shares the limitations 
+related to SDOs discussed above with respect to the other models. 
+Specifically, the Idiosyncratic Scenarios component uses a trading day 
+convention in the calibration of model parameters, which is not 
+consistent with the Smoothing Algorithm's calendar day convention. As 
+discussed above, this misalignment may result in over- or under-
+estimation of option prices, particularly for SDOs. Second, like the 
+Volatility Shocks model, Idiosyncratic Scenarios imposes a flat term 
+structure for SDOs when calculating shocked implied volatility, which 
+is not consistent with the observed dynamics of the underlying assets 
+and the implied volatility surface for SDOs. These limitations may 
+result in inadequate shocks for SDOs.
+Proposed Change
+    OCC proposes to capture the risks associated with SDOs by applying 
+enhancements to the implied volatility modeling approach to: (1) align 
+the day-count convention between option price smoothing and implied 
+volatility scenario generation, and (2) extend the term structure to 
+cover implied volatility risk associated with options with less than 
+one month to expiration. These enhancements will be implemented for 
+model components in STANS and CST.
+Day-Count Convention Alignment
+    At present, the implied volatility output from smoothing, 
+determined using a calendar day convention, is directly applied in the 
+initial implied volatility scenarios in STANS and CST. However, the 
+calibration of the parameters used in implied volatility scenarios uses 
+a trading day convention, which is also used to model forecasted 
+variance as well as the shocks in CST. OCC proposes to align the day-
+count convention to be consistent between calibration and price 
+smoothing in both STANS and CST.
+    In STANS, OCC proposes to align the day-count convention between 
+price smoothing and its model components used for forecasting changes 
+in implied volatility through amendments to the sections of the STANS 
+Methodology Description that address the Implied Volatilities Scenarios 
+Model and the S&P 500 Implied Volatility Simulation Model.\45\ For the 
+Implied Volatilities Scenarios Model (pivot-based), implied volatility 
+levels would be initially converted into trading day convention before 
+application of pivot scenario shocks. The shocked implied volatility 
+scenarios would then be converted back to calendar day convention 
+before being used to calculate shocked option price scenarios. For the 
+S&P 500 Implied Volatility Simulation Model, the process for generating 
+the shocked implied volatility scenarios for listed tenors would 
+convert the initial implied volatility from using calendar day 
+convention to using trading day convention followed by generation of 
+the ATM implied volatility log-return scenarios for listed tenors. The 
+skew shock scenarios would be generated next, followed by the shocked 
+implied volatility scenarios. The outputs of the shocked implied 
+volatility scenarios would then be converted back to calendar day 
+convention before calculating the theoretical option price scenarios. 
+These conversion steps taken together would then align the day-count 
+convention used in both option price smoothing and implied volatility 
+simulations.
+---------------------------------------------------------------------------
+
+    \45\ OCC would also make conforming changes to the whitepapers 
+for these models. OCC has provided updates to its STANS whitepapers 
+for the impacted models in confidential Exhibit 3B and 3C to File 
+No. SR-OCC-2024-016.
+---------------------------------------------------------------------------
+
+    Similarly, OCC would align the day-count convention of the Implied 
+Volatility Shocks in CST through conversion of the initial volatility 
+surface from the output of the Smoothing Algorithm to business day 
+convention before application of any volatility shocks.\46\ After the 
+volatility shock is applied, the shocked implied volatility would then 
+be scaled back to calendar day convention, before being used downstream 
+for option pricing in CST. These changes would be reflected in 
+amendments to the CST Methodology Description's section that addresses 
+the Volatility Shock Model. With respect to the Idiosyncratic 
+Scenarios, the CST methodology already provides that after calculating 
+the shocked ATM volatility, the shocked implied volatility for all the 
+strikes in the expiration follows the same methodology as for the 
+Volatility Shock Model.
+---------------------------------------------------------------------------
+
+    \46\ OCC would also make conforming changes to the whitepapers 
+for these models. OCC has provided updates to its CST whitepapers 
+for the impacted models in confidential Exhibit 3D and 3F to File 
+No. SR-OCC-2024-016.
+---------------------------------------------------------------------------
+
+Extension of the Term Structure
+    At present, the STANS Implied Volatilities Scenarios model uses a 
+flat term structure for options with listed tenors that are shorter 
+than one month, which means that the implied volatility shock is 
+derived from the 1M key tenor or pivot. OCC proposes to change the 
+Implied Volatility Scenarios term structure for the implied volatility 
+simulation of all non-SPX related risk factors, such that for points 
+with shorter than one month to maturity, a squared-root decay is 
+applied with respect to one month to expiration up to a predetermined 
+shortest time to maturity. For the S&P 500 Implied Volatility 
+Simulation Model term structure and SPX related risk factors, the 
+applicable sections of the STANS Methodology Description would be 
+updated to provide for a shorter key tenor than the current 1M time to 
+maturity.
+    With respect to the CST Volatility Shocks model, which uses the 
+volatility beta from the 1M tenor for SDOs, OCC proposes to extend the 
+volatility beta approach to cover constant maturity tenors of less than 
+one-month expiration by adding constant maturity tenors at the 1-week 
+(``1W'') and 2-week (``2W'') key points of the term structure. 
+Similarly, for the VIX Futures Price Shocks model, OCC proposes that 
+the volatility beta for listed tenors that are less than the 1W tenor 
+and down to the 3-day (``3D'') tenor would be linearly interpolated 
+from the 1W tenor and 2W tenor volatility betas, i.e., the 1W and 2W 
+tenor expirations would be added as inputs to the term structure of SPX 
+volatility betas. As for Idiosyncratic Scenarios, the term structure 
+would be extended from 1M down to the 1W tenor and 2W tenor. These 
+changes would be applied to the section of the CST Methodology 
+Description that addresses the Volatility Shock Model, the same 
+methodology for which also applies to the Idiosyncratic Scenarios 
+Models as described above. In addition, this change would also apply to 
+the VIX Futures Price Shock Model because the Volatility Shock Model's 
+method is incorporated by reference in the section that describes the 
+volatility beta shocks applied to volatility instruments.
+    OCC also proposes to update the day count to the more precise value 
+of 365.25 within the CST Methodology Description when referring to 
+calendar days in a year and also when used in a formula. This amendment 
+to the CST Methodology Description conforms with
+
+[[Page 97136]]
+
+how the system was designed to be consistent with the day-count 
+convention specified in the STANS Methodology Description. Since the 
+CST system already uses a 365.25 day count convention, the proposed 
+change to correct the documentation would have no impact on stress test 
+results. Additionally, OCC plans to make several other minor non-
+substantial typographical changes throughout the document.
+    In addition, OCC proposes to further revise the relevant sections 
+of the STANS Methodology Description concerning the S&P 500 Implied 
+Volatility Simulation model to eliminate redundant and duplicative 
+information. Specifically, OCC proposes to remove sections related to 
+the generation of the simulation of certain shocks that are duplicative 
+of information covered in the STANS Methodology Description's 
+discussion of the theory and specifications for that model. The 
+sections related to the simulation of the shocked implied volatility 
+scenarios would be amended to instead refer to those previous sections, 
+which would be updated to reflect the two changes proposed herein.
+Impact Analysis
+    OCC has reviewed the potential impact of the proposed changes on 
+margin across all Clearing Member tier accounts over a 15-month period, 
+between July 2023 and September 2024. OCC observed that the proposed 
+enhancements would lead to an average daily total margin \47\ increase 
+of 0.58% (approximately $0.2 billion, calculated based on the average 
+daily margin of nearly $38 billion) across all accounts and activity 
+dates, with the daily total margins falling in a narrow range between 
+the largest decrease of 0.81% (approximately $0.3 billion) to the 
+largest increase of 3.21% (approximately $1.1 billion). The results 
+further demonstrated that the SDO enhancements had a larger measurable 
+impact for accounts with high concentrations of short-dated options.
+---------------------------------------------------------------------------
+
+    \47\ Margin is calculated as the sum of requirement shortfall 
+and stress test add-on charge.
+---------------------------------------------------------------------------
+
+    OCC also reviewed the potential impact on CST for the proposed 
+model enhancements based on backtesting results over the same time 
+period. OCC observed that the proposed changes had a relatively small 
+impact on the Cover 1 and Cover 2 shortfalls used in Sufficiency and 
+Sizing Scenarios for the leading Clearing Member Groups. The impact 
+varied among Clearing Members, influenced by factors such as portfolio 
+size, product diversity within those portfolios, and the concentration 
+of SDO positions. Smaller Clearing Members with a high concentration of 
+SDO positions experienced relatively more meaningful impacts.
+    With respect to Sizing Scenarios impacts, OCC observed a decrease 
+in the average Cover 2 shortfall for the 1-in-80-Year Rally Scenario of 
+0.1% (approximately $12.7 million) with the daily variation falling in 
+a narrow range between the largest decrease of 3.18% to the largest 
+increase of 0.53%. For the Cover 2 shortfall on the 1-in-80-Year 
+Decline Scenario OCC observed an average decrease of 0.47% 
+(approximately $65 million) with the daily variation falling in a 
+narrow range between the largest decrease of 3.17% to the largest 
+increase of 1.16%.
+    Simliarly, regarding Sufficiency Scenarios impacts, OCC observed a 
+decrease in the average Cover 1 shortfall for the 1987 Crash Scenario 
+of 0.39% (approximately $37 million) with the daily variation falling 
+in the range between the largest daily decrease of 3.15% and largest 
+daily increase of 1.97%. For the Largest Rally from 2008 Sufficiency 
+Scenario, the daily average Cover 2 Shortfall increased by around 
+0.22%, which is about $16 million. The shortfall ranged between a 
+decrease of $208 million and an increase of $116 million, which is 
+about a decrease of 3.54% to an increase of 1.90%. For the Largest 
+Rally from 2008--Historical Beta Sufficiency Scenario,\48\ the daily 
+average Cover 2 Shortfall decreased by around 0.1%, which is about $7 
+million. The shortfall ranged between a decrease of $196 million and an 
+increase of $143 million, which is about a decrease of 1.93% to an 
+increase of 1.41%.
+---------------------------------------------------------------------------
+
+    \48\ OCC notes that backtesting data for this scenario is 
+limited due to its recent deployment and use in production.
+---------------------------------------------------------------------------
+
+    Overall, OCC observed a reduction to the Clearing Fund size of 
+around 0.14% (approximately $14 million) based on the changes in Cover 
+2 shortfalls in Sizing Scenarios. OCC believes that such changes to 
+margin and Cover 1 Sufficiency Scenarios and Cover 2 Sizing Scenarios 
+are commensurate with the risks presented by Clearing Members SDO 
+trading activities.
+Implementation and Timeframe
+    The proposed margin model and CST methodology changes will be 
+integrated into OCC's current production system, and implemented within 
+180 days after the date that OCC receives all necessary regulatory 
+approvals for the proposed changes. OCC will announce the 
+implementation date of the proposed changes by an Information 
+Memorandum posted to its public website at least 2 weeks prior to 
+implementation.
+2. Statutory Basis
+    OCC believes the proposed rule change is consistent with Section 
+17A of the Exchange Act \49\ and Rules 17Ad-22(e)(6) \50\ and (e)(7) 
+\51\ thereunder. Section 17A(b)(3)(F) of the Act \52\ requires, among 
+other things, that the rules of a clearing agency be designed to 
+promote the prompt and accurate clearance and settlement of securities 
+transactions, and in general, to protect investors and the public 
+interest. As described above, OCC could be exposed to increased credit 
+and liquidity risk if the margin and Clearing Fund models do not 
+adequately capture changes to the dynamic behavior of the implied 
+volatility associated with portfolios dominated by SDO positions. As 
+discussed above, OCC believes the proposed enhancements improve the 
+model performance for portfolios with high SDO concentration. The 
+output of these models would be used by OCC to calculate margin and 
+Clearing Fund requirements designed to limit its credit and liquidity 
+exposures to participants and ensure that OCC is able to continue the 
+prompt and accurate clearance and settlement of its cleared products. 
+The collection of margin and Clearing Fund helps to protect investors 
+and the public interest by ensuring OCC has sufficient resources to 
+manage a potential Clearing Member default that may otherwise impose 
+unexpected costs on non-defaulting Clearing Members and, ultimately, 
+their customers. For these reasons, OCC believes the proposed changes 
+are designed to promote the prompt and accurate clearance and 
+settlement of securities transactions, and, thereby, to protect 
+investors and the public interest in accordance with Section 
+17A(b)(3)(F) of the Exchange Act.\53\
+---------------------------------------------------------------------------
+
+    \49\ 15 U.S.C. 78q-1.
+    \50\ 17 CFR 240.17Ad-22(e)(6).
+    \51\ 17 CFR 240.17Ad-22(e)(7).
+    \52\ 15 U.S.C. 78q-1(b)(3)(F).
+    \53\ Id.
+---------------------------------------------------------------------------
+
+    OCC also believes that the proposed changes are consistent with 
+Rule 17Ad-22(e)(6).\54\ In particular, paragraphs (i), (iii), and (v) 
+of Rule 17Ad-22(e)(6) \55\ require a covered clearing agency that 
+provides central counterparty services to establish, implement, 
+maintain and enforce written policies and procedures reasonably 
+designed to cover its credit exposures to its participants by 
+establishing a risk-based margin system
+
+[[Page 97137]]
+
+that (1) considers, and produces margin levels commensurate with, the 
+risks and particular attributes of each relevant product, portfolio, 
+and market; (2) calculates margin sufficient to cover its potential 
+future exposure to participants in the interval between the last margin 
+collection and the close out of positions following a participant 
+default; and (3) uses an appropriate method for measuring credit 
+exposure that accounts for relevant product risk factors and portfolio 
+effects across products. As noted above, OCC's current models in STANS 
+may not adequately capture the implied volatility behaviors associated 
+with SDO in portfolios that may be dominated by SDO positions, which 
+could result in inadequate margin requirements. As described in detail 
+above, OCC believes that aligning the day count convention and 
+extending the term structure in OCC's margin system to take into 
+consideration SDO specific attributes, are appropriate methods to 
+enable OCC to measure SDO credit exposure and produce margin 
+requirements commensurate with the risks presented by SDO trading 
+activities, and as designed enables OCC to calculate margin sufficient 
+to cover SDO exposure from Clearing Member accounts with high 
+concentrations of short-dated options. The proposed changes are 
+designed to enhance model outputs to produce margin requirements that 
+are commensurate with the risks presented by portfolios containing SDO 
+s positions. As a result, OCC believes that the proposed changes are 
+reasonably designed to calculate margin commensurate with risks and 
+particular attributes of SDO and sufficient to cover its potential 
+future exposure to participants in the interval between the last margin 
+collection and the close out of positions following a participant 
+default, and uses an appropriate method to measure credit exposures 
+that accounts for the relevant SDO product risk factors in a manner 
+consistent with Rules 17Ad-22(e)(6)(i), (iii) and (v).\56\
+---------------------------------------------------------------------------
+
+    \54\ 17 CFR 240.17Ad-2(e)(6).
+    \55\ 17 CFR 240.17Ad-2(e)(6)(i), (iii), (v).
+    \56\ Id.
+---------------------------------------------------------------------------
+
+(B) Clearing Agency's Statement on Burden on Competition
+
+    Section 17A(b)(3)(I) requires that the rules of a clearing agency 
+do not impose any burden on competition not necessary or appropriate in 
+furtherance of the purposes of the Act.\57\ The proposed alignment of 
+the calendar convention between price smoothing and model calibration, 
+and the extension of the term structure for implied volatility and 
+volatility shocks, would be used by OCC to manage its credit and 
+liquidity risk across all Clearing Members. Accordingly, OCC does not 
+believe that the proposed rule change would unfairly hinder access to 
+OCC's services.
+---------------------------------------------------------------------------
+
+    \57\ 15 U.S.C. 78q-1(b)(3)(I).
+---------------------------------------------------------------------------
+
+    While the proposed rule change may impact different accounts to a 
+greater or lesser degree depending on the composition of SDO positions 
+in each account, OCC does not believe that the proposed rule change 
+would impose any burden on competition not necessary or appropriate in 
+furtherance of the purposes of the Exchange Act. As discussed above, 
+OCC is obligated under the Exchange Act and the regulations thereunder 
+to establish, implement, maintain and enforce written policies and 
+procedures reasonably designed to cover its credit exposures to its 
+participants by establishing a risk-based margin system that, among 
+other things, considers, and produces margin levels commensurate with 
+the risks and particular attributes of each relevant product, 
+portfolio, and market.\58\ Overall, the impact analysis indicates there 
+are significant improvements in performance and margin coverage for 
+SDOs from the proposed model enhancements.
+---------------------------------------------------------------------------
+
+    \58\ See 17 CFR 240.17Ad-2(e)(6)(i).
+---------------------------------------------------------------------------
+
+    Moreover, while the composition of SDOs within Clearing Member 
+portfolios may drive margin and scenario charges that may be higher or 
+lower than under the current regime, nevertheless OCC believes that 
+margin coverage improvements occur with the adoption of the proposed 
+enhancements. These enhanced model components would utilize a more 
+consistent approach to calendar conventions, while the term structure 
+is also extended to account for SDO tenors, which directly address 
+certain limitations within the current implementation of STANS and CST 
+models. In addition, the proposed model enhancements are expected to 
+produce margin requirements that are more commensurate to the risks 
+generated from holding SDO positions within Clearing Member portfolios, 
+and therefore consistent with OCC's obligations under the Exchange Act 
+and regulations thereunder. Accordingly, OCC believes that the proposed 
+rule change would not impose any burden or impact on competition not 
+necessary or appropriate in furtherance of the purposes of the Exchange 
+Act.
+
+(C) Clearing Agency's Statement on Comments on the Proposed Rule Change 
+Received From Members, Participants or Others
+
+    Written comments were not, and are not, intended to be solicited 
+with respect to the proposed change and none have been received.
+
+III. Date of Effectiveness of the Proposed Rule Change and Timing for 
+Commission Action
+
+    Within 45 days of the date of publication of this notice in the 
+Federal Register or within such longer period up to 90 days (i) as the 
+Commission may designate if it finds such longer period to be 
+appropriate and publishes its reasons for so finding or (ii) as to 
+which the selfregulatory organization consents, the Commission will:
+    (A) by order approve or disapprove such proposed rule change, or
+    (B) institute proceedings to determine whether the proposed rule 
+change should be disapproved.
+    The proposal shall not take effect until all regulatory actions 
+required with respect to the proposal are completed.
+
+IV. Solicitation of Comments
+
+    Interested persons are invited to submit written data, views and 
+arguments concerning the foregoing, including whether the proposed rule 
+change is consistent with the Act. Comments may be submitted by any of 
+the following methods:
+
+Electronic Comments
+
+    <bullet> Use the Commission's internet comment form (<a href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking">https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking</a>); 
+or
+    <bullet> Send an email to <a href="/cdn-cgi/l/email-protection#deacabb2bbf3bdb1b3b3bbb0aaad9eadbbbdf0b9b1a8"><span class="__cf_email__" data-cfemail="a6d4d3cac38bc5c9cbcbc3c8d2d5e6d5c3c588c1c9d0">[email&#160;protected]</span></a>. Please include 
+file number SR-OCC-2024-016 on the subject line.
+
+Paper Comments
+
+    <bullet> Send paper comments in triplicate to Vanessa Countryman, 
+Secretary, Securities and Exchange Commission, 100 F Street NE, 
+Washington, DC 20549-1090.
+
+All submissions should refer to file number SR-OCC-2024-016. This file 
+number should be included on the subject line if email is used. To help 
+the Commission process and review your comments more efficiently, 
+please use only one method. The Commission will post all comments on 
+the Commission's internet website (<a href="https://www.sec.gov/rules/sro.shtml">https://www.sec.gov/rules/sro.shtml</a>). Copies of the submission, all subsequent amendments, all 
+written statements with respect to the proposed rule
+
+[[Page 97138]]
+
+change that are filed with the Commission, and all written 
+communications relating to the proposed rule change between the 
+Commission and any person, other than those that may be withheld from 
+the public in accordance with the provisions of 5 U.S.C. 552, will be 
+available for website viewing and printing in the Commission's Public 
+Reference Room, 100 F Street NE, Washington, DC 20549, on official 
+business days between the hours of 10 a.m. and 3 p.m. Copies of such 
+filing also will be available for inspection and copying at the 
+principal office of OCC and on OCC's website at <a href="https://www.theocc.com/Company-Information/Documents-and-Archives/By-Laws-and-Rules">https://www.theocc.com/Company-Information/Documents-and-Archives/By-Laws-and-Rules</a>.
+    Do not include personal identifiable information in submissions; 
+you should submit only information that you wish to make available 
+publicly. We may redact in part or withhold entirely from publication 
+submitted material that is obscene or subject to copyright protection. 
+All submissions should refer to file number SR-OCC-2024-016 and should 
+be submitted on or before December 27, 2024.
+---------------------------------------------------------------------------
+
+    \59\ 17 CFR 200.30-3(a)(12).
+
+    For the Commission, by the Division of Trading and Markets, 
+pursuant to delegated authority.\59\
+Sherry R. Haywood,
+Assistant Secretary.
+[FR Doc. 2024-28538 Filed 12-5-24; 8:45 am]
+BILLING CODE 8011-01-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>
