@@ -1,0 +1,290 @@
+{
+    "data": [
+        {
+            "id": "CCC_FRDOC_0001-0448",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-12-10T13:49:32Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-29017",
+                "withdrawn": false,
+                "agencyId": "CCC",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "Funds Availability: Marketing Assistance for Specialty Crops",
+                "postedDate": "2024-12-10T05:00:00Z",
+                "docketId": "CCC_FRDOC_0001",
+                "subtype": null,
+                "commentStartDate": "2024-12-10T05:00:00Z",
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "090000648685f201"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CCC_FRDOC_0001-0448"
+            }
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "documentType": [
+                {
+                    "docCount": 1,
+                    "label": "Notice"
+                }
+            ],
+            "subtype": [],
+            "withinCommentPeriod": [
+                {
+                    "docCount": 0,
+                    "label": "true"
+                },
+                {
+                    "docCount": 1,
+                    "label": "false"
+                }
+            ],
+            "agencyId": [
+                {
+                    "docCount": 52,
+                    "value": "MSHA"
+                },
+                {
+                    "docCount": 42,
+                    "value": "FAA"
+                },
+                {
+                    "docCount": 39,
+                    "value": "FDA"
+                },
+                {
+                    "docCount": 20,
+                    "value": "FWS"
+                },
+                {
+                    "docCount": 13,
+                    "value": "EPA"
+                },
+                {
+                    "docCount": 12,
+                    "value": "FERC"
+                },
+                {
+                    "docCount": 7,
+                    "value": "EIB"
+                },
+                {
+                    "docCount": 6,
+                    "value": "ASC"
+                },
+                {
+                    "docCount": 6,
+                    "value": "DOD"
+                },
+                {
+                    "docCount": 6,
+                    "value": "NARA"
+                },
+                {
+                    "docCount": 6,
+                    "value": "PHMSA"
+                },
+                {
+                    "docCount": 4,
+                    "value": "DOS"
+                },
+                {
+                    "docCount": 4,
+                    "value": "ITA"
+                },
+                {
+                    "docCount": 4,
+                    "value": "ITC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "SEC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "CPSC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "DOT"
+                },
+                {
+                    "docCount": 3,
+                    "value": "FRA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "NOAA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "USCG"
+                },
+                {
+                    "docCount": 2,
+                    "value": "AMS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "CRC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "DOL"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FHWA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FRS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "VA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CCC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CFPB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CMS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FMC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FMCSA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FSA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FTC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NHTSA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NLRB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NRC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NSF"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ONRR"
+                },
+                {
+                    "docCount": 1,
+                    "value": "OPM"
+                },
+                {
+                    "docCount": 1,
+                    "value": "OSHA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "PTO"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USAF"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USDA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USN"
+                }
+            ],
+            "commentEndDate": [],
+            "postedDate": [
+                {
+                    "docCount": 1,
+                    "label": "Last 3 Days",
+                    "fromDate": "2024-12-09 00:00:00",
+                    "toDate": "2024-12-11 23:59:59"
+                },
+                {
+                    "docCount": 1,
+                    "label": "Last 7 Days",
+                    "fromDate": "2024-12-05 00:00:00",
+                    "toDate": "2024-12-11 23:59:59"
+                },
+                {
+                    "docCount": 1,
+                    "label": "Last 15 Days",
+                    "fromDate": "2024-11-27 00:00:00",
+                    "toDate": "2024-12-11 23:59:59"
+                },
+                {
+                    "docCount": 1,
+                    "label": "Last 30 Days",
+                    "fromDate": "2024-11-12 00:00:00",
+                    "toDate": "2024-12-11 23:59:59"
+                },
+                {
+                    "docCount": 3,
+                    "label": "Last 90 Days",
+                    "fromDate": "2024-09-13 00:00:00",
+                    "toDate": "2024-12-11 23:59:59"
+                }
+            ]
+        },
+        "filters": {
+            "postedDate": {
+                "fromDate": "2024-12-10",
+                "toDate": "2024-12-10"
+            },
+            "agencyId": [
+                {
+                    "label": "CCC",
+                    "value": "CCC"
+                }
+            ]
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "numberOfElements": 1,
+        "pageNumber": 1,
+        "pageSize": 250,
+        "totalElements": 1,
+        "totalPages": 1,
+        "firstPage": true,
+        "lastPage": true
+    }
+}
