@@ -1,0 +1,265 @@
+{
+    "data": [
+        {
+            "id": "FDIC-2024-0111-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2024-12-11T13:46:18Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-28939",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "allowLateComments": false,
+                "commentEndDate": "2025-03-12T03:59:59Z",
+                "title": "Regulatory Publication and Review under the Economic Growth and Regulatory Paperwork Reduction Act",
+                "postedDate": "2024-12-11T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-12-11T05:00:00Z",
+                "withinCommentPeriod": true,
+                "openForComment": true,
+                "objectId": "0900006486861c2f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2024-0111-0001"
+            }
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "documentType": [
+                {
+                    "docCount": 1,
+                    "label": "Proposed Rule"
+                }
+            ],
+            "subtype": [],
+            "withinCommentPeriod": [
+                {
+                    "docCount": 1,
+                    "label": "true"
+                },
+                {
+                    "docCount": 0,
+                    "label": "false"
+                }
+            ],
+            "agencyId": [
+                {
+                    "docCount": 139,
+                    "value": "EPA"
+                },
+                {
+                    "docCount": 34,
+                    "value": "FAA"
+                },
+                {
+                    "docCount": 32,
+                    "value": "FDA"
+                },
+                {
+                    "docCount": 15,
+                    "value": "SEC"
+                },
+                {
+                    "docCount": 7,
+                    "value": "ITA"
+                },
+                {
+                    "docCount": 6,
+                    "value": "FERC"
+                },
+                {
+                    "docCount": 6,
+                    "value": "HUD"
+                },
+                {
+                    "docCount": 6,
+                    "value": "OSM"
+                },
+                {
+                    "docCount": 5,
+                    "value": "DOT"
+                },
+                {
+                    "docCount": 5,
+                    "value": "FRA"
+                },
+                {
+                    "docCount": 5,
+                    "value": "FWS"
+                },
+                {
+                    "docCount": 3,
+                    "value": "CMS"
+                },
+                {
+                    "docCount": 3,
+                    "value": "FCC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "ITC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "NRC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FEMA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FMC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "IHS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "IRS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "MSHA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NHTSA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "USTR"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BIA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BIS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BOEM"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CEQ"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DOS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FDIC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FRS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "HHS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NARA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NTIA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "OCC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USAGM"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USBC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USCG"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USPS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "VA"
+                }
+            ],
+            "commentEndDate": [
+                {
+                    "docCount": 1,
+                    "label": "Next 90 Days",
+                    "fromDate": "2024-12-12 00:00:00",
+                    "toDate": "2025-03-11 23:59:59"
+                }
+            ],
+            "postedDate": [
+                {
+                    "docCount": 1,
+                    "label": "Last 3 Days",
+                    "fromDate": "2024-12-10 00:00:00",
+                    "toDate": "2024-12-12 23:59:59"
+                },
+                {
+                    "docCount": 2,
+                    "label": "Last 7 Days",
+                    "fromDate": "2024-12-06 00:00:00",
+                    "toDate": "2024-12-12 23:59:59"
+                },
+                {
+                    "docCount": 4,
+                    "label": "Last 15 Days",
+                    "fromDate": "2024-11-28 00:00:00",
+                    "toDate": "2024-12-12 23:59:59"
+                },
+                {
+                    "docCount": 8,
+                    "label": "Last 30 Days",
+                    "fromDate": "2024-11-13 00:00:00",
+                    "toDate": "2024-12-12 23:59:59"
+                },
+                {
+                    "docCount": 35,
+                    "label": "Last 90 Days",
+                    "fromDate": "2024-09-14 00:00:00",
+                    "toDate": "2024-12-12 23:59:59"
+                }
+            ]
+        },
+        "filters": {
+            "postedDate": {
+                "fromDate": "2024-12-11",
+                "toDate": "2024-12-11"
+            },
+            "agencyId": [
+                {
+                    "label": "FDIC",
+                    "value": "FDIC"
+                }
+            ]
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "numberOfElements": 1,
+        "pageNumber": 1,
+        "pageSize": 250,
+        "totalElements": 1,
+        "totalPages": 1,
+        "firstPage": true,
+        "lastPage": true
+    }
+}
