@@ -1,0 +1,297 @@
+{
+    "data": [
+        {
+            "id": "FDIC-2024-0112-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Notice",
+                "lastModifiedDate": "2024-12-12T13:15:54Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-29295",
+                "withdrawn": false,
+                "agencyId": "FDIC",
+                "allowLateComments": false,
+                "commentEndDate": "2025-01-14T04:59:59Z",
+                "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+                "postedDate": "2024-12-12T05:00:00Z",
+                "docketId": null,
+                "subtype": null,
+                "commentStartDate": "2024-12-12T05:00:00Z",
+                "withinCommentPeriod": true,
+                "openForComment": true,
+                "objectId": "0900006486866102"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/FDIC-2024-0112-0001"
+            }
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "documentType": [
+                {
+                    "docCount": 1,
+                    "label": "Notice"
+                }
+            ],
+            "subtype": [],
+            "withinCommentPeriod": [
+                {
+                    "docCount": 1,
+                    "label": "true"
+                },
+                {
+                    "docCount": 0,
+                    "label": "false"
+                }
+            ],
+            "agencyId": [
+                {
+                    "docCount": 60,
+                    "value": "EPA"
+                },
+                {
+                    "docCount": 40,
+                    "value": "USPS"
+                },
+                {
+                    "docCount": 27,
+                    "value": "FDA"
+                },
+                {
+                    "docCount": 25,
+                    "value": "FAA"
+                },
+                {
+                    "docCount": 15,
+                    "value": "FWS"
+                },
+                {
+                    "docCount": 13,
+                    "value": "NHTSA"
+                },
+                {
+                    "docCount": 9,
+                    "value": "SEC"
+                },
+                {
+                    "docCount": 7,
+                    "value": "FERC"
+                },
+                {
+                    "docCount": 6,
+                    "value": "DOL"
+                },
+                {
+                    "docCount": 6,
+                    "value": "DOT"
+                },
+                {
+                    "docCount": 6,
+                    "value": "FCC"
+                },
+                {
+                    "docCount": 6,
+                    "value": "FRA"
+                },
+                {
+                    "docCount": 5,
+                    "value": "ITA"
+                },
+                {
+                    "docCount": 4,
+                    "value": "FTC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "DOJ"
+                },
+                {
+                    "docCount": 3,
+                    "value": "MSHA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "NOAA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "CNCS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "COLC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "DOE"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FMCSA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FRS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "ITC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "USCG"
+                },
+                {
+                    "docCount": 2,
+                    "value": "WCPO"
+                },
+                {
+                    "docCount": 1,
+                    "value": "AID"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ATR"
+                },
+                {
+                    "docCount": 1,
+                    "value": "BOEM"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CMS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DOS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FDIC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FTA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "GSA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "HPAC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "IRS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "MARAD"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NARA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NIGC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NRC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NRCS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NSF"
+                },
+                {
+                    "docCount": 1,
+                    "value": "OFAC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "OSHA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "PBRB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "PRC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "TSA"
+                }
+            ],
+            "commentEndDate": [
+                {
+                    "docCount": 1,
+                    "label": "Next 90 Days",
+                    "fromDate": "2024-12-13 00:00:00",
+                    "toDate": "2025-03-12 23:59:59"
+                }
+            ],
+            "postedDate": [
+                {
+                    "docCount": 2,
+                    "label": "Last 3 Days",
+                    "fromDate": "2024-12-11 00:00:00",
+                    "toDate": "2024-12-13 23:59:59"
+                },
+                {
+                    "docCount": 3,
+                    "label": "Last 7 Days",
+                    "fromDate": "2024-12-07 00:00:00",
+                    "toDate": "2024-12-13 23:59:59"
+                },
+                {
+                    "docCount": 5,
+                    "label": "Last 15 Days",
+                    "fromDate": "2024-11-29 00:00:00",
+                    "toDate": "2024-12-13 23:59:59"
+                },
+                {
+                    "docCount": 9,
+                    "label": "Last 30 Days",
+                    "fromDate": "2024-11-14 00:00:00",
+                    "toDate": "2024-12-13 23:59:59"
+                },
+                {
+                    "docCount": 36,
+                    "label": "Last 90 Days",
+                    "fromDate": "2024-09-15 00:00:00",
+                    "toDate": "2024-12-13 23:59:59"
+                }
+            ]
+        },
+        "filters": {
+            "postedDate": {
+                "fromDate": "2024-12-12",
+                "toDate": "2024-12-12"
+            },
+            "agencyId": [
+                {
+                    "label": "FDIC",
+                    "value": "FDIC"
+                }
+            ]
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "numberOfElements": 1,
+        "pageNumber": 1,
+        "pageSize": 250,
+        "totalElements": 1,
+        "totalPages": 1,
+        "firstPage": true,
+        "lastPage": true
+    }
+}
