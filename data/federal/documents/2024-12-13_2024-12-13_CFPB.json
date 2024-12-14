@@ -1,0 +1,1785 @@
+{
+    "data": [
+        {
+            "id": "CFPB-2024-0044-0039",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:26:10Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Jason Kratovil - SentiLink",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671cd"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0039"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0057",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:27:43Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Philip R. Recht",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671df"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0057"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0005",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:22:14Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Bill Hulse - Chamber of Commerce",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671a9"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0005"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0049",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:27:02Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Tim Banta -  Progressive Management Systems",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671d7"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0049"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0058",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:27:48Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Kristin Lenz Galbreath - Union Grove Family Dental LLC",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671e0"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0058"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0023",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:23:40Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Ian P. Moloney - American Fintech Council",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671bd"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0023"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0017",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:23:12Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Dawn Johnsen - Advanced Family Chiropractic LLC",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671b5"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0017"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0041",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:26:21Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Steve Wright - BuoyFi",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671cf"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0041"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0051",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:27:14Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Melissa Millar - TZEDEK DC -  Legal Help for People in Debt",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671d9"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0051"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0045",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:26:41Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Christina D. Thundathil",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671d3"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0045"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0050",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:27:08Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Rebecca Kuehn - Consumer Data Industry Association",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671d8"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0050"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0016",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:23:08Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Courtney Acton -Acton Family Chiropractic",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671b4"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0016"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0032",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:25:08Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Denise Coppens - Inspirit Therpy Associates",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671c6"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0032"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0034",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:25:31Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Jeff Ehrlich McGuireWoods LLP",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671c8"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0034"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0021",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:23:32Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Caroline Kraczon - Electronic Privacy Information Center",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671bb"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0021"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0029",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:24:11Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Eileen Siterlet",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671c3"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0029"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0008",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:22:28Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Ann Petros NAFCU and CUNA",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671ac"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0008"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0010",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:22:37Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Brian Fritzsche - Consumer Bankers Association",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671ae"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0010"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0013",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:22:52Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Aubrey Byrne - Borealis LIFE, LLC",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671b1"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0013"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0018",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:23:16Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Brigid Ueland -  American Financial Services Association",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671b6"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0018"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0020",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:23:27Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Dee Edie - Pine Bluff Cotton Belt FCU",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671ba"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0020"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0022",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:23:36Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Shawn j. Lindquist - MX Technologies, Inc",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671bc"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0022"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0038",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:26:03Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Diana Hernandez",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671cc"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0038"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2024-12-14T02:01:09Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-28690",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": "2025-03-04T04:59:59Z",
+                "title": "Protecting Americans from Harmful Data Broker Practices (Regulation V)",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": "2024-12-13T05:00:00Z",
+                "withinCommentPeriod": true,
+                "openForComment": true,
+                "objectId": "090000648686c250"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0001"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0035",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:25:43Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Silva Karapetian - South East Eye WI",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671c9"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0035"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0003",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:22:05Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from ACA - ABA - AFSA - CBA - CDIA - CUNA - ETA - ICBA - ILPA - MBA - NAFCU - OLA - PBSA and USCC",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671a7"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0003"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0028",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:24:06Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Jennifer M. Bontreger - Southern Horizon Healthcare",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671c2"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0028"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0055",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:27:33Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Steven Boms - FDATA North America and the Financial Technology Association",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671dd"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0055"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0027",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:24:00Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Cathey B. Wise -  EDPMA and HBMA",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671c1"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0027"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0033",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:25:25Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Laura Rivera - Just Futures Law",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671c7"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0033"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0056",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:27:39Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Mona Shah - Community Catalyst",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671de"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0056"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0009",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:22:32Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Alexis Keeling - John Ed Chambers Memorial Hospital",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671ad"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0009"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0011",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:22:43Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Angelena Bradfield - Financial Technology Association",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671af"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0011"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0012",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:22:48Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Carl Holshouser - TechNet",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671b0"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0012"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0042",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:26:27Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Emily Fritsch - Dental Park SC",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671d0"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0042"
+            }
+        },
+        {
+            "id": "CFPB-2024-0037-0022",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Other",
+                "lastModifiedDate": "2024-12-13T14:52:24Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "Response to NCLC Petition",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0037",
+                "subtype": "Agency Response",
+                "commentStartDate": "2024-12-13T05:00:00Z",
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "090000648686c89e"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0037-0022"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0025",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:23:50Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Michael Day - Online Lenders Alliance",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671bf"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0025"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0030",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:24:19Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Dawn Royal - United Council on Welfare Fraud",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671c4"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0030"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0037",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:25:57Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Maryrose Diaz - Grant Mercantile Agency",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671cb"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0037"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0040",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:26:16Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Stephanie Gunselman - Equifax",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671ce"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0040"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0048",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:26:57Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Julia Char Gilbert - Colorado Center on Law and Policy",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671d6"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0048"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0019",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:23:20Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Jamie Tucker - Professional Background Screening Association",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671b9"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0019"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0024",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:23:45Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Chi Chi Wu - National Consumer Law Center",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671be"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0024"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0036",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:25:49Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Federal Law Enforcement Officers Association (FLEOA)",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671ca"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0036"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0043",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:26:31Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Mark Detrick - Capio",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671d1"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0043"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0047",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:26:51Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Sara VanderLeest Oconto Falls Dental",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671d5"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0047"
+            }
+        },
+        {
+            "id": "CFPB-2024-0057-0001",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Proposed Rule",
+                "lastModifiedDate": "2024-12-13T14:00:49Z",
+                "highlightedContent": "",
+                "frDocNum": "2024-29292",
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": "2025-03-08T04:59:59Z",
+                "title": "Fair Credit Reporting Act (Regulation V): Identity Theft and Coerced Debt",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0057",
+                "subtype": null,
+                "commentStartDate": "2024-12-13T05:00:00Z",
+                "withinCommentPeriod": true,
+                "openForComment": true,
+                "objectId": "090000648686c33d"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0057-0001"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0007",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:22:23Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from  Brooklyn Huyser - Acton Family Chiropractic",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671ab"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0007"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0026",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:23:55Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Jeff Patchen - Electronic Transactions Association",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671c0"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0026"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0053",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:27:23Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Katie Wechsler - Consumer First Coalition",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671db"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0053"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0002",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:22:00Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "cfpb_sbrefa-final-report_consumer-reporting-rulemaking.01082024.final",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "090000648686718f"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0002"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0006",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:22:18Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Anton van Seventer - Software and Information Industry Association",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671aa"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0006"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0015",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:23:02Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Clark Flynt-Barr - AARP",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671b3"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0015"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0046",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:26:46Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Rob L. Hartwell - Privacy for America",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671d4"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0046"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0044",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:26:36Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Robert Bouche - Glander INC",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671d2"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0044"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0004",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:22:10Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Ariel Levin - American Hospital Association",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671a8"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0004"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0031",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:25:02Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Jen Simons - Bullard Children's Dentistry",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671c5"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0031"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0014",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:22:58Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Ameri collect and Helms Dematology",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671b2"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0014"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0054",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:27:27Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Dempsey and Nigrinis - ACA",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671dc"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0054"
+            }
+        },
+        {
+            "id": "CFPB-2024-0044-0052",
+            "type": "documents",
+            "attributes": {
+                "documentType": "Supporting & Related Material",
+                "lastModifiedDate": "2024-12-13T14:27:18Z",
+                "highlightedContent": "",
+                "frDocNum": null,
+                "withdrawn": false,
+                "agencyId": "CFPB",
+                "allowLateComments": false,
+                "commentEndDate": null,
+                "title": "SBREFA Outline Feedback from Kati Harkreader Alaska Hand Rehabilitation, Inc",
+                "postedDate": "2024-12-13T05:00:00Z",
+                "docketId": "CFPB-2024-0044",
+                "subtype": null,
+                "commentStartDate": null,
+                "withinCommentPeriod": false,
+                "openForComment": false,
+                "objectId": "09000064868671da"
+            },
+            "links": {
+                "self": "https://api.regulations.gov/v4/documents/CFPB-2024-0044-0052"
+            }
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "documentType": [
+                {
+                    "docCount": 57,
+                    "label": "Supporting & Related Material"
+                },
+                {
+                    "docCount": 2,
+                    "label": "Proposed Rule"
+                },
+                {
+                    "docCount": 1,
+                    "label": "Other"
+                }
+            ],
+            "subtype": [
+                {
+                    "docCount": 1,
+                    "label": "Agency Response"
+                }
+            ],
+            "withinCommentPeriod": [
+                {
+                    "docCount": 2,
+                    "label": "true"
+                },
+                {
+                    "docCount": 58,
+                    "label": "false"
+                }
+            ],
+            "agencyId": [
+                {
+                    "docCount": 213,
+                    "value": "EPA"
+                },
+                {
+                    "docCount": 60,
+                    "value": "CFPB"
+                },
+                {
+                    "docCount": 44,
+                    "value": "FAA"
+                },
+                {
+                    "docCount": 19,
+                    "value": "FWS"
+                },
+                {
+                    "docCount": 18,
+                    "value": "FDA"
+                },
+                {
+                    "docCount": 14,
+                    "value": "ITA"
+                },
+                {
+                    "docCount": 13,
+                    "value": "NRC"
+                },
+                {
+                    "docCount": 12,
+                    "value": "SEC"
+                },
+                {
+                    "docCount": 11,
+                    "value": "USCG"
+                },
+                {
+                    "docCount": 8,
+                    "value": "FCC"
+                },
+                {
+                    "docCount": 7,
+                    "value": "FEMA"
+                },
+                {
+                    "docCount": 5,
+                    "value": "FERC"
+                },
+                {
+                    "docCount": 4,
+                    "value": "FMCSA"
+                },
+                {
+                    "docCount": 4,
+                    "value": "ITC"
+                },
+                {
+                    "docCount": 3,
+                    "value": "CMS"
+                },
+                {
+                    "docCount": 3,
+                    "value": "CPPBSD"
+                },
+                {
+                    "docCount": 3,
+                    "value": "DOT"
+                },
+                {
+                    "docCount": 3,
+                    "value": "HUD"
+                },
+                {
+                    "docCount": 3,
+                    "value": "NOAA"
+                },
+                {
+                    "docCount": 3,
+                    "value": "OMB"
+                },
+                {
+                    "docCount": 3,
+                    "value": "VA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "BOEM"
+                },
+                {
+                    "docCount": 2,
+                    "value": "DEA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "DOE"
+                },
+                {
+                    "docCount": 2,
+                    "value": "DOS"
+                },
+                {
+                    "docCount": 2,
+                    "value": "FDIC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "NCUA"
+                },
+                {
+                    "docCount": 2,
+                    "value": "OFAC"
+                },
+                {
+                    "docCount": 2,
+                    "value": "STB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "ACF"
+                },
+                {
+                    "docCount": 1,
+                    "value": "CPSC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "DOL"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FHWA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FRS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "FRTIB"
+                },
+                {
+                    "docCount": 1,
+                    "value": "HHS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "MARAD"
+                },
+                {
+                    "docCount": 1,
+                    "value": "NHTSA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "OPM"
+                },
+                {
+                    "docCount": 1,
+                    "value": "OSHA"
+                },
+                {
+                    "docCount": 1,
+                    "value": "RBS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USCIS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USJC"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USN"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USPS"
+                },
+                {
+                    "docCount": 1,
+                    "value": "USTR"
+                }
+            ],
+            "commentEndDate": [
+                {
+                    "docCount": 2,
+                    "label": "Next 90 Days",
+                    "fromDate": "2024-12-14 00:00:00",
+                    "toDate": "2025-03-13 23:59:59"
+                }
+            ],
+            "postedDate": [
+                {
+                    "docCount": 61,
+                    "label": "Last 3 Days",
+                    "fromDate": "2024-12-12 00:00:00",
+                    "toDate": "2024-12-14 23:59:59"
+                },
+                {
+                    "docCount": 62,
+                    "label": "Last 7 Days",
+                    "fromDate": "2024-12-08 00:00:00",
+                    "toDate": "2024-12-14 23:59:59"
+                },
+                {
+                    "docCount": 64,
+                    "label": "Last 15 Days",
+                    "fromDate": "2024-11-30 00:00:00",
+                    "toDate": "2024-12-14 23:59:59"
+                },
+                {
+                    "docCount": 68,
+                    "label": "Last 30 Days",
+                    "fromDate": "2024-11-15 00:00:00",
+                    "toDate": "2024-12-14 23:59:59"
+                },
+                {
+                    "docCount": 87,
+                    "label": "Last 90 Days",
+                    "fromDate": "2024-09-16 00:00:00",
+                    "toDate": "2024-12-14 23:59:59"
+                }
+            ]
+        },
+        "filters": {
+            "postedDate": {
+                "fromDate": "2024-12-13",
+                "toDate": "2024-12-13"
+            },
+            "agencyId": [
+                {
+                    "label": "CFPB",
+                    "value": "CFPB"
+                }
+            ]
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "numberOfElements": 60,
+        "pageNumber": 1,
+        "pageSize": 250,
+        "totalElements": 60,
+        "totalPages": 1,
+        "firstPage": true,
+        "lastPage": true
+    }
+}
